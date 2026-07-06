@@ -114,7 +114,10 @@ class VoiceEngine {
         const sprites = this.spriteData[charName] || {};
         
         text = this.convertNumbersToHangul(text);
-        let delayMs = 0, spaceMs = 80; 
+        
+        // 자연스러운 템포를 위해 덧붙이는 여백 세팅
+        let delayMs = 0; // 타이트하게 잘려나간 여백을 보정 (10ms 추가)
+        let spaceMs = 80; 
         
         let relativeTime = 0.05;
         let timings = [];
@@ -136,20 +139,38 @@ class VoiceEngine {
             }
 
             if (spriteArray && spriteArray.length > 0 && buffer) {
-                // 배열 안의 여러 음성(파일) 중 하나를 무작위로 선택하여 재생의 자연스러움 확보
                 const variant = spriteArray[Math.floor(Math.random() * spriteArray.length)];
 
-                // JSON의 밀리초(ms) 데이터를 Web Audio API 규격인 초(s) 단위로 변환
                 const startTime = variant.start_ms / 1000;
-                const duration = variant.duration_ms / 1000;
+                let duration = variant.duration_ms / 1000;
+                
+                // 너무 짧은 파편화 오류를 막기 위한 최소 길이 보장
+                if (duration < 0.05) duration = 0.05; 
 
                 const src = this.ctx.createBufferSource();
                 src.buffer = buffer; 
-                src.connect(this.masterGain);
                 
-                // 마스터믹스에서 계산된 위치만큼만 잘라서 재생 스케줄링
-                src.start(this.ctx.currentTime + relativeTime, startTime, duration);
+                // 🔥 핵심 해결책: 팝핑(Clicking) 노이즈를 막기 위한 개별 볼륨 제어 노드 생성
+                const fadeNode = this.ctx.createGain();
+                fadeNode.connect(this.masterGain);
+                src.connect(fadeNode);
                 
+                const playTime = this.ctx.currentTime + relativeTime;
+                
+                // 소리 앞뒤로 10ms(0.01초) 동안 볼륨을 부드럽게 올리고 내림 (Envelope)
+                const fadeTime = 0.01; 
+                fadeNode.gain.setValueAtTime(0, playTime); // 시작 볼륨 0
+                fadeNode.gain.linearRampToValueAtTime(1, playTime + fadeTime); // 10ms 동안 볼륨 100%로 상승
+                
+                // 끝나는 시점 10ms 전부터 볼륨을 다시 0으로 깎아 파열음 제거
+                const fadeOutStart = Math.max(playTime + fadeTime, playTime + duration - fadeTime);
+                fadeNode.gain.setValueAtTime(1, fadeOutStart);
+                fadeNode.gain.linearRampToValueAtTime(0, playTime + duration);
+                
+                // 실제 스케줄링
+                src.start(playTime, startTime, duration);
+                
+                // 재생 길이 + 약간의 인위적 정적(30ms)을 추가하여 다음 음절 타이밍 세팅
                 relativeTime += duration + (delayMs / 1000);
             } else {
                 relativeTime += spaceMs / 1000;
