@@ -432,7 +432,7 @@ async function playSpeech(role, charName, text, emotionsObj) {
             if (i < text.length) requestAnimationFrame(typeCheck);
             else {
                 img.classList.remove("talking");
-                setTimeout(() => { res(); }, 500); 
+                setTimeout(() => { res(); }, 3000); 
             }
         }
         requestAnimationFrame(typeCheck);
@@ -450,7 +450,8 @@ function playObj(role, txt = "이의 있음!") {
         ui.obj.text.style.fontSize = "min(15vw, 150px)";
         ui.obj.text.style.fontWeight = "900";
         ui.obj.text.style.whiteSpace = "nowrap";
-        ui.obj.text.style.textShadow = "4px 4px 10px rgba(0,0,0,0.7)";
+        ui.obj.text.style.textShadow = "none";
+        ui.obj.text.style.webkitTextStroke = "4px #FFFFFF";
         
         ui.obj.popup.style.display = "block"; 
         ui.obj.flash.style.opacity = 1;
@@ -486,35 +487,33 @@ function playVerdictText(txt) {
         ui.obj.text.style.fontSize = "min(20vw, 200px)";
         ui.obj.text.style.fontWeight = "900";
         ui.obj.text.style.whiteSpace = "nowrap";
+        ui.obj.text.style.textShadow = "none";
+        ui.obj.text.style.webkitTextStroke = "6px #FFFFFF";
         
         let keyframes = [];
         let animDur = 250;
         
         if (txt === "유죄") {
             ui.obj.text.style.color = "#5064FF"; 
-            ui.obj.text.style.textShadow = "0 0 30px rgba(80,100,255,0.8), 5px 5px 15px rgba(0,0,0,0.8)";
             keyframes = [
                 { transform: 'scale(5)', opacity: 0 },
                 { transform: 'scale(1)', opacity: 1 }
             ];
         } else if (txt === "무죄") {
             ui.obj.text.style.color = "#E74C3C"; 
-            ui.obj.text.style.textShadow = "0 0 30px rgba(231,76,60,0.8), 5px 5px 15px rgba(0,0,0,0.8)";
             keyframes = [
                 { transform: 'scale(5)', opacity: 0 },
                 { transform: 'scale(1)', opacity: 1 }
             ];
         } else if (txt === "판결") {
             ui.obj.text.style.color = "#FFD700"; 
-            ui.obj.text.style.textShadow = "0 0 40px rgba(255,215,0,1), 5px 5px 15px rgba(0,0,0,0.8)";
             keyframes = [
                 { transform: 'scale(3) translateY(-100px)', opacity: 0 },
                 { transform: 'scale(1) translateY(0)', opacity: 1 }
             ];
             animDur = 400;
         } else {
-            ui.obj.text.style.color = "#FFFFFF"; 
-            ui.obj.text.style.textShadow = "5px 5px 15px rgba(0,0,0,0.8)";
+            ui.obj.text.style.color = "#000000"; 
             keyframes = [
                 { transform: 'scale(2)', opacity: 0 },
                 { transform: 'scale(1)', opacity: 1 }
@@ -663,7 +662,7 @@ async function runTrial() {
     
     await playSpeech("판사", r.judge, judgeLines.intro, { judge: "Idle" });
     await playGavel(3); 
-    await playVerdictText("판결");
+    await playVerdictText(caseType === "유무죄" ? "유죄" : "판결");
     
     playBGM('Verdict'); 
     await playSpeech("판사", r.judge, vRes.text, vRes.emotions);
@@ -677,12 +676,13 @@ async function runTrial() {
         const role = getRole(defName, caseType === "유무죄" ? "피고인" : "당사자");
         await playSpeech(role, defName, defRes.text, defRes.emotions);
         trialHistory.push(`${role}(${defName}): ${defRes.text}`);
-        if (role !== "검사" && role !== "변호사") hideWitness();
     }
 
     if (Math.random() < revProb) {
         stopBGM(); 
 
+        ui.sub.name.innerText = "시스템"; 
+        ui.sub.text.innerHTML = "<span style='color: #E74C3C; font-weight: bold;'>잠깐!</span>";
         await playObj("변호사", "잠깐!!");
         
         playBGM('Pursuit'); 
@@ -720,7 +720,7 @@ async function runTrial() {
 
         if (revJudge.is_reversed !== false) {
             await playSpeech("판사", r.judge, judgeLines.success, { judge: "Panic" });
-            await playVerdictText("판결"); 
+            await playVerdictText(caseType === "유무죄" ? "무죄" : "판결"); 
             playBGM('Verdict'); 
             await playSpeech("판사", r.judge, revJudge.text, revJudge.emotions);
 
@@ -733,11 +733,10 @@ async function runTrial() {
                 const role = getRole(defName, "당사자");
                 await playSpeech(role, defName, defRes.text, defRes.emotions);
                 trialHistory.push(`${role}(${defName}): ${defRes.text}`);
-                if (role !== "검사" && role !== "변호사") hideWitness();
             }
         } else {
             await playSpeech("판사", r.judge, judgeLines.fail, { judge: "Angry" });
-            await playVerdictText("판결"); 
+            await playVerdictText(caseType === "유무죄" ? "유죄" : "판결"); 
             playBGM('Verdict'); 
             await playSpeech("판사", r.judge, revJudge.text, revJudge.emotions);
 
@@ -750,7 +749,6 @@ async function runTrial() {
                 const role = getRole(defName, "당사자");
                 await playSpeech(role, defName, defRes.text, defRes.emotions);
                 trialHistory.push(`${role}(${defName}): ${defRes.text}`);
-                if (role !== "검사" && role !== "변호사") hideWitness();
             }
         }
     }
