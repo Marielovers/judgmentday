@@ -1,0 +1,3028 @@
+{
+    "가": [
+        {
+            "file_name": "_selective_wisemaid_EP03_031_Crepe_가_Asharp4_std24.7_-15.7dB_500ms_626ms_M30ms.ogg",
+            "start_ms": 0,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_017_Crepe_가_G4_std7.5_-15.2dB_3840ms_3966ms_M30ms.ogg",
+            "start_ms": 128,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Crepe_Touch1_1_Skin1_가_Dsharp5_std12.9_-9.5dB_1760ms_1886ms_M30ms.ogg",
+            "start_ms": 256,
+            "duration_ms": 128
+        }
+    ],
+    "각": [
+        {
+            "file_name": "_selective_wisemaid_EP02_079_Crepe_각_E5_std8.8_-16.3dB_2300ms_2480ms_M30ms.ogg",
+            "start_ms": 384,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_003_Crepe_각_C5_std47.2_-15.7dB_1090ms_1280ms_M30ms.ogg",
+            "start_ms": 561,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_035_Crepe_각_Csharp5_std21.7_-15.5dB_5239ms_5410ms_M30ms.ogg",
+            "start_ms": 753,
+            "duration_ms": 173
+        }
+    ],
+    "감": [
+        {
+            "file_name": "Voice_Crepe_Touch2_감_G4_std121.6_-15.8dB_4840ms_5180ms_M30ms.ogg",
+            "start_ms": 926,
+            "duration_ms": 341
+        }
+    ],
+    "갑": [
+        {
+            "file_name": "_selective_wisemaid_EP07_069_Crepe_갑_Gsharp4_std80.2_-20.2dB_1480ms_1680ms_M30ms.ogg",
+            "start_ms": 1267,
+            "duration_ms": 220
+        }
+    ],
+    "갓": [
+        {
+            "file_name": "_selective_wisemaid_EP06_010_Crepe_갓_G4_std14.0_-19.8dB_1060ms_1220ms_M30ms.ogg",
+            "start_ms": 1487,
+            "duration_ms": 157
+        }
+    ],
+    "갔": [
+        {
+            "file_name": "_selective_wisemaid_EP04_014_Crepe_갔_Asharp4_std8.0_-21.6dB_1200ms_1380ms_M30ms.ogg",
+            "start_ms": 1644,
+            "duration_ms": 177
+        }
+    ],
+    "같": [
+        {
+            "file_name": "_selective_wisemaid_EP04_008_Crepe_같_Csharp4_std14.6_-27.0dB_5979ms_6230ms_M30ms.ogg",
+            "start_ms": 1821,
+            "duration_ms": 253
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_013_Crepe_같_D4_std27.4_-22.6dB_440ms_670ms_M30ms.ogg",
+            "start_ms": 2074,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_100_Crepe_같_B3_std40.3_-23.6dB_740ms_990ms_M30ms.ogg",
+            "start_ms": 2306,
+            "duration_ms": 251
+        }
+    ],
+    "거": [
+        {
+            "file_name": "_selective_wisemaid_EP05_012_Crepe_거_B4_std22.3_-11.4dB_2130ms_2264ms_M30ms.ogg",
+            "start_ms": 2557,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_017_Crepe_거_A4_std11.2_-14.3dB_4260ms_4404ms_M30ms.ogg",
+            "start_ms": 2693,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Crepe_DutchRubEnd2_Skin2_거_B4_std25.7_-15.1dB_2100ms_2208ms_M30ms.ogg",
+            "start_ms": 2834,
+            "duration_ms": 109
+        }
+    ],
+    "건": [
+        {
+            "file_name": "_selective_wisemaid_EP04_009_Crepe_건_Dsharp4_std51.4_-23.2dB_2380ms_2700ms_M30ms.ogg",
+            "start_ms": 2943,
+            "duration_ms": 317
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_건_Gsharp4_std13.5_-26.2dB_6899ms_7160ms_M30ms.ogg",
+            "start_ms": 3260,
+            "duration_ms": 258
+        }
+    ],
+    "걸": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_039_Crepe_걸_G4_std21.4_-15.9dB_2360ms_2600ms_M30ms.ogg",
+            "start_ms": 3518,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP04_080_Crepe_걸_C5_std41.2_-17.3dB_3380ms_3605ms_M30ms.ogg",
+            "start_ms": 3755,
+            "duration_ms": 222
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_008_Crepe_걸_C5_std14.2_-17.7dB_2020ms_2260ms_M30ms.ogg",
+            "start_ms": 3977,
+            "duration_ms": 237
+        }
+    ],
+    "것": [
+        {
+            "file_name": "_selective_wisemaid_EP02_073_Crepe_것_C5_std16.6_-20.8dB_2320ms_2540ms_M30ms.ogg",
+            "start_ms": 4214,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_073_Crepe_것_Dsharp5_std8.0_-14.9dB_1200ms_1380ms_M30ms.ogg",
+            "start_ms": 4431,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_081_Crepe_것_Csharp5_std12.1_-19.4dB_5700ms_5899ms_M30ms.ogg",
+            "start_ms": 4608,
+            "duration_ms": 200
+        }
+    ],
+    "게": [
+        {
+            "file_name": "_selective_wisemaid_EP01_083_Crepe_게_C5_std10.8_-16.9dB_520ms_664ms_M30ms.ogg",
+            "start_ms": 4808,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_045_Crepe_게_F5_std30.3_-13.8dB_2780ms_2924ms_M30ms.ogg",
+            "start_ms": 4949,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_093_Crepe_게_Fsharp4_std43.4_-17.9dB_1940ms_2084ms_M30ms.ogg",
+            "start_ms": 5090,
+            "duration_ms": 164
+        }
+    ],
+    "겠": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_162_Crepe_겠_Csharp5_std12.6_-17.2dB_500ms_720ms_M30ms.ogg",
+            "start_ms": 5254,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_047_Crepe_겠_E5_std26.1_-19.8dB_6100ms_6360ms_M30ms.ogg",
+            "start_ms": 5475,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_058_Crepe_겠_B4_std15.9_-22.8dB_3780ms_4059ms_M30ms.ogg",
+            "start_ms": 5732,
+            "duration_ms": 280
+        }
+    ],
+    "겨": [
+        {
+            "file_name": "_selective_wisemaid_EP07_050_Crepe_겨_D5_std21.2_-13.9dB_1910ms_2063ms_M30ms.ogg",
+            "start_ms": 6012,
+            "duration_ms": 155
+        }
+    ],
+    "격": [
+        {
+            "file_name": "_selective_wisemaid_EP03_027_Crepe_격_Asharp4_std16.7_-17.4dB_2720ms_2920ms_M30ms.ogg",
+            "start_ms": 6167,
+            "duration_ms": 220
+        }
+    ],
+    "겼": [
+        {
+            "file_name": "_selective_wisemaid_EP03_003_Crepe_겼_C5_std68.4_-19.5dB_2500ms_2780ms_M30ms.ogg",
+            "start_ms": 6387,
+            "duration_ms": 277
+        }
+    ],
+    "경": [
+        {
+            "file_name": "_selective_wisemaid_EP04_058_Crepe_경_G4_std42.1_-18.3dB_820ms_1020ms_M30ms.ogg",
+            "start_ms": 6664,
+            "duration_ms": 197
+        }
+    ],
+    "계": [
+        {
+            "file_name": "_selective_wisemaid_EP05_035_Crepe_계_Csharp5_std15.4_-20.7dB_5880ms_6077ms_M30ms.ogg",
+            "start_ms": 6861,
+            "duration_ms": 197
+        }
+    ],
+    "고": [
+        {
+            "file_name": "_selective_wisemaid_EP04_054_Crepe_고_Dsharp4_std4.1_-23.8dB_2800ms_2926ms_M30ms.ogg",
+            "start_ms": 7058,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_062_Crepe_고_Asharp4_std14.1_-15.3dB_3160ms_3286ms_M30ms.ogg",
+            "start_ms": 7181,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_고_Asharp4_std14.7_-19.1dB_5440ms_5566ms_M30ms.ogg",
+            "start_ms": 7309,
+            "duration_ms": 123
+        }
+    ],
+    "곡": [
+        {
+            "file_name": "_selective_viciousrecipe_EP03_058_Crepe_곡_Csharp5_std27.9_-17.6dB_1840ms_2040ms_M30ms.ogg",
+            "start_ms": 7432,
+            "duration_ms": 197
+        }
+    ],
+    "곳": [
+        {
+            "file_name": "_selective_wisemaid_EP02_077_Crepe_곳_Csharp5_std12.0_-17.1dB_2120ms_2340ms_M30ms.ogg",
+            "start_ms": 7629,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_100_Crepe_곳_C5_std5.6_-18.0dB_4659ms_4850ms_M30ms.ogg",
+            "start_ms": 7850,
+            "duration_ms": 192
+        }
+    ],
+    "공": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_039_Crepe_공_Fsharp4_std48.4_-22.7dB_319ms_480ms_M30ms.ogg",
+            "start_ms": 8042,
+            "duration_ms": 158
+        }
+    ],
+    "과": [
+        {
+            "file_name": "_selective_wisemaid_EP04_072_Crepe_과_Fsharp4_std106.7_-19.2dB_2520ms_2718ms_M30ms.ogg",
+            "start_ms": 8200,
+            "duration_ms": 200
+        }
+    ],
+    "교": [
+        {
+            "file_name": "_selective_wisemaid_EP01_062_Crepe_교_F4_std29.1_-19.3dB_1640ms_1820ms_M30ms.ogg",
+            "start_ms": 8400,
+            "duration_ms": 181
+        }
+    ],
+    "구": [
+        {
+            "file_name": "_selective_wisemaid_EP04_022_Crepe_구_Csharp5_std19.3_-17.5dB_1510ms_1681ms_M30ms.ogg",
+            "start_ms": 8581,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_058_Crepe_구_E5_std13.4_-12.4dB_5950ms_6121ms_M30ms.ogg",
+            "start_ms": 8754,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "Voice_Crepe_Spawn2_Skin1_구_A4_std15.7_-18.1dB_580ms_724ms_M30ms.ogg",
+            "start_ms": 8927,
+            "duration_ms": 141
+        }
+    ],
+    "국": [
+        {
+            "file_name": "_selective_wisemaid_EP04_060_Crepe_국_D5_std31.4_-16.2dB_2520ms_2690ms_M30ms.ogg",
+            "start_ms": 9068,
+            "duration_ms": 171
+        }
+    ],
+    "그": [
+        {
+            "file_name": "_selective_wisemaid_EP04_014_Crepe_그_C4_std22.5_-21.6dB_60ms_204ms_M30ms.ogg",
+            "start_ms": 9239,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_060_Crepe_그_B3_std11.6_-24.9dB_80ms_224ms_M30ms.ogg",
+            "start_ms": 9380,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_057_Crepe_그_G4_std38.4_-19.2dB_120ms_264ms_M30ms.ogg",
+            "start_ms": 9521,
+            "duration_ms": 141
+        }
+    ],
+    "금": [
+        {
+            "file_name": "_selective_wisemaid_EP04_001_Crepe_금_Gsharp4_std23.7_-17.2dB_240ms_420ms_M30ms.ogg",
+            "start_ms": 9662,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_053_Crepe_금_G4_std35.6_-18.4dB_980ms_1119ms_M30ms.ogg",
+            "start_ms": 9839,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_068_Crepe_금_D5_std30.4_-14.7dB_1720ms_1880ms_M30ms.ogg",
+            "start_ms": 9975,
+            "duration_ms": 157
+        }
+    ],
+    "기": [
+        {
+            "file_name": "_selective_wisemaid_EP02_079_Crepe_기_D5_std7.1_-21.2dB_2140ms_2284ms_M30ms.ogg",
+            "start_ms": 10132,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_009_Crepe_기_C5_std25.7_-20.9dB_1460ms_1604ms_M30ms.ogg",
+            "start_ms": 10273,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_054_Crepe_기_D5_std10.2_-20.6dB_5079ms_5224ms_M30ms.ogg",
+            "start_ms": 10414,
+            "duration_ms": 142
+        }
+    ],
+    "긴": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_068_Crepe_긴_E5_std25.0_-16.9dB_2760ms_2920ms_M30ms.ogg",
+            "start_ms": 10556,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_wisemaid_EP02_084_Crepe_긴_C5_std15.0_-23.1dB_4239ms_4420ms_M30ms.ogg",
+            "start_ms": 10713,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_004_Crepe_긴_Asharp3_std15.0_-22.9dB_3720ms_3920ms_M30ms.ogg",
+            "start_ms": 10894,
+            "duration_ms": 220
+        }
+    ],
+    "길": [
+        {
+            "file_name": "_selective_wisemaid_EP04_081_Crepe_길_D5_std16.2_-18.7dB_4999ms_5160ms_M30ms.ogg",
+            "start_ms": 11114,
+            "duration_ms": 158
+        }
+    ],
+    "까": [
+        {
+            "file_name": "_selective_wisemaid_EP03_089_Crepe_까_D5_std4.6_-12.3dB_4329ms_4465ms_M30ms.ogg",
+            "start_ms": 11272,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_035_Crepe_까_Asharp4_std33.0_-20.7dB_8720ms_8882ms_M30ms.ogg",
+            "start_ms": 11405,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_083_Crepe_까_Dsharp5_std9.4_-14.1dB_5700ms_5844ms_M30ms.ogg",
+            "start_ms": 11568,
+            "duration_ms": 141
+        }
+    ],
+    "깔": [
+        {
+            "file_name": "_selective_wisemaid_EP07_047_Crepe_깔_Csharp5_std17.5_-16.9dB_2180ms_2380ms_M30ms.ogg",
+            "start_ms": 11709,
+            "duration_ms": 197
+        }
+    ],
+    "께": [
+        {
+            "file_name": "_selective_wisemaid_EP02_068_Crepe_께_Asharp4_std5.4_-22.5dB_700ms_862ms_M30ms.ogg",
+            "start_ms": 11906,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_052_Crepe_께_C5_std2.2_-22.5dB_2480ms_2624ms_M30ms.ogg",
+            "start_ms": 12069,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_007_Crepe_께_C5_std4.3_-22.0dB_4430ms_4592ms_M30ms.ogg",
+            "start_ms": 12210,
+            "duration_ms": 163
+        }
+    ],
+    "끔": [
+        {
+            "file_name": "_selective_wisemaid_EP07_047_Crepe_끔_E5_std35.4_-17.0dB_2380ms_2520ms_M30ms.ogg",
+            "start_ms": 12373,
+            "duration_ms": 141
+        }
+    ],
+    "끗": [
+        {
+            "file_name": "_selective_wisemaid_EP05_008_Crepe_끗_Dsharp5_std6.7_-17.3dB_1670ms_1840ms_M30ms.ogg",
+            "start_ms": 12514,
+            "duration_ms": 167
+        }
+    ],
+    "끝": [
+        {
+            "file_name": "_selective_wisemaid_EP05_070_Crepe_끝_Asharp4_std8.5_-22.9dB_650ms_970ms_M30ms.ogg",
+            "start_ms": 12681,
+            "duration_ms": 317
+        }
+    ],
+    "낌": [
+        {
+            "file_name": "Voice_Crepe_Defeat1_Skin1_낌_C5_std22.2_-20.3dB_2480ms_2750ms_M30ms.ogg",
+            "start_ms": 12998,
+            "duration_ms": 272
+        }
+    ],
+    "나": [
+        {
+            "file_name": "_selective_wisemaid_EP03_045_Crepe_나_Dsharp5_std12.4_-16.3dB_2940ms_3120ms_M30ms.ogg",
+            "start_ms": 13270,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_008_Crepe_나_Dsharp5_std15.4_-14.6dB_3220ms_3400ms_M30ms.ogg",
+            "start_ms": 13451,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_063_Crepe_나_D5_std4.4_-16.8dB_5460ms_5640ms_M30ms.ogg",
+            "start_ms": 13632,
+            "duration_ms": 181
+        }
+    ],
+    "날": [
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_날_B4_std13.4_-18.8dB_6499ms_6689ms_M30ms.ogg",
+            "start_ms": 13813,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Crepe_Defeat1_Skin1_날_Dsharp5_std10.8_-12.1dB_1740ms_1940ms_M30ms.ogg",
+            "start_ms": 14005,
+            "duration_ms": 197
+        }
+    ],
+    "네": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_038_Crepe_네_Asharp4_std29.4_-18.7dB_4180ms_4432ms_M30ms.ogg",
+            "start_ms": 14202,
+            "duration_ms": 253
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_003_Crepe_네_E4_std72.8_-17.9dB_2780ms_2996ms_M30ms.ogg",
+            "start_ms": 14455,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "Voice_Crepe_Spawn2_Skin2_네_A4_std51.0_-18.2dB_220ms_382ms_M30ms.ogg",
+            "start_ms": 14668,
+            "duration_ms": 159
+        }
+    ],
+    "는": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_048_Crepe_는_Csharp5_std21.6_-17.9dB_1320ms_1480ms_M30ms.ogg",
+            "start_ms": 14827,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Crepe_Defeat1_Skin2_는_F4_std30.1_-18.7dB_480ms_640ms_M30ms.ogg",
+            "start_ms": 14984,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Crepe_Touch1_2_Skin1_는_Asharp4_std14.3_-15.8dB_1420ms_1580ms_M30ms.ogg",
+            "start_ms": 15141,
+            "duration_ms": 157
+        }
+    ],
+    "늘": [
+        {
+            "file_name": "Voice_Crepe_Die2_Skin2_늘_Gsharp4_std44.1_-16.0dB_240ms_340ms_M30ms.ogg",
+            "start_ms": 15298,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Crepe_Greeting_늘_Gsharp4_std35.1_-14.4dB_1820ms_1920ms_M30ms.ogg",
+            "start_ms": 15399,
+            "duration_ms": 101
+        }
+    ],
+    "니": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_162_Crepe_니_Csharp5_std22.9_-22.2dB_919ms_1081ms_M30ms.ogg",
+            "start_ms": 15500,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_니_Csharp5_std6.4_-17.8dB_5079ms_5242ms_M30ms.ogg",
+            "start_ms": 15659,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_053_Crepe_니_Dsharp5_std8.4_-15.7dB_4440ms_4602ms_M30ms.ogg",
+            "start_ms": 15819,
+            "duration_ms": 159
+        }
+    ],
+    "님": [
+        {
+            "file_name": "_selective_viciousrecipe_EP03_058_Crepe_님_D5_std9.5_-17.1dB_500ms_690ms_M30ms.ogg",
+            "start_ms": 15978,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP04_050_Crepe_님_Csharp5_std14.1_-20.5dB_600ms_790ms_M30ms.ogg",
+            "start_ms": 16170,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP07_048_Crepe_님_Csharp5_std22.0_-17.9dB_3420ms_3610ms_M30ms.ogg",
+            "start_ms": 16362,
+            "duration_ms": 192
+        }
+    ],
+    "다": [
+        {
+            "file_name": "_selective_viciousrecipe_EP03_058_Crepe_다_B4_std9.6_-13.9dB_3040ms_3166ms_M30ms.ogg",
+            "start_ms": 16554,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP04_068_Crepe_다_F5_std22.9_-13.5dB_2920ms_3046ms_M30ms.ogg",
+            "start_ms": 16677,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_051_Crepe_다_C5_std14.5_-18.4dB_4220ms_4346ms_M30ms.ogg",
+            "start_ms": 16805,
+            "duration_ms": 123
+        }
+    ],
+    "닥": [
+        {
+            "file_name": "_selective_wisemaid_EP04_023_Crepe_닥_F4_std22.4_-16.7dB_1920ms_2120ms_M30ms.ogg",
+            "start_ms": 16928,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_072_Crepe_닥_G4_std8.5_-19.4dB_4159ms_4330ms_M30ms.ogg",
+            "start_ms": 17125,
+            "duration_ms": 173
+        }
+    ],
+    "닦": [
+        {
+            "file_name": "_selective_wisemaid_EP04_025_Crepe_닦_Asharp3_std89.6_-24.7dB_3720ms_4050ms_M30ms.ogg",
+            "start_ms": 17298,
+            "duration_ms": 327
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_050_Crepe_닦_C4_std6.9_-30.2dB_1960ms_2210ms_M30ms.ogg",
+            "start_ms": 17625,
+            "duration_ms": 251
+        }
+    ],
+    "단": [
+        {
+            "file_name": "_selective_wisemaid_EP05_018_Crepe_단_C4_std6.1_-16.5dB_1760ms_1930ms_M30ms.ogg",
+            "start_ms": 17876,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_098_Crepe_단_Fsharp4_std10.6_-16.4dB_280ms_450ms_M30ms.ogg",
+            "start_ms": 18043,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_102_Crepe_단_Fsharp4_std13.7_-14.1dB_1560ms_1730ms_M30ms.ogg",
+            "start_ms": 18214,
+            "duration_ms": 171
+        }
+    ],
+    "달": [
+        {
+            "file_name": "_selective_wisemaid_EP03_092_Crepe_달_Dsharp5_std21.3_-17.0dB_5479ms_5659ms_M30ms.ogg",
+            "start_ms": 18385,
+            "duration_ms": 177
+        }
+    ],
+    "담": [
+        {
+            "file_name": "_selective_wisemaid_EP06_058_Crepe_담_A4_std38.2_-16.3dB_3880ms_4059ms_M30ms.ogg",
+            "start_ms": 18562,
+            "duration_ms": 181
+        }
+    ],
+    "닷": [
+        {
+            "file_name": "_selective_wisemaid_EP04_014_Crepe_닷_B4_std6.8_-22.1dB_1000ms_1200ms_M30ms.ogg",
+            "start_ms": 18743,
+            "duration_ms": 197
+        }
+    ],
+    "당": [
+        {
+            "file_name": "_selective_wisemaid_EP05_044_Crepe_당_Dsharp5_std23.1_-15.8dB_1660ms_1900ms_M30ms.ogg",
+            "start_ms": 18940,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_100_Crepe_당_Gsharp3_std6.1_-25.7dB_2040ms_2320ms_M30ms.ogg",
+            "start_ms": 19177,
+            "duration_ms": 277
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_053_Crepe_당_E4_std111.6_-14.3dB_520ms_740ms_M30ms.ogg",
+            "start_ms": 19454,
+            "duration_ms": 221
+        }
+    ],
+    "대": [
+        {
+            "file_name": "_selective_wisemaid_EP03_064_Crepe_대_Gsharp4_std3.4_-15.6dB_260ms_368ms_M30ms.ogg",
+            "start_ms": 19675,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_014_Crepe_대_D4_std6.6_-21.8dB_3180ms_3288ms_M30ms.ogg",
+            "start_ms": 19784,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Crepe_End1_대_Gsharp4_std7.5_-10.9dB_1920ms_2028ms_M30ms.ogg",
+            "start_ms": 19889,
+            "duration_ms": 109
+        }
+    ],
+    "던": [
+        {
+            "file_name": "_selective_wisemaid_EP04_084_Crepe_던_Dsharp5_std28.4_-16.6dB_3780ms_3960ms_M30ms.ogg",
+            "start_ms": 19998,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_085_Crepe_던_D5_std18.2_-15.5dB_5700ms_5880ms_M30ms.ogg",
+            "start_ms": 20179,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_100_Crepe_던_A4_std39.1_-19.8dB_4319ms_4500ms_M30ms.ogg",
+            "start_ms": 20360,
+            "duration_ms": 181
+        }
+    ],
+    "덮": [
+        {
+            "file_name": "_selective_wisemaid_EP05_099_Crepe_덮_Gsharp4_std14.0_-22.0dB_1680ms_1880ms_M30ms.ogg",
+            "start_ms": 20541,
+            "duration_ms": 197
+        }
+    ],
+    "데": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_048_Crepe_데_D5_std11.8_-15.0dB_1160ms_1304ms_M30ms.ogg",
+            "start_ms": 20738,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP02_067_Crepe_데_Asharp4_std26.4_-17.9dB_5880ms_6060ms_M30ms.ogg",
+            "start_ms": 20879,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_044_Crepe_데_A4_std13.6_-19.1dB_3200ms_3344ms_M30ms.ogg",
+            "start_ms": 21060,
+            "duration_ms": 141
+        }
+    ],
+    "도": [
+        {
+            "file_name": "_selective_wisemaid_EP07_026_Crepe_도_A4_std16.9_-17.9dB_1599ms_1708ms_M30ms.ogg",
+            "start_ms": 21201,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_057_Crepe_도_G4_std17.0_-18.1dB_459ms_568ms_M30ms.ogg",
+            "start_ms": 21310,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Crepe_Anger3_도_G4_std11.7_-12.6dB_319ms_428ms_M30ms.ogg",
+            "start_ms": 21419,
+            "duration_ms": 109
+        }
+    ],
+    "돌": [
+        {
+            "file_name": "_selective_wisemaid_EP05_069_Crepe_돌_C5_std36.0_-16.7dB_1800ms_2009ms_M30ms.ogg",
+            "start_ms": 21528,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_돌_Gsharp4_std23.8_-23.8dB_5680ms_5890ms_M30ms.ogg",
+            "start_ms": 21739,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_113_Crepe_돌_D4_std14.3_-20.0dB_1560ms_1720ms_M30ms.ogg",
+            "start_ms": 21950,
+            "duration_ms": 157
+        }
+    ],
+    "동": [
+        {
+            "file_name": "_selective_wisemaid_EP04_014_Crepe_동_Csharp4_std1.4_-19.0dB_220ms_360ms_M30ms.ogg",
+            "start_ms": 22107,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_003_Crepe_동_D4_std3.2_-17.9dB_240ms_380ms_M30ms.ogg",
+            "start_ms": 22244,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_099_Crepe_동_E4_std23.1_-16.0dB_740ms_880ms_M30ms.ogg",
+            "start_ms": 22381,
+            "duration_ms": 137
+        }
+    ],
+    "두": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_070_Crepe_두_A4_std64.0_-16.9dB_1660ms_1822ms_M30ms.ogg",
+            "start_ms": 22518,
+            "duration_ms": 163
+        }
+    ],
+    "드": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_043_Crepe_드_G4_std4.5_-21.6dB_3160ms_3268ms_M30ms.ogg",
+            "start_ms": 22681,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_051_Crepe_드_C5_std21.3_-21.0dB_4940ms_5030ms_M30ms.ogg",
+            "start_ms": 22790,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Crepe_Spawn1_Skin2_드_B4_std25.1_-15.9dB_2020ms_2110ms_M30ms.ogg",
+            "start_ms": 22881,
+            "duration_ms": 91
+        }
+    ],
+    "들": [
+        {
+            "file_name": "_selective_wisemaid_EP05_044_Crepe_들_Dsharp5_std22.9_-13.5dB_2080ms_2240ms_M30ms.ogg",
+            "start_ms": 22972,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_091_Crepe_들_Csharp5_std24.9_-20.6dB_3220ms_3370ms_M30ms.ogg",
+            "start_ms": 23129,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_044_Crepe_들_C5_std25.1_-14.6dB_2120ms_2260ms_M30ms.ogg",
+            "start_ms": 23281,
+            "duration_ms": 141
+        }
+    ],
+    "등": [
+        {
+            "file_name": "_selective_wisemaid_EP07_061_Crepe_등_B4_std12.5_-15.8dB_540ms_780ms_M30ms.ogg",
+            "start_ms": 23422,
+            "duration_ms": 237
+        }
+    ],
+    "디": [
+        {
+            "file_name": "Voice_Crepe_Line3_디_Dsharp4_std39.0_-21.7dB_1460ms_1622ms_M30ms.ogg",
+            "start_ms": 23659,
+            "duration_ms": 163
+        }
+    ],
+    "따": [
+        {
+            "file_name": "_selective_wisemaid_EP03_011_Crepe_따_C5_std14.6_-13.4dB_3400ms_3598ms_M30ms.ogg",
+            "start_ms": 23822,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_015_Crepe_따_D5_std7.9_-13.4dB_7780ms_7942ms_M30ms.ogg",
+            "start_ms": 24022,
+            "duration_ms": 163
+        }
+    ],
+    "때": [
+        {
+            "file_name": "_selective_wisemaid_EP04_027_Crepe_때_Dsharp5_std8.2_-18.1dB_3160ms_3304ms_M30ms.ogg",
+            "start_ms": 24185,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_099_Crepe_때_B4_std8.1_-15.9dB_2860ms_3004ms_M30ms.ogg",
+            "start_ms": 24326,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Crepe_Spawn1_Skin1_때_D5_std10.1_-13.6dB_1640ms_1766ms_M30ms.ogg",
+            "start_ms": 24467,
+            "duration_ms": 128
+        }
+    ],
+    "떡": [
+        {
+            "file_name": "Voice_Crepe_Start4_떡_A4_std56.3_-14.1dB_430ms_630ms_M30ms.ogg",
+            "start_ms": 24595,
+            "duration_ms": 200
+        }
+    ],
+    "떻": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_080_Crepe_떻_Dsharp5_std7.0_-20.8dB_2650ms_2820ms_M30ms.ogg",
+            "start_ms": 24795,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_047_Crepe_떻_E5_std21.7_-20.1dB_5479ms_5659ms_M30ms.ogg",
+            "start_ms": 24962,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_040_Crepe_떻_Dsharp5_std19.1_-18.9dB_3750ms_3970ms_M30ms.ogg",
+            "start_ms": 25139,
+            "duration_ms": 217
+        }
+    ],
+    "뛰": [
+        {
+            "file_name": "_selective_wisemaid_EP03_062_Crepe_뛰_E5_std4.0_-18.8dB_3400ms_3526ms_M30ms.ogg",
+            "start_ms": 25356,
+            "duration_ms": 128
+        }
+    ],
+    "라": [
+        {
+            "file_name": "_selective_wisemaid_EP04_008_Crepe_라_C5_std17.7_-14.4dB_6720ms_6864ms_M30ms.ogg",
+            "start_ms": 25484,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_008_Crepe_라_E5_std6.6_-12.4dB_2860ms_3004ms_M30ms.ogg",
+            "start_ms": 25625,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_048_Crepe_라_C5_std25.6_-13.6dB_4100ms_4244ms_M30ms.ogg",
+            "start_ms": 25766,
+            "duration_ms": 141
+        }
+    ],
+    "란": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_043_Crepe_란_E5_std20.7_-15.5dB_2349ms_2520ms_M30ms.ogg",
+            "start_ms": 25907,
+            "duration_ms": 173
+        }
+    ],
+    "랍": [
+        {
+            "file_name": "_selective_wisemaid_EP03_029_Crepe_랍_B4_std8.7_-15.9dB_2500ms_2739ms_M30ms.ogg",
+            "start_ms": 26080,
+            "duration_ms": 240
+        }
+    ],
+    "랑": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_058_Crepe_랑_C5_std9.0_-16.8dB_600ms_740ms_M30ms.ogg",
+            "start_ms": 26320,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_025_Crepe_랑_A4_std12.0_-16.3dB_4479ms_4620ms_M30ms.ogg",
+            "start_ms": 26457,
+            "duration_ms": 138
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_005_Crepe_랑_Csharp5_std8.9_-14.9dB_919ms_1060ms_M30ms.ogg",
+            "start_ms": 26595,
+            "duration_ms": 141
+        }
+    ],
+    "래": [
+        {
+            "file_name": "_selective_wisemaid_EP07_026_Crepe_래_Asharp4_std17.7_-13.6dB_350ms_556ms_M30ms.ogg",
+            "start_ms": 26736,
+            "duration_ms": 208
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_044_Crepe_래_C5_std18.8_-15.6dB_290ms_497ms_M30ms.ogg",
+            "start_ms": 26944,
+            "duration_ms": 208
+        },
+        {
+            "file_name": "Voice_Crepe_Touch2_1_Skin1_래_Csharp5_std37.0_-13.0dB_2960ms_3167ms_M30ms.ogg",
+            "start_ms": 27152,
+            "duration_ms": 208
+        }
+    ],
+    "러": [
+        {
+            "file_name": "_selective_wisemaid_EP01_059_Crepe_러_C5_std25.1_-13.8dB_1840ms_2020ms_M30ms.ogg",
+            "start_ms": 27360,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_089_Crepe_러_Asharp4_std12.2_-12.8dB_2739ms_2884ms_M30ms.ogg",
+            "start_ms": 27541,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_081_Crepe_러_E5_std4.1_-16.6dB_6499ms_6643ms_M30ms.ogg",
+            "start_ms": 27688,
+            "duration_ms": 141
+        }
+    ],
+    "런": [
+        {
+            "file_name": "_selective_wisemaid_EP03_018_Crepe_런_C5_std36.7_-15.5dB_1140ms_1460ms_M30ms.ogg",
+            "start_ms": 27829,
+            "duration_ms": 340
+        }
+    ],
+    "럼": [
+        {
+            "file_name": "_selective_wisemaid_EP04_081_Crepe_럼_C5_std14.4_-20.0dB_6020ms_6140ms_M30ms.ogg",
+            "start_ms": 28169,
+            "duration_ms": 117
+        }
+    ],
+    "렇": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_111_Crepe_렇_Asharp4_std25.5_-16.5dB_520ms_720ms_M30ms.ogg",
+            "start_ms": 28286,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_009_Crepe_렇_A4_std25.1_-21.1dB_199ms_400ms_M30ms.ogg",
+            "start_ms": 28483,
+            "duration_ms": 198
+        },
+        {
+            "file_name": "Voice_Crepe_Anger2_렇_F5_std24.6_-13.8dB_339ms_520ms_M30ms.ogg",
+            "start_ms": 28681,
+            "duration_ms": 201
+        }
+    ],
+    "레": [
+        {
+            "file_name": "_selective_wisemaid_EP01_062_Crepe_레_F5_std16.2_-15.0dB_2980ms_3160ms_M30ms.ogg",
+            "start_ms": 28882,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_wisemaid_EP01_081_Crepe_레_Csharp5_std17.8_-17.3dB_300ms_416ms_M30ms.ogg",
+            "start_ms": 29059,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Crepe_Line3_레_Csharp5_std7.6_-11.2dB_740ms_830ms_M30ms.ogg",
+            "start_ms": 29176,
+            "duration_ms": 91
+        }
+    ],
+    "렙": [
+        {
+            "file_name": "_selective_wisemaid_EP07_102_Crepe_렙_E5_std17.7_-16.0dB_2650ms_2840ms_M30ms.ogg",
+            "start_ms": 29267,
+            "duration_ms": 187
+        }
+    ],
+    "려": [
+        {
+            "file_name": "_selective_wisemaid_EP02_084_Crepe_려_Asharp4_std20.1_-14.6dB_5060ms_5221ms_M30ms.ogg",
+            "start_ms": 29454,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_058_Crepe_려_Asharp4_std12.7_-13.5dB_4600ms_4744ms_M30ms.ogg",
+            "start_ms": 29634,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Crepe_Defeat1_Skin2_려_E5_std19.7_-14.1dB_3500ms_3644ms_M30ms.ogg",
+            "start_ms": 29775,
+            "duration_ms": 141
+        }
+    ],
+    "령": [
+        {
+            "file_name": "_selective_wisemaid_EP04_058_Crepe_령_A4_std33.0_-17.5dB_1979ms_2200ms_M30ms.ogg",
+            "start_ms": 29916,
+            "duration_ms": 218
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_008_Crepe_령_Gsharp4_std21.6_-18.2dB_799ms_1040ms_M30ms.ogg",
+            "start_ms": 30134,
+            "duration_ms": 243
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_039_Crepe_령_Csharp5_std39.9_-15.6dB_3780ms_4019ms_M30ms.ogg",
+            "start_ms": 30377,
+            "duration_ms": 240
+        }
+    ],
+    "로": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_046_Crepe_로_B4_std6.2_-16.0dB_3720ms_3810ms_M30ms.ogg",
+            "start_ms": 30617,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Crepe_Sorrow2_로_B4_std6.8_-12.8dB_820ms_910ms_M30ms.ogg",
+            "start_ms": 30708,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Crepe_Touch2_1_Skin2_로_Fsharp4_std5.7_-15.0dB_360ms_450ms_M30ms.ogg",
+            "start_ms": 30799,
+            "duration_ms": 91
+        }
+    ],
+    "르": [
+        {
+            "file_name": "_selective_wisemaid_EP06_002_Crepe_르_Gsharp4_std9.3_-15.7dB_2950ms_3067ms_M30ms.ogg",
+            "start_ms": 30890,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_040_Crepe_르_A4_std12.7_-18.1dB_1119ms_1264ms_M30ms.ogg",
+            "start_ms": 31007,
+            "duration_ms": 142
+        },
+        {
+            "file_name": "Voice_Crepe_Line1_르_A4_std20.3_-20.3dB_3999ms_4125ms_M30ms.ogg",
+            "start_ms": 31149,
+            "duration_ms": 128
+        }
+    ],
+    "를": [
+        {
+            "file_name": "_selective_wisemaid_EP03_027_Crepe_를_D5_std17.8_-13.8dB_3600ms_3720ms_M30ms.ogg",
+            "start_ms": 31277,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_005_Crepe_를_D5_std6.3_-11.7dB_620ms_740ms_M30ms.ogg",
+            "start_ms": 31394,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Crepe_Defeat1_Skin2_를_C5_std7.0_-16.8dB_3140ms_3260ms_M30ms.ogg",
+            "start_ms": 31511,
+            "duration_ms": 117
+        }
+    ],
+    "름": [
+        {
+            "file_name": "_selective_wisemaid_EP07_103_Crepe_름_Dsharp5_std77.8_-17.8dB_3440ms_3715ms_M30ms.ogg",
+            "start_ms": 31628,
+            "duration_ms": 277
+        },
+        {
+            "file_name": "Voice_Crepe_Line3_름_E4_std20.8_-13.6dB_3980ms_4159ms_M30ms.ogg",
+            "start_ms": 31905,
+            "duration_ms": 181
+        }
+    ],
+    "리": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_166_Crepe_리_C5_std21.8_-17.7dB_1940ms_2084ms_M30ms.ogg",
+            "start_ms": 32086,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_050_Crepe_리_F4_std8.6_-25.7dB_1040ms_1184ms_M30ms.ogg",
+            "start_ms": 32227,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_018_Crepe_리_A4_std65.0_-18.6dB_4040ms_4184ms_M30ms.ogg",
+            "start_ms": 32368,
+            "duration_ms": 141
+        }
+    ],
+    "린": [
+        {
+            "file_name": "_selective_wisemaid_EP04_022_Crepe_린_B4_std20.6_-26.1dB_4420ms_4720ms_M30ms.ogg",
+            "start_ms": 32509,
+            "duration_ms": 301
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_099_Crepe_린_Gsharp4_std25.0_-21.6dB_2100ms_2300ms_M30ms.ogg",
+            "start_ms": 32810,
+            "duration_ms": 197
+        }
+    ],
+    "릴": [
+        {
+            "file_name": "_selective_wisemaid_EP03_091_Crepe_릴_E4_std18.2_-18.8dB_1080ms_1260ms_M30ms.ogg",
+            "start_ms": 33007,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_051_Crepe_릴_C5_std9.3_-17.5dB_5040ms_5200ms_M30ms.ogg",
+            "start_ms": 33188,
+            "duration_ms": 157
+        }
+    ],
+    "마": [
+        {
+            "file_name": "_selective_wisemaid_EP04_060_Crepe_마_G4_std18.2_-15.1dB_2840ms_3002ms_M30ms.ogg",
+            "start_ms": 33345,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_마_Dsharp5_std9.5_-21.6dB_5040ms_5228ms_M30ms.ogg",
+            "start_ms": 33508,
+            "duration_ms": 185
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_002_Crepe_마_Asharp4_std49.9_-21.1dB_400ms_562ms_M30ms.ogg",
+            "start_ms": 33693,
+            "duration_ms": 163
+        }
+    ],
+    "막": [
+        {
+            "file_name": "_selective_wisemaid_EP06_058_Crepe_막_D5_std32.7_-15.8dB_4059ms_4280ms_M30ms.ogg",
+            "start_ms": 33856,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Crepe_Start3_막_D4_std150.4_-12.8dB_220ms_559ms_M30ms.ogg",
+            "start_ms": 34077,
+            "duration_ms": 341
+        }
+    ],
+    "만": [
+        {
+            "file_name": "_selective_wisemaid_EP03_015_Crepe_만_Csharp5_std18.1_-17.5dB_7560ms_7720ms_M30ms.ogg",
+            "start_ms": 34418,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_013_Crepe_만_Csharp5_std49.3_-15.0dB_2360ms_2480ms_M30ms.ogg",
+            "start_ms": 34598,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_051_Crepe_만_Asharp4_std5.0_-18.2dB_2560ms_2700ms_M30ms.ogg",
+            "start_ms": 34715,
+            "duration_ms": 141
+        }
+    ],
+    "많": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_038_Crepe_많_Asharp3_std42.8_-19.6dB_3820ms_4180ms_M30ms.ogg",
+            "start_ms": 34856,
+            "duration_ms": 357
+        },
+        {
+            "file_name": "Voice_Crepe_Line2_많_Csharp4_std39.6_-14.9dB_1480ms_1840ms_M30ms.ogg",
+            "start_ms": 35213,
+            "duration_ms": 357
+        }
+    ],
+    "말": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_038_Crepe_말_Gsharp4_std57.5_-15.3dB_2340ms_2590ms_M30ms.ogg",
+            "start_ms": 35570,
+            "duration_ms": 251
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_051_Crepe_말_D4_std28.1_-18.2dB_4520ms_4760ms_M30ms.ogg",
+            "start_ms": 35821,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_038_Crepe_말_Dsharp5_std31.2_-12.3dB_2480ms_2670ms_M30ms.ogg",
+            "start_ms": 36058,
+            "duration_ms": 192
+        }
+    ],
+    "맛": [
+        {
+            "file_name": "_selective_wisemaid_EP04_062_Crepe_맛_G4_std9.6_-19.5dB_2700ms_2920ms_M30ms.ogg",
+            "start_ms": 36250,
+            "duration_ms": 217
+        }
+    ],
+    "맡": [
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_맡_Unvoiced_std0.0_-15.4dB_3920ms_4120ms_M30ms.ogg",
+            "start_ms": 36467,
+            "duration_ms": 197
+        }
+    ],
+    "매": [
+        {
+            "file_name": "_selective_wisemaid_EP01_062_Crepe_매_Fsharp4_std33.6_-16.5dB_2100ms_2307ms_M30ms.ogg",
+            "start_ms": 36664,
+            "duration_ms": 208
+        }
+    ],
+    "며": [
+        {
+            "file_name": "Voice_Crepe_Anger3_며_Fsharp4_std38.5_-15.0dB_620ms_746ms_M30ms.ogg",
+            "start_ms": 36872,
+            "duration_ms": 128
+        }
+    ],
+    "면": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_058_Crepe_면_Csharp5_std10.4_-14.7dB_2040ms_2260ms_M30ms.ogg",
+            "start_ms": 37000,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_013_Crepe_면_Csharp5_std74.8_-14.9dB_1420ms_1620ms_M30ms.ogg",
+            "start_ms": 37221,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_017_Crepe_면_Fsharp4_std2.7_-17.7dB_3980ms_4180ms_M30ms.ogg",
+            "start_ms": 37418,
+            "duration_ms": 197
+        }
+    ],
+    "명": [
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_명_B3_std84.8_-17.6dB_2440ms_2660ms_M30ms.ogg",
+            "start_ms": 37615,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_100_Crepe_명_E5_std35.2_-13.4dB_6340ms_6540ms_M30ms.ogg",
+            "start_ms": 37832,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_010_Crepe_명_Dsharp5_std14.3_-12.5dB_4270ms_4460ms_M30ms.ogg",
+            "start_ms": 38029,
+            "duration_ms": 187
+        }
+    ],
+    "모": [
+        {
+            "file_name": "_selective_wisemaid_EP04_084_Crepe_모_Gsharp4_std6.1_-20.7dB_700ms_880ms_M30ms.ogg",
+            "start_ms": 38216,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_099_Crepe_모_E4_std11.8_-24.8dB_3600ms_3762ms_M30ms.ogg",
+            "start_ms": 38397,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_057_Crepe_모_C5_std30.4_-17.4dB_4440ms_4611ms_M30ms.ogg",
+            "start_ms": 38560,
+            "duration_ms": 173
+        }
+    ],
+    "무": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_050_Crepe_무_G4_std27.4_-19.3dB_1740ms_1920ms_M30ms.ogg",
+            "start_ms": 38733,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP06_052_Crepe_무_E4_std27.0_-21.3dB_2260ms_2458ms_M30ms.ogg",
+            "start_ms": 38914,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_023_Crepe_무_E5_std36.1_-18.0dB_860ms_1004ms_M30ms.ogg",
+            "start_ms": 39114,
+            "duration_ms": 141
+        }
+    ],
+    "문": [
+        {
+            "file_name": "_selective_wisemaid_EP04_027_Crepe_문_Dsharp5_std7.5_-19.1dB_3320ms_3510ms_M30ms.ogg",
+            "start_ms": 39255,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_054_Crepe_문_Dsharp5_std18.2_-17.4dB_5460ms_5650ms_M30ms.ogg",
+            "start_ms": 39447,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_017_Crepe_문_Gsharp4_std12.5_-22.8dB_2920ms_3220ms_M30ms.ogg",
+            "start_ms": 39639,
+            "duration_ms": 301
+        }
+    ],
+    "물": [
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_물_Asharp4_std43.0_-16.5dB_4760ms_4860ms_M30ms.ogg",
+            "start_ms": 39940,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_007_Crepe_물_G4_std8.5_-21.0dB_2420ms_2680ms_M30ms.ogg",
+            "start_ms": 40041,
+            "duration_ms": 261
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_083_Crepe_물_Asharp4_std6.8_-15.8dB_6020ms_6239ms_M30ms.ogg",
+            "start_ms": 40302,
+            "duration_ms": 216
+        }
+    ],
+    "미": [
+        {
+            "file_name": "_selective_wisemaid_EP06_003_Crepe_미_D5_std50.7_-19.8dB_2290ms_2389ms_M30ms.ogg",
+            "start_ms": 40518,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_034_Crepe_미_A4_std1.6_-19.2dB_659ms_768ms_M30ms.ogg",
+            "start_ms": 40619,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Crepe_Growth_미_Dsharp5_std19.0_-12.3dB_4899ms_5044ms_M30ms.ogg",
+            "start_ms": 40728,
+            "duration_ms": 147
+        }
+    ],
+    "민": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_045_Crepe_민_Csharp5_std33.5_-21.9dB_3480ms_3670ms_M30ms.ogg",
+            "start_ms": 40875,
+            "duration_ms": 192
+        }
+    ],
+    "바": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_070_Crepe_바_C5_std14.2_-13.0dB_2080ms_2223ms_M30ms.ogg",
+            "start_ms": 41067,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_025_Crepe_바_Asharp3_std36.3_-24.1dB_2350ms_2557ms_M30ms.ogg",
+            "start_ms": 41211,
+            "duration_ms": 208
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_023_Crepe_바_Csharp4_std18.6_-22.8dB_1740ms_1902ms_M30ms.ogg",
+            "start_ms": 41419,
+            "duration_ms": 159
+        }
+    ],
+    "반": [
+        {
+            "file_name": "Voice_Crepe_Growth_반_D5_std73.0_-11.6dB_5999ms_6230ms_M30ms.ogg",
+            "start_ms": 41578,
+            "duration_ms": 232
+        }
+    ],
+    "밥": [
+        {
+            "file_name": "_selective_wisemaid_EP04_027_Crepe_밥_A4_std30.3_-17.7dB_2550ms_2760ms_M30ms.ogg",
+            "start_ms": 41810,
+            "duration_ms": 211
+        }
+    ],
+    "방": [
+        {
+            "file_name": "_selective_wisemaid_EP07_044_Crepe_방_Dsharp5_std25.5_-14.1dB_1740ms_1940ms_M30ms.ogg",
+            "start_ms": 42021,
+            "duration_ms": 197
+        }
+    ],
+    "배": [
+        {
+            "file_name": "_selective_wisemaid_EP06_003_Crepe_배_D5_std44.0_-17.2dB_1650ms_1857ms_M30ms.ogg",
+            "start_ms": 42218,
+            "duration_ms": 208
+        },
+        {
+            "file_name": "Voice_Crepe_Anger3_배_Dsharp4_std131.7_-13.3dB_960ms_1302ms_M30ms.ogg",
+            "start_ms": 42426,
+            "duration_ms": 339
+        }
+    ],
+    "뱀": [
+        {
+            "file_name": "_selective_wisemaid_EP05_007_Crepe_뱀_C4_std22.5_-18.1dB_2200ms_2429ms_M30ms.ogg",
+            "start_ms": 42765,
+            "duration_ms": 229
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_007_Crepe_뱀_D4_std29.3_-17.0dB_3320ms_3510ms_M30ms.ogg",
+            "start_ms": 42994,
+            "duration_ms": 192
+        }
+    ],
+    "버": [
+        {
+            "file_name": "_selective_wisemaid_EP05_099_Crepe_버_A4_std10.1_-16.5dB_2000ms_2090ms_M30ms.ogg",
+            "start_ms": 43186,
+            "duration_ms": 91
+        }
+    ],
+    "번": [
+        {
+            "file_name": "_selective_wisemaid_EP03_091_Crepe_번_F4_std35.0_-20.0dB_1720ms_1940ms_M30ms.ogg",
+            "start_ms": 43277,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_024_Crepe_번_Dsharp5_std24.8_-15.3dB_860ms_1020ms_M30ms.ogg",
+            "start_ms": 43494,
+            "duration_ms": 157
+        }
+    ],
+    "법": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_064_Crepe_법_Csharp5_std26.6_-20.2dB_3060ms_3239ms_M30ms.ogg",
+            "start_ms": 43651,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Crepe_Defeat2_Skin2_법_F4_std16.5_-19.6dB_3260ms_3500ms_M30ms.ogg",
+            "start_ms": 43832,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "Voice_Crepe_Touch1_2_Skin2_법_C5_std23.2_-18.4dB_2620ms_2860ms_M30ms.ogg",
+            "start_ms": 44069,
+            "duration_ms": 237
+        }
+    ],
+    "베": [
+        {
+            "file_name": "_selective_wisemaid_EP07_057_Crepe_베_G4_std5.6_-19.5dB_1800ms_1908ms_M30ms.ogg",
+            "start_ms": 44306,
+            "duration_ms": 109
+        }
+    ],
+    "벽": [
+        {
+            "file_name": "_selective_wisemaid_EP04_051_Crepe_벽_Csharp5_std28.5_-22.2dB_1380ms_1580ms_M30ms.ogg",
+            "start_ms": 44415,
+            "duration_ms": 197
+        }
+    ],
+    "병": [
+        {
+            "file_name": "Voice_Crepe_Touch1_1_Skin1_병_Dsharp5_std17.4_-16.7dB_790ms_1080ms_M30ms.ogg",
+            "start_ms": 44612,
+            "duration_ms": 287
+        }
+    ],
+    "보": [
+        {
+            "file_name": "_selective_wisemaid_EP03_062_Crepe_보_G4_std2.7_-16.6dB_439ms_547ms_M30ms.ogg",
+            "start_ms": 44899,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_012_Crepe_보_F4_std17.8_-19.7dB_2600ms_2726ms_M30ms.ogg",
+            "start_ms": 45008,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Crepe_Victory1_Skin2_보_C5_std8.3_-20.9dB_199ms_325ms_M30ms.ogg",
+            "start_ms": 45131,
+            "duration_ms": 123
+        }
+    ],
+    "본": [
+        {
+            "file_name": "_selective_wisemaid_EP03_027_Crepe_본_C4_std32.4_-21.9dB_2460ms_2720ms_M30ms.ogg",
+            "start_ms": 45254,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "Voice_Crepe_Defeat1_Skin1_본_D4_std29.7_-17.7dB_720ms_1040ms_M30ms.ogg",
+            "start_ms": 45511,
+            "duration_ms": 317
+        }
+    ],
+    "볼": [
+        {
+            "file_name": "_selective_wisemaid_EP03_005_Crepe_볼_Gsharp4_std23.0_-24.2dB_6239ms_6579ms_M30ms.ogg",
+            "start_ms": 45828,
+            "duration_ms": 337
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_009_Crepe_볼_G4_std13.6_-15.1dB_1800ms_2100ms_M30ms.ogg",
+            "start_ms": 46165,
+            "duration_ms": 301
+        }
+    ],
+    "부": [
+        {
+            "file_name": "_selective_wisemaid_EP01_082_Crepe_부_Asharp4_std10.6_-18.8dB_4239ms_4420ms_M30ms.ogg",
+            "start_ms": 46466,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_003_Crepe_부_A4_std14.2_-19.5dB_2640ms_2784ms_M30ms.ogg",
+            "start_ms": 46644,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_017_Crepe_부_A4_std9.1_-22.0dB_1590ms_1779ms_M30ms.ogg",
+            "start_ms": 46785,
+            "duration_ms": 186
+        }
+    ],
+    "분": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_046_Crepe_분_Asharp4_std46.4_-16.9dB_899ms_1090ms_M30ms.ogg",
+            "start_ms": 46971,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP04_046_Crepe_분_Csharp5_std32.4_-17.2dB_4739ms_4930ms_M30ms.ogg",
+            "start_ms": 47163,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_084_Crepe_분_D5_std13.9_-18.7dB_4059ms_4270ms_M30ms.ogg",
+            "start_ms": 47355,
+            "duration_ms": 213
+        }
+    ],
+    "붙": [
+        {
+            "file_name": "_selective_wisemaid_EP07_099_Crepe_붙_B3_std17.6_-26.7dB_2440ms_2670ms_M30ms.ogg",
+            "start_ms": 47568,
+            "duration_ms": 232
+        }
+    ],
+    "브": [
+        {
+            "file_name": "Voice_Crepe_Touch2_2_Skin2_브_C5_std11.2_-14.8dB_3020ms_3128ms_M30ms.ogg",
+            "start_ms": 47800,
+            "duration_ms": 109
+        }
+    ],
+    "빠": [
+        {
+            "file_name": "_selective_wisemaid_EP04_018_Crepe_빠_E5_std36.0_-14.3dB_800ms_998ms_M30ms.ogg",
+            "start_ms": 47909,
+            "duration_ms": 200
+        }
+    ],
+    "뿌": [
+        {
+            "file_name": "Voice_Crepe_Defeat1_Skin2_뿌_Csharp5_std21.3_-16.3dB_3360ms_3486ms_M30ms.ogg",
+            "start_ms": 48109,
+            "duration_ms": 128
+        }
+    ],
+    "사": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_068_Crepe_사_F5_std11.7_-15.0dB_580ms_742ms_M30ms.ogg",
+            "start_ms": 48237,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_005_Crepe_사_Dsharp5_std2.4_-15.1dB_139ms_301ms_M30ms.ogg",
+            "start_ms": 48400,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_005_Crepe_사_E5_std18.0_-12.8dB_480ms_659ms_M30ms.ogg",
+            "start_ms": 48563,
+            "duration_ms": 181
+        }
+    ],
+    "상": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_061_Crepe_상_D5_std25.7_-16.2dB_1440ms_1599ms_M30ms.ogg",
+            "start_ms": 48744,
+            "duration_ms": 156
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_081_Crepe_상_D5_std47.3_-20.1dB_1960ms_2160ms_M30ms.ogg",
+            "start_ms": 48900,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Crepe_Spawn1_상_Dsharp5_std31.4_-12.9dB_5260ms_5440ms_M30ms.ogg",
+            "start_ms": 49097,
+            "duration_ms": 177
+        }
+    ],
+    "색": [
+        {
+            "file_name": "_selective_wisemaid_EP07_081_Crepe_색_E5_std24.3_-17.4dB_5079ms_5290ms_M30ms.ogg",
+            "start_ms": 49274,
+            "duration_ms": 213
+        }
+    ],
+    "생": [
+        {
+            "file_name": "_selective_wisemaid_EP03_003_Crepe_생_C5_std37.3_-16.6dB_2320ms_2500ms_M30ms.ogg",
+            "start_ms": 49487,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_091_Crepe_생_Asharp4_std30.7_-21.4dB_4819ms_4999ms_M30ms.ogg",
+            "start_ms": 49664,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_040_Crepe_생_G4_std13.7_-20.3dB_319ms_500ms_M30ms.ogg",
+            "start_ms": 49845,
+            "duration_ms": 178
+        }
+    ],
+    "서": [
+        {
+            "file_name": "_selective_wisemaid_EP03_015_Crepe_서_A4_std16.7_-20.3dB_6880ms_6970ms_M30ms.ogg",
+            "start_ms": 50023,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_서_Gsharp4_std39.2_-11.7dB_1099ms_1190ms_M30ms.ogg",
+            "start_ms": 50114,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_009_Crepe_서_B4_std17.1_-25.3dB_2320ms_2410ms_M30ms.ogg",
+            "start_ms": 50207,
+            "duration_ms": 91
+        }
+    ],
+    "선": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_162_Crepe_선_B4_std20.5_-14.7dB_2000ms_2210ms_M30ms.ogg",
+            "start_ms": 50298,
+            "duration_ms": 211
+        }
+    ],
+    "섭": [
+        {
+            "file_name": "_selective_wisemaid_EP02_084_Crepe_섭_Csharp5_std11.8_-20.2dB_3739ms_3920ms_M30ms.ogg",
+            "start_ms": 50509,
+            "duration_ms": 178
+        }
+    ],
+    "성": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_043_Crepe_성_B4_std43.6_-21.1dB_2700ms_2920ms_M30ms.ogg",
+            "start_ms": 50687,
+            "duration_ms": 217
+        }
+    ],
+    "세": [
+        {
+            "file_name": "_selective_wisemaid_EP07_082_Crepe_세_C5_std13.4_-20.6dB_3530ms_3683ms_M30ms.ogg",
+            "start_ms": 50904,
+            "duration_ms": 155
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_101_Crepe_세_Dsharp5_std51.3_-14.5dB_2960ms_3122ms_M30ms.ogg",
+            "start_ms": 51059,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Crepe_Line1_세_D5_std60.7_-11.7dB_2200ms_2362ms_M30ms.ogg",
+            "start_ms": 51222,
+            "duration_ms": 163
+        }
+    ],
+    "셔": [
+        {
+            "file_name": "Voice_Crepe_Touch1_1_Skin2_셔_E5_std23.8_-14.7dB_2239ms_2420ms_M30ms.ogg",
+            "start_ms": 51385,
+            "duration_ms": 178
+        }
+    ],
+    "셨": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_061_Crepe_셨_Dsharp5_std15.0_-19.6dB_2440ms_2790ms_M30ms.ogg",
+            "start_ms": 51563,
+            "duration_ms": 352
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP06_064_Crepe_셨_D5_std6.2_-19.5dB_2280ms_2590ms_M30ms.ogg",
+            "start_ms": 51915,
+            "duration_ms": 312
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_007_Crepe_셨_Dsharp5_std17.3_-21.2dB_5860ms_6150ms_M30ms.ogg",
+            "start_ms": 52227,
+            "duration_ms": 291
+        }
+    ],
+    "소": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_064_Crepe_소_F4_std92.5_-20.4dB_80ms_278ms_M30ms.ogg",
+            "start_ms": 52518,
+            "duration_ms": 195
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_007_Crepe_소_Dsharp5_std23.3_-13.3dB_1640ms_1802ms_M30ms.ogg",
+            "start_ms": 52713,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_058_Crepe_소_Dsharp5_std84.9_-18.1dB_1380ms_1577ms_M30ms.ogg",
+            "start_ms": 52876,
+            "duration_ms": 197
+        }
+    ],
+    "수": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_044_Crepe_수_F5_std17.7_-16.5dB_5319ms_5446ms_M30ms.ogg",
+            "start_ms": 53073,
+            "duration_ms": 124
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_013_Crepe_수_C5_std54.7_-18.7dB_3440ms_3566ms_M30ms.ogg",
+            "start_ms": 53197,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_057_Crepe_수_B4_std80.7_-23.4dB_6530ms_6665ms_M30ms.ogg",
+            "start_ms": 53325,
+            "duration_ms": 136
+        }
+    ],
+    "순": [
+        {
+            "file_name": "_selective_wisemaid_EP07_111_Crepe_순_Dsharp5_std25.7_-17.2dB_1780ms_1950ms_M30ms.ogg",
+            "start_ms": 53461,
+            "duration_ms": 171
+        }
+    ],
+    "숨": [
+        {
+            "file_name": "_selective_wisemaid_EP01_083_Crepe_숨_G4_std23.6_-27.0dB_5640ms_5950ms_M30ms.ogg",
+            "start_ms": 53632,
+            "duration_ms": 307
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_027_Crepe_숨_D5_std10.8_-21.1dB_1760ms_1940ms_M30ms.ogg",
+            "start_ms": 53939,
+            "duration_ms": 177
+        }
+    ],
+    "스": [
+        {
+            "file_name": "_selective_wisemaid_EP05_017_Crepe_스_D5_std10.2_-16.6dB_3790ms_3889ms_M30ms.ogg",
+            "start_ms": 54116,
+            "duration_ms": 101
+        }
+    ],
+    "슨": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_050_Crepe_슨_F5_std10.9_-17.1dB_1940ms_2020ms_M30ms.ogg",
+            "start_ms": 54217,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_016_Crepe_슨_C5_std6.1_-19.7dB_2620ms_2700ms_M30ms.ogg",
+            "start_ms": 54294,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_035_Crepe_슨_Csharp5_std9.2_-19.2dB_4819ms_4920ms_M30ms.ogg",
+            "start_ms": 54371,
+            "duration_ms": 101
+        }
+    ],
+    "습": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_162_Crepe_습_D5_std12.6_-19.7dB_720ms_919ms_M30ms.ogg",
+            "start_ms": 54472,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_099_Crepe_습_Asharp4_std14.9_-25.6dB_3780ms_3929ms_M30ms.ogg",
+            "start_ms": 54672,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "Voice_Crepe_Touch2_1_Skin2_습_Csharp5_std13.6_-21.6dB_1859ms_2020ms_M30ms.ogg",
+            "start_ms": 54821,
+            "duration_ms": 158
+        }
+    ],
+    "시": [
+        {
+            "file_name": "_selective_wisemaid_EP04_050_Crepe_시_C5_std17.9_-20.6dB_2460ms_2604ms_M30ms.ogg",
+            "start_ms": 54979,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_072_Crepe_시_Dsharp5_std17.9_-21.7dB_5200ms_5344ms_M30ms.ogg",
+            "start_ms": 55120,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_068_Crepe_시_G5_std10.7_-10.4dB_2780ms_2924ms_M30ms.ogg",
+            "start_ms": 55284,
+            "duration_ms": 141
+        }
+    ],
+    "신": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_044_Crepe_신_C5_std51.0_-21.2dB_2009ms_2200ms_M30ms.ogg",
+            "start_ms": 55425,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_112_Crepe_신_Csharp5_std32.8_-20.1dB_3570ms_3760ms_M30ms.ogg",
+            "start_ms": 55617,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Crepe_Greeting_신_A4_std40.2_-18.0dB_500ms_700ms_M30ms.ogg",
+            "start_ms": 55809,
+            "duration_ms": 197
+        }
+    ],
+    "실": [
+        {
+            "file_name": "_selective_wisemaid_EP04_012_Crepe_실_D5_std22.9_-14.4dB_1820ms_1979ms_M30ms.ogg",
+            "start_ms": 56006,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_035_Crepe_실_Asharp4_std11.1_-18.2dB_7819ms_7960ms_M30ms.ogg",
+            "start_ms": 56166,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_099_Crepe_실_Csharp5_std17.4_-11.9dB_339ms_460ms_M30ms.ogg",
+            "start_ms": 56307,
+            "duration_ms": 123
+        }
+    ],
+    "싫": [
+        {
+            "file_name": "_selective_wisemaid_EP04_009_Crepe_싫_Csharp5_std9.1_-22.2dB_1710ms_1930ms_M30ms.ogg",
+            "start_ms": 56430,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_026_Crepe_싫_G5_std14.0_-14.8dB_5020ms_5150ms_M30ms.ogg",
+            "start_ms": 56651,
+            "duration_ms": 131
+        }
+    ],
+    "싶": [
+        {
+            "file_name": "_selective_wisemaid_EP04_006_Crepe_싶_D5_std13.5_-20.0dB_1440ms_1670ms_M30ms.ogg",
+            "start_ms": 56782,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_038_Crepe_싶_Dsharp5_std14.7_-25.4dB_1520ms_1740ms_M30ms.ogg",
+            "start_ms": 57014,
+            "duration_ms": 221
+        }
+    ],
+    "씀": [
+        {
+            "file_name": "_selective_wisemaid_EP04_051_Crepe_씀_B4_std6.1_-26.0dB_4760ms_4940ms_M30ms.ogg",
+            "start_ms": 57235,
+            "duration_ms": 177
+        }
+    ],
+    "아": [
+        {
+            "file_name": "_selective_wisemaid_EP03_015_Crepe_아_Dsharp4_std8.4_-20.5dB_4260ms_4404ms_M30ms.ogg",
+            "start_ms": 57412,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_055_Crepe_아_A3_std11.7_-17.4dB_630ms_782ms_M30ms.ogg",
+            "start_ms": 57576,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_069_Crepe_아_D5_std19.6_-14.4dB_2009ms_2163ms_M30ms.ogg",
+            "start_ms": 57725,
+            "duration_ms": 151
+        }
+    ],
+    "안": [
+        {
+            "file_name": "_selective_wisemaid_EP07_099_Crepe_안_Gsharp4_std1.8_-13.8dB_880ms_980ms_M30ms.ogg",
+            "start_ms": 57876,
+            "duration_ms": 101
+        }
+    ],
+    "않": [
+        {
+            "file_name": "_selective_wisemaid_EP04_054_Crepe_않_Dsharp4_std26.7_-17.2dB_1920ms_2040ms_M30ms.ogg",
+            "start_ms": 57977,
+            "duration_ms": 117
+        }
+    ],
+    "압": [
+        {
+            "file_name": "Voice_Crepe_Birthday_압_A3_std19.8_-21.7dB_2380ms_2600ms_M30ms.ogg",
+            "start_ms": 58094,
+            "duration_ms": 217
+        }
+    ],
+    "았": [
+        {
+            "file_name": "_selective_wisemaid_EP07_038_Crepe_았_Dsharp5_std114.7_-18.6dB_1970ms_2260ms_M30ms.ogg",
+            "start_ms": 58311,
+            "duration_ms": 287
+        }
+    ],
+    "앞": [
+        {
+            "file_name": "Voice_Crepe_Touch2_1_Skin2_앞_Csharp4_std18.8_-23.9dB_30ms_270ms_M30ms.ogg",
+            "start_ms": 58598,
+            "duration_ms": 237
+        }
+    ],
+    "야": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_002_Crepe_야_F5_std23.1_-12.6dB_1599ms_1726ms_M30ms.ogg",
+            "start_ms": 58835,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_083_Crepe_야_D5_std4.0_-14.8dB_2020ms_2146ms_M30ms.ogg",
+            "start_ms": 58963,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Crepe_Birthday_야_Csharp4_std9.3_-15.1dB_5079ms_5205ms_M30ms.ogg",
+            "start_ms": 59091,
+            "duration_ms": 128
+        }
+    ],
+    "어": [
+        {
+            "file_name": "_selective_wisemaid_EP03_062_Crepe_어_E5_std5.5_-14.1dB_3540ms_3666ms_M30ms.ogg",
+            "start_ms": 59219,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Crepe_Line2_어_Dsharp5_std13.7_-11.2dB_5120ms_5246ms_M30ms.ogg",
+            "start_ms": 59347,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Crepe_Spawn1_Skin2_어_F4_std20.1_-13.2dB_1890ms_2007ms_M30ms.ogg",
+            "start_ms": 59475,
+            "duration_ms": 114
+        }
+    ],
+    "얼": [
+        {
+            "file_name": "_selective_wisemaid_EP03_031_Crepe_얼_B3_std17.3_-17.6dB_700ms_880ms_M30ms.ogg",
+            "start_ms": 59589,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_006_Crepe_얼_Dsharp4_std33.7_-18.0dB_3330ms_3555ms_M30ms.ogg",
+            "start_ms": 59770,
+            "duration_ms": 227
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_002_Crepe_얼_Dsharp4_std25.1_-17.3dB_199ms_400ms_M30ms.ogg",
+            "start_ms": 59997,
+            "duration_ms": 203
+        }
+    ],
+    "엄": [
+        {
+            "file_name": "_selective_wisemaid_EP05_091_Crepe_엄_Gsharp4_std30.9_-23.4dB_3500ms_3780ms_M30ms.ogg",
+            "start_ms": 60200,
+            "duration_ms": 277
+        }
+    ],
+    "없": [
+        {
+            "file_name": "_selective_wisemaid_EP05_016_Crepe_없_B3_std17.2_-21.2dB_4140ms_4399ms_M30ms.ogg",
+            "start_ms": 60477,
+            "duration_ms": 279
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_043_Crepe_없_G4_std9.7_-18.8dB_4239ms_4380ms_M30ms.ogg",
+            "start_ms": 60756,
+            "duration_ms": 141
+        }
+    ],
+    "었": [
+        {
+            "file_name": "_selective_wisemaid_EP06_009_Crepe_었_D5_std15.9_-19.5dB_1630ms_1850ms_M30ms.ogg",
+            "start_ms": 60897,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_099_Crepe_었_Asharp4_std24.1_-15.0dB_3389ms_3560ms_M30ms.ogg",
+            "start_ms": 61118,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "Voice_Crepe_Defeat1_Skin1_었_C5_std13.8_-13.8dB_2860ms_3060ms_M30ms.ogg",
+            "start_ms": 61291,
+            "duration_ms": 197
+        }
+    ],
+    "에": [
+        {
+            "file_name": "_selective_viciousrecipe_EP03_058_Crepe_에_D5_std4.2_-15.0dB_2580ms_2688ms_M30ms.ogg",
+            "start_ms": 61488,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_050_Crepe_에_Gsharp4_std1.7_-19.4dB_520ms_628ms_M30ms.ogg",
+            "start_ms": 61597,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_099_Crepe_에_D5_std16.7_-17.2dB_2290ms_2407ms_M30ms.ogg",
+            "start_ms": 61706,
+            "duration_ms": 114
+        }
+    ],
+    "역": [
+        {
+            "file_name": "_selective_wisemaid_EP01_080_Crepe_역_Csharp5_std21.7_-17.4dB_5450ms_5730ms_M30ms.ogg",
+            "start_ms": 61820,
+            "duration_ms": 277
+        }
+    ],
+    "오": [
+        {
+            "file_name": "_selective_wisemaid_EP01_082_Crepe_오_C5_std10.3_-16.3dB_8870ms_9041ms_M30ms.ogg",
+            "start_ms": 62097,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "Voice_Crepe_Die2_Skin2_오_B3_std33.7_-14.7dB_50ms_221ms_M30ms.ogg",
+            "start_ms": 62270,
+            "duration_ms": 168
+        },
+        {
+            "file_name": "Voice_Crepe_Die2_오_C4_std18.9_-16.4dB_80ms_242ms_M30ms.ogg",
+            "start_ms": 62438,
+            "duration_ms": 159
+        }
+    ],
+    "올": [
+        {
+            "file_name": "_selective_wisemaid_EP04_072_Crepe_올_Fsharp4_std9.3_-23.1dB_2000ms_2140ms_M30ms.ogg",
+            "start_ms": 62597,
+            "duration_ms": 141
+        }
+    ],
+    "옷": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_057_Crepe_옷_Dsharp4_std85.4_-21.5dB_1280ms_1599ms_M30ms.ogg",
+            "start_ms": 62738,
+            "duration_ms": 316
+        }
+    ],
+    "와": [
+        {
+            "file_name": "_selective_wisemaid_EP04_004_Crepe_와_Gsharp4_std42.1_-14.5dB_640ms_801ms_M30ms.ogg",
+            "start_ms": 63054,
+            "duration_ms": 172
+        }
+    ],
+    "왔": [
+        {
+            "file_name": "_selective_wisemaid_EP04_018_Crepe_왔_B3_std2.8_-18.7dB_1440ms_1660ms_M30ms.ogg",
+            "start_ms": 63226,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_017_Crepe_왔_C5_std58.9_-15.2dB_1060ms_1359ms_M30ms.ogg",
+            "start_ms": 63443,
+            "duration_ms": 301
+        }
+    ],
+    "왕": [
+        {
+            "file_name": "_selective_viciousrecipe_EP03_058_Crepe_왕_Csharp4_std15.3_-17.5dB_1619ms_1840ms_M30ms.ogg",
+            "start_ms": 63744,
+            "duration_ms": 218
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP04_039_Crepe_왕_B3_std18.0_-18.4dB_60ms_319ms_M30ms.ogg",
+            "start_ms": 63962,
+            "duration_ms": 256
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP07_048_Crepe_왕_Csharp5_std61.2_-17.1dB_3160ms_3420ms_M30ms.ogg",
+            "start_ms": 64218,
+            "duration_ms": 261
+        }
+    ],
+    "요": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_039_Crepe_요_B3_std21.6_-19.5dB_1359ms_1504ms_M30ms.ogg",
+            "start_ms": 64479,
+            "duration_ms": 142
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP04_064_Crepe_요_A4_std11.4_-15.1dB_3640ms_3784ms_M30ms.ogg",
+            "start_ms": 64621,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP04_064_Crepe_요_Fsharp4_std24.4_-19.0dB_919ms_1064ms_M30ms.ogg",
+            "start_ms": 64762,
+            "duration_ms": 147
+        }
+    ],
+    "우": [
+        {
+            "file_name": "_selective_wisemaid_EP03_091_Crepe_우_B3_std4.7_-18.8dB_540ms_647ms_M30ms.ogg",
+            "start_ms": 64909,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_005_Crepe_우_E5_std25.0_-12.6dB_2239ms_2402ms_M30ms.ogg",
+            "start_ms": 65018,
+            "duration_ms": 165
+        }
+    ],
+    "운": [
+        {
+            "file_name": "_selective_wisemaid_EP05_099_Crepe_운_B4_std2.4_-18.5dB_3440ms_3520ms_M30ms.ogg",
+            "start_ms": 65183,
+            "duration_ms": 77
+        }
+    ],
+    "움": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_038_Crepe_움_D4_std10.0_-18.5dB_2590ms_2739ms_M30ms.ogg",
+            "start_ms": 65260,
+            "duration_ms": 146
+        }
+    ],
+    "웃": [
+        {
+            "file_name": "_selective_wisemaid_EP04_013_Crepe_웃_E4_std50.2_-20.6dB_3040ms_3230ms_M30ms.ogg",
+            "start_ms": 65406,
+            "duration_ms": 192
+        }
+    ],
+    "원": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_040_Crepe_원_Dsharp5_std41.6_-13.5dB_1260ms_1460ms_M30ms.ogg",
+            "start_ms": 65598,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_057_Crepe_원_E4_std62.0_-16.9dB_1040ms_1240ms_M30ms.ogg",
+            "start_ms": 65795,
+            "duration_ms": 197
+        }
+    ],
+    "위": [
+        {
+            "file_name": "_selective_wisemaid_EP05_010_Crepe_위_Dsharp4_std5.3_-22.3dB_2280ms_2406ms_M30ms.ogg",
+            "start_ms": 65992,
+            "duration_ms": 128
+        }
+    ],
+    "유": [
+        {
+            "file_name": "_selective_wisemaid_EP03_015_Crepe_유_F4_std20.2_-22.0dB_2320ms_2464ms_M30ms.ogg",
+            "start_ms": 66120,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_049_Crepe_유_Dsharp4_std23.5_-24.8dB_420ms_564ms_M30ms.ogg",
+            "start_ms": 66261,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_008_Crepe_유_F4_std11.3_-19.1dB_620ms_781ms_M30ms.ogg",
+            "start_ms": 66402,
+            "duration_ms": 163
+        }
+    ],
+    "으": [
+        {
+            "file_name": "Voice_Crepe_Die1_으_G4_std7.7_-17.2dB_2889ms_2989ms_M30ms.ogg",
+            "start_ms": 66565,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Crepe_Spawn2_으_Fsharp4_std8.5_-17.0dB_3780ms_3888ms_M30ms.ogg",
+            "start_ms": 66666,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Crepe_Touch2_1_Skin2_으_F4_std5.1_-17.8dB_270ms_351ms_M30ms.ogg",
+            "start_ms": 66771,
+            "duration_ms": 83
+        }
+    ],
+    "은": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_045_Crepe_은_Dsharp5_std17.5_-18.9dB_4370ms_4540ms_M30ms.ogg",
+            "start_ms": 66854,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_023_Crepe_은_G4_std17.8_-21.2dB_2290ms_2460ms_M30ms.ogg",
+            "start_ms": 67025,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_055_Crepe_은_Gsharp4_std16.7_-16.0dB_430ms_600ms_M30ms.ogg",
+            "start_ms": 67192,
+            "duration_ms": 171
+        }
+    ],
+    "을": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_046_Crepe_을_Gsharp4_std29.9_-16.5dB_3210ms_3360ms_M30ms.ogg",
+            "start_ms": 67363,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_025_Crepe_을_A4_std5.7_-15.0dB_4410ms_4560ms_M30ms.ogg",
+            "start_ms": 67510,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_062_Crepe_을_Csharp5_std7.0_-19.0dB_3190ms_3340ms_M30ms.ogg",
+            "start_ms": 67662,
+            "duration_ms": 147
+        }
+    ],
+    "음": [
+        {
+            "file_name": "_selective_wisemaid_EP04_008_Crepe_음_Dsharp5_std2.9_-15.0dB_6509ms_6650ms_M30ms.ogg",
+            "start_ms": 67809,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_034_Crepe_음_C5_std19.6_-17.2dB_3870ms_4029ms_M30ms.ogg",
+            "start_ms": 67950,
+            "duration_ms": 160
+        }
+    ],
+    "의": [
+        {
+            "file_name": "_selective_wisemaid_EP05_007_Crepe_의_A4_std36.3_-18.5dB_2429ms_2565ms_M30ms.ogg",
+            "start_ms": 68110,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_007_Crepe_의_Csharp5_std45.1_-18.3dB_3510ms_3645ms_M30ms.ogg",
+            "start_ms": 68243,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_098_Crepe_의_B4_std12.2_-25.5dB_1150ms_1285ms_M30ms.ogg",
+            "start_ms": 68379,
+            "duration_ms": 132
+        }
+    ],
+    "이": [
+        {
+            "file_name": "_selective_wisemaid_EP03_027_Crepe_이_B3_std7.5_-24.4dB_1700ms_1843ms_M30ms.ogg",
+            "start_ms": 68511,
+            "duration_ms": 140
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_100_Crepe_이_Dsharp4_std12.2_-21.5dB_4500ms_4643ms_M30ms.ogg",
+            "start_ms": 68651,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "Voice_Crepe_Line3_이_Dsharp5_std4.0_-11.1dB_840ms_984ms_M30ms.ogg",
+            "start_ms": 68795,
+            "duration_ms": 141
+        }
+    ],
+    "인": [
+        {
+            "file_name": "_selective_wisemaid_EP04_047_Crepe_인_C5_std12.9_-23.7dB_2330ms_2500ms_M30ms.ogg",
+            "start_ms": 68936,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_인_C4_std22.9_-15.1dB_4579ms_4760ms_M30ms.ogg",
+            "start_ms": 69103,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_인_Asharp4_std10.6_-25.8dB_6689ms_6860ms_M30ms.ogg",
+            "start_ms": 69281,
+            "duration_ms": 168
+        }
+    ],
+    "일": [
+        {
+            "file_name": "_selective_wisemaid_EP01_062_Crepe_일_Gsharp4_std44.3_-19.9dB_2330ms_2480ms_M30ms.ogg",
+            "start_ms": 69449,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_wisemaid_EP02_073_Crepe_일_D5_std7.3_-13.3dB_1960ms_2150ms_M30ms.ogg",
+            "start_ms": 69601,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_wisemaid_EP02_079_Crepe_일_Csharp4_std31.0_-19.7dB_40ms_260ms_M30ms.ogg",
+            "start_ms": 69793,
+            "duration_ms": 217
+        }
+    ],
+    "임": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_162_Crepe_임_B4_std9.1_-23.0dB_2210ms_2420ms_M30ms.ogg",
+            "start_ms": 70010,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP07_162_Crepe_임_C5_std7.9_-17.7dB_3070ms_3240ms_M30ms.ogg",
+            "start_ms": 70221,
+            "duration_ms": 171
+        }
+    ],
+    "입": [
+        {
+            "file_name": "_selective_wisemaid_EP04_013_Crepe_입_F5_std26.3_-16.7dB_2680ms_2889ms_M30ms.ogg",
+            "start_ms": 70392,
+            "duration_ms": 211
+        }
+    ],
+    "잇": [
+        {
+            "file_name": "_selective_wisemaid_EP02_090_Crepe_잇_E5_std15.4_-20.2dB_5659ms_5909ms_M30ms.ogg",
+            "start_ms": 70603,
+            "duration_ms": 247
+        }
+    ],
+    "있": [
+        {
+            "file_name": "_selective_wisemaid_EP03_090_Crepe_있_Dsharp4_std6.6_-20.9dB_1170ms_1380ms_M30ms.ogg",
+            "start_ms": 70850,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_013_Crepe_있_Asharp3_std10.8_-26.9dB_3580ms_3790ms_M30ms.ogg",
+            "start_ms": 71061,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "Voice_Crepe_Die1_Skin2_있_Unvoiced_std0.0_-23.8dB_2480ms_2690ms_M30ms.ogg",
+            "start_ms": 71272,
+            "duration_ms": 211
+        }
+    ],
+    "자": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_166_Crepe_자_C5_std8.7_-13.5dB_1780ms_1924ms_M30ms.ogg",
+            "start_ms": 71483,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_085_Crepe_자_C5_std22.5_-17.0dB_1060ms_1204ms_M30ms.ogg",
+            "start_ms": 71624,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_040_Crepe_자_Gsharp4_std60.4_-15.2dB_840ms_984ms_M30ms.ogg",
+            "start_ms": 71765,
+            "duration_ms": 141
+        }
+    ],
+    "작": [
+        {
+            "file_name": "_selective_wisemaid_EP04_001_Crepe_작_F5_std10.6_-15.0dB_2220ms_2380ms_M30ms.ogg",
+            "start_ms": 71906,
+            "duration_ms": 180
+        }
+    ],
+    "잖": [
+        {
+            "file_name": "_selective_wisemaid_EP02_077_Crepe_잖_Dsharp5_std9.5_-14.3dB_4730ms_4970ms_M30ms.ogg",
+            "start_ms": 72086,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_008_Crepe_잖_Csharp5_std20.7_-14.4dB_7380ms_7590ms_M30ms.ogg",
+            "start_ms": 72323,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_034_Crepe_잖_Fsharp5_std45.1_-13.6dB_5940ms_6170ms_M30ms.ogg",
+            "start_ms": 72534,
+            "duration_ms": 232
+        }
+    ],
+    "장": [
+        {
+            "file_name": "_selective_wisemaid_EP04_054_Crepe_장_D5_std36.1_-16.8dB_420ms_620ms_M30ms.ogg",
+            "start_ms": 72766,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_장_Dsharp5_std14.8_-20.0dB_4840ms_5040ms_M30ms.ogg",
+            "start_ms": 72963,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_040_Crepe_장_Csharp5_std19.2_-16.1dB_2960ms_3160ms_M30ms.ogg",
+            "start_ms": 73160,
+            "duration_ms": 197
+        }
+    ],
+    "재": [
+        {
+            "file_name": "_selective_wisemaid_EP01_080_Crepe_재_C5_std14.4_-22.5dB_1099ms_1280ms_M30ms.ogg",
+            "start_ms": 73357,
+            "duration_ms": 201
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_054_Crepe_재_G3_std28.5_-23.8dB_3480ms_3660ms_M30ms.ogg",
+            "start_ms": 73558,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_112_Crepe_재_E4_std19.1_-20.9dB_1340ms_1520ms_M30ms.ogg",
+            "start_ms": 73735,
+            "duration_ms": 177
+        }
+    ],
+    "적": [
+        {
+            "file_name": "_selective_viciousrecipe_EP06_044_Crepe_적_Dsharp5_std34.3_-17.5dB_4460ms_4650ms_M30ms.ogg",
+            "start_ms": 73912,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_viciousrecipe_EP06_046_Crepe_적_D5_std13.1_-18.1dB_1859ms_2070ms_M30ms.ogg",
+            "start_ms": 74104,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_027_Crepe_적_B4_std31.6_-17.3dB_2920ms_3090ms_M30ms.ogg",
+            "start_ms": 74317,
+            "duration_ms": 171
+        }
+    ],
+    "전": [
+        {
+            "file_name": "_selective_wisemaid_EP01_062_Crepe_전_G4_std25.2_-16.7dB_1320ms_1540ms_M30ms.ogg",
+            "start_ms": 74488,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Crepe_Growth_전_C4_std64.9_-14.8dB_5760ms_5999ms_M30ms.ogg",
+            "start_ms": 74705,
+            "duration_ms": 236
+        },
+        {
+            "file_name": "Voice_Crepe_Growth_전_D4_std66.0_-15.9dB_3220ms_3460ms_M30ms.ogg",
+            "start_ms": 74941,
+            "duration_ms": 260
+        }
+    ],
+    "점": [
+        {
+            "file_name": "_selective_wisemaid_EP03_031_Crepe_점_Fsharp4_std6.2_-16.5dB_2100ms_2280ms_M30ms.ogg",
+            "start_ms": 75201,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_051_Crepe_점_C5_std27.8_-17.4dB_2009ms_2150ms_M30ms.ogg",
+            "start_ms": 75382,
+            "duration_ms": 141
+        }
+    ],
+    "정": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_057_Crepe_정_B4_std25.9_-17.0dB_2880ms_3140ms_M30ms.ogg",
+            "start_ms": 75523,
+            "duration_ms": 261
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_089_Crepe_정_D4_std8.9_-18.3dB_380ms_659ms_M30ms.ogg",
+            "start_ms": 75784,
+            "duration_ms": 276
+        },
+        {
+            "file_name": "Voice_Crepe_Die1_정_Csharp5_std8.0_-12.1dB_4399ms_4500ms_M30ms.ogg",
+            "start_ms": 76060,
+            "duration_ms": 101
+        }
+    ],
+    "제": [
+        {
+            "file_name": "_selective_wisemaid_EP05_008_Crepe_제_Dsharp4_std25.6_-19.0dB_5440ms_5602ms_M30ms.ogg",
+            "start_ms": 76161,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_제_D5_std18.6_-16.2dB_2340ms_2502ms_M30ms.ogg",
+            "start_ms": 76324,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_047_Crepe_제_A4_std11.2_-20.2dB_339ms_484ms_M30ms.ogg",
+            "start_ms": 76487,
+            "duration_ms": 147
+        }
+    ],
+    "젝": [
+        {
+            "file_name": "_selective_wisemaid_EP02_064_Crepe_젝_C5_std45.8_-23.1dB_1900ms_2120ms_M30ms.ogg",
+            "start_ms": 76634,
+            "duration_ms": 221
+        }
+    ],
+    "조": [
+        {
+            "file_name": "_selective_wisemaid_EP04_073_Crepe_조_C5_std8.6_-14.7dB_2540ms_2630ms_M30ms.ogg",
+            "start_ms": 76855,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_102_Crepe_조_Dsharp4_std73.4_-20.1dB_1320ms_1536ms_M30ms.ogg",
+            "start_ms": 76946,
+            "duration_ms": 213
+        }
+    ],
+    "좀": [
+        {
+            "file_name": "_selective_wisemaid_EP05_035_Crepe_좀_A4_std24.2_-27.2dB_7079ms_7220ms_M30ms.ogg",
+            "start_ms": 77159,
+            "duration_ms": 141
+        }
+    ],
+    "주": [
+        {
+            "file_name": "_selective_viciousrecipe_EP03_058_Crepe_주_Asharp4_std28.6_-19.1dB_319ms_482ms_M30ms.ogg",
+            "start_ms": 77300,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "_selective_wisemaid_EP02_068_Crepe_주_Asharp4_std3.6_-18.9dB_1400ms_1562ms_M30ms.ogg",
+            "start_ms": 77465,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Crepe_Touch1_1_Skin2_주_Dsharp5_std12.3_-18.1dB_2060ms_2222ms_M30ms.ogg",
+            "start_ms": 77628,
+            "duration_ms": 163
+        }
+    ],
+    "준": [
+        {
+            "file_name": "_selective_wisemaid_EP04_047_Crepe_준_B4_std14.0_-24.2dB_2120ms_2330ms_M30ms.ogg",
+            "start_ms": 77791,
+            "duration_ms": 211
+        }
+    ],
+    "줄": [
+        {
+            "file_name": "_selective_wisemaid_EP06_009_Crepe_줄_B4_std29.5_-18.0dB_919ms_1020ms_M30ms.ogg",
+            "start_ms": 78002,
+            "duration_ms": 101
+        }
+    ],
+    "중": [
+        {
+            "file_name": "_selective_viciousrecipe_EP03_058_Crepe_중_Csharp4_std35.1_-21.3dB_2060ms_2300ms_M30ms.ogg",
+            "start_ms": 78103,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_072_Crepe_중_Gsharp4_std5.8_-21.4dB_1000ms_1220ms_M30ms.ogg",
+            "start_ms": 78340,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_wisemaid_EP06_007_Crepe_중_A4_std8.7_-21.7dB_1880ms_2060ms_M30ms.ogg",
+            "start_ms": 78557,
+            "duration_ms": 177
+        }
+    ],
+    "지": [
+        {
+            "file_name": "_selective_wisemaid_EP03_080_Crepe_지_Dsharp5_std6.3_-15.7dB_4300ms_4444ms_M30ms.ogg",
+            "start_ms": 78734,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_001_Crepe_지_Dsharp4_std25.5_-18.8dB_80ms_224ms_M30ms.ogg",
+            "start_ms": 78875,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_054_Crepe_지_C4_std9.4_-20.5dB_1320ms_1464ms_M30ms.ogg",
+            "start_ms": 79016,
+            "duration_ms": 141
+        }
+    ],
+    "직": [
+        {
+            "file_name": "_selective_wisemaid_EP04_012_Crepe_직_E4_std4.1_-27.0dB_1220ms_1320ms_M30ms.ogg",
+            "start_ms": 79157,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_직_F4_std14.6_-28.0dB_1680ms_1940ms_M30ms.ogg",
+            "start_ms": 79258,
+            "duration_ms": 257
+        }
+    ],
+    "진": [
+        {
+            "file_name": "_selective_wisemaid_EP02_084_Crepe_진_Csharp5_std13.9_-23.5dB_5239ms_5400ms_M30ms.ogg",
+            "start_ms": 79515,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_001_Crepe_진_Dsharp4_std75.1_-22.2dB_1060ms_1320ms_M30ms.ogg",
+            "start_ms": 79678,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_072_Crepe_진_Asharp4_std19.7_-25.3dB_2300ms_2480ms_M30ms.ogg",
+            "start_ms": 79935,
+            "duration_ms": 177
+        }
+    ],
+    "질": [
+        {
+            "file_name": "Voice_Crepe_End2_질_E5_std6.8_-11.4dB_1400ms_1520ms_M30ms.ogg",
+            "start_ms": 80112,
+            "duration_ms": 122
+        },
+        {
+            "file_name": "Voice_Crepe_Victory1_Skin1_질_Dsharp5_std22.0_-18.2dB_1260ms_1500ms_M30ms.ogg",
+            "start_ms": 80234,
+            "duration_ms": 237
+        }
+    ],
+    "집": [
+        {
+            "file_name": "Voice_Crepe_Touch1_Skin2_집_C5_std5.4_-22.5dB_3130ms_3380ms_M30ms.ogg",
+            "start_ms": 80471,
+            "duration_ms": 247
+        }
+    ],
+    "쩔": [
+        {
+            "file_name": "_selective_wisemaid_EP04_058_Crepe_쩔_Dsharp5_std28.6_-16.0dB_3180ms_3360ms_M30ms.ogg",
+            "start_ms": 80718,
+            "duration_ms": 181
+        }
+    ],
+    "차": [
+        {
+            "file_name": "_selective_wisemaid_EP03_061_Crepe_차_B4_std39.3_-19.9dB_1340ms_1466ms_M30ms.ogg",
+            "start_ms": 80899,
+            "duration_ms": 128
+        }
+    ],
+    "책": [
+        {
+            "file_name": "_selective_viciousrecipe_EP04_046_Crepe_책_Csharp5_std27.4_-17.0dB_3040ms_3210ms_M30ms.ogg",
+            "start_ms": 81027,
+            "duration_ms": 171
+        }
+    ],
+    "챙": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_165_Crepe_챙_D5_std41.5_-18.8dB_2860ms_3080ms_M30ms.ogg",
+            "start_ms": 81198,
+            "duration_ms": 217
+        }
+    ],
+    "처": [
+        {
+            "file_name": "_selective_wisemaid_EP04_081_Crepe_처_C5_std34.9_-19.5dB_5899ms_6007ms_M30ms.ogg",
+            "start_ms": 81415,
+            "duration_ms": 109
+        }
+    ],
+    "청": [
+        {
+            "file_name": "_selective_wisemaid_EP03_092_Crepe_청_B4_std16.2_-22.3dB_3540ms_3760ms_M30ms.ogg",
+            "start_ms": 81524,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_013_Crepe_청_Csharp5_std11.4_-16.0dB_840ms_1119ms_M30ms.ogg",
+            "start_ms": 81745,
+            "duration_ms": 280
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_019_Crepe_청_Csharp5_std9.4_-19.5dB_540ms_770ms_M30ms.ogg",
+            "start_ms": 82025,
+            "duration_ms": 227
+        }
+    ],
+    "치": [
+        {
+            "file_name": "_selective_wisemaid_EP05_095_Crepe_치_Csharp5_std24.7_-21.5dB_5249ms_5421ms_M30ms.ogg",
+            "start_ms": 82252,
+            "duration_ms": 169
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_100_Crepe_치_F4_std6.6_-17.2dB_500ms_644ms_M30ms.ogg",
+            "start_ms": 82421,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Crepe_Line2_치_Csharp5_std14.4_-13.6dB_1180ms_1306ms_M30ms.ogg",
+            "start_ms": 82562,
+            "duration_ms": 128
+        }
+    ],
+    "크": [
+        {
+            "file_name": "Voice_Crepe_Growth_크_D5_std5.0_-13.5dB_620ms_746ms_M30ms.ogg",
+            "start_ms": 82690,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Crepe_Line3_크_Csharp5_std9.7_-14.8dB_600ms_726ms_M30ms.ogg",
+            "start_ms": 82818,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Crepe_Victory2_Skin2_크_D5_std11.5_-18.3dB_2320ms_2446ms_M30ms.ogg",
+            "start_ms": 82946,
+            "duration_ms": 128
+        }
+    ],
+    "큰": [
+        {
+            "file_name": "_selective_wisemaid_EP04_026_Crepe_큰_E4_std15.4_-22.8dB_3239ms_3400ms_M30ms.ogg",
+            "start_ms": 83074,
+            "duration_ms": 158
+        }
+    ],
+    "큼": [
+        {
+            "file_name": "Voice_Crepe_Line3_큼_A4_std59.0_-16.6dB_4360ms_4540ms_M30ms.ogg",
+            "start_ms": 83232,
+            "duration_ms": 181
+        }
+    ],
+    "타": [
+        {
+            "file_name": "Voice_Crepe_Joy1_타_Fsharp4_std25.2_-16.0dB_540ms_683ms_M30ms.ogg",
+            "start_ms": 83413,
+            "duration_ms": 144
+        }
+    ],
+    "터": [
+        {
+            "file_name": "_selective_wisemaid_EP03_030_Crepe_터_C5_std18.7_-15.1dB_4640ms_4747ms_M30ms.ogg",
+            "start_ms": 83557,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_017_Crepe_터_G4_std14.3_-10.4dB_1800ms_1962ms_M30ms.ogg",
+            "start_ms": 83684,
+            "duration_ms": 163
+        }
+    ],
+    "파": [
+        {
+            "file_name": "_selective_wisemaid_EP04_063_Crepe_파_C5_std38.0_-23.3dB_1280ms_1388ms_M30ms.ogg",
+            "start_ms": 83847,
+            "duration_ms": 109
+        }
+    ],
+    "판": [
+        {
+            "file_name": "_selective_wisemaid_EP01_080_Crepe_판_B4_std62.7_-19.5dB_1300ms_1500ms_M30ms.ogg",
+            "start_ms": 83956,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_082_Crepe_판_Dsharp5_std86.1_-21.9dB_3250ms_3400ms_M30ms.ogg",
+            "start_ms": 84153,
+            "duration_ms": 152
+        }
+    ],
+    "풀": [
+        {
+            "file_name": "_selective_wisemaid_EP03_031_Crepe_풀_A4_std6.9_-19.9dB_4499ms_4630ms_M30ms.ogg",
+            "start_ms": 84305,
+            "duration_ms": 133
+        }
+    ],
+    "프": [
+        {
+            "file_name": "Voice_Crepe_Birthday_프_A4_std2.0_-15.1dB_2600ms_2690ms_M30ms.ogg",
+            "start_ms": 84438,
+            "duration_ms": 91
+        }
+    ],
+    "피": [
+        {
+            "file_name": "_selective_wisemaid_EP03_032_Crepe_피_G4_std50.0_-18.3dB_1859ms_2049ms_M30ms.ogg",
+            "start_ms": 84529,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_wisemaid_EP04_025_Crepe_피_Gsharp4_std58.8_-21.0dB_4780ms_4978ms_M30ms.ogg",
+            "start_ms": 84721,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_010_Crepe_피_E4_std28.2_-24.3dB_100ms_280ms_M30ms.ogg",
+            "start_ms": 84921,
+            "duration_ms": 181
+        }
+    ],
+    "핀": [
+        {
+            "file_name": "Voice_Crepe_Line1_핀_C5_std17.5_-13.8dB_430ms_580ms_M30ms.ogg",
+            "start_ms": 85102,
+            "duration_ms": 152
+        }
+    ],
+    "하": [
+        {
+            "file_name": "_selective_wisemaid_EP03_015_Crepe_하_Csharp5_std22.5_-15.3dB_3560ms_3740ms_M30ms.ogg",
+            "start_ms": 85254,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Crepe_Greeting_하_A4_std19.8_-14.0dB_319ms_482ms_M30ms.ogg",
+            "start_ms": 85435,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "Voice_Crepe_Touch2_Skin2_하_E5_std25.5_-13.3dB_2750ms_2903ms_M30ms.ogg",
+            "start_ms": 85600,
+            "duration_ms": 155
+        }
+    ],
+    "한": [
+        {
+            "file_name": "_selective_wisemaid_EP04_024_Crepe_한_Dsharp5_std22.4_-17.3dB_659ms_860ms_M30ms.ogg",
+            "start_ms": 85755,
+            "duration_ms": 198
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_한_Csharp5_std38.1_-17.2dB_2160ms_2380ms_M30ms.ogg",
+            "start_ms": 85953,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Crepe_Touch1_2_Skin2_한_D5_std29.5_-14.3dB_2180ms_2380ms_M30ms.ogg",
+            "start_ms": 86174,
+            "duration_ms": 197
+        }
+    ],
+    "할": [
+        {
+            "file_name": "_selective_wisemaid_EP04_055_Crepe_할_Csharp5_std8.7_-17.7dB_4300ms_4520ms_M30ms.ogg",
+            "start_ms": 86371,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_016_Crepe_할_Asharp4_std22.9_-16.7dB_3670ms_3940ms_M30ms.ogg",
+            "start_ms": 86592,
+            "duration_ms": 272
+        }
+    ],
+    "함": [
+        {
+            "file_name": "_selective_wisemaid_EP05_098_Crepe_함_Csharp5_std15.1_-16.3dB_960ms_1150ms_M30ms.ogg",
+            "start_ms": 86864,
+            "duration_ms": 192
+        }
+    ],
+    "합": [
+        {
+            "file_name": "_selective_wisemaid_EP05_009_Crepe_합_Csharp5_std10.8_-14.7dB_4860ms_5079ms_M30ms.ogg",
+            "start_ms": 87056,
+            "duration_ms": 221
+        }
+    ],
+    "항": [
+        {
+            "file_name": "_selective_wisemaid_EP05_018_Crepe_항_D5_std7.4_-18.4dB_3340ms_3580ms_M30ms.ogg",
+            "start_ms": 87277,
+            "duration_ms": 237
+        }
+    ],
+    "해": [
+        {
+            "file_name": "_selective_viciousrecipe_EP07_046_Crepe_해_F5_std16.4_-14.3dB_2600ms_2798ms_M30ms.ogg",
+            "start_ms": 87514,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_wisemaid_EP05_099_Crepe_해_B4_std25.3_-22.1dB_1880ms_1988ms_M30ms.ogg",
+            "start_ms": 87714,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Crepe_Touch2_2_Skin1_해_A4_std22.9_-18.0dB_480ms_696ms_M30ms.ogg",
+            "start_ms": 87819,
+            "duration_ms": 213
+        }
+    ],
+    "했": [
+        {
+            "file_name": "_selective_wisemaid_EP04_050_Crepe_했_C5_std19.0_-29.3dB_2820ms_3080ms_M30ms.ogg",
+            "start_ms": 88032,
+            "duration_ms": 261
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_083_Crepe_했_Csharp5_std5.7_-21.7dB_2160ms_2340ms_M30ms.ogg",
+            "start_ms": 88293,
+            "duration_ms": 177
+        }
+    ],
+    "행": [
+        {
+            "file_name": "_selective_wisemaid_EP03_015_Crepe_행_Csharp5_std20.3_-26.3dB_7159ms_7399ms_M30ms.ogg",
+            "start_ms": 88470,
+            "duration_ms": 237
+        }
+    ],
+    "호": [
+        {
+            "file_name": "_selective_wisemaid_EP02_084_Crepe_호_Dsharp5_std19.5_-12.6dB_4460ms_4622ms_M30ms.ogg",
+            "start_ms": 88707,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_wisemaid_EP07_082_Crepe_호_Gsharp4_std58.0_-20.1dB_2120ms_2336ms_M30ms.ogg",
+            "start_ms": 88870,
+            "duration_ms": 213
+        }
+    ],
+    "혼": [
+        {
+            "file_name": "_selective_wisemaid_EP07_099_Crepe_혼_B4_std30.0_-23.9dB_1119ms_1340ms_M30ms.ogg",
+            "start_ms": 89083,
+            "duration_ms": 221
+        }
+    ],
+    "황": [
+        {
+            "file_name": "_selective_wisemaid_EP04_081_Crepe_황_D5_std15.1_-19.6dB_2160ms_2460ms_M30ms.ogg",
+            "start_ms": 89304,
+            "duration_ms": 297
+        }
+    ],
+    "후": [
+        {
+            "file_name": "_selective_wisemaid_EP04_063_Crepe_후_Gsharp4_std8.0_-24.6dB_860ms_986ms_M30ms.ogg",
+            "start_ms": 89601,
+            "duration_ms": 128
+        }
+    ],
+    "훨": [
+        {
+            "file_name": "_selective_wisemaid_EP07_041_Crepe_훨_F5_std20.0_-15.9dB_1979ms_2200ms_M30ms.ogg",
+            "start_ms": 89729,
+            "duration_ms": 221
+        }
+    ],
+    "희": [
+        {
+            "file_name": "_selective_wisemaid_EP02_067_Crepe_희_Fsharp4_std35.3_-23.0dB_700ms_1006ms_M30ms.ogg",
+            "start_ms": 89950,
+            "duration_ms": 307
+        },
+        {
+            "file_name": "_selective_wisemaid_EP03_052_Crepe_희_G4_std36.9_-21.5dB_1260ms_1440ms_M30ms.ogg",
+            "start_ms": 90257,
+            "duration_ms": 181
+        }
+    ],
+    "히": [
+        {
+            "file_name": "_selective_wisemaid_EP03_091_Crepe_히_Dsharp4_std12.3_-14.7dB_820ms_927ms_M30ms.ogg",
+            "start_ms": 90438,
+            "duration_ms": 109
+        }
+    ]
+}
