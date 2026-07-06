@@ -129,7 +129,7 @@ button:disabled { background-color: #7f8c8d; cursor: not-allowed; }
 
 #subtitle-box { 
     position: absolute; bottom: 30px; left: 5%; width: 90%; 
-    height: 240px; 
+    height: 200px; 
     background-color: rgba(25, 25, 35, 0.9); border: 3px solid #d2d2e6; border-radius: 15px; 
     padding: 15px 20px; 
     box-shadow: 0 5px 15px rgba(0,0,0,0.5); z-index: 20; 

@@ -42,17 +42,11 @@ function getSimilarityScore(target, candidate) {
 class VoiceEngine {
     constructor() { 
         this.ctx = null; 
-        this.voiceDB = {}; 
-        this.audioCache = {}; 
         this.masterGain = null;
+        this.audioBuffers = {}; // { "네르": AudioBuffer, "리온": AudioBuffer ... }
+        this.spriteData = {};   // { "네르": { "가": [{start_ms: 0, duration_ms: 128}, ...], ... } }
     }
-    async preloadVoices(charName) {
-        const syllables = this.voiceDB[charName] || {};
-        const urls = Object.values(syllables).flat();
-        await Promise.all(urls.map(url => this.getAudioBuffer(url)));
-    
-        console.log(`${charName} 음성 로딩 완료`);
-    }
+
     async init() {
         if (!this.ctx) {
             this.ctx = new (window.AudioContext || window.webkitAudioContext)();
@@ -60,19 +54,30 @@ class VoiceEngine {
             this.masterGain.connect(this.ctx.destination);
             if(ui.sliders.tts) this.masterGain.gain.value = parseFloat(ui.sliders.tts.value);
         }
-        if (Object.keys(this.voiceDB).length === 0) {
-            try { this.voiceDB = await (await fetch('voice_cache.json')).json(); } catch(e){}
-        }
     }
-    
-    async getAudioBuffer(url) {
-        if (this.audioCache[url]) return this.audioCache[url];
+
+    // 캐릭터별 마스터믹스(.ogg)와 타이밍 데이터(.json)를 미리 로드합니다.
+    async preloadVoices(charName) {
+        await this.init();
+        if (this.audioBuffers[charName]) return; // 이미 로드된 경우 스킵
+
         try {
-            const res = await fetch(url);
-            if(!res.ok) return null;
-            const buf = await this.ctx.decodeAudioData(await res.arrayBuffer());
-            this.audioCache[url] = buf; return buf;
-        } catch (e) { return null; }
+            // 1. JSON 타이밍 데이터 로드
+            const jsonRes = await fetch(`voices/${charName}.json`);
+            if (jsonRes.ok) {
+                this.spriteData[charName] = await jsonRes.json();
+            }
+
+            // 2. OGG 마스터믹스 로드 및 디코딩
+            const audioRes = await fetch(`voices/${charName}.ogg`);
+            if (audioRes.ok) {
+                const arrayBuffer = await audioRes.arrayBuffer();
+                this.audioBuffers[charName] = await this.ctx.decodeAudioData(arrayBuffer);
+            }
+            console.log(`${charName} 마스터믹스 및 타이밍 데이터 로딩 완료`);
+        } catch (e) {
+            console.error(`${charName} 로딩 실패:`, e);
+        }
     }
     
     convertNumbersToHangul(text) {
@@ -91,65 +96,69 @@ class VoiceEngine {
                 bestScore = score;
                 bestMatch = char;
             } else if (score === bestScore && score > 0) {
+                // 동점일 경우 기존 로직처럼 랜덤 분기
                 if (Math.random() > 0.5) bestMatch = char;
             }
         }
         return bestScore >= 50 ? bestMatch : null;
     }
 
-    findSimilarSyllable(targetChar, availableSyllables) {
-        const targetCho = getChoseong(targetChar);
-        if (!targetCho) return null;
-        const similarChos = CHO_SIMILARITY[targetCho] || [targetCho];
-        const availableKeys = Object.keys(availableSyllables);
-        const candidates = availableKeys.filter(key => similarChos.includes(getChoseong(key)));
-        if (candidates.length > 0) {
-            return candidates[Math.floor(Math.random() * candidates.length)];
-        }
-        return null;
-    }
-
     async playSpeech(charName, text, speedOption) {
-    await this.init();
-    if (this.ctx.state === 'suspended') await this.ctx.resume();
+        await this.init(); 
+        
+        if (!this.audioBuffers[charName] || !this.spriteData[charName]) {
+            await this.preloadVoices(charName);
+        }
 
-    const syllables = this.voiceDB[charName] || {};
-    const chars = text.split('');
-    let currentSource = null;
+        const buffer = this.audioBuffers[charName];
+        const sprites = this.spriteData[charName] || {};
+        
+        text = this.convertNumbersToHangul(text);
+        let delayMs = 0, spaceMs = 80; 
+        
+        let relativeTime = 0.05;
+        let timings = [];
 
-    // 순차적으로 재생할 재귀 함수
-    const playNext = async (index) => {
-        if (index >= chars.length) return;
+        for (const char of text) {
+            timings.push(relativeTime); 
+            
+            if ([' ', '\n', '.', ',', '!', '?', '~'].includes(char)) {
+                relativeTime += spaceMs / 1000;
+                continue;
+            }
 
-        const char = chars[index];
-        const wavs = syllables[char] || syllables[this.findBestMatch(char, syllables)];
+            let spriteArray = sprites[char];
+            
+            // 해당 음절이 JSON에 없으면 가장 비슷한 음절 찾기
+            if (!spriteArray || spriteArray.length === 0) {
+                const bestMatch = this.findBestMatch(char, sprites);
+                if (bestMatch) spriteArray = sprites[bestMatch];
+            }
 
-        // 유효한 소리가 있는 경우
-        if (wavs && wavs.length > 0) {
-            const buf = await this.getAudioBuffer(wavs[Math.floor(Math.random() * wavs.length)].replace(/\\/g, '/'));
-            if (buf) {
+            if (spriteArray && spriteArray.length > 0 && buffer) {
+                // 배열 안의 여러 음성(파일) 중 하나를 무작위로 선택하여 재생의 자연스러움 확보
+                const variant = spriteArray[Math.floor(Math.random() * spriteArray.length)];
+
+                // JSON의 밀리초(ms) 데이터를 Web Audio API 규격인 초(s) 단위로 변환
+                const startTime = variant.start_ms / 1000;
+                const duration = variant.duration_ms / 1000;
+
                 const src = this.ctx.createBufferSource();
-                src.buffer = buf;
+                src.buffer = buffer; 
                 src.connect(this.masterGain);
                 
-                // UI 타이핑 효과 업데이트 (여기서 index로 텍스트를 뿌려주세요)
-                ui.sub.text.textContent += char;
+                // 마스터믹스에서 계산된 위치만큼만 잘라서 재생 스케줄링
+                src.start(this.ctx.currentTime + relativeTime, startTime, duration);
                 
-                src.start(0); // 즉시 재생
-                
-                // 현재 소리가 끝나면 다음 소리 재생
-                src.onended = () => playNext(index + 1);
-                return;
+                relativeTime += duration + (delayMs / 1000);
+            } else {
+                relativeTime += spaceMs / 1000;
             }
         }
-        
-        // 소리가 없으면 약간의 딜레이 후 다음 글자 진행
-        setTimeout(() => playNext(index + 1), 80); 
-    };
+        return timings;
+    }
+}
 
-    playNext(0);
-}
-}
 const ttsEngine = new VoiceEngine();
 
 const ui = {
@@ -450,6 +459,13 @@ async function runTrial() {
     const allChars = typeof AVAILABLE_CHARACTERS !== 'undefined' ? AVAILABLE_CHARACTERS.join(", ") : "없음";
     const getP = (name) => (typeof PERSONAS !== 'undefined' && PERSONAS[name]) ? PERSONAS[name] : `당신은 ${name}입니다.`;
     
+    // 🔥 헬퍼 함수: 당사자가 검사나 변호사 본인이면 해당 역할을 반환해 분신술 버그 방지
+    const getRole = (name, fallbackRole) => {
+        if (name === r.pros) return "검사";
+        if (name === r.law) return "변호사";
+        return fallbackRole;
+    };
+
     hideWitness(); trialHistory = [];
     ui.sub.name.innerText = `판사 (${r.judge})`; ui.sub.text.textContent = "재판 준비 중...";
 
@@ -478,23 +494,31 @@ async function runTrial() {
 
         ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "검사 변론 중...";
         const prosRole = caseType === "유무죄" ? "피고의 유죄를 강력히 주장하세요." : `상대방을 논파하고 '${prosPos}'의 입장을 강력히 대변하세요.`;
-        const pReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: ${prosRole} 길이: ${length}.\n[필수 지시] 당신의 주장을 뒷받침하거나 거짓 증언을 해줄 증인을 목록 중 무조건 1명 선택해 'summoned_character'에 적으세요. 목록: [${allChars}]`;
+        
+        // 🔥 수정 1: 증인은 정말 필요할 때만 부르도록 프롬프트 변경
+        const pReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: ${prosRole} 길이: ${length}.\n[지시] 주장을 뒷받침할 제3자의 증언이나 목격자가 꼭 필요한 상황에만 목록에서 1명을 선택해 'summoned_character'에 적고, 필요 없다면 반드시 "없음"이라고 적으세요. (검사나 변호사 본인 제외) 목록: [${allChars}]`;
         const pRes = await callGemini(getP(r.pros), pReq);
         await playObj("검사", "변론 개시!");
         await playSpeech("검사", r.pros, pRes.text, pRes.emotion);
         trialHistory.push(`검사(${r.pros}): ${pRes.text}`);
 
-        let activeWitness = (pRes.summoned_character && pRes.summoned_character !== "없음") ? pRes.summoned_character : r.det; 
-        ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `증인 (${activeWitness}) 증언 중...`;
-        const wPrompt1 = `쟁점: "${topic}"\n상황: 검사(${r.pros})의 요청으로 증인석에 섰습니다. 검사의 의견에 동조하며 변호사 측이 불리하도록 자신 있게 증언하세요. 길이: ${length}`;
-        const wRes1 = await callGemini(getP(activeWitness), wPrompt1);
-        await playSpeech("증인", activeWitness, wRes1.text, wRes1.emotion);
-        trialHistory.push(`증인(${activeWitness}): ${wRes1.text}`); 
-        hideWitness();
+        // 🔥 수정 2: AI가 '없음'을 뱉으면 증인 출석 자체를 스킵
+        let activeWitness = (pRes.summoned_character && pRes.summoned_character !== "없음" && pRes.summoned_character !== r.pros && pRes.summoned_character !== r.law) ? pRes.summoned_character : null; 
+        
+        if (activeWitness) {
+            ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `증인 (${activeWitness}) 증언 중...`;
+            const wPrompt1 = `쟁점: "${topic}"\n상황: 검사(${r.pros})의 요청으로 증인석에 섰습니다. 검사의 의견에 동조하며 변호사 측이 불리하도록 자신 있게 증언하세요. 길이: ${length}`;
+            const wRes1 = await callGemini(getP(activeWitness), wPrompt1);
+            await playSpeech("증인", activeWitness, wRes1.text, wRes1.emotion);
+            trialHistory.push(`증인(${activeWitness}): ${wRes1.text}`); 
+            hideWitness();
+        }
 
         ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "변호사 반론 중...";
         const lawRole = caseType === "유무죄" ? "피고의 무죄를 강력히 방어하세요." : `검사를 반박하고 '${lawPos}'의 입장을 강력히 대변하세요.`;
-        const lReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: 방금 전 검사 측과 증인이 펼친 주장의 모순을 찾아내 박살내고 ${lawRole} 길이: ${length}.`;
+        // 증인이 있으면 증인의 모순을, 없으면 검사의 모순을 지적하도록 분기
+        const attackTarget = activeWitness ? `검사 측과 방금 전 증인(${activeWitness})이 펼친 주장의 모순` : `검사 측이 펼친 논리의 모순`;
+        const lReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: ${attackTarget}을 찾아내 박살내고 ${lawRole} 길이: ${length}.`;
         const lRes = await callGemini(getP(r.law), lReq);
         await playObj("변호사", "이의 있음!");
         await playSpeech("변호사", r.law, lRes.text, lRes.emotion);
@@ -505,7 +529,7 @@ async function runTrial() {
 
     ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "최종 판결 조율 중...";
     const verdictTask = caseType === "유무죄" ? "검사 측의 승리(유죄)로 판결을 내리세요." : `재판 과정을 참고하여 '${prosPos}'의 손을 들어주는 판결을 내리세요.`;
-    const vReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: 양측의 주장이 끝났습니다. ${verdictTask} 길이: ${length}.\n[특수 지시] 재판 결과에 직접 영향을 받는 당사자가 있다면 다음 목록 중 1명을 'summoned_character'에 적어 판결 후 반응을 확인하세요. 딱히 없으면 '없음'이라고 적으세요. 목록: [${allChars}]`;
+    const vReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: 양측의 주장이 끝났습니다. ${verdictTask} 길이: ${length}.\n[특수 지시] 재판 결과에 직접 영향을 받는 당사자(피고인, 패소자)가 있다면 목록 중 1명을 'summoned_character'에 적어 판결 후 반응을 확인하세요. 딱히 없으면 '없음'이라고 적으세요. 목록: [${allChars}]`;
     const vRes = await callGemini(getP(r.judge), vReq);
     
     await playSpeech("판사", r.judge, judgeLines.intro, "Idle");
@@ -514,13 +538,17 @@ async function runTrial() {
     playBGM('Verdict'); 
     await playSpeech("판사", r.judge, vRes.text, vRes.emotion);
 
+    // 🔥 수정 3: 판결 반응 시 당사자가 검사나 변호사면 그 자리에서 발언 (분신술 해결)
     if (vRes.summoned_character && vRes.summoned_character !== "없음" && PERSONAS[vRes.summoned_character]) {
         const defName = vRes.summoned_character;
         ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `당사자 (${defName}) 반응 중...`;
         const defPrompt = `쟁점: "${topic}"\n상황: 방금 판사가 당신에게 불리한(패소/유죄) 최종 선고를 내렸습니다. 이 결과에 대한 생생한 반응을 성격에 맞게 표현하세요. 길이: ${length}`;
         const defRes = await callGemini(getP(defName), defPrompt);
-        await playSpeech("피고인", defName, defRes.text, defRes.emotion);
-        trialHistory.push(`피고인(${defName}): ${defRes.text}`);
+        
+        const role = getRole(defName, caseType === "유무죄" ? "피고인" : "당사자");
+        await playSpeech(role, defName, defRes.text, defRes.emotion);
+        trialHistory.push(`${role}(${defName}): ${defRes.text}`);
+        if (role !== "검사" && role !== "변호사") hideWitness();
     }
 
     if (Math.random() < revProb) {
@@ -531,20 +559,32 @@ async function runTrial() {
         
         playBGM('Pursuit'); 
 
-        let lastWitness = trialHistory.find(h => h.startsWith("증인("))?.match(/\((.*?)\)/)?.[1] || r.det;
+        // 증인이 없었다면 검사를 직접 공격
+        let lastWitness = trialHistory.find(h => h.startsWith("증인("))?.match(/\((.*?)\)/)?.[1];
         
-        const revLaw = await callGemini(getP(r.law), `상황: 선고가 났지만 당신은 방금 전 증인(${lastWitness})이 했던 증언에서 치명적인 거짓말과 모순을 발견했습니다! 결정적 증거를 들이밀며 증인을 사정없이 몰아붙이세요! 길이: ${length}`);
+        const revLawPrompt = lastWitness ? 
+            `상황: 선고가 났지만 당신은 방금 전 증인(${lastWitness})이 했던 증언에서 치명적인 거짓말과 모순을 발견했습니다! 결정적 증거를 들이밀며 증인을 사정없이 몰아붙이세요! 길이: ${length}` :
+            `상황: 선고가 났지만 당신은 검사(${r.pros})의 논리에서 치명적인 조작과 모순을 발견했습니다! 결정적 증거를 들이밀며 검사를 사정없이 몰아붙이세요! 길이: ${length}`;
+            
+        const revLaw = await callGemini(getP(r.law), revLawPrompt);
         await playSpeech("변호사", r.law, revLaw.text, revLaw.emotion);
         
-        ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "증인 정체 탄록 중...";
-        const revWit = await callGemini(getP(lastWitness), `상황: 변호사(${r.law})가 당신의 완벽한 거짓말의 모순을 증거와 함께 폭로했습니다! 완전히 변명의 여지가 없습니다. 크게 당황하고 발악하며 자신의 죄를 자백하거나 무너지세요. 길이: ${length}`);
-        await playSpeech("증인", lastWitness, revWit.text, revWit.emotion); 
+        if (lastWitness) {
+            ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "증인 정체 탄로 중...";
+            const revWit = await callGemini(getP(lastWitness), `상황: 변호사(${r.law})가 당신의 완벽한 거짓말의 모순을 증거와 함께 폭로했습니다! 완전히 변명의 여지가 없습니다. 크게 당황하고 발악하며 자신의 죄를 자백하거나 무너지세요. 길이: ${length}`);
+            await playSpeech("증인", lastWitness, revWit.text, revWit.emotion); 
+            hideWitness();
+        }
         
-        const revPros = await callGemini(getP(r.pros), `상황: 믿었던 증인이 거짓말을 자백하며 완벽하게 무너졌습니다. 재판이 뒤집힌 것에 절망하며 윽박지르거나 무너지세요.`);
+        const revProsPrompt = lastWitness ? 
+            `상황: 믿었던 증인이 거짓말을 자백하며 완벽하게 무너졌습니다. 재판이 뒤집힌 것에 절망하며 윽박지르거나 무너지세요.` :
+            `상황: 변호사(${r.law})가 당신의 논리적 모순과 조작을 완벽하게 폭로했습니다! 변명의 여지 없이 완전히 무너져 내리며 당황하세요.`;
+            
+        const revPros = await callGemini(getP(r.pros), revProsPrompt);
         await playSpeech("검사", r.pros, revPros.text, revPros.emotion);
         
         const revTarget = caseType === "유무죄" ? "무죄" : lawPos;
-        const revJudgeReq = `상황: 증인의 자백으로 법정이 술렁이고 있습니다! 이전에 내린 판결을 번복할지 결정해야 합니다.\n[판결 지시] 변호사의 역전 주장이 타당하다면 'is_reversed'를 true로 하고 대역전('${revTarget}' 승리) 선고를 내리세요. 만약 변호사의 주장이 억지라고 판단되면 'is_reversed'를 false로 하고 이의를 기각하여 기존 선고를 유지하세요. 길이는 ${length}.\n[특수 지시] 판결을 받고 반응할 당사자를 'summoned_character'에 적으세요. 없으면 '없음'. 목록: [${allChars}]`;
+        const revJudgeReq = `상황: 반전의 증거로 법정이 술렁이고 있습니다! 이전에 내린 판결을 번복할지 결정해야 합니다.\n[판결 지시] 변호사의 역전 주장이 타당하다면 'is_reversed'를 true로 하고 대역전('${revTarget}' 승리) 선고를 내리세요. 만약 변호사의 주장이 억지라고 판단되면 'is_reversed'를 false로 하고 이의를 기각하여 기존 선고를 유지하세요. 길이는 ${length}.\n[특수 지시] 판결을 받고 반응할 당사자를 'summoned_character'에 적으세요. 없으면 '없음'. 목록: [${allChars}]`;
         
         const revJudge = await callGemini(getP(r.judge), revJudgeReq);
         
@@ -561,8 +601,11 @@ async function runTrial() {
                 ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `당사자 (${defName}) 환호 중...`;
                 const defPrompt = `쟁점: "${topic}"\n상황: 대역전극이 벌어져 판사가 당신에게 유리하게 번복 선고를 내렸습니다! 기적적으로 살아난 기쁨과 감격을 성격에 맞게 표현하세요! 길이: ${length}`;
                 const defRes = await callGemini(getP(defName), defPrompt);
-                await playSpeech("당사자", defName, defRes.text, defRes.emotion);
-                trialHistory.push(`당사자(${defName}): ${defRes.text}`);
+                
+                const role = getRole(defName, "당사자");
+                await playSpeech(role, defName, defRes.text, defRes.emotion);
+                trialHistory.push(`${role}(${defName}): ${defRes.text}`);
+                if (role !== "검사" && role !== "변호사") hideWitness();
             }
         } else {
             await playSpeech("판사", r.judge, judgeLines.fail, "Angry");
@@ -574,10 +617,12 @@ async function runTrial() {
                 ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `당사자 (${defName}) 절망 중...`;
                 const defPrompt = `쟁점: "${topic}"\n상황: 마지막 희망이었던 이의 제기마저 기각되어 결국 패소가 확정되었습니다! 완전한 절망과 슬픔을 성격에 맞게 표현하세요. 길이: ${length}`;
                 const defRes = await callGemini(getP(defName), defPrompt);
-                await playSpeech("당사자", defName, defRes.text, defRes.emotion);
-                trialHistory.push(`당사자(${defName}): ${defRes.text}`);
+                
+                const role = getRole(defName, "당사자");
+                await playSpeech(role, defName, defRes.text, defRes.emotion);
+                trialHistory.push(`${role}(${defName}): ${defRes.text}`);
+                if (role !== "검사" && role !== "변호사") hideWitness();
             }
         }
     }
-    
 }
