@@ -110,38 +110,41 @@ class VoiceEngine {
     }
 
     async playSpeech(charName, text, speedOption) {
-        await this.init(); 
-        const syllables = this.voiceDB[charName] || {};
-        text = this.convertNumbersToHangul(text);
-        let delayMs = 0, spaceMs = 80; 
-        const fetchPromises = text.split('').map(async (char) => {
-            if ([' ', '\n', '.', ',', '!', '?', '~'].includes(char)) return null;
-            let wavs = syllables[char];
-            if (!wavs || wavs.length === 0) {
-                const bestMatch = this.findBestMatch(char, syllables);
-                if (bestMatch) {
-                    wavs = syllables[bestMatch];
-                }
+    await this.init();
+    const syllables = this.voiceDB[charName] || {};
+    text = this.convertNumbersToHangul(text);
+    let delayMs = 0, spaceMs = 80;
+    const fetchPromises = text.split('').map(async (char) => {
+        if ([' ', '\n', '.', ',', '!', '?', '~'].includes(char)) return null;
+        let wavs = syllables[char];
+        if (!wavs || wavs.length === 0) {
+            const bestMatch = this.findBestMatch(char, syllables);
+            if (bestMatch) {
+                wavs = syllables[bestMatch];
             }
-            if (wavs && wavs.length > 0) {
-                return await this.getAudioBuffer(wavs[Math.floor(Math.random() * wavs.length)].replace(/\\/g, '/'));
-            }
-            return null;
-        });
-        const buffers = await Promise.all(fetchPromises);
-        let relativeTime = 0.05, timings = [];
-        for (let buf of buffers) {
-            timings.push(relativeTime);
-            if (buf) {
-                const src = this.ctx.createBufferSource();
-                src.buffer = buf; 
-                src.connect(this.masterGain);
-                src.start(this.ctx.currentTime + relativeTime);
-                relativeTime += buf.duration + delayMs/1000;
-            } else { relativeTime += spaceMs/1000; }
         }
-        return timings;
+        if (wavs && wavs.length > 0) {
+            return await this.getAudioBuffer(wavs[Math.floor(Math.random() * wavs.length)].replace(/\\/g, '/'));
+        }
+        return null;
+    });
+    const buffers = await Promise.all(fetchPromises);
+    const startTime = this.ctx.currentTime + 0.1;
+    let relativeTime = 0, timings = [];
+    for (let buf of buffers) {
+        timings.push(relativeTime);
+        if (buf) {
+            const src = this.ctx.createBufferSource();
+            src.buffer = buf;
+            src.connect(this.masterGain);
+            src.start(startTime + relativeTime);
+            relativeTime += buf.duration + delayMs / 1000;
+        } else {
+            relativeTime += spaceMs / 1000;
+        }
     }
+    return timings;
+}
 }
 const ttsEngine = new VoiceEngine();
 
