@@ -1,0 +1,4850 @@
+{
+    "가": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_가_E3_std6.9_-15.3dB_319ms_428ms_M30ms.ogg",
+            "start_ms": 0,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_016_Arnet_가_Asharp3_std2.4_-17.5dB_980ms_1088ms_M30ms.ogg",
+            "start_ms": 109,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_021_Arnet_가_C5_std16.0_-12.8dB_1560ms_1668ms_M30ms.ogg",
+            "start_ms": 218,
+            "duration_ms": 109
+        }
+    ],
+    "각": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_각_Csharp4_std5.2_-12.3dB_4300ms_4380ms_M30ms.ogg",
+            "start_ms": 327,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_058_Arnet_각_Dsharp3_std17.1_-20.7dB_3220ms_3320ms_M30ms.ogg",
+            "start_ms": 404,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_각_C4_std7.4_-19.0dB_260ms_400ms_M30ms.ogg",
+            "start_ms": 505,
+            "duration_ms": 137
+        }
+    ],
+    "간": [
+        {
+            "file_name": "_selective_FightFire_EP02_037_Arnet_간_Gsharp3_std11.6_-17.3dB_2000ms_2200ms_M30ms.ogg",
+            "start_ms": 642,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_012_Arnet_간_D4_std18.0_-14.4dB_1940ms_2140ms_M30ms.ogg",
+            "start_ms": 839,
+            "duration_ms": 197
+        }
+    ],
+    "갈": [
+        {
+            "file_name": "_selective_FightFire_EP01_015_Arnet_갈_B3_std16.7_-18.0dB_820ms_960ms_M30ms.ogg",
+            "start_ms": 1036,
+            "duration_ms": 141
+        }
+    ],
+    "감": [
+        {
+            "file_name": "_selective_FightFire_EP01_020_Arnet_감_C4_std9.1_-19.0dB_1280ms_1460ms_M30ms.ogg",
+            "start_ms": 1177,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_030_Arnet_감_Csharp4_std25.8_-15.8dB_2140ms_2320ms_M30ms.ogg",
+            "start_ms": 1358,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_053_Arnet_감_E3_std2.0_-21.6dB_3520ms_3730ms_M30ms.ogg",
+            "start_ms": 1535,
+            "duration_ms": 207
+        }
+    ],
+    "갔": [
+        {
+            "file_name": "_selective_FightFire_EP04_067_Arnet_갔_E4_std20.5_-24.9dB_4079ms_4239ms_M30ms.ogg",
+            "start_ms": 1742,
+            "duration_ms": 180
+        }
+    ],
+    "강": [
+        {
+            "file_name": "_selective_FightFire_EP02_016_Arnet_강_A3_std8.0_-17.9dB_2460ms_2640ms_M30ms.ogg",
+            "start_ms": 1922,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_008_Arnet_강_F4_std11.8_-16.8dB_820ms_1000ms_M30ms.ogg",
+            "start_ms": 2103,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_011_Arnet_강_Csharp4_std2.5_-16.8dB_4499ms_4659ms_M30ms.ogg",
+            "start_ms": 2280,
+            "duration_ms": 157
+        }
+    ],
+    "같": [
+        {
+            "file_name": "_selective_FightFire_EP01_022_Arnet_같_G3_std11.5_-19.6dB_3260ms_3450ms_M30ms.ogg",
+            "start_ms": 2437,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_같_Dsharp4_std7.4_-16.2dB_439ms_610ms_M30ms.ogg",
+            "start_ms": 2629,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_066_Arnet_같_Unvoiced_std0.0_-21.4dB_1270ms_1450ms_M30ms.ogg",
+            "start_ms": 2802,
+            "duration_ms": 181
+        }
+    ],
+    "개": [
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_개_Fsharp3_std17.0_-19.1dB_3760ms_3904ms_M30ms.ogg",
+            "start_ms": 2983,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_021_Arnet_개_B3_std17.2_-25.3dB_1500ms_1662ms_M30ms.ogg",
+            "start_ms": 3124,
+            "duration_ms": 163
+        }
+    ],
+    "거": [
+        {
+            "file_name": "_selective_FightFire_EP01_046_Arnet_거_D3_std24.3_-22.4dB_3320ms_3446ms_M30ms.ogg",
+            "start_ms": 3287,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Arnet_DutchRubEnd2_Skin1_거_E4_std13.9_-11.4dB_1320ms_1446ms_M30ms.ogg",
+            "start_ms": 3415,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Arnet_Growth1_거_G4_std35.5_-12.8dB_1060ms_1186ms_M30ms.ogg",
+            "start_ms": 3543,
+            "duration_ms": 128
+        }
+    ],
+    "걱": [
+        {
+            "file_name": "_selective_FightFire_EP04_060_Arnet_걱_D4_std21.8_-25.6dB_2700ms_2900ms_M30ms.ogg",
+            "start_ms": 3671,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_057_Arnet_걱_E4_std17.4_-21.8dB_560ms_740ms_M30ms.ogg",
+            "start_ms": 3868,
+            "duration_ms": 181
+        }
+    ],
+    "건": [
+        {
+            "file_name": "_selective_FightFire_EP03_011_Arnet_건_D4_std27.5_-16.1dB_3600ms_3740ms_M30ms.ogg",
+            "start_ms": 4049,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_027_Arnet_건_Csharp4_std17.7_-17.6dB_5840ms_5999ms_M30ms.ogg",
+            "start_ms": 4190,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_021_Arnet_건_B3_std12.2_-18.2dB_1660ms_1820ms_M30ms.ogg",
+            "start_ms": 4350,
+            "duration_ms": 157
+        }
+    ],
+    "걸": [
+        {
+            "file_name": "_selective_FightFire_EP01_009_Arnet_걸_Csharp3_std4.7_-17.3dB_139ms_280ms_M30ms.ogg",
+            "start_ms": 4507,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_051_Arnet_걸_Asharp3_std6.9_-15.4dB_1340ms_1520ms_M30ms.ogg",
+            "start_ms": 4648,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_048_Arnet_걸_E3_std4.1_-21.3dB_2400ms_2560ms_M30ms.ogg",
+            "start_ms": 4825,
+            "duration_ms": 157
+        }
+    ],
+    "것": [
+        {
+            "file_name": "_selective_FightFire_EP01_035_Arnet_것_Dsharp3_std5.4_-24.3dB_820ms_1000ms_M30ms.ogg",
+            "start_ms": 4982,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_051_Arnet_것_Unvoiced_std0.0_-25.4dB_3420ms_3600ms_M30ms.ogg",
+            "start_ms": 5163,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_003_Arnet_것_Gsharp3_std11.4_-21.6dB_1300ms_1480ms_M30ms.ogg",
+            "start_ms": 5340,
+            "duration_ms": 181
+        }
+    ],
+    "게": [
+        {
+            "file_name": "_selective_FightFire_EP03_051_Arnet_게_F3_std7.1_-22.0dB_5920ms_6028ms_M30ms.ogg",
+            "start_ms": 5521,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_060_Arnet_게_Csharp4_std4.2_-23.1dB_3840ms_3948ms_M30ms.ogg",
+            "start_ms": 5630,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_Skin1_게_E3_std2.1_-24.8dB_3620ms_3728ms_M30ms.ogg",
+            "start_ms": 5739,
+            "duration_ms": 109
+        }
+    ],
+    "겠": [
+        {
+            "file_name": "_selective_FightFire_EP05_046_Arnet_겠_Asharp3_std6.6_-18.1dB_2600ms_2739ms_M30ms.ogg",
+            "start_ms": 5848,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_052_Arnet_겠_B3_std6.7_-17.1dB_5120ms_5260ms_M30ms.ogg",
+            "start_ms": 5984,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_034_Arnet_겠_Unvoiced_std0.0_-15.1dB_2940ms_3110ms_M30ms.ogg",
+            "start_ms": 6125,
+            "duration_ms": 171
+        }
+    ],
+    "격": [
+        {
+            "file_name": "_selective_FightFire_EP03_007_Arnet_격_A3_std7.8_-18.9dB_1960ms_2120ms_M30ms.ogg",
+            "start_ms": 6296,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_030_Arnet_격_E4_std6.0_-18.7dB_1970ms_2120ms_M30ms.ogg",
+            "start_ms": 6453,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_071_Arnet_격_Unvoiced_std0.0_-14.5dB_2700ms_2860ms_M30ms.ogg",
+            "start_ms": 6600,
+            "duration_ms": 157
+        }
+    ],
+    "결": [
+        {
+            "file_name": "_selective_FightFire_EP03_068_Arnet_결_Gsharp3_std14.2_-15.7dB_1500ms_1700ms_M30ms.ogg",
+            "start_ms": 6757,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_024_Arnet_결_Gsharp3_std8.5_-17.2dB_3620ms_3840ms_M30ms.ogg",
+            "start_ms": 6954,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Arnet_AsideGet_결_Fsharp3_std14.0_-17.4dB_40ms_240ms_M30ms.ogg",
+            "start_ms": 7171,
+            "duration_ms": 220
+        }
+    ],
+    "경": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_경_Asharp3_std6.9_-13.6dB_2820ms_2940ms_M30ms.ogg",
+            "start_ms": 7391,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_013_Arnet_경_F4_std7.8_-17.2dB_2500ms_2620ms_M30ms.ogg",
+            "start_ms": 7508,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_142_Arnet_경_Unvoiced_std0.0_-15.5dB_7479ms_7600ms_M30ms.ogg",
+            "start_ms": 7625,
+            "duration_ms": 123
+        }
+    ],
+    "계": [
+        {
+            "file_name": "_selective_FightFire_EP01_034_Arnet_계_C4_std5.2_-15.2dB_4380ms_4488ms_M30ms.ogg",
+            "start_ms": 7748,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_024_Arnet_계_Csharp4_std5.0_-17.8dB_8460ms_8568ms_M30ms.ogg",
+            "start_ms": 7857,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity7_계_E4_std37.7_-16.5dB_3040ms_3166ms_M30ms.ogg",
+            "start_ms": 7966,
+            "duration_ms": 128
+        }
+    ],
+    "고": [
+        {
+            "file_name": "_selective_FightFire_EP01_013_Arnet_고_Gsharp4_std21.6_-11.7dB_3540ms_3630ms_M30ms.ogg",
+            "start_ms": 8094,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_015_Arnet_고_F3_std9.4_-16.9dB_1560ms_1650ms_M30ms.ogg",
+            "start_ms": 8185,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_1_고_G3_std6.5_-19.3dB_1020ms_1110ms_M30ms.ogg",
+            "start_ms": 8276,
+            "duration_ms": 91
+        }
+    ],
+    "곰": [
+        {
+            "file_name": "_selective_FightFire_EP01_046_Arnet_곰_Csharp4_std15.1_-21.4dB_2180ms_2340ms_M30ms.ogg",
+            "start_ms": 8367,
+            "duration_ms": 157
+        }
+    ],
+    "곳": [
+        {
+            "file_name": "_selective_FightFire_EP03_051_Arnet_곳_E4_std10.5_-20.4dB_2860ms_3030ms_M30ms.ogg",
+            "start_ms": 8524,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_053_Arnet_곳_Asharp3_std3.6_-17.5dB_4600ms_4750ms_M30ms.ogg",
+            "start_ms": 8695,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_028_Arnet_곳_A3_std2.7_-20.3dB_580ms_750ms_M30ms.ogg",
+            "start_ms": 8847,
+            "duration_ms": 171
+        }
+    ],
+    "공": [
+        {
+            "file_name": "_selective_FightFire_EP02_030_Arnet_공_B3_std9.5_-19.2dB_2480ms_2640ms_M30ms.ogg",
+            "start_ms": 9018,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_007_Arnet_공_Gsharp3_std25.9_-19.0dB_1780ms_1960ms_M30ms.ogg",
+            "start_ms": 9175,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_023_Arnet_공_F4_std26.4_-15.7dB_1119ms_1260ms_M30ms.ogg",
+            "start_ms": 9352,
+            "duration_ms": 141
+        }
+    ],
+    "과": [
+        {
+            "file_name": "_selective_FightFire_EP03_016_Arnet_과_G3_std11.1_-13.5dB_1740ms_1865ms_M30ms.ogg",
+            "start_ms": 9493,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_014_Arnet_과_Asharp3_std10.9_-15.8dB_760ms_886ms_M30ms.ogg",
+            "start_ms": 9618,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Arnet_AsideGet_과_Fsharp3_std7.9_-21.1dB_240ms_348ms_M30ms.ogg",
+            "start_ms": 9746,
+            "duration_ms": 109
+        }
+    ],
+    "관": [
+        {
+            "file_name": "_selective_FightFire_EP04_024_Arnet_관_A3_std50.4_-16.3dB_4100ms_4319ms_M30ms.ogg",
+            "start_ms": 9855,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_039_Arnet_관_G3_std10.2_-22.2dB_2120ms_2240ms_M30ms.ogg",
+            "start_ms": 10076,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Arnet_Gacha3_관_Gsharp3_std24.0_-14.5dB_380ms_540ms_M30ms.ogg",
+            "start_ms": 10193,
+            "duration_ms": 157
+        }
+    ],
+    "교": [
+        {
+            "file_name": "_selective_FightFire_EP02_016_Arnet_교_Gsharp3_std18.1_-17.4dB_1720ms_1900ms_M30ms.ogg",
+            "start_ms": 10350,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_061_Arnet_교_Csharp4_std9.5_-18.7dB_350ms_521ms_M30ms.ogg",
+            "start_ms": 10531,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "Voice_Arnet_CallPlayer5_교_Asharp3_std11.2_-12.5dB_60ms_240ms_M30ms.ogg",
+            "start_ms": 10704,
+            "duration_ms": 177
+        }
+    ],
+    "구": [
+        {
+            "file_name": "_selective_FightFire_EP01_019_Arnet_구_C4_std3.6_-21.8dB_2020ms_2128ms_M30ms.ogg",
+            "start_ms": 10881,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_020_Arnet_구_Csharp4_std5.0_-19.4dB_240ms_366ms_M30ms.ogg",
+            "start_ms": 10990,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Arnet_Die1_구_C4_std35.6_-27.0dB_1359ms_1486ms_M30ms.ogg",
+            "start_ms": 11118,
+            "duration_ms": 124
+        }
+    ],
+    "권": [
+        {
+            "file_name": "_selective_FightFire_EP01_013_Arnet_권_G3_std14.2_-13.8dB_2080ms_2260ms_M30ms.ogg",
+            "start_ms": 11242,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_015_Arnet_권_E4_std16.0_-14.4dB_2200ms_2340ms_M30ms.ogg",
+            "start_ms": 11423,
+            "duration_ms": 141
+        }
+    ],
+    "그": [
+        {
+            "file_name": "_selective_FightFire_EP02_003_Arnet_그_Unvoiced_std0.0_-30.9dB_1080ms_1170ms_M30ms.ogg",
+            "start_ms": 11564,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_006_Arnet_그_Unvoiced_std0.0_-22.9dB_20ms_110ms_M30ms.ogg",
+            "start_ms": 11655,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_011_Arnet_그_Unvoiced_std0.0_-30.9dB_420ms_510ms_M30ms.ogg",
+            "start_ms": 11746,
+            "duration_ms": 91
+        }
+    ],
+    "극": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_극_Dsharp3_std12.3_-22.7dB_339ms_470ms_M30ms.ogg",
+            "start_ms": 11837,
+            "duration_ms": 133
+        }
+    ],
+    "근": [
+        {
+            "file_name": "_selective_FightFire_EP01_029_Arnet_근_Dsharp4_std15.1_-20.0dB_4540ms_4659ms_M30ms.ogg",
+            "start_ms": 11970,
+            "duration_ms": 120
+        }
+    ],
+    "글": [
+        {
+            "file_name": "_selective_FightFire_EP03_054_Arnet_글_Asharp3_std14.9_-14.8dB_240ms_380ms_M30ms.ogg",
+            "start_ms": 12090,
+            "duration_ms": 141
+        }
+    ],
+    "금": [
+        {
+            "file_name": "_selective_FightFire_EP02_012_Arnet_금_Gsharp3_std5.5_-17.3dB_3140ms_3280ms_M30ms.ogg",
+            "start_ms": 12231,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_058_Arnet_금_A3_std9.2_-17.7dB_139ms_290ms_M30ms.ogg",
+            "start_ms": 12372,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_142_Arnet_금_Fsharp3_std9.9_-24.9dB_180ms_319ms_M30ms.ogg",
+            "start_ms": 12524,
+            "duration_ms": 136
+        }
+    ],
+    "급": [
+        {
+            "file_name": "_selective_FightFire_EP01_065_Arnet_급_D4_std20.5_-22.4dB_1180ms_1340ms_M30ms.ogg",
+            "start_ms": 12660,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_034_Arnet_급_E4_std38.2_-20.9dB_1970ms_2120ms_M30ms.ogg",
+            "start_ms": 12817,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_013_Arnet_급_Csharp4_std20.0_-17.1dB_5120ms_5250ms_M30ms.ogg",
+            "start_ms": 12964,
+            "duration_ms": 131
+        }
+    ],
+    "기": [
+        {
+            "file_name": "Voice_Arnet_Affinity3_기_D4_std82.4_-19.0dB_3880ms_3988ms_M30ms.ogg",
+            "start_ms": 13095,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity3_기_F4_std21.5_-17.5dB_1160ms_1268ms_M30ms.ogg",
+            "start_ms": 13204,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_2_기_A3_std15.0_-24.0dB_2120ms_2227ms_M30ms.ogg",
+            "start_ms": 13309,
+            "duration_ms": 109
+        }
+    ],
+    "긴": [
+        {
+            "file_name": "_selective_FightFire_EP02_003_Arnet_긴_Gsharp3_std9.4_-19.1dB_1619ms_1780ms_M30ms.ogg",
+            "start_ms": 13418,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_053_Arnet_긴_F3_std35.5_-19.0dB_2280ms_2440ms_M30ms.ogg",
+            "start_ms": 13581,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Arnet_Line3_긴_F3_std9.2_-25.9dB_2160ms_2300ms_M30ms.ogg",
+            "start_ms": 13738,
+            "duration_ms": 141
+        }
+    ],
+    "길": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_길_G4_std11.0_-17.4dB_1420ms_1550ms_M30ms.ogg",
+            "start_ms": 13879,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_길_Fsharp4_std31.3_-17.7dB_5479ms_5620ms_M30ms.ogg",
+            "start_ms": 14010,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_061_Arnet_길_B3_std8.2_-17.1dB_1260ms_1390ms_M30ms.ogg",
+            "start_ms": 14151,
+            "duration_ms": 131
+        }
+    ],
+    "까": [
+        {
+            "file_name": "_selective_FightFire_EP03_060_Arnet_까_C4_std20.0_-18.5dB_3330ms_3447ms_M30ms.ogg",
+            "start_ms": 14282,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_030_Arnet_까_Gsharp3_std19.7_-21.1dB_1920ms_2037ms_M30ms.ogg",
+            "start_ms": 14396,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_040_Arnet_까_Gsharp3_std11.9_-15.2dB_1050ms_1167ms_M30ms.ogg",
+            "start_ms": 14513,
+            "duration_ms": 117
+        }
+    ],
+    "깨": [
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_깨_C4_std4.6_-16.2dB_1740ms_1830ms_M30ms.ogg",
+            "start_ms": 14630,
+            "duration_ms": 91
+        }
+    ],
+    "꼬": [
+        {
+            "file_name": "_selective_FightFire_EP02_045_Arnet_꼬_G4_std16.7_-14.3dB_1460ms_1568ms_M30ms.ogg",
+            "start_ms": 14721,
+            "duration_ms": 109
+        }
+    ],
+    "꼭": [
+        {
+            "file_name": "Voice_Arnet_Affinity2_꼭_Fsharp4_std43.8_-15.9dB_1720ms_1940ms_M30ms.ogg",
+            "start_ms": 14830,
+            "duration_ms": 217
+        }
+    ],
+    "끌": [
+        {
+            "file_name": "_selective_FightFire_EP03_045_Arnet_끌_B3_std9.0_-14.3dB_1619ms_1820ms_M30ms.ogg",
+            "start_ms": 15047,
+            "duration_ms": 198
+        },
+        {
+            "file_name": "Voice_Arnet_Board_Skin1_끌_D4_std14.7_-21.7dB_980ms_1110ms_M30ms.ogg",
+            "start_ms": 15245,
+            "duration_ms": 131
+        }
+    ],
+    "끝": [
+        {
+            "file_name": "Voice_Arnet_Growth2_끝_Gsharp4_std17.3_-13.4dB_1140ms_1340ms_M30ms.ogg",
+            "start_ms": 15376,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_Skin1_끝_Asharp3_std20.4_-13.0dB_540ms_700ms_M30ms.ogg",
+            "start_ms": 15573,
+            "duration_ms": 157
+        }
+    ],
+    "낌": [
+        {
+            "file_name": "_selective_FightFire_EP04_003_Arnet_낌_B3_std13.8_-19.6dB_6079ms_6210ms_M30ms.ogg",
+            "start_ms": 15730,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_003_Arnet_낌_E4_std21.9_-18.2dB_2420ms_2520ms_M30ms.ogg",
+            "start_ms": 15863,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Arnet_Growth2_Skin1_낌_Asharp3_std7.6_-19.2dB_1780ms_1900ms_M30ms.ogg",
+            "start_ms": 15964,
+            "duration_ms": 117
+        }
+    ],
+    "나": [
+        {
+            "file_name": "_selective_FightFire_EP01_019_Arnet_나_E4_std3.8_-12.0dB_139ms_248ms_M30ms.ogg",
+            "start_ms": 16081,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_074_Arnet_나_A3_std5.6_-14.1dB_1700ms_1826ms_M30ms.ogg",
+            "start_ms": 16190,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_019_Arnet_나_E3_std21.9_-15.9dB_2000ms_2126ms_M30ms.ogg",
+            "start_ms": 16318,
+            "duration_ms": 123
+        }
+    ],
+    "낙": [
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_낙_Asharp3_std6.7_-14.7dB_6760ms_6930ms_M30ms.ogg",
+            "start_ms": 16441,
+            "duration_ms": 171
+        }
+    ],
+    "난": [
+        {
+            "file_name": "_selective_FightFire_EP01_029_Arnet_난_B3_std9.4_-14.1dB_1040ms_1160ms_M30ms.ogg",
+            "start_ms": 16612,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_019_Arnet_난_C4_std19.2_-18.7dB_2820ms_2980ms_M30ms.ogg",
+            "start_ms": 16729,
+            "duration_ms": 157
+        }
+    ],
+    "날": [
+        {
+            "file_name": "_selective_FightFire_EP01_030_Arnet_날_Gsharp3_std5.4_-15.8dB_679ms_820ms_M30ms.ogg",
+            "start_ms": 16886,
+            "duration_ms": 161
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_040_Arnet_날_Fsharp3_std15.8_-19.6dB_2940ms_3100ms_M30ms.ogg",
+            "start_ms": 17047,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_047_Arnet_날_Gsharp3_std4.9_-12.7dB_3320ms_3480ms_M30ms.ogg",
+            "start_ms": 17204,
+            "duration_ms": 157
+        }
+    ],
+    "남": [
+        {
+            "file_name": "_selective_FightFire_EP04_067_Arnet_남_B3_std13.6_-14.3dB_60ms_229ms_M30ms.ogg",
+            "start_ms": 17361,
+            "duration_ms": 171
+        }
+    ],
+    "납": [
+        {
+            "file_name": "_selective_FightFire_EP03_019_Arnet_납_E3_std3.8_-21.9dB_3840ms_4040ms_M30ms.ogg",
+            "start_ms": 17532,
+            "duration_ms": 197
+        }
+    ],
+    "낮": [
+        {
+            "file_name": "_selective_FightFire_EP04_009_Arnet_낮_G3_std7.5_-16.5dB_2880ms_3050ms_M30ms.ogg",
+            "start_ms": 17729,
+            "duration_ms": 171
+        }
+    ],
+    "내": [
+        {
+            "file_name": "_selective_FightFire_EP03_011_Arnet_내_A3_std9.9_-15.6dB_3740ms_3848ms_M30ms.ogg",
+            "start_ms": 17900,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_020_Arnet_내_B3_std4.1_-12.5dB_2380ms_2488ms_M30ms.ogg",
+            "start_ms": 18009,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_009_Arnet_내_D4_std7.2_-13.4dB_1140ms_1248ms_M30ms.ogg",
+            "start_ms": 18118,
+            "duration_ms": 109
+        }
+    ],
+    "냐": [
+        {
+            "file_name": "_selective_FightFire_EP01_035_Arnet_냐_E4_std10.7_-20.1dB_2680ms_2860ms_M30ms.ogg",
+            "start_ms": 18227,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_040_Arnet_냐_G3_std8.0_-16.5dB_2929ms_3047ms_M30ms.ogg",
+            "start_ms": 18404,
+            "duration_ms": 120
+        }
+    ],
+    "냥": [
+        {
+            "file_name": "_selective_FightFire_EP02_040_Arnet_냥_F3_std16.1_-18.0dB_2780ms_2880ms_M30ms.ogg",
+            "start_ms": 18524,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_005_Arnet_냥_C4_std6.3_-18.4dB_3860ms_3960ms_M30ms.ogg",
+            "start_ms": 18625,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_047_Arnet_냥_Dsharp4_std8.3_-15.6dB_6840ms_6940ms_M30ms.ogg",
+            "start_ms": 18726,
+            "duration_ms": 101
+        }
+    ],
+    "너": [
+        {
+            "file_name": "_selective_FightFire_EP01_011_Arnet_너_C4_std17.8_-10.3dB_1280ms_1424ms_M30ms.ogg",
+            "start_ms": 18827,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_002_Arnet_너_F3_std16.6_-16.1dB_1200ms_1343ms_M30ms.ogg",
+            "start_ms": 18968,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_035_Arnet_너_Asharp3_std5.5_-16.1dB_880ms_1024ms_M30ms.ogg",
+            "start_ms": 19112,
+            "duration_ms": 164
+        }
+    ],
+    "넌": [
+        {
+            "file_name": "_selective_FightFire_EP05_034_Arnet_넌_Dsharp4_std15.6_-13.9dB_1740ms_1940ms_M30ms.ogg",
+            "start_ms": 19276,
+            "duration_ms": 197
+        }
+    ],
+    "넓": [
+        {
+            "file_name": "_selective_FightFire_EP03_060_Arnet_넓_Asharp3_std13.5_-15.0dB_1080ms_1290ms_M30ms.ogg",
+            "start_ms": 19473,
+            "duration_ms": 211
+        }
+    ],
+    "네": [
+        {
+            "file_name": "_selective_FightFire_EP03_053_Arnet_네_Csharp4_std14.7_-22.4dB_5540ms_5720ms_M30ms.ogg",
+            "start_ms": 19684,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_027_Arnet_네_G3_std139.0_-16.2dB_3300ms_3516ms_M30ms.ogg",
+            "start_ms": 19865,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_128_Arnet_네_F5_std177.4_-13.3dB_4159ms_4376ms_M30ms.ogg",
+            "start_ms": 20078,
+            "duration_ms": 219
+        }
+    ],
+    "년": [
+        {
+            "file_name": "Voice_Arnet_Birthday_년_E4_std17.8_-17.5dB_3880ms_4029ms_M30ms.ogg",
+            "start_ms": 20297,
+            "duration_ms": 149
+        }
+    ],
+    "녔": [
+        {
+            "file_name": "_selective_FightFire_EP02_011_Arnet_녔_B3_std3.6_-21.9dB_4120ms_4280ms_M30ms.ogg",
+            "start_ms": 20446,
+            "duration_ms": 157
+        }
+    ],
+    "노": [
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_노_Csharp4_std17.1_-15.5dB_2660ms_2750ms_M30ms.ogg",
+            "start_ms": 20603,
+            "duration_ms": 91
+        }
+    ],
+    "높": [
+        {
+            "file_name": "_selective_FightFire_EP03_060_Arnet_높_Gsharp3_std19.0_-17.6dB_3620ms_3840ms_M30ms.ogg",
+            "start_ms": 20694,
+            "duration_ms": 217
+        }
+    ],
+    "누": [
+        {
+            "file_name": "Voice_Arnet_Spawn2_누_Fsharp4_std30.2_-11.9dB_100ms_226ms_M30ms.ogg",
+            "start_ms": 20911,
+            "duration_ms": 128
+        }
+    ],
+    "눈": [
+        {
+            "file_name": "_selective_FightFire_EP03_017_Arnet_눈_A3_std15.3_-17.2dB_4040ms_4210ms_M30ms.ogg",
+            "start_ms": 21039,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_020_Arnet_눈_Csharp4_std6.4_-17.1dB_2780ms_2950ms_M30ms.ogg",
+            "start_ms": 21210,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_059_Arnet_눈_Fsharp3_std12.1_-19.9dB_3020ms_3180ms_M30ms.ogg",
+            "start_ms": 21381,
+            "duration_ms": 157
+        }
+    ],
+    "느": [
+        {
+            "file_name": "_selective_FightFire_EP02_022_Arnet_느_E4_std8.7_-18.9dB_2620ms_2764ms_M30ms.ogg",
+            "start_ms": 21538,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_003_Arnet_느_B3_std12.2_-18.6dB_2260ms_2404ms_M30ms.ogg",
+            "start_ms": 21679,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Arnet_Growth2_Skin1_느_F4_std12.9_-17.7dB_1600ms_1762ms_M30ms.ogg",
+            "start_ms": 21820,
+            "duration_ms": 159
+        }
+    ],
+    "는": [
+        {
+            "file_name": "_selective_FightFire_EP01_043_Arnet_는_Dsharp4_std5.6_-16.2dB_4700ms_4820ms_M30ms.ogg",
+            "start_ms": 21979,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_는_Dsharp3_std18.6_-22.4dB_8060ms_8180ms_M30ms.ogg",
+            "start_ms": 22096,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_051_Arnet_는_B3_std3.2_-16.6dB_1200ms_1320ms_M30ms.ogg",
+            "start_ms": 22213,
+            "duration_ms": 117
+        }
+    ],
+    "늘": [
+        {
+            "file_name": "_selective_FightFire_EP03_068_Arnet_늘_A3_std3.2_-14.3dB_1260ms_1370ms_M30ms.ogg",
+            "start_ms": 22330,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity5_늘_G3_std12.2_-16.5dB_3820ms_4019ms_M30ms.ogg",
+            "start_ms": 22442,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_늘_Dsharp3_std6.4_-19.1dB_1960ms_2040ms_M30ms.ogg",
+            "start_ms": 22642,
+            "duration_ms": 77
+        }
+    ],
+    "능": [
+        {
+            "file_name": "Voice_Arnet_HeroUpgrade_능_D4_std10.9_-18.9dB_1840ms_2040ms_M30ms.ogg",
+            "start_ms": 22719,
+            "duration_ms": 197
+        }
+    ],
+    "니": [
+        {
+            "file_name": "Voice_Arnet_Affinity7_니_E4_std6.4_-24.2dB_3560ms_3704ms_M30ms.ogg",
+            "start_ms": 22916,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "Voice_Arnet_Board_Skin1_니_A3_std8.0_-26.8dB_1300ms_1444ms_M30ms.ogg",
+            "start_ms": 23080,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Arnet_HeroUpgrade_니_A3_std10.5_-24.7dB_3270ms_3414ms_M30ms.ogg",
+            "start_ms": 23221,
+            "duration_ms": 141
+        }
+    ],
+    "닌": [
+        {
+            "file_name": "_selective_FightFire_EP01_051_Arnet_닌_E3_std3.1_-21.8dB_3280ms_3400ms_M30ms.ogg",
+            "start_ms": 23362,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_1_닌_D4_std2.7_-17.2dB_3820ms_3960ms_M30ms.ogg",
+            "start_ms": 23479,
+            "duration_ms": 141
+        }
+    ],
+    "님": [
+        {
+            "file_name": "_selective_FightFire_EP01_056_Arnet_님_F4_std27.4_-13.9dB_1180ms_1330ms_M30ms.ogg",
+            "start_ms": 23620,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_061_Arnet_님_C4_std18.6_-15.0dB_860ms_1010ms_M30ms.ogg",
+            "start_ms": 23772,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_2_님_F3_std1.7_-17.7dB_380ms_530ms_M30ms.ogg",
+            "start_ms": 23924,
+            "duration_ms": 152
+        }
+    ],
+    "다": [
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_다_Unvoiced_std0.0_-14.6dB_1220ms_1328ms_M30ms.ogg",
+            "start_ms": 24076,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity4_다_Unvoiced_std0.0_-25.9dB_1000ms_1108ms_M30ms.ogg",
+            "start_ms": 24185,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_HeroUpgrade_다_G3_std0.6_-16.1dB_3150ms_3258ms_M30ms.ogg",
+            "start_ms": 24294,
+            "duration_ms": 109
+        }
+    ],
+    "단": [
+        {
+            "file_name": "_selective_FightFire_EP03_008_Arnet_단_Gsharp3_std13.3_-16.6dB_2720ms_2860ms_M30ms.ogg",
+            "start_ms": 24403,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_034_Arnet_단_C4_std4.4_-14.9dB_280ms_430ms_M30ms.ogg",
+            "start_ms": 24544,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_125_Arnet_단_B3_std15.0_-14.0dB_1580ms_1710ms_M30ms.ogg",
+            "start_ms": 24696,
+            "duration_ms": 131
+        }
+    ],
+    "달": [
+        {
+            "file_name": "Voice_Arnet_Touch2_1_Skin1_달_Dsharp4_std8.2_-19.2dB_1880ms_2040ms_M30ms.ogg",
+            "start_ms": 24827,
+            "duration_ms": 157
+        }
+    ],
+    "담": [
+        {
+            "file_name": "_selective_FightFire_EP05_062_Arnet_담_Fsharp3_std10.3_-22.5dB_1380ms_1590ms_M30ms.ogg",
+            "start_ms": 24984,
+            "duration_ms": 211
+        }
+    ],
+    "답": [
+        {
+            "file_name": "_selective_FightFire_EP02_042_Arnet_답_Unvoiced_std0.0_-18.9dB_700ms_860ms_M30ms.ogg",
+            "start_ms": 25195,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_042_Arnet_답_Unvoiced_std0.0_-36.3dB_620ms_700ms_M30ms.ogg",
+            "start_ms": 25352,
+            "duration_ms": 100
+        }
+    ],
+    "당": [
+        {
+            "file_name": "_selective_FightFire_EP03_047_Arnet_당_E4_std7.2_-15.9dB_1540ms_1640ms_M30ms.ogg",
+            "start_ms": 25452,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_011_Arnet_당_A3_std3.6_-20.2dB_5220ms_5360ms_M30ms.ogg",
+            "start_ms": 25553,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_016_Arnet_당_B3_std3.7_-17.9dB_420ms_540ms_M30ms.ogg",
+            "start_ms": 25694,
+            "duration_ms": 117
+        }
+    ],
+    "대": [
+        {
+            "file_name": "_selective_FightFire_EP01_067_Arnet_대_G4_std2.8_-16.6dB_459ms_550ms_M30ms.ogg",
+            "start_ms": 25811,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_077_Arnet_대_A3_std2.4_-19.3dB_199ms_290ms_M30ms.ogg",
+            "start_ms": 25904,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "Voice_Arnet_Birthday_대_D4_std13.2_-21.0dB_4319ms_4410ms_M30ms.ogg",
+            "start_ms": 25997,
+            "duration_ms": 93
+        }
+    ],
+    "더": [
+        {
+            "file_name": "_selective_FightFire_EP02_027_Arnet_더_Dsharp3_std1.9_-26.7dB_1359ms_1486ms_M30ms.ogg",
+            "start_ms": 26090,
+            "duration_ms": 124
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_047_Arnet_더_Unvoiced_std0.0_-15.5dB_2760ms_2886ms_M30ms.ogg",
+            "start_ms": 26214,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_128_Arnet_더_Unvoiced_std0.0_-14.9dB_2500ms_2644ms_M30ms.ogg",
+            "start_ms": 26337,
+            "duration_ms": 141
+        }
+    ],
+    "던": [
+        {
+            "file_name": "_selective_FightFire_EP02_011_Arnet_던_C4_std6.8_-19.4dB_4280ms_4440ms_M30ms.ogg",
+            "start_ms": 26478,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_127_Arnet_던_F3_std6.7_-18.3dB_3480ms_3660ms_M30ms.ogg",
+            "start_ms": 26635,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_129_Arnet_던_Asharp3_std28.1_-17.3dB_3100ms_3260ms_M30ms.ogg",
+            "start_ms": 26816,
+            "duration_ms": 157
+        }
+    ],
+    "데": [
+        {
+            "file_name": "_selective_FightFire_EP03_003_Arnet_데_F4_std13.3_-12.1dB_720ms_828ms_M30ms.ogg",
+            "start_ms": 26973,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_053_Arnet_데_E3_std9.6_-18.5dB_2160ms_2268ms_M30ms.ogg",
+            "start_ms": 27082,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_2_Skin1_데_Unvoiced_std0.0_-15.7dB_2760ms_2868ms_M30ms.ogg",
+            "start_ms": 27191,
+            "duration_ms": 109
+        }
+    ],
+    "도": [
+        {
+            "file_name": "_selective_FightFire_EP01_077_Arnet_도_F3_std10.8_-18.1dB_5120ms_5228ms_M30ms.ogg",
+            "start_ms": 27300,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_041_Arnet_도_Asharp3_std13.5_-18.5dB_2580ms_2688ms_M30ms.ogg",
+            "start_ms": 27409,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_003_Arnet_도_G3_std4.0_-20.4dB_4680ms_4788ms_M30ms.ogg",
+            "start_ms": 27514,
+            "duration_ms": 105
+        }
+    ],
+    "동": [
+        {
+            "file_name": "_selective_FightFire_EP01_034_Arnet_동_Dsharp4_std4.6_-16.6dB_5300ms_5499ms_M30ms.ogg",
+            "start_ms": 27619,
+            "duration_ms": 200
+        }
+    ],
+    "되": [
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_되_C4_std10.9_-17.4dB_1960ms_2068ms_M30ms.ogg",
+            "start_ms": 27819,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_055_Arnet_되_F3_std10.5_-21.0dB_1600ms_1708ms_M30ms.ogg",
+            "start_ms": 27928,
+            "duration_ms": 109
+        }
+    ],
+    "두": [
+        {
+            "file_name": "_selective_FightFire_EP07_034_Arnet_두_D4_std20.5_-20.0dB_679ms_787ms_M30ms.ogg",
+            "start_ms": 28037,
+            "duration_ms": 105
+        }
+    ],
+    "둔": [
+        {
+            "file_name": "_selective_FightFire_EP04_015_Arnet_둔_D4_std19.4_-23.5dB_1060ms_1220ms_M30ms.ogg",
+            "start_ms": 28142,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_둔_F3_std14.5_-22.2dB_4140ms_4319ms_M30ms.ogg",
+            "start_ms": 28299,
+            "duration_ms": 181
+        }
+    ],
+    "둘": [
+        {
+            "file_name": "Voice_Arnet_Lobby_둘_Asharp3_std17.0_-20.2dB_940ms_1050ms_M30ms.ogg",
+            "start_ms": 28480,
+            "duration_ms": 112
+        }
+    ],
+    "드": [
+        {
+            "file_name": "_selective_FightFire_EP02_031_Arnet_드_Asharp3_std14.1_-14.3dB_2640ms_2730ms_M30ms.ogg",
+            "start_ms": 28592,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_042_Arnet_드_Csharp4_std10.2_-21.3dB_1200ms_1290ms_M30ms.ogg",
+            "start_ms": 28683,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_021_Arnet_드_F4_std16.7_-18.6dB_5020ms_5110ms_M30ms.ogg",
+            "start_ms": 28774,
+            "duration_ms": 91
+        }
+    ],
+    "득": [
+        {
+            "file_name": "_selective_FightFire_EP03_019_Arnet_득_Gsharp3_std4.5_-25.3dB_4040ms_4180ms_M30ms.ogg",
+            "start_ms": 28865,
+            "duration_ms": 137
+        }
+    ],
+    "든": [
+        {
+            "file_name": "_selective_FightFire_EP01_028_Arnet_든_D4_std39.7_-13.2dB_2620ms_2740ms_M30ms.ogg",
+            "start_ms": 29002,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_020_Arnet_든_B3_std2.4_-14.3dB_2920ms_3020ms_M30ms.ogg",
+            "start_ms": 29119,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_141_Arnet_든_Fsharp4_std6.5_-15.2dB_3620ms_3740ms_M30ms.ogg",
+            "start_ms": 29220,
+            "duration_ms": 117
+        }
+    ],
+    "들": [
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_들_C4_std28.3_-19.7dB_980ms_1090ms_M30ms.ogg",
+            "start_ms": 29337,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_016_Arnet_들_B3_std14.2_-18.2dB_640ms_750ms_M30ms.ogg",
+            "start_ms": 29449,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_026_Arnet_들_Gsharp3_std4.2_-21.0dB_1480ms_1590ms_M30ms.ogg",
+            "start_ms": 29561,
+            "duration_ms": 112
+        }
+    ],
+    "듭": [
+        {
+            "file_name": "_selective_FightFire_EP03_016_Arnet_듭_A3_std18.6_-23.7dB_4059ms_4200ms_M30ms.ogg",
+            "start_ms": 29673,
+            "duration_ms": 141
+        }
+    ],
+    "디": [
+        {
+            "file_name": "_selective_FightFire_EP07_065_Arnet_디_G4_std8.8_-16.9dB_4440ms_4530ms_M30ms.ogg",
+            "start_ms": 29814,
+            "duration_ms": 91
+        }
+    ],
+    "따": [
+        {
+            "file_name": "_selective_FightFire_EP06_053_Arnet_따_E3_std25.6_-21.3dB_3999ms_4125ms_M30ms.ogg",
+            "start_ms": 29905,
+            "duration_ms": 128
+        }
+    ],
+    "땅": [
+        {
+            "file_name": "_selective_FightFire_EP02_022_Arnet_땅_Csharp4_std26.6_-15.9dB_1200ms_1340ms_M30ms.ogg",
+            "start_ms": 30033,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_053_Arnet_땅_Asharp3_std4.5_-14.9dB_4360ms_4440ms_M30ms.ogg",
+            "start_ms": 30174,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_028_Arnet_땅_Fsharp4_std9.4_-16.2dB_3660ms_3880ms_M30ms.ogg",
+            "start_ms": 30251,
+            "duration_ms": 217
+        }
+    ],
+    "때": [
+        {
+            "file_name": "_selective_FightFire_EP05_055_Arnet_때_Asharp3_std12.6_-18.9dB_1480ms_1588ms_M30ms.ogg",
+            "start_ms": 30468,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_042_Arnet_때_F4_std19.5_-14.5dB_1160ms_1268ms_M30ms.ogg",
+            "start_ms": 30573,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_때_Dsharp4_std18.7_-20.2dB_1560ms_1668ms_M30ms.ogg",
+            "start_ms": 30682,
+            "duration_ms": 105
+        }
+    ],
+    "떠": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_떠_A3_std11.1_-13.7dB_7560ms_7758ms_M30ms.ogg",
+            "start_ms": 30787,
+            "duration_ms": 195
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_019_Arnet_떠_C4_std21.8_-15.6dB_3720ms_3819ms_M30ms.ogg",
+            "start_ms": 30982,
+            "duration_ms": 101
+        }
+    ],
+    "떡": [
+        {
+            "file_name": "_selective_FightFire_EP05_029_Arnet_떡_Dsharp3_std4.4_-27.4dB_1480ms_1670ms_M30ms.ogg",
+            "start_ms": 31083,
+            "duration_ms": 192
+        }
+    ],
+    "떤": [
+        {
+            "file_name": "_selective_FightFire_EP02_026_Arnet_떤_B3_std4.7_-17.1dB_3960ms_4059ms_M30ms.ogg",
+            "start_ms": 31275,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_030_Arnet_떤_Asharp3_std6.4_-16.9dB_840ms_960ms_M30ms.ogg",
+            "start_ms": 31376,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_011_Arnet_떤_F4_std19.0_-13.4dB_3320ms_3440ms_M30ms.ogg",
+            "start_ms": 31493,
+            "duration_ms": 117
+        }
+    ],
+    "떻": [
+        {
+            "file_name": "_selective_FightFire_EP03_037_Arnet_떻_Gsharp3_std2.8_-20.1dB_1260ms_1440ms_M30ms.ogg",
+            "start_ms": 31610,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_059_Arnet_떻_E4_std11.0_-21.6dB_2570ms_2720ms_M30ms.ogg",
+            "start_ms": 31787,
+            "duration_ms": 147
+        }
+    ],
+    "또": [
+        {
+            "file_name": "_selective_FightFire_EP02_021_Arnet_또_B3_std40.1_-18.3dB_3900ms_4008ms_M30ms.ogg",
+            "start_ms": 31934,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_030_Arnet_또_E4_std16.8_-19.9dB_1680ms_1806ms_M30ms.ogg",
+            "start_ms": 32043,
+            "duration_ms": 123
+        }
+    ],
+    "뜨": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_뜨_Unvoiced_std0.0_-22.9dB_4380ms_4470ms_M30ms.ogg",
+            "start_ms": 32166,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_049_Arnet_뜨_D4_std63.7_-20.1dB_6380ms_6542ms_M30ms.ogg",
+            "start_ms": 32257,
+            "duration_ms": 183
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_065_Arnet_뜨_F4_std26.5_-18.9dB_2160ms_2286ms_M30ms.ogg",
+            "start_ms": 32440,
+            "duration_ms": 123
+        }
+    ],
+    "뜩": [
+        {
+            "file_name": "_selective_FightFire_EP06_048_Arnet_뜩_A3_std13.1_-24.6dB_2840ms_3000ms_M30ms.ogg",
+            "start_ms": 32563,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_2_뜩_Dsharp4_std8.0_-23.7dB_970ms_1110ms_M30ms.ogg",
+            "start_ms": 32720,
+            "duration_ms": 141
+        }
+    ],
+    "뜻": [
+        {
+            "file_name": "_selective_FightFire_EP04_015_Arnet_뜻_Unvoiced_std0.0_-22.6dB_3780ms_3929ms_M30ms.ogg",
+            "start_ms": 32861,
+            "duration_ms": 149
+        }
+    ],
+    "라": [
+        {
+            "file_name": "_selective_FightFire_EP02_044_Arnet_라_Dsharp4_std9.8_-9.1dB_540ms_648ms_M30ms.ogg",
+            "start_ms": 33010,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_003_Arnet_라_Gsharp3_std5.8_-19.4dB_899ms_1008ms_M30ms.ogg",
+            "start_ms": 33119,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_2_라_C4_std11.1_-19.6dB_2500ms_2608ms_M30ms.ogg",
+            "start_ms": 33228,
+            "duration_ms": 109
+        }
+    ],
+    "람": [
+        {
+            "file_name": "_selective_FightFire_EP04_024_Arnet_람_Asharp3_std6.5_-16.8dB_4319ms_4420ms_M30ms.ogg",
+            "start_ms": 33337,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Arnet_Gacha3_람_Fsharp3_std9.1_-15.2dB_540ms_690ms_M30ms.ogg",
+            "start_ms": 33438,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Arnet_HeroSkill_Skin1_람_Unvoiced_std0.0_-19.9dB_679ms_900ms_M30ms.ogg",
+            "start_ms": 33590,
+            "duration_ms": 218
+        }
+    ],
+    "랑": [
+        {
+            "file_name": "_selective_FightFire_EP03_051_Arnet_랑_D3_std5.3_-23.9dB_5380ms_5520ms_M30ms.ogg",
+            "start_ms": 33808,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_058_Arnet_랑_C4_std7.2_-16.6dB_1300ms_1460ms_M30ms.ogg",
+            "start_ms": 33949,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_043_Arnet_랑_G3_std10.9_-18.6dB_2920ms_3080ms_M30ms.ogg",
+            "start_ms": 34106,
+            "duration_ms": 157
+        }
+    ],
+    "래": [
+        {
+            "file_name": "_selective_FightFire_EP03_035_Arnet_래_Fsharp4_std3.2_-13.3dB_100ms_208ms_M30ms.ogg",
+            "start_ms": 34263,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_046_Arnet_래_A3_std2.7_-14.5dB_1310ms_1409ms_M30ms.ogg",
+            "start_ms": 34372,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Arnet_Equipment_Skin1_래_G4_std7.7_-12.5dB_1080ms_1188ms_M30ms.ogg",
+            "start_ms": 34473,
+            "duration_ms": 109
+        }
+    ],
+    "러": [
+        {
+            "file_name": "_selective_FightFire_EP05_040_Arnet_러_Dsharp4_std15.6_-13.0dB_1460ms_1559ms_M30ms.ogg",
+            "start_ms": 34582,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_022_Arnet_러_A3_std3.6_-15.9dB_2970ms_3069ms_M30ms.ogg",
+            "start_ms": 34683,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_024_Arnet_러_A3_std10.7_-13.4dB_980ms_1087ms_M30ms.ogg",
+            "start_ms": 34784,
+            "duration_ms": 109
+        }
+    ],
+    "럭": [
+        {
+            "file_name": "_selective_FightFire_EP01_050_Arnet_럭_Fsharp4_std22.5_-15.9dB_1400ms_1599ms_M30ms.ogg",
+            "start_ms": 34893,
+            "duration_ms": 200
+        }
+    ],
+    "런": [
+        {
+            "file_name": "_selective_FightFire_EP01_022_Arnet_런_Fsharp3_std3.6_-16.8dB_2080ms_2200ms_M30ms.ogg",
+            "start_ms": 35093,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_027_Arnet_런_F4_std8.2_-14.3dB_5700ms_5820ms_M30ms.ogg",
+            "start_ms": 35210,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_023_Arnet_런_A3_std2.4_-15.9dB_139ms_240ms_M30ms.ogg",
+            "start_ms": 35327,
+            "duration_ms": 101
+        }
+    ],
+    "럴": [
+        {
+            "file_name": "_selective_FightFire_EP07_024_Arnet_럴_B3_std5.0_-16.1dB_500ms_620ms_M30ms.ogg",
+            "start_ms": 35428,
+            "duration_ms": 117
+        }
+    ],
+    "럼": [
+        {
+            "file_name": "_selective_FightFire_EP01_043_Arnet_럼_Gsharp3_std2.4_-14.3dB_860ms_1000ms_M30ms.ogg",
+            "start_ms": 35545,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_016_Arnet_럼_Gsharp3_std2.3_-13.5dB_120ms_260ms_M30ms.ogg",
+            "start_ms": 35686,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_063_Arnet_럼_Fsharp3_std19.6_-15.5dB_909ms_1040ms_M30ms.ogg",
+            "start_ms": 35827,
+            "duration_ms": 128
+        }
+    ],
+    "렇": [
+        {
+            "file_name": "_selective_FightFire_EP02_004_Arnet_렇_Csharp4_std6.9_-25.8dB_1140ms_1260ms_M30ms.ogg",
+            "start_ms": 35955,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_008_Arnet_렇_A3_std5.7_-19.5dB_2140ms_2260ms_M30ms.ogg",
+            "start_ms": 36072,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_021_Arnet_렇_C4_std12.9_-16.9dB_710ms_840ms_M30ms.ogg",
+            "start_ms": 36189,
+            "duration_ms": 151
+        }
+    ],
+    "레": [
+        {
+            "file_name": "_selective_FightFire_EP04_007_Arnet_레_A3_std14.2_-12.3dB_720ms_846ms_M30ms.ogg",
+            "start_ms": 36340,
+            "duration_ms": 128
+        }
+    ],
+    "려": [
+        {
+            "file_name": "_selective_FightFire_EP02_049_Arnet_려_E4_std7.4_-15.3dB_1180ms_1288ms_M30ms.ogg",
+            "start_ms": 36468,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_051_Arnet_려_Fsharp3_std1.6_-21.9dB_4780ms_4888ms_M30ms.ogg",
+            "start_ms": 36577,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Lobby_려_E4_std16.2_-15.7dB_1380ms_1488ms_M30ms.ogg",
+            "start_ms": 36686,
+            "duration_ms": 109
+        }
+    ],
+    "력": [
+        {
+            "file_name": "_selective_FightFire_EP02_031_Arnet_력_Fsharp3_std23.8_-19.8dB_4040ms_4170ms_M30ms.ogg",
+            "start_ms": 36795,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_120_Arnet_력_F4_std18.7_-15.7dB_1920ms_2080ms_M30ms.ogg",
+            "start_ms": 36926,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Arnet_HeroUpgrade_력_F4_std6.5_-17.8dB_2040ms_2230ms_M30ms.ogg",
+            "start_ms": 37083,
+            "duration_ms": 192
+        }
+    ],
+    "렸": [
+        {
+            "file_name": "_selective_FightFire_EP03_007_Arnet_렸_C4_std6.5_-17.4dB_820ms_940ms_M30ms.ogg",
+            "start_ms": 37275,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_렸_Asharp3_std5.0_-18.3dB_6640ms_6859ms_M30ms.ogg",
+            "start_ms": 37392,
+            "duration_ms": 221
+        }
+    ],
+    "로": [
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_로_C4_std3.1_-15.2dB_2440ms_2530ms_M30ms.ogg",
+            "start_ms": 37613,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_042_Arnet_로_Csharp4_std4.9_-12.0dB_540ms_630ms_M30ms.ogg",
+            "start_ms": 37704,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_005_Arnet_로_Fsharp3_std3.4_-17.7dB_1680ms_1770ms_M30ms.ogg",
+            "start_ms": 37795,
+            "duration_ms": 91
+        }
+    ],
+    "록": [
+        {
+            "file_name": "_selective_FightFire_EP07_072_Arnet_록_Asharp3_std10.0_-15.6dB_2140ms_2220ms_M30ms.ogg",
+            "start_ms": 37886,
+            "duration_ms": 77
+        }
+    ],
+    "롤": [
+        {
+            "file_name": "_selective_FightFire_EP01_051_Arnet_롤_C4_std12.6_-19.0dB_80ms_240ms_M30ms.ogg",
+            "start_ms": 37963,
+            "duration_ms": 157
+        }
+    ],
+    "루": [
+        {
+            "file_name": "_selective_FightFire_EP01_065_Arnet_루_C4_std15.9_-16.5dB_180ms_323ms_M30ms.ogg",
+            "start_ms": 38120,
+            "duration_ms": 144
+        }
+    ],
+    "룬": [
+        {
+            "file_name": "_selective_FightFire_EP06_043_Arnet_룬_F3_std13.7_-21.8dB_3940ms_4120ms_M30ms.ogg",
+            "start_ms": 38264,
+            "duration_ms": 177
+        }
+    ],
+    "르": [
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_르_E4_std5.1_-17.5dB_2760ms_2850ms_M30ms.ogg",
+            "start_ms": 38441,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_026_Arnet_르_C4_std4.2_-19.8dB_1099ms_1172ms_M30ms.ogg",
+            "start_ms": 38532,
+            "duration_ms": 75
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_040_Arnet_르_B3_std17.9_-18.8dB_2320ms_2410ms_M30ms.ogg",
+            "start_ms": 38607,
+            "duration_ms": 91
+        }
+    ],
+    "른": [
+        {
+            "file_name": "_selective_FightFire_EP01_029_Arnet_른_Gsharp3_std6.5_-18.4dB_3239ms_3360ms_M30ms.ogg",
+            "start_ms": 38698,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_044_Arnet_른_Asharp3_std6.1_-16.4dB_4380ms_4480ms_M30ms.ogg",
+            "start_ms": 38821,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_027_Arnet_른_B3_std20.1_-22.8dB_3040ms_3239ms_M30ms.ogg",
+            "start_ms": 38922,
+            "duration_ms": 200
+        }
+    ],
+    "를": [
+        {
+            "file_name": "_selective_FightFire_EP04_021_Arnet_를_Asharp3_std7.3_-18.0dB_659ms_760ms_M30ms.ogg",
+            "start_ms": 39122,
+            "duration_ms": 98
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_031_Arnet_를_Gsharp4_std15.0_-16.3dB_1090ms_1200ms_M30ms.ogg",
+            "start_ms": 39220,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_141_Arnet_를_Gsharp3_std5.7_-18.9dB_4710ms_4820ms_M30ms.ogg",
+            "start_ms": 39332,
+            "duration_ms": 107
+        }
+    ],
+    "름": [
+        {
+            "file_name": "_selective_FightFire_EP04_009_Arnet_름_C4_std6.4_-21.3dB_3520ms_3650ms_M30ms.ogg",
+            "start_ms": 39439,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_022_Arnet_름_Gsharp3_std5.6_-16.3dB_180ms_350ms_M30ms.ogg",
+            "start_ms": 39570,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Arnet_Growth_름_F4_std12.8_-16.4dB_300ms_430ms_M30ms.ogg",
+            "start_ms": 39741,
+            "duration_ms": 131
+        }
+    ],
+    "리": [
+        {
+            "file_name": "_selective_FightFire_EP01_011_Arnet_리_Gsharp3_std2.4_-16.6dB_4040ms_4148ms_M30ms.ogg",
+            "start_ms": 39872,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_리_Dsharp4_std21.0_-18.9dB_120ms_228ms_M30ms.ogg",
+            "start_ms": 39981,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_061_Arnet_리_D4_std2.7_-21.1dB_2560ms_2668ms_M30ms.ogg",
+            "start_ms": 40086,
+            "duration_ms": 109
+        }
+    ],
+    "릴": [
+        {
+            "file_name": "_selective_FightFire_EP01_074_Arnet_릴_C4_std11.2_-22.6dB_2080ms_2200ms_M30ms.ogg",
+            "start_ms": 40195,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Arnet_DutchRubEnd2_Skin1_릴_A3_std9.8_-19.6dB_1160ms_1320ms_M30ms.ogg",
+            "start_ms": 40312,
+            "duration_ms": 157
+        }
+    ],
+    "림": [
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_림_Gsharp3_std3.8_-19.6dB_7620ms_7770ms_M30ms.ogg",
+            "start_ms": 40469,
+            "duration_ms": 152
+        }
+    ],
+    "릿": [
+        {
+            "file_name": "_selective_FightFire_EP06_020_Arnet_릿_A3_std11.5_-20.8dB_1560ms_1780ms_M30ms.ogg",
+            "start_ms": 40621,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_023_Arnet_릿_A3_std14.2_-20.4dB_780ms_919ms_M30ms.ogg",
+            "start_ms": 40842,
+            "duration_ms": 136
+        }
+    ],
+    "마": [
+        {
+            "file_name": "_selective_FightFire_EP02_022_Arnet_마_B3_std5.0_-16.2dB_799ms_925ms_M30ms.ogg",
+            "start_ms": 40978,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_024_Arnet_마_Gsharp3_std4.7_-14.2dB_2560ms_2686ms_M30ms.ogg",
+            "start_ms": 41101,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_Skin1_마_E3_std7.5_-20.3dB_3340ms_3466ms_M30ms.ogg",
+            "start_ms": 41229,
+            "duration_ms": 128
+        }
+    ],
+    "막": [
+        {
+            "file_name": "_selective_FightFire_EP01_022_Arnet_막_G3_std3.1_-18.0dB_3960ms_4120ms_M30ms.ogg",
+            "start_ms": 41357,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_066_Arnet_막_Gsharp3_std17.6_-15.1dB_2739ms_2920ms_M30ms.ogg",
+            "start_ms": 41514,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_035_Arnet_막_Dsharp4_std29.3_-17.6dB_2870ms_2990ms_M30ms.ogg",
+            "start_ms": 41692,
+            "duration_ms": 117
+        }
+    ],
+    "만": [
+        {
+            "file_name": "_selective_FightFire_EP02_017_Arnet_만_Dsharp3_std11.3_-21.7dB_1020ms_1160ms_M30ms.ogg",
+            "start_ms": 41809,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Arnet_Die2_만_C4_std16.5_-16.1dB_840ms_980ms_M30ms.ogg",
+            "start_ms": 41950,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_Skin1_만_F3_std3.9_-20.0dB_960ms_1100ms_M30ms.ogg",
+            "start_ms": 42087,
+            "duration_ms": 137
+        }
+    ],
+    "많": [
+        {
+            "file_name": "_selective_FightFire_EP06_053_Arnet_많_Fsharp3_std6.2_-17.1dB_1619ms_1830ms_M30ms.ogg",
+            "start_ms": 42224,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_128_Arnet_많_Gsharp3_std12.4_-19.5dB_3740ms_3940ms_M30ms.ogg",
+            "start_ms": 42437,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_136_Arnet_많_G3_std13.2_-21.0dB_2060ms_2250ms_M30ms.ogg",
+            "start_ms": 42634,
+            "duration_ms": 192
+        }
+    ],
+    "말": [
+        {
+            "file_name": "_selective_FightFire_EP03_032_Arnet_말_E3_std16.2_-18.0dB_260ms_400ms_M30ms.ogg",
+            "start_ms": 42826,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_046_Arnet_말_Fsharp3_std9.3_-18.0dB_2460ms_2600ms_M30ms.ogg",
+            "start_ms": 42967,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_129_Arnet_말_E4_std8.1_-16.8dB_2020ms_2160ms_M30ms.ogg",
+            "start_ms": 43104,
+            "duration_ms": 141
+        }
+    ],
+    "맘": [
+        {
+            "file_name": "_selective_FightFire_EP07_049_Arnet_맘_Asharp3_std3.0_-13.1dB_439ms_554ms_M30ms.ogg",
+            "start_ms": 43245,
+            "duration_ms": 117
+        }
+    ],
+    "맛": [
+        {
+            "file_name": "Voice_Arnet_Victory2_맛_G3_std2.5_-21.1dB_1180ms_1370ms_M30ms.ogg",
+            "start_ms": 43362,
+            "duration_ms": 192
+        }
+    ],
+    "망": [
+        {
+            "file_name": "_selective_FightFire_EP03_003_Arnet_망_G4_std21.0_-14.4dB_300ms_459ms_M30ms.ogg",
+            "start_ms": 43554,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_016_Arnet_망_C4_std16.4_-18.1dB_1560ms_1740ms_M30ms.ogg",
+            "start_ms": 43714,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_012_Arnet_망_Csharp4_std10.4_-15.7dB_1780ms_1940ms_M30ms.ogg",
+            "start_ms": 43891,
+            "duration_ms": 157
+        }
+    ],
+    "맞": [
+        {
+            "file_name": "_selective_FightFire_EP03_053_Arnet_맞_B3_std6.2_-16.2dB_4159ms_4360ms_M30ms.ogg",
+            "start_ms": 44048,
+            "duration_ms": 198
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_117_Arnet_맞_F3_std20.1_-20.0dB_1619ms_1810ms_M30ms.ogg",
+            "start_ms": 44246,
+            "duration_ms": 192
+        }
+    ],
+    "매": [
+        {
+            "file_name": "_selective_FightFire_EP03_051_Arnet_매_C4_std8.0_-22.9dB_3380ms_3596ms_M30ms.ogg",
+            "start_ms": 44438,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_2_매_Csharp4_std11.1_-16.8dB_1420ms_1564ms_M30ms.ogg",
+            "start_ms": 44651,
+            "duration_ms": 141
+        }
+    ],
+    "맨": [
+        {
+            "file_name": "_selective_FightFire_EP01_030_Arnet_맨_F3_std12.9_-19.0dB_520ms_679ms_M30ms.ogg",
+            "start_ms": 44792,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_048_Arnet_맨_Asharp3_std38.7_-17.0dB_240ms_420ms_M30ms.ogg",
+            "start_ms": 44952,
+            "duration_ms": 181
+        }
+    ],
+    "머": [
+        {
+            "file_name": "_selective_FightFire_EP07_034_Arnet_머_C4_std2.4_-14.9dB_799ms_889ms_M30ms.ogg",
+            "start_ms": 45133,
+            "duration_ms": 91
+        }
+    ],
+    "먹": [
+        {
+            "file_name": "_selective_FightFire_EP01_030_Arnet_먹_Asharp3_std6.0_-16.8dB_2780ms_2910ms_M30ms.ogg",
+            "start_ms": 45224,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_120_Arnet_먹_Csharp4_std11.1_-18.7dB_2400ms_2570ms_M30ms.ogg",
+            "start_ms": 45355,
+            "duration_ms": 171
+        }
+    ],
+    "먼": [
+        {
+            "file_name": "_selective_FightFire_EP01_074_Arnet_먼_G3_std12.5_-15.7dB_980ms_1160ms_M30ms.ogg",
+            "start_ms": 45526,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_007_Arnet_먼_Fsharp3_std3.1_-17.8dB_1420ms_1599ms_M30ms.ogg",
+            "start_ms": 45707,
+            "duration_ms": 199
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_먼_C4_std5.7_-17.4dB_5579ms_5760ms_M30ms.ogg",
+            "start_ms": 45906,
+            "duration_ms": 181
+        }
+    ],
+    "멀": [
+        {
+            "file_name": "_selective_FightFire_EP03_053_Arnet_멀_Fsharp3_std3.0_-16.3dB_1580ms_1740ms_M30ms.ogg",
+            "start_ms": 46087,
+            "duration_ms": 157
+        }
+    ],
+    "멋": [
+        {
+            "file_name": "_selective_FightFire_EP04_062_Arnet_멋_G3_std12.8_-21.8dB_1979ms_2200ms_M30ms.ogg",
+            "start_ms": 46244,
+            "duration_ms": 218
+        }
+    ],
+    "멍": [
+        {
+            "file_name": "Voice_Arnet_No2_멍_D4_std11.8_-17.4dB_459ms_600ms_M30ms.ogg",
+            "start_ms": 46462,
+            "duration_ms": 141
+        }
+    ],
+    "면": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_면_G3_std14.5_-15.9dB_3380ms_3520ms_M30ms.ogg",
+            "start_ms": 46603,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_040_Arnet_면_Asharp3_std7.2_-18.2dB_2420ms_2560ms_M30ms.ogg",
+            "start_ms": 46744,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_면_Gsharp3_std42.8_-17.7dB_2160ms_2300ms_M30ms.ogg",
+            "start_ms": 46885,
+            "duration_ms": 141
+        }
+    ],
+    "모": [
+        {
+            "file_name": "_selective_FightFire_EP01_076_Arnet_모_E3_std13.9_-19.6dB_1840ms_1948ms_M30ms.ogg",
+            "start_ms": 47026,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_011_Arnet_모_A3_std7.7_-18.2dB_4840ms_4957ms_M30ms.ogg",
+            "start_ms": 47135,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_020_Arnet_모_E3_std8.0_-23.4dB_880ms_997ms_M30ms.ogg",
+            "start_ms": 47252,
+            "duration_ms": 117
+        }
+    ],
+    "몰": [
+        {
+            "file_name": "_selective_FightFire_EP01_009_Arnet_몰_E3_std4.8_-16.5dB_640ms_840ms_M30ms.ogg",
+            "start_ms": 47369,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_004_Arnet_몰_Fsharp3_std28.1_-20.8dB_1859ms_2020ms_M30ms.ogg",
+            "start_ms": 47566,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_129_Arnet_몰_Gsharp3_std17.0_-20.5dB_5239ms_5399ms_M30ms.ogg",
+            "start_ms": 47729,
+            "duration_ms": 157
+        }
+    ],
+    "몸": [
+        {
+            "file_name": "_selective_FightFire_EP03_016_Arnet_몸_B3_std1.4_-15.6dB_3580ms_3750ms_M30ms.ogg",
+            "start_ms": 47886,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_048_Arnet_몸_B3_std6.1_-16.3dB_1040ms_1180ms_M30ms.ogg",
+            "start_ms": 48057,
+            "duration_ms": 141
+        }
+    ],
+    "못": [
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_못_F3_std11.8_-21.8dB_6340ms_6520ms_M30ms.ogg",
+            "start_ms": 48198,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_033_Arnet_못_Asharp3_std4.1_-20.1dB_3440ms_3630ms_M30ms.ogg",
+            "start_ms": 48379,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Arnet_Die1_못_Asharp3_std7.2_-23.3dB_1800ms_1979ms_M30ms.ogg",
+            "start_ms": 48571,
+            "duration_ms": 176
+        }
+    ],
+    "무": [
+        {
+            "file_name": "_selective_FightFire_EP01_056_Arnet_무_Fsharp3_std5.2_-21.2dB_3180ms_3306ms_M30ms.ogg",
+            "start_ms": 48747,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_009_Arnet_무_A3_std5.0_-20.2dB_4760ms_4885ms_M30ms.ogg",
+            "start_ms": 48875,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_052_Arnet_무_C4_std18.2_-18.1dB_4040ms_4165ms_M30ms.ogg",
+            "start_ms": 49000,
+            "duration_ms": 125
+        }
+    ],
+    "묶": [
+        {
+            "file_name": "_selective_FightFire_EP07_016_Arnet_묶_E4_std27.8_-25.6dB_919ms_1099ms_M30ms.ogg",
+            "start_ms": 49125,
+            "duration_ms": 177
+        }
+    ],
+    "문": [
+        {
+            "file_name": "_selective_FightFire_EP01_013_Arnet_문_G3_std8.3_-13.6dB_840ms_1040ms_M30ms.ogg",
+            "start_ms": 49302,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_문_Csharp4_std9.4_-19.2dB_1740ms_1870ms_M30ms.ogg",
+            "start_ms": 49499,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_문_A3_std5.4_-18.2dB_5120ms_5250ms_M30ms.ogg",
+            "start_ms": 49630,
+            "duration_ms": 131
+        }
+    ],
+    "뭐": [
+        {
+            "file_name": "_selective_FightFire_EP03_002_Arnet_뭐_G3_std9.4_-15.3dB_2340ms_2448ms_M30ms.ogg",
+            "start_ms": 49761,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_041_Arnet_뭐_Dsharp4_std8.7_-13.7dB_1680ms_1824ms_M30ms.ogg",
+            "start_ms": 49870,
+            "duration_ms": 141
+        }
+    ],
+    "밌": [
+        {
+            "file_name": "_selective_FightFire_EP01_029_Arnet_밌_Dsharp4_std8.1_-18.4dB_7265ms_7490ms_M30ms.ogg",
+            "start_ms": 50011,
+            "duration_ms": 227
+        }
+    ],
+    "바": [
+        {
+            "file_name": "_selective_FightFire_EP01_056_Arnet_바_Unvoiced_std0.0_-23.5dB_2600ms_2780ms_M30ms.ogg",
+            "start_ms": 50238,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_030_Arnet_바_Unvoiced_std0.0_-24.3dB_920ms_1081ms_M30ms.ogg",
+            "start_ms": 50415,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "Voice_Arnet_Trickcal1_바_Dsharp4_std22.0_-16.5dB_899ms_1071ms_M30ms.ogg",
+            "start_ms": 50573,
+            "duration_ms": 173
+        }
+    ],
+    "박": [
+        {
+            "file_name": "_selective_FightFire_EP01_030_Arnet_박_B3_std4.5_-16.2dB_1480ms_1599ms_M30ms.ogg",
+            "start_ms": 50746,
+            "duration_ms": 116
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_129_Arnet_박_Dsharp4_std17.3_-18.4dB_2840ms_3000ms_M30ms.ogg",
+            "start_ms": 50862,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_1_박_A3_std5.5_-21.9dB_2900ms_3040ms_M30ms.ogg",
+            "start_ms": 51019,
+            "duration_ms": 137
+        }
+    ],
+    "밖": [
+        {
+            "file_name": "_selective_FightFire_EP01_034_Arnet_밖_Unvoiced_std0.0_-18.5dB_1740ms_1960ms_M30ms.ogg",
+            "start_ms": 51156,
+            "duration_ms": 217
+        }
+    ],
+    "반": [
+        {
+            "file_name": "_selective_FightFire_EP06_001_Arnet_반_Dsharp4_std50.6_-15.0dB_899ms_1080ms_M30ms.ogg",
+            "start_ms": 51373,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_Skin1_반_C4_std36.4_-16.0dB_1400ms_1619ms_M30ms.ogg",
+            "start_ms": 51554,
+            "duration_ms": 216
+        },
+        {
+            "file_name": "Voice_Arnet_Victory1_반_Csharp4_std20.0_-13.2dB_180ms_380ms_M30ms.ogg",
+            "start_ms": 51770,
+            "duration_ms": 197
+        }
+    ],
+    "받": [
+        {
+            "file_name": "_selective_FightFire_EP02_026_Arnet_받_Gsharp3_std4.9_-20.3dB_3100ms_3320ms_M30ms.ogg",
+            "start_ms": 51967,
+            "duration_ms": 221
+        }
+    ],
+    "발": [
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_발_Fsharp3_std7.7_-18.9dB_3920ms_3999ms_M30ms.ogg",
+            "start_ms": 52188,
+            "duration_ms": 80
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_2_Skin1_발_B4_std26.5_-12.8dB_2300ms_2440ms_M30ms.ogg",
+            "start_ms": 52268,
+            "duration_ms": 141
+        }
+    ],
+    "방": [
+        {
+            "file_name": "_selective_FightFire_EP01_013_Arnet_방_A3_std4.1_-12.5dB_2460ms_2680ms_M30ms.ogg",
+            "start_ms": 52409,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_063_Arnet_방_G3_std13.0_-17.7dB_2580ms_2760ms_M30ms.ogg",
+            "start_ms": 52630,
+            "duration_ms": 181
+        }
+    ],
+    "백": [
+        {
+            "file_name": "_selective_FightFire_EP01_074_Arnet_백_Unvoiced_std0.0_-22.4dB_260ms_480ms_M30ms.ogg",
+            "start_ms": 52811,
+            "duration_ms": 221
+        }
+    ],
+    "버": [
+        {
+            "file_name": "_selective_FightFire_EP01_015_Arnet_버_G4_std10.1_-12.0dB_3220ms_3310ms_M30ms.ogg",
+            "start_ms": 53032,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_029_Arnet_버_Asharp3_std1.1_-27.7dB_760ms_850ms_M30ms.ogg",
+            "start_ms": 53123,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_017_Arnet_버_Fsharp3_std9.0_-22.5dB_3380ms_3470ms_M30ms.ogg",
+            "start_ms": 53214,
+            "duration_ms": 87
+        }
+    ],
+    "번": [
+        {
+            "file_name": "_selective_FightFire_EP01_034_Arnet_번_E4_std49.5_-17.2dB_2760ms_2980ms_M30ms.ogg",
+            "start_ms": 53301,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_022_Arnet_번_B3_std16.7_-17.2dB_199ms_360ms_M30ms.ogg",
+            "start_ms": 53522,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_017_Arnet_번_F4_std9.0_-15.6dB_520ms_720ms_M30ms.ogg",
+            "start_ms": 53685,
+            "duration_ms": 197
+        }
+    ],
+    "벌": [
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_벌_Dsharp4_std12.2_-12.9dB_730ms_870ms_M30ms.ogg",
+            "start_ms": 53882,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_037_Arnet_벌_G3_std27.8_-18.7dB_1340ms_1540ms_M30ms.ogg",
+            "start_ms": 54023,
+            "duration_ms": 197
+        }
+    ],
+    "벽": [
+        {
+            "file_name": "_selective_FightFire_EP04_002_Arnet_벽_Csharp4_std15.2_-16.6dB_1680ms_1840ms_M30ms.ogg",
+            "start_ms": 54220,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_024_Arnet_벽_C4_std5.2_-17.5dB_8130ms_8280ms_M30ms.ogg",
+            "start_ms": 54377,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_028_Arnet_벽_B3_std14.0_-17.0dB_1060ms_1220ms_M30ms.ogg",
+            "start_ms": 54524,
+            "duration_ms": 157
+        }
+    ],
+    "볍": [
+        {
+            "file_name": "_selective_FightFire_EP07_072_Arnet_볍_F4_std6.4_-16.5dB_2440ms_2660ms_M30ms.ogg",
+            "start_ms": 54681,
+            "duration_ms": 217
+        }
+    ],
+    "보": [
+        {
+            "file_name": "_selective_FightFire_EP01_034_Arnet_보_C4_std18.0_-13.6dB_20ms_127ms_M30ms.ogg",
+            "start_ms": 54898,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_보_B3_std5.5_-17.3dB_530ms_629ms_M30ms.ogg",
+            "start_ms": 55007,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_009_Arnet_보_E4_std7.9_-21.3dB_5659ms_5750ms_M30ms.ogg",
+            "start_ms": 55108,
+            "duration_ms": 93
+        }
+    ],
+    "복": [
+        {
+            "file_name": "_selective_FightFire_EP05_054_Arnet_복_Asharp3_std14.5_-23.8dB_2940ms_3120ms_M30ms.ogg",
+            "start_ms": 55201,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_048_Arnet_복_Asharp3_std7.2_-19.3dB_1979ms_2120ms_M30ms.ogg",
+            "start_ms": 55382,
+            "duration_ms": 138
+        }
+    ],
+    "본": [
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_본_Gsharp3_std13.1_-17.7dB_5079ms_5230ms_M30ms.ogg",
+            "start_ms": 55520,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Arnet_Defeat1_본_Fsharp3_std10.8_-18.5dB_480ms_680ms_M30ms.ogg",
+            "start_ms": 55672,
+            "duration_ms": 197
+        }
+    ],
+    "볼": [
+        {
+            "file_name": "_selective_FightFire_EP03_052_Arnet_볼_Fsharp4_std3.7_-15.9dB_4159ms_4360ms_M30ms.ogg",
+            "start_ms": 55869,
+            "duration_ms": 203
+        },
+        {
+            "file_name": "Voice_Arnet_Birthday_볼_Dsharp3_std19.2_-24.7dB_3060ms_3260ms_M30ms.ogg",
+            "start_ms": 56072,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_볼_F4_std9.2_-16.2dB_1700ms_1920ms_M30ms.ogg",
+            "start_ms": 56269,
+            "duration_ms": 221
+        }
+    ],
+    "봐": [
+        {
+            "file_name": "_selective_FightFire_EP02_027_Arnet_봐_G3_std17.3_-18.2dB_2760ms_2832ms_M30ms.ogg",
+            "start_ms": 56490,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_038_Arnet_봐_C4_std27.8_-12.8dB_2020ms_2177ms_M30ms.ogg",
+            "start_ms": 56559,
+            "duration_ms": 157
+        }
+    ],
+    "부": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_부_B3_std28.9_-18.4dB_2820ms_2946ms_M30ms.ogg",
+            "start_ms": 56716,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_075_Arnet_부_D4_std19.6_-22.5dB_2520ms_2646ms_M30ms.ogg",
+            "start_ms": 56844,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_023_Arnet_부_Asharp3_std2.9_-21.9dB_2000ms_2126ms_M30ms.ogg",
+            "start_ms": 56967,
+            "duration_ms": 128
+        }
+    ],
+    "분": [
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_분_C4_std7.6_-20.2dB_1500ms_1630ms_M30ms.ogg",
+            "start_ms": 57095,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_062_Arnet_분_Csharp4_std11.0_-21.4dB_1060ms_1180ms_M30ms.ogg",
+            "start_ms": 57226,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Arnet_LevelUp_분_Gsharp3_std8.3_-22.1dB_980ms_1110ms_M30ms.ogg",
+            "start_ms": 57343,
+            "duration_ms": 131
+        }
+    ],
+    "불": [
+        {
+            "file_name": "_selective_FightFire_EP05_030_Arnet_불_Gsharp3_std9.5_-23.7dB_2239ms_2380ms_M30ms.ogg",
+            "start_ms": 57474,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity2_불_Csharp4_std14.5_-17.0dB_2260ms_2340ms_M30ms.ogg",
+            "start_ms": 57615,
+            "duration_ms": 77
+        }
+    ],
+    "붙": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_붙_Gsharp3_std11.9_-23.8dB_2120ms_2290ms_M30ms.ogg",
+            "start_ms": 57692,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_049_Arnet_붙_Unvoiced_std0.0_-24.4dB_5760ms_5930ms_M30ms.ogg",
+            "start_ms": 57863,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity6_붙_G3_std4.8_-23.7dB_440ms_610ms_M30ms.ogg",
+            "start_ms": 58034,
+            "duration_ms": 171
+        }
+    ],
+    "브": [
+        {
+            "file_name": "Voice_Arnet_Stage_브_Asharp3_std1.2_-22.4dB_1859ms_1932ms_M30ms.ogg",
+            "start_ms": 58205,
+            "duration_ms": 75
+        }
+    ],
+    "비": [
+        {
+            "file_name": "_selective_FightFire_EP06_018_Arnet_비_G3_std7.8_-15.6dB_1940ms_2030ms_M30ms.ogg",
+            "start_ms": 58280,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_040_Arnet_비_D4_std19.4_-19.8dB_3000ms_3090ms_M30ms.ogg",
+            "start_ms": 58371,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Arnet_HeroUpgrade_Skin1_비_A3_std14.4_-20.2dB_2239ms_2330ms_M30ms.ogg",
+            "start_ms": 58462,
+            "duration_ms": 88
+        }
+    ],
+    "빠": [
+        {
+            "file_name": "_selective_FightFire_EP01_033_Arnet_빠_Fsharp3_std3.2_-14.8dB_2320ms_2464ms_M30ms.ogg",
+            "start_ms": 58550,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_028_Arnet_빠_A3_std0.4_-16.0dB_1060ms_1204ms_M30ms.ogg",
+            "start_ms": 58691,
+            "duration_ms": 141
+        }
+    ],
+    "빨": [
+        {
+            "file_name": "_selective_FightFire_EP07_019_Arnet_빨_Fsharp5_std27.1_-11.2dB_1440ms_1540ms_M30ms.ogg",
+            "start_ms": 58832,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_019_Arnet_빨_G4_std14.3_-11.4dB_1200ms_1300ms_M30ms.ogg",
+            "start_ms": 58933,
+            "duration_ms": 101
+        }
+    ],
+    "뻔": [
+        {
+            "file_name": "_selective_FightFire_EP07_043_Arnet_뻔_Csharp5_std18.1_-12.7dB_1820ms_1900ms_M30ms.ogg",
+            "start_ms": 59034,
+            "duration_ms": 77
+        }
+    ],
+    "뿐": [
+        {
+            "file_name": "_selective_FightFire_EP01_029_Arnet_뿐_Asharp3_std13.1_-19.8dB_7690ms_7850ms_M30ms.ogg",
+            "start_ms": 59111,
+            "duration_ms": 157
+        }
+    ],
+    "사": [
+        {
+            "file_name": "_selective_FightFire_EP01_011_Arnet_사_Unvoiced_std0.0_-21.2dB_2760ms_2850ms_M30ms.ogg",
+            "start_ms": 59268,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_사_G5_std8.1_-10.4dB_7120ms_7228ms_M30ms.ogg",
+            "start_ms": 59359,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_046_Arnet_사_Unvoiced_std0.0_-23.2dB_1900ms_1990ms_M30ms.ogg",
+            "start_ms": 59468,
+            "duration_ms": 91
+        }
+    ],
+    "삭": [
+        {
+            "file_name": "Voice_Arnet_Line1_삭_D5_std73.3_-18.4dB_1000ms_1200ms_M30ms.ogg",
+            "start_ms": 59559,
+            "duration_ms": 197
+        }
+    ],
+    "살": [
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_살_C4_std28.9_-22.7dB_2580ms_2710ms_M30ms.ogg",
+            "start_ms": 59756,
+            "duration_ms": 131
+        }
+    ],
+    "상": [
+        {
+            "file_name": "_selective_FightFire_EP04_017_Arnet_상_Dsharp4_std14.9_-17.8dB_400ms_540ms_M30ms.ogg",
+            "start_ms": 59887,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_020_Arnet_상_C4_std19.6_-16.6dB_220ms_350ms_M30ms.ogg",
+            "start_ms": 60028,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_120_Arnet_상_Gsharp3_std29.4_-23.3dB_490ms_620ms_M30ms.ogg",
+            "start_ms": 60159,
+            "duration_ms": 131
+        }
+    ],
+    "생": [
+        {
+            "file_name": "_selective_FightFire_EP01_019_Arnet_생_B3_std41.1_-19.5dB_3180ms_3320ms_M30ms.ogg",
+            "start_ms": 60290,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_058_Arnet_생_A3_std26.9_-21.5dB_3080ms_3220ms_M30ms.ogg",
+            "start_ms": 60431,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_062_Arnet_생_E4_std34.9_-22.8dB_2980ms_3120ms_M30ms.ogg",
+            "start_ms": 60572,
+            "duration_ms": 137
+        }
+    ],
+    "서": [
+        {
+            "file_name": "_selective_FightFire_EP01_011_Arnet_서_G4_std28.6_-15.4dB_1920ms_2028ms_M30ms.ogg",
+            "start_ms": 60709,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_서_G4_std7.8_-14.8dB_2000ms_2108ms_M30ms.ogg",
+            "start_ms": 60818,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_2_서_Unvoiced_std0.0_-20.3dB_1480ms_1588ms_M30ms.ogg",
+            "start_ms": 60927,
+            "duration_ms": 105
+        }
+    ],
+    "석": [
+        {
+            "file_name": "_selective_FightFire_EP01_020_Arnet_석_C4_std14.8_-16.4dB_380ms_510ms_M30ms.ogg",
+            "start_ms": 61032,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_038_Arnet_석_Unvoiced_std0.0_-24.4dB_2640ms_2790ms_M30ms.ogg",
+            "start_ms": 61163,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_041_Arnet_석_A3_std11.9_-24.2dB_2960ms_3100ms_M30ms.ogg",
+            "start_ms": 61315,
+            "duration_ms": 137
+        }
+    ],
+    "설": [
+        {
+            "file_name": "_selective_FightFire_EP01_075_Arnet_설_Asharp3_std30.9_-21.5dB_339ms_520ms_M30ms.ogg",
+            "start_ms": 61452,
+            "duration_ms": 181
+        }
+    ],
+    "섯": [
+        {
+            "file_name": "_selective_FightFire_EP07_026_Arnet_섯_Unvoiced_std0.0_-24.3dB_2120ms_2260ms_M30ms.ogg",
+            "start_ms": 61633,
+            "duration_ms": 137
+        }
+    ],
+    "성": [
+        {
+            "file_name": "_selective_FightFire_EP01_077_Arnet_성_Csharp4_std12.9_-14.7dB_2290ms_2380ms_M30ms.ogg",
+            "start_ms": 61770,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_062_Arnet_성_E4_std21.5_-21.9dB_2700ms_2800ms_M30ms.ogg",
+            "start_ms": 61861,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity3_성_Fsharp4_std21.7_-15.0dB_1020ms_1160ms_M30ms.ogg",
+            "start_ms": 61962,
+            "duration_ms": 141
+        }
+    ],
+    "세": [
+        {
+            "file_name": "_selective_FightFire_EP02_012_Arnet_세_B3_std26.5_-20.7dB_2980ms_3124ms_M30ms.ogg",
+            "start_ms": 62103,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_012_Arnet_세_D4_std8.9_-22.7dB_2540ms_2702ms_M30ms.ogg",
+            "start_ms": 62267,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_017_Arnet_세_Unvoiced_std0.0_-16.5dB_220ms_382ms_M30ms.ogg",
+            "start_ms": 62430,
+            "duration_ms": 163
+        }
+    ],
+    "셨": [
+        {
+            "file_name": "_selective_FightFire_EP06_018_Arnet_셨_Gsharp3_std6.3_-16.7dB_2520ms_2739ms_M30ms.ogg",
+            "start_ms": 62593,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_020_Arnet_셨_F4_std7.9_-13.2dB_5200ms_5420ms_M30ms.ogg",
+            "start_ms": 62814,
+            "duration_ms": 221
+        }
+    ],
+    "소": [
+        {
+            "file_name": "_selective_FightFire_EP03_047_Arnet_소_Dsharp4_std8.7_-18.5dB_2000ms_2090ms_M30ms.ogg",
+            "start_ms": 63035,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_021_Arnet_소_G4_std14.1_-17.6dB_4600ms_4690ms_M30ms.ogg",
+            "start_ms": 63126,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_052_Arnet_소_Gsharp4_std5.7_-16.9dB_4319ms_4410ms_M30ms.ogg",
+            "start_ms": 63217,
+            "duration_ms": 93
+        }
+    ],
+    "속": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_속_Unvoiced_std0.0_-18.1dB_4079ms_4210ms_M30ms.ogg",
+            "start_ms": 63310,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_066_Arnet_속_Gsharp3_std13.1_-25.0dB_880ms_1010ms_M30ms.ogg",
+            "start_ms": 63443,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_125_Arnet_속_A4_std17.2_-24.4dB_1820ms_1960ms_M30ms.ogg",
+            "start_ms": 63574,
+            "duration_ms": 137
+        }
+    ],
+    "송": [
+        {
+            "file_name": "Voice_Arnet_Sorry1_송_F4_std24.4_-21.7dB_240ms_339ms_M30ms.ogg",
+            "start_ms": 63711,
+            "duration_ms": 101
+        }
+    ],
+    "수": [
+        {
+            "file_name": "_selective_FightFire_EP02_016_Arnet_수_Unvoiced_std0.0_-23.7dB_3120ms_3228ms_M30ms.ogg",
+            "start_ms": 63812,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_032_Arnet_수_Unvoiced_std0.0_-18.3dB_2360ms_2468ms_M30ms.ogg",
+            "start_ms": 63921,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity6_수_Unvoiced_std0.0_-18.7dB_3720ms_3828ms_M30ms.ogg",
+            "start_ms": 64026,
+            "duration_ms": 109
+        }
+    ],
+    "술": [
+        {
+            "file_name": "_selective_FightFire_EP07_066_Arnet_술_B3_std12.7_-18.2dB_3340ms_3469ms_M30ms.ogg",
+            "start_ms": 64135,
+            "duration_ms": 131
+        }
+    ],
+    "숲": [
+        {
+            "file_name": "_selective_FightFire_EP03_047_Arnet_숲_G4_std7.8_-22.1dB_7620ms_7790ms_M30ms.ogg",
+            "start_ms": 64266,
+            "duration_ms": 171
+        }
+    ],
+    "쉽": [
+        {
+            "file_name": "_selective_FightFire_EP03_050_Arnet_쉽_Unvoiced_std0.0_-22.7dB_3360ms_3540ms_M30ms.ogg",
+            "start_ms": 64437,
+            "duration_ms": 177
+        }
+    ],
+    "스": [
+        {
+            "file_name": "_selective_FightFire_EP01_009_Arnet_스_Gsharp3_std29.3_-17.1dB_1000ms_1126ms_M30ms.ogg",
+            "start_ms": 64614,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_008_Arnet_스_F4_std19.7_-21.5dB_459ms_568ms_M30ms.ogg",
+            "start_ms": 64742,
+            "duration_ms": 106
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity3_스_Unvoiced_std0.0_-19.9dB_1440ms_1566ms_M30ms.ogg",
+            "start_ms": 64848,
+            "duration_ms": 123
+        }
+    ],
+    "슨": [
+        {
+            "file_name": "_selective_FightFire_EP01_035_Arnet_슨_B3_std11.6_-23.8dB_1320ms_1420ms_M30ms.ogg",
+            "start_ms": 64971,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_056_Arnet_슨_Gsharp3_std5.2_-20.6dB_3320ms_3420ms_M30ms.ogg",
+            "start_ms": 65072,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_055_Arnet_슨_Gsharp3_std4.1_-20.9dB_3280ms_3380ms_M30ms.ogg",
+            "start_ms": 65173,
+            "duration_ms": 101
+        }
+    ],
+    "슴": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_슴_A3_std8.8_-19.0dB_3900ms_4079ms_M30ms.ogg",
+            "start_ms": 65274,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_123_Arnet_슴_Asharp3_std28.5_-20.1dB_1760ms_1910ms_M30ms.ogg",
+            "start_ms": 65455,
+            "duration_ms": 152
+        }
+    ],
+    "습": [
+        {
+            "file_name": "_selective_FightFire_EP03_011_Arnet_습_Unvoiced_std0.0_-25.3dB_4970ms_5090ms_M30ms.ogg",
+            "start_ms": 65607,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_019_Arnet_습_Fsharp4_std24.2_-17.7dB_2260ms_2380ms_M30ms.ogg",
+            "start_ms": 65724,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_001_Arnet_습_F4_std22.0_-16.7dB_1260ms_1380ms_M30ms.ogg",
+            "start_ms": 65841,
+            "duration_ms": 117
+        }
+    ],
+    "승": [
+        {
+            "file_name": "_selective_FightFire_EP01_074_Arnet_승_B3_std19.5_-17.8dB_480ms_640ms_M30ms.ogg",
+            "start_ms": 65958,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_044_Arnet_승_B3_std54.0_-18.4dB_4579ms_4720ms_M30ms.ogg",
+            "start_ms": 66115,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Arnet_Defeat2_승_B3_std85.0_-18.3dB_1840ms_2020ms_M30ms.ogg",
+            "start_ms": 66256,
+            "duration_ms": 177
+        }
+    ],
+    "시": [
+        {
+            "file_name": "_selective_FightFire_EP01_018_Arnet_시_Unvoiced_std0.0_-23.4dB_1520ms_1628ms_M30ms.ogg",
+            "start_ms": 66433,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_035_Arnet_시_Unvoiced_std0.0_-21.7dB_720ms_828ms_M30ms.ogg",
+            "start_ms": 66542,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_시_B4_std8.8_-17.6dB_2680ms_2788ms_M30ms.ogg",
+            "start_ms": 66651,
+            "duration_ms": 109
+        }
+    ],
+    "식": [
+        {
+            "file_name": "_selective_FightFire_EP02_026_Arnet_식_Unvoiced_std0.0_-24.9dB_4120ms_4270ms_M30ms.ogg",
+            "start_ms": 66760,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_023_Arnet_식_Unvoiced_std0.0_-20.7dB_319ms_470ms_M30ms.ogg",
+            "start_ms": 66912,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_2_식_Unvoiced_std0.0_-28.2dB_3160ms_3309ms_M30ms.ogg",
+            "start_ms": 67064,
+            "duration_ms": 149
+        }
+    ],
+    "신": [
+        {
+            "file_name": "_selective_FightFire_EP01_056_Arnet_신_Asharp3_std16.2_-20.9dB_2060ms_2239ms_M30ms.ogg",
+            "start_ms": 67213,
+            "duration_ms": 176
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_120_Arnet_신_D4_std21.6_-17.6dB_5100ms_5280ms_M30ms.ogg",
+            "start_ms": 67389,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_120_Arnet_신_Unvoiced_std0.0_-15.4dB_4800ms_4980ms_M30ms.ogg",
+            "start_ms": 67570,
+            "duration_ms": 181
+        }
+    ],
+    "실": [
+        {
+            "file_name": "_selective_FightFire_EP02_025_Arnet_실_Asharp3_std22.5_-20.2dB_2840ms_2980ms_M30ms.ogg",
+            "start_ms": 67751,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_030_Arnet_실_D4_std7.7_-23.2dB_1280ms_1460ms_M30ms.ogg",
+            "start_ms": 67892,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Arnet_Board_Skin1_실_D4_std11.0_-19.2dB_240ms_400ms_M30ms.ogg",
+            "start_ms": 68069,
+            "duration_ms": 157
+        }
+    ],
+    "싫": [
+        {
+            "file_name": "_selective_FightFire_EP03_037_Arnet_싫_Dsharp4_std19.7_-19.3dB_420ms_580ms_M30ms.ogg",
+            "start_ms": 68226,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_017_Arnet_싫_A4_std7.7_-20.3dB_2920ms_3070ms_M30ms.ogg",
+            "start_ms": 68383,
+            "duration_ms": 152
+        }
+    ],
+    "심": [
+        {
+            "file_name": "Voice_Arnet_Line1_심_E4_std58.3_-15.1dB_1540ms_1720ms_M30ms.ogg",
+            "start_ms": 68535,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_심_F3_std21.0_-21.5dB_2140ms_2320ms_M30ms.ogg",
+            "start_ms": 68712,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Arnet_Victory2_심_Fsharp4_std42.3_-20.6dB_1520ms_1700ms_M30ms.ogg",
+            "start_ms": 68889,
+            "duration_ms": 177
+        }
+    ],
+    "싶": [
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_싶_Unvoiced_std0.0_-30.5dB_3580ms_3769ms_M30ms.ogg",
+            "start_ms": 69066,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_1_Skin1_싶_Unvoiced_std0.0_-29.5dB_1240ms_1390ms_M30ms.ogg",
+            "start_ms": 69255,
+            "duration_ms": 152
+        }
+    ],
+    "싸": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_싸_Unvoiced_std0.0_-11.1dB_2400ms_2508ms_M30ms.ogg",
+            "start_ms": 69407,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_016_Arnet_싸_A4_std6.0_-13.0dB_1880ms_1988ms_M30ms.ogg",
+            "start_ms": 69516,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity5_싸_B3_std8.5_-16.2dB_720ms_819ms_M30ms.ogg",
+            "start_ms": 69625,
+            "duration_ms": 101
+        }
+    ],
+    "쓰": [
+        {
+            "file_name": "_selective_FightFire_EP04_013_Arnet_쓰_Fsharp4_std21.1_-19.8dB_2660ms_2750ms_M30ms.ogg",
+            "start_ms": 69726,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_024_Arnet_쓰_Unvoiced_std0.0_-21.5dB_899ms_972ms_M30ms.ogg",
+            "start_ms": 69817,
+            "duration_ms": 75
+        }
+    ],
+    "쓸": [
+        {
+            "file_name": "_selective_FightFire_EP05_063_Arnet_쓸_G3_std2.8_-17.7dB_2820ms_3000ms_M30ms.ogg",
+            "start_ms": 69892,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_048_Arnet_쓸_Asharp3_std12.6_-16.7dB_1340ms_1480ms_M30ms.ogg",
+            "start_ms": 70069,
+            "duration_ms": 137
+        }
+    ],
+    "아": [
+        {
+            "file_name": "_selective_FightFire_EP03_041_Arnet_아_B3_std14.5_-12.8dB_940ms_1075ms_M30ms.ogg",
+            "start_ms": 70206,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_059_Arnet_아_Asharp3_std3.9_-17.1dB_850ms_985ms_M30ms.ogg",
+            "start_ms": 70342,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity3_아_Unvoiced_std0.0_-9.3dB_270ms_404ms_M30ms.ogg",
+            "start_ms": 70478,
+            "duration_ms": 136
+        }
+    ],
+    "안": [
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_안_D4_std37.9_-12.0dB_4680ms_4840ms_M30ms.ogg",
+            "start_ms": 70614,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_058_Arnet_안_Dsharp3_std6.1_-18.6dB_3360ms_3520ms_M30ms.ogg",
+            "start_ms": 70771,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_059_Arnet_안_F3_std7.5_-17.0dB_1480ms_1620ms_M30ms.ogg",
+            "start_ms": 70928,
+            "duration_ms": 141
+        }
+    ],
+    "앉": [
+        {
+            "file_name": "_selective_FightFire_EP02_037_Arnet_앉_Fsharp3_std8.1_-18.0dB_2960ms_3090ms_M30ms.ogg",
+            "start_ms": 71069,
+            "duration_ms": 131
+        }
+    ],
+    "않": [
+        {
+            "file_name": "_selective_FightFire_EP01_030_Arnet_않_G3_std14.9_-18.1dB_3640ms_3830ms_M30ms.ogg",
+            "start_ms": 71200,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_052_Arnet_않_Fsharp3_std13.1_-22.7dB_3560ms_3690ms_M30ms.ogg",
+            "start_ms": 71392,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_3_않_E3_std29.0_-21.7dB_1140ms_1330ms_M30ms.ogg",
+            "start_ms": 71523,
+            "duration_ms": 192
+        }
+    ],
+    "알": [
+        {
+            "file_name": "_selective_FightFire_EP06_004_Arnet_알_C4_std9.8_-14.2dB_1000ms_1160ms_M30ms.ogg",
+            "start_ms": 71715,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_030_Arnet_알_Asharp3_std17.6_-19.0dB_780ms_1000ms_M30ms.ogg",
+            "start_ms": 71872,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_031_Arnet_알_D4_std20.6_-14.9dB_2640ms_2790ms_M30ms.ogg",
+            "start_ms": 72089,
+            "duration_ms": 152
+        }
+    ],
+    "았": [
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_았_B3_std7.6_-18.0dB_2710ms_2820ms_M30ms.ogg",
+            "start_ms": 72241,
+            "duration_ms": 112
+        }
+    ],
+    "야": [
+        {
+            "file_name": "_selective_FightFire_EP01_070_Arnet_야_F4_std11.2_-10.5dB_2320ms_2410ms_M30ms.ogg",
+            "start_ms": 72353,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_038_Arnet_야_A3_std7.0_-20.3dB_2195ms_2289ms_M30ms.ogg",
+            "start_ms": 72444,
+            "duration_ms": 96
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_066_Arnet_야_Asharp3_std10.3_-16.1dB_915ms_1009ms_M30ms.ogg",
+            "start_ms": 72540,
+            "duration_ms": 96
+        }
+    ],
+    "얘": [
+        {
+            "file_name": "_selective_FightFire_EP05_057_Arnet_얘_A3_std9.8_-17.1dB_3000ms_3126ms_M30ms.ogg",
+            "start_ms": 72636,
+            "duration_ms": 128
+        }
+    ],
+    "어": [
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_어_Asharp3_std7.4_-21.5dB_7720ms_7846ms_M30ms.ogg",
+            "start_ms": 72764,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_037_Arnet_어_E3_std14.4_-26.5dB_1120ms_1246ms_M30ms.ogg",
+            "start_ms": 72887,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_117_Arnet_어_Unvoiced_std0.0_-21.9dB_2070ms_2205ms_M30ms.ogg",
+            "start_ms": 73010,
+            "duration_ms": 136
+        }
+    ],
+    "언": [
+        {
+            "file_name": "_selective_FightFire_EP01_065_Arnet_언_Csharp4_std6.2_-15.8dB_1040ms_1180ms_M30ms.ogg",
+            "start_ms": 73146,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_038_Arnet_언_F3_std13.8_-17.2dB_220ms_400ms_M30ms.ogg",
+            "start_ms": 73287,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_066_Arnet_언_Asharp3_std20.9_-16.5dB_2940ms_3140ms_M30ms.ogg",
+            "start_ms": 73464,
+            "duration_ms": 197
+        }
+    ],
+    "얼": [
+        {
+            "file_name": "_selective_FightFire_EP04_015_Arnet_얼_Fsharp3_std8.3_-19.9dB_2120ms_2320ms_M30ms.ogg",
+            "start_ms": 73661,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_136_Arnet_얼_B3_std23.3_-19.4dB_1060ms_1220ms_M30ms.ogg",
+            "start_ms": 73858,
+            "duration_ms": 157
+        }
+    ],
+    "업": [
+        {
+            "file_name": "_selective_FightFire_EP04_067_Arnet_업_D4_std15.5_-18.3dB_700ms_790ms_M30ms.ogg",
+            "start_ms": 74015,
+            "duration_ms": 91
+        }
+    ],
+    "없": [
+        {
+            "file_name": "_selective_FightFire_EP04_014_Arnet_없_E3_std0.4_-23.9dB_1210ms_1380ms_M30ms.ogg",
+            "start_ms": 74106,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_048_Arnet_없_A3_std1.8_-19.6dB_1600ms_1750ms_M30ms.ogg",
+            "start_ms": 74277,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_077_Arnet_없_Csharp4_std27.0_-17.9dB_1440ms_1640ms_M30ms.ogg",
+            "start_ms": 74429,
+            "duration_ms": 197
+        }
+    ],
+    "었": [
+        {
+            "file_name": "_selective_FightFire_EP02_017_Arnet_었_G3_std6.8_-21.6dB_790ms_899ms_M30ms.ogg",
+            "start_ms": 74626,
+            "duration_ms": 106
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_었_Gsharp3_std17.3_-21.6dB_3769ms_3880ms_M30ms.ogg",
+            "start_ms": 74732,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_047_Arnet_었_Gsharp3_std13.3_-22.5dB_5230ms_5360ms_M30ms.ogg",
+            "start_ms": 74844,
+            "duration_ms": 127
+        }
+    ],
+    "에": [
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_에_Asharp3_std9.6_-16.9dB_1870ms_1969ms_M30ms.ogg",
+            "start_ms": 74971,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_에_Fsharp3_std8.9_-16.2dB_5250ms_5349ms_M30ms.ogg",
+            "start_ms": 75072,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_011_Arnet_에_G3_std5.1_-18.9dB_2570ms_2669ms_M30ms.ogg",
+            "start_ms": 75173,
+            "duration_ms": 101
+        }
+    ],
+    "여": [
+        {
+            "file_name": "_selective_FightFire_EP03_047_Arnet_여_A3_std13.7_-16.9dB_4340ms_4457ms_M30ms.ogg",
+            "start_ms": 75274,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_여_D4_std10.5_-13.0dB_5360ms_5468ms_M30ms.ogg",
+            "start_ms": 75391,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_013_Arnet_여_G4_std10.7_-11.2dB_5860ms_5968ms_M30ms.ogg",
+            "start_ms": 75500,
+            "duration_ms": 109
+        }
+    ],
+    "역": [
+        {
+            "file_name": "Voice_Arnet_Board_Skin1_역_C4_std8.4_-15.3dB_100ms_240ms_M30ms.ogg",
+            "start_ms": 75609,
+            "duration_ms": 141
+        }
+    ],
+    "연": [
+        {
+            "file_name": "_selective_FightFire_EP07_011_Arnet_연_Csharp4_std9.4_-13.5dB_2160ms_2360ms_M30ms.ogg",
+            "start_ms": 75750,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_016_Arnet_연_D4_std18.1_-16.6dB_540ms_640ms_M30ms.ogg",
+            "start_ms": 75947,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_141_Arnet_연_A3_std10.6_-16.4dB_5420ms_5579ms_M30ms.ogg",
+            "start_ms": 76048,
+            "duration_ms": 160
+        }
+    ],
+    "열": [
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_열_Csharp4_std17.6_-12.8dB_1320ms_1460ms_M30ms.ogg",
+            "start_ms": 76208,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_열_G3_std5.7_-12.9dB_1820ms_1960ms_M30ms.ogg",
+            "start_ms": 76345,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_048_Arnet_열_Asharp3_std4.9_-16.6dB_3360ms_3500ms_M30ms.ogg",
+            "start_ms": 76486,
+            "duration_ms": 137
+        }
+    ],
+    "였": [
+        {
+            "file_name": "_selective_FightFire_EP03_005_Arnet_였_Gsharp3_std32.7_-17.4dB_2370ms_2500ms_M30ms.ogg",
+            "start_ms": 76623,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_009_Arnet_였_C4_std8.0_-17.5dB_5180ms_5360ms_M30ms.ogg",
+            "start_ms": 76754,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Arnet_Defeat2_였_Csharp4_std13.9_-19.3dB_2120ms_2280ms_M30ms.ogg",
+            "start_ms": 76931,
+            "duration_ms": 157
+        }
+    ],
+    "영": [
+        {
+            "file_name": "_selective_FightFire_EP05_054_Arnet_영_Gsharp3_std9.7_-14.3dB_720ms_920ms_M30ms.ogg",
+            "start_ms": 77088,
+            "duration_ms": 197
+        }
+    ],
+    "옆": [
+        {
+            "file_name": "_selective_FightFire_EP07_028_Arnet_옆_Gsharp3_std9.0_-17.7dB_659ms_870ms_M30ms.ogg",
+            "start_ms": 77285,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_141_Arnet_옆_E3_std9.4_-22.5dB_500ms_710ms_M30ms.ogg",
+            "start_ms": 77498,
+            "duration_ms": 211
+        }
+    ],
+    "오": [
+        {
+            "file_name": "_selective_FightFire_EP03_015_Arnet_오_Fsharp3_std5.9_-22.0dB_5470ms_5605ms_M30ms.ogg",
+            "start_ms": 77709,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_059_Arnet_오_Fsharp3_std3.5_-22.9dB_4140ms_4275ms_M30ms.ogg",
+            "start_ms": 77841,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_040_Arnet_오_Fsharp3_std7.0_-20.3dB_2120ms_2246ms_M30ms.ogg",
+            "start_ms": 77977,
+            "duration_ms": 123
+        }
+    ],
+    "온": [
+        {
+            "file_name": "_selective_FightFire_EP03_045_Arnet_온_B3_std4.5_-17.2dB_1920ms_2040ms_M30ms.ogg",
+            "start_ms": 78100,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_051_Arnet_온_F3_std2.7_-21.2dB_4899ms_5040ms_M30ms.ogg",
+            "start_ms": 78217,
+            "duration_ms": 138
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_2_온_Csharp4_std5.9_-19.6dB_1200ms_1320ms_M30ms.ogg",
+            "start_ms": 78355,
+            "duration_ms": 117
+        }
+    ],
+    "올": [
+        {
+            "file_name": "_selective_FightFire_EP01_015_Arnet_올_B3_std16.1_-15.0dB_600ms_740ms_M30ms.ogg",
+            "start_ms": 78472,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_040_Arnet_올_Asharp3_std24.6_-16.8dB_4380ms_4520ms_M30ms.ogg",
+            "start_ms": 78613,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_019_Arnet_올_C4_std7.3_-20.0dB_3830ms_3940ms_M30ms.ogg",
+            "start_ms": 78754,
+            "duration_ms": 112
+        }
+    ],
+    "와": [
+        {
+            "file_name": "_selective_FightFire_EP03_042_Arnet_와_A3_std3.0_-15.6dB_1700ms_1808ms_M30ms.ogg",
+            "start_ms": 78866,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_046_Arnet_와_B3_std3.1_-11.9dB_1680ms_1788ms_M30ms.ogg",
+            "start_ms": 78975,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_009_Arnet_와_D4_std2.1_-16.9dB_4059ms_4240ms_M30ms.ogg",
+            "start_ms": 79084,
+            "duration_ms": 181
+        }
+    ],
+    "완": [
+        {
+            "file_name": "_selective_FightFire_EP04_028_Arnet_완_Asharp3_std17.8_-14.3dB_880ms_1060ms_M30ms.ogg",
+            "start_ms": 79265,
+            "duration_ms": 177
+        }
+    ],
+    "왔": [
+        {
+            "file_name": "_selective_FightFire_EP04_015_Arnet_왔_Unvoiced_std0.0_-22.4dB_2940ms_3130ms_M30ms.ogg",
+            "start_ms": 79442,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_040_Arnet_왔_Gsharp3_std6.1_-16.3dB_620ms_800ms_M30ms.ogg",
+            "start_ms": 79634,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_045_Arnet_왔_Unvoiced_std0.0_-20.4dB_2040ms_2250ms_M30ms.ogg",
+            "start_ms": 79815,
+            "duration_ms": 211
+        }
+    ],
+    "왜": [
+        {
+            "file_name": "_selective_FightFire_EP03_067_Arnet_왜_F3_std8.4_-17.4dB_1240ms_1348ms_M30ms.ogg",
+            "start_ms": 80026,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_035_Arnet_왜_Fsharp3_std11.0_-21.4dB_3360ms_3450ms_M30ms.ogg",
+            "start_ms": 80135,
+            "duration_ms": 91
+        }
+    ],
+    "요": [
+        {
+            "file_name": "Voice_Arnet_Affinity1_3_요_Dsharp3_std10.9_-25.2dB_1460ms_1550ms_M30ms.ogg",
+            "start_ms": 80226,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Arnet_Equipment_Skin1_요_E4_std19.0_-13.4dB_2210ms_2291ms_M30ms.ogg",
+            "start_ms": 80317,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "Voice_Arnet_Pleasure3_요_E4_std10.9_-12.7dB_960ms_1050ms_M30ms.ogg",
+            "start_ms": 80400,
+            "duration_ms": 91
+        }
+    ],
+    "용": [
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_용_G3_std8.3_-15.7dB_4620ms_4800ms_M30ms.ogg",
+            "start_ms": 80491,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_031_Arnet_용_F3_std5.7_-17.2dB_2940ms_3080ms_M30ms.ogg",
+            "start_ms": 80668,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_용_C4_std13.2_-21.7dB_6920ms_7075ms_M30ms.ogg",
+            "start_ms": 80809,
+            "duration_ms": 157
+        }
+    ],
+    "우": [
+        {
+            "file_name": "_selective_FightFire_EP02_038_Arnet_우_Fsharp3_std5.2_-22.3dB_0ms_90ms_M30ms.ogg",
+            "start_ms": 80966,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_007_Arnet_우_B3_std4.0_-17.3dB_2540ms_2630ms_M30ms.ogg",
+            "start_ms": 81057,
+            "duration_ms": 87
+        },
+        {
+            "file_name": "Voice_Arnet_Die2_우_E4_std3.0_-12.8dB_1340ms_1430ms_M30ms.ogg",
+            "start_ms": 81144,
+            "duration_ms": 91
+        }
+    ],
+    "운": [
+        {
+            "file_name": "_selective_FightFire_EP02_049_Arnet_운_D4_std19.6_-17.6dB_6669ms_6860ms_M30ms.ogg",
+            "start_ms": 81235,
+            "duration_ms": 188
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_017_Arnet_운_E3_std6.0_-18.9dB_2720ms_2880ms_M30ms.ogg",
+            "start_ms": 81423,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_067_Arnet_운_Asharp3_std7.6_-14.6dB_4490ms_4680ms_M30ms.ogg",
+            "start_ms": 81580,
+            "duration_ms": 192
+        }
+    ],
+    "울": [
+        {
+            "file_name": "_selective_FightFire_EP01_019_Arnet_울_A3_std8.7_-16.6dB_3000ms_3140ms_M30ms.ogg",
+            "start_ms": 81772,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_018_Arnet_울_G3_std4.8_-17.5dB_1520ms_1720ms_M30ms.ogg",
+            "start_ms": 81913,
+            "duration_ms": 197
+        }
+    ],
+    "움": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_움_Gsharp3_std4.7_-16.1dB_2520ms_2670ms_M30ms.ogg",
+            "start_ms": 82110,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_035_Arnet_움_D4_std7.1_-16.9dB_2200ms_2349ms_M30ms.ogg",
+            "start_ms": 82262,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_067_Arnet_움_C4_std8.4_-14.0dB_4960ms_5109ms_M30ms.ogg",
+            "start_ms": 82411,
+            "duration_ms": 149
+        }
+    ],
+    "워": [
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_워_F4_std7.4_-17.8dB_5760ms_5868ms_M30ms.ogg",
+            "start_ms": 82560,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_009_Arnet_워_E4_std1.3_-18.2dB_5520ms_5645ms_M30ms.ogg",
+            "start_ms": 82665,
+            "duration_ms": 122
+        }
+    ],
+    "위": [
+        {
+            "file_name": "_selective_FightFire_EP01_011_Arnet_위_F4_std13.3_-15.6dB_1720ms_1900ms_M30ms.ogg",
+            "start_ms": 82787,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_013_Arnet_위_A3_std9.4_-19.4dB_1880ms_2060ms_M30ms.ogg",
+            "start_ms": 82968,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_015_Arnet_위_Asharp3_std17.1_-16.6dB_339ms_465ms_M30ms.ogg",
+            "start_ms": 83145,
+            "duration_ms": 128
+        }
+    ],
+    "유": [
+        {
+            "file_name": "_selective_FightFire_EP01_034_Arnet_유_Gsharp3_std5.8_-14.0dB_139ms_248ms_M30ms.ogg",
+            "start_ms": 83273,
+            "duration_ms": 106
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_023_Arnet_유_Fsharp4_std45.0_-16.3dB_3780ms_3906ms_M30ms.ogg",
+            "start_ms": 83379,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_077_Arnet_유_Asharp3_std10.7_-17.0dB_4479ms_4552ms_M30ms.ogg",
+            "start_ms": 83507,
+            "duration_ms": 75
+        }
+    ],
+    "으": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_으_A3_std9.9_-18.2dB_3300ms_3372ms_M30ms.ogg",
+            "start_ms": 83582,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_으_B3_std7.2_-21.1dB_6859ms_6932ms_M30ms.ogg",
+            "start_ms": 83651,
+            "duration_ms": 75
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_009_Arnet_으_E4_std4.1_-18.4dB_2540ms_2612ms_M30ms.ogg",
+            "start_ms": 83726,
+            "duration_ms": 69
+        }
+    ],
+    "은": [
+        {
+            "file_name": "_selective_FightFire_EP02_031_Arnet_은_G3_std4.5_-15.9dB_1690ms_1820ms_M30ms.ogg",
+            "start_ms": 83795,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_017_Arnet_은_Unvoiced_std0.0_-17.3dB_870ms_1000ms_M30ms.ogg",
+            "start_ms": 83926,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "Voice_Arnet_DutchRubEnd2_은_Dsharp3_std11.1_-22.9dB_990ms_1120ms_M30ms.ogg",
+            "start_ms": 84057,
+            "duration_ms": 127
+        }
+    ],
+    "을": [
+        {
+            "file_name": "_selective_FightFire_EP02_030_Arnet_을_A3_std7.3_-18.4dB_2769ms_2880ms_M30ms.ogg",
+            "start_ms": 84184,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_044_Arnet_을_Asharp3_std0.7_-17.7dB_1780ms_1900ms_M30ms.ogg",
+            "start_ms": 84316,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_1_을_Fsharp3_std14.0_-17.5dB_1670ms_1780ms_M30ms.ogg",
+            "start_ms": 84433,
+            "duration_ms": 112
+        }
+    ],
+    "음": [
+        {
+            "file_name": "_selective_FightFire_EP06_009_Arnet_음_D4_std3.7_-16.4dB_1510ms_1670ms_M30ms.ogg",
+            "start_ms": 84545,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_030_Arnet_음_Dsharp4_std2.2_-14.9dB_2640ms_2750ms_M30ms.ogg",
+            "start_ms": 84702,
+            "duration_ms": 112
+        }
+    ],
+    "의": [
+        {
+            "file_name": "_selective_FightFire_EP03_068_Arnet_의_Gsharp3_std4.9_-18.1dB_1370ms_1487ms_M30ms.ogg",
+            "start_ms": 84814,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_013_Arnet_의_D4_std3.9_-16.6dB_5250ms_5367ms_M30ms.ogg",
+            "start_ms": 84931,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Arnet_DutchRubEnd2_의_Gsharp3_std4.0_-18.6dB_570ms_687ms_M30ms.ogg",
+            "start_ms": 85048,
+            "duration_ms": 114
+        }
+    ],
+    "이": [
+        {
+            "file_name": "Voice_Arnet_Affinity6_이_Csharp4_std7.6_-20.4dB_610ms_709ms_M30ms.ogg",
+            "start_ms": 85162,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Arnet_Growth_이_F4_std8.0_-14.0dB_190ms_289ms_M30ms.ogg",
+            "start_ms": 85263,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Arnet_HeroSkill_이_A3_std14.1_-21.6dB_1190ms_1289ms_M30ms.ogg",
+            "start_ms": 85364,
+            "duration_ms": 96
+        }
+    ],
+    "인": [
+        {
+            "file_name": "_selective_FightFire_EP01_056_Arnet_인_Fsharp4_std8.2_-14.6dB_740ms_900ms_M30ms.ogg",
+            "start_ms": 85460,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_042_Arnet_인_B4_std22.5_-15.9dB_4600ms_4750ms_M30ms.ogg",
+            "start_ms": 85617,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_048_Arnet_인_Gsharp3_std11.9_-19.5dB_3630ms_3780ms_M30ms.ogg",
+            "start_ms": 85769,
+            "duration_ms": 147
+        }
+    ],
+    "일": [
+        {
+            "file_name": "_selective_FightFire_EP02_030_Arnet_일_Gsharp3_std34.8_-21.3dB_3460ms_3590ms_M30ms.ogg",
+            "start_ms": 85916,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_030_Arnet_일_Gsharp3_std4.2_-21.3dB_3590ms_3739ms_M30ms.ogg",
+            "start_ms": 86047,
+            "duration_ms": 146
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity6_일_Gsharp3_std23.3_-19.5dB_4079ms_4250ms_M30ms.ogg",
+            "start_ms": 86193,
+            "duration_ms": 173
+        }
+    ],
+    "임": [
+        {
+            "file_name": "_selective_FightFire_EP03_030_Arnet_임_Dsharp4_std22.0_-17.6dB_1710ms_1830ms_M30ms.ogg",
+            "start_ms": 86366,
+            "duration_ms": 117
+        }
+    ],
+    "있": [
+        {
+            "file_name": "_selective_FightFire_EP01_056_Arnet_있_A3_std9.8_-21.0dB_4120ms_4239ms_M30ms.ogg",
+            "start_ms": 86483,
+            "duration_ms": 116
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_016_Arnet_있_D3_std3.2_-29.6dB_3240ms_3360ms_M30ms.ogg",
+            "start_ms": 86599,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_127_Arnet_있_B3_std12.0_-18.4dB_4040ms_4159ms_M30ms.ogg",
+            "start_ms": 86716,
+            "duration_ms": 120
+        }
+    ],
+    "잉": [
+        {
+            "file_name": "_selective_FightFire_EP06_052_Arnet_잉_Csharp4_std11.2_-21.5dB_1119ms_1280ms_M30ms.ogg",
+            "start_ms": 86836,
+            "duration_ms": 163
+        }
+    ],
+    "자": [
+        {
+            "file_name": "_selective_FightFire_EP03_037_Arnet_자_C4_std5.4_-19.2dB_20ms_146ms_M30ms.ogg",
+            "start_ms": 86999,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_009_Arnet_자_Unvoiced_std0.0_-16.8dB_240ms_366ms_M30ms.ogg",
+            "start_ms": 87127,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Arnet_Greeting_자_F4_std16.4_-12.2dB_380ms_506ms_M30ms.ogg",
+            "start_ms": 87255,
+            "duration_ms": 128
+        }
+    ],
+    "작": [
+        {
+            "file_name": "_selective_FightFire_EP02_040_Arnet_작_A3_std17.4_-19.7dB_3620ms_3780ms_M30ms.ogg",
+            "start_ms": 87383,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_067_Arnet_작_Dsharp4_std28.0_-20.1dB_520ms_700ms_M30ms.ogg",
+            "start_ms": 87540,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_011_Arnet_작_Unvoiced_std0.0_-24.1dB_4100ms_4260ms_M30ms.ogg",
+            "start_ms": 87721,
+            "duration_ms": 157
+        }
+    ],
+    "잖": [
+        {
+            "file_name": "_selective_FightFire_EP02_012_Arnet_잖_A3_std13.9_-17.5dB_4220ms_4390ms_M30ms.ogg",
+            "start_ms": 87878,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_잖_C4_std9.3_-26.8dB_7370ms_7529ms_M30ms.ogg",
+            "start_ms": 88049,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_121_Arnet_잖_Asharp4_std45.9_-13.8dB_3580ms_3750ms_M30ms.ogg",
+            "start_ms": 88209,
+            "duration_ms": 171
+        }
+    ],
+    "잘": [
+        {
+            "file_name": "Voice_Arnet_Affinity5_잘_Unvoiced_std0.0_-18.1dB_400ms_560ms_M30ms.ogg",
+            "start_ms": 88380,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Arnet_Growth1_Skin1_잘_Fsharp5_std13.0_-18.9dB_480ms_660ms_M30ms.ogg",
+            "start_ms": 88537,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Arnet_Spawn2_잘_E4_std13.2_-14.7dB_640ms_800ms_M30ms.ogg",
+            "start_ms": 88718,
+            "duration_ms": 157
+        }
+    ],
+    "잠": [
+        {
+            "file_name": "_selective_FightFire_EP04_064_Arnet_잠_Fsharp3_std19.7_-23.7dB_1340ms_1540ms_M30ms.ogg",
+            "start_ms": 88875,
+            "duration_ms": 197
+        }
+    ],
+    "잡": [
+        {
+            "file_name": "_selective_FightFire_EP05_054_Arnet_잡_A3_std5.5_-22.3dB_3120ms_3260ms_M30ms.ogg",
+            "start_ms": 89072,
+            "duration_ms": 137
+        }
+    ],
+    "장": [
+        {
+            "file_name": "_selective_FightFire_EP03_051_Arnet_장_Gsharp3_std12.9_-16.6dB_300ms_420ms_M30ms.ogg",
+            "start_ms": 89209,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_068_Arnet_장_B3_std24.7_-14.1dB_1820ms_1940ms_M30ms.ogg",
+            "start_ms": 89326,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_028_Arnet_장_B3_std23.7_-15.2dB_1700ms_1820ms_M30ms.ogg",
+            "start_ms": 89443,
+            "duration_ms": 117
+        }
+    ],
+    "저": [
+        {
+            "file_name": "_selective_FightFire_EP02_028_Arnet_저_C4_std9.8_-17.2dB_420ms_528ms_M30ms.ogg",
+            "start_ms": 89560,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_032_Arnet_저_B4_std11.5_-14.4dB_1859ms_1950ms_M30ms.ogg",
+            "start_ms": 89669,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_007_Arnet_저_Fsharp3_std15.3_-21.2dB_1599ms_1672ms_M30ms.ogg",
+            "start_ms": 89762,
+            "duration_ms": 75
+        }
+    ],
+    "적": [
+        {
+            "file_name": "_selective_FightFire_EP01_035_Arnet_적_G3_std9.5_-19.0dB_339ms_470ms_M30ms.ogg",
+            "start_ms": 89837,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_030_Arnet_적_Csharp4_std15.8_-18.1dB_2160ms_2290ms_M30ms.ogg",
+            "start_ms": 89970,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_021_Arnet_적_Gsharp3_std16.8_-23.6dB_2860ms_2990ms_M30ms.ogg",
+            "start_ms": 90101,
+            "duration_ms": 131
+        }
+    ],
+    "전": [
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_전_Gsharp3_std16.6_-17.4dB_3960ms_4120ms_M30ms.ogg",
+            "start_ms": 90232,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_022_Arnet_전_A3_std11.1_-16.9dB_4829ms_4990ms_M30ms.ogg",
+            "start_ms": 90389,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_072_Arnet_전_Asharp3_std11.8_-15.7dB_150ms_319ms_M30ms.ogg",
+            "start_ms": 90552,
+            "duration_ms": 171
+        }
+    ],
+    "점": [
+        {
+            "file_name": "_selective_FightFire_EP04_003_Arnet_점_G4_std46.1_-14.5dB_580ms_730ms_M30ms.ogg",
+            "start_ms": 90723,
+            "duration_ms": 152
+        }
+    ],
+    "접": [
+        {
+            "file_name": "_selective_FightFire_EP01_077_Arnet_접_Unvoiced_std0.0_-16.2dB_6239ms_6320ms_M30ms.ogg",
+            "start_ms": 90875,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_049_Arnet_접_Gsharp3_std10.4_-17.3dB_5560ms_5660ms_M30ms.ogg",
+            "start_ms": 90958,
+            "duration_ms": 97
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_026_Arnet_접_Asharp3_std1.0_-16.9dB_3820ms_3920ms_M30ms.ogg",
+            "start_ms": 91055,
+            "duration_ms": 101
+        }
+    ],
+    "정": [
+        {
+            "file_name": "_selective_FightFire_EP04_009_Arnet_정_Asharp3_std3.8_-17.3dB_4360ms_4530ms_M30ms.ogg",
+            "start_ms": 91156,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_072_Arnet_정_A3_std6.9_-17.0dB_1420ms_1580ms_M30ms.ogg",
+            "start_ms": 91327,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_2_정_A3_std29.9_-23.2dB_3520ms_3680ms_M30ms.ogg",
+            "start_ms": 91484,
+            "duration_ms": 157
+        }
+    ],
+    "제": [
+        {
+            "file_name": "_selective_FightFire_EP01_035_Arnet_제_G4_std37.8_-17.3dB_1540ms_1684ms_M30ms.ogg",
+            "start_ms": 91641,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_040_Arnet_제_B3_std14.9_-21.5dB_1800ms_1944ms_M30ms.ogg",
+            "start_ms": 91782,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity5_제_A3_std18.2_-15.3dB_60ms_204ms_M30ms.ogg",
+            "start_ms": 91923,
+            "duration_ms": 141
+        }
+    ],
+    "젯": [
+        {
+            "file_name": "_selective_FightFire_EP04_058_Arnet_젯_Csharp4_std12.2_-22.8dB_820ms_980ms_M30ms.ogg",
+            "start_ms": 92064,
+            "duration_ms": 157
+        }
+    ],
+    "졌": [
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_졌_C4_std4.9_-20.6dB_1840ms_2040ms_M30ms.ogg",
+            "start_ms": 92221,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_028_Arnet_졌_Unvoiced_std0.0_-20.0dB_1220ms_1390ms_M30ms.ogg",
+            "start_ms": 92418,
+            "duration_ms": 171
+        }
+    ],
+    "조": [
+        {
+            "file_name": "_selective_FightFire_EP01_022_Arnet_조_Gsharp3_std8.4_-19.8dB_3100ms_3208ms_M30ms.ogg",
+            "start_ms": 92589,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_021_Arnet_조_Asharp3_std4.5_-21.7dB_1680ms_1770ms_M30ms.ogg",
+            "start_ms": 92694,
+            "duration_ms": 91
+        }
+    ],
+    "족": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_족_D4_std21.6_-20.6dB_5760ms_5979ms_M30ms.ogg",
+            "start_ms": 92785,
+            "duration_ms": 216
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_족_Gsharp3_std4.1_-21.8dB_2960ms_3180ms_M30ms.ogg",
+            "start_ms": 93001,
+            "duration_ms": 217
+        }
+    ],
+    "좀": [
+        {
+            "file_name": "_selective_FightFire_EP01_020_Arnet_좀_Dsharp3_std17.3_-22.4dB_2200ms_2320ms_M30ms.ogg",
+            "start_ms": 93218,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_027_Arnet_좀_Dsharp3_std30.3_-20.2dB_1180ms_1340ms_M30ms.ogg",
+            "start_ms": 93335,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_064_Arnet_좀_E3_std10.7_-22.8dB_1940ms_2060ms_M30ms.ogg",
+            "start_ms": 93492,
+            "duration_ms": 117
+        }
+    ],
+    "종": [
+        {
+            "file_name": "_selective_FightFire_EP02_037_Arnet_종_A3_std1.8_-19.2dB_3640ms_3780ms_M30ms.ogg",
+            "start_ms": 93609,
+            "duration_ms": 141
+        }
+    ],
+    "좋": [
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_좋_G3_std5.8_-19.2dB_2520ms_2700ms_M30ms.ogg",
+            "start_ms": 93750,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_2_좋_G3_std48.5_-19.3dB_4520ms_4700ms_M30ms.ogg",
+            "start_ms": 93931,
+            "duration_ms": 181
+        }
+    ],
+    "죄": [
+        {
+            "file_name": "Voice_Arnet_Sorry1_죄_Asharp3_std19.7_-15.5dB_40ms_220ms_M30ms.ogg",
+            "start_ms": 94112,
+            "duration_ms": 181
+        }
+    ],
+    "주": [
+        {
+            "file_name": "Voice_Arnet_DutchRubEnd2_주_C4_std2.1_-17.2dB_720ms_828ms_M30ms.ogg",
+            "start_ms": 94293,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Gacha2_주_G4_std15.0_-15.6dB_400ms_508ms_M30ms.ogg",
+            "start_ms": 94402,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Touch1_2_주_Fsharp3_std2.4_-18.2dB_260ms_368ms_M30ms.ogg",
+            "start_ms": 94511,
+            "duration_ms": 109
+        }
+    ],
+    "준": [
+        {
+            "file_name": "_selective_FightFire_EP06_038_Arnet_준_G3_std34.6_-14.9dB_1080ms_1280ms_M30ms.ogg",
+            "start_ms": 94620,
+            "duration_ms": 220
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_045_Arnet_준_Asharp3_std25.8_-20.2dB_2540ms_2720ms_M30ms.ogg",
+            "start_ms": 94840,
+            "duration_ms": 177
+        }
+    ],
+    "줄": [
+        {
+            "file_name": "_selective_FightFire_EP04_067_Arnet_줄_Unvoiced_std0.0_-19.2dB_1930ms_2040ms_M30ms.ogg",
+            "start_ms": 95017,
+            "duration_ms": 112
+        }
+    ],
+    "중": [
+        {
+            "file_name": "_selective_FightFire_EP05_058_Arnet_중_Gsharp3_std8.0_-19.4dB_2460ms_2620ms_M30ms.ogg",
+            "start_ms": 95129,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_014_Arnet_중_C4_std51.9_-17.1dB_960ms_1119ms_M30ms.ogg",
+            "start_ms": 95286,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_3_중_C4_std2.0_-16.1dB_659ms_820ms_M30ms.ogg",
+            "start_ms": 95446,
+            "duration_ms": 163
+        }
+    ],
+    "즐": [
+        {
+            "file_name": "_selective_FightFire_EP04_017_Arnet_즐_B3_std40.1_-18.5dB_1859ms_2040ms_M30ms.ogg",
+            "start_ms": 95609,
+            "duration_ms": 181
+        }
+    ],
+    "지": [
+        {
+            "file_name": "_selective_FightFire_EP01_020_Arnet_지_C4_std4.0_-22.4dB_1979ms_2070ms_M30ms.ogg",
+            "start_ms": 95790,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_049_Arnet_지_Unvoiced_std0.0_-25.4dB_5079ms_5170ms_M30ms.ogg",
+            "start_ms": 95883,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_지_Unvoiced_std0.0_-27.3dB_5819ms_5910ms_M30ms.ogg",
+            "start_ms": 95976,
+            "duration_ms": 93
+        }
+    ],
+    "직": [
+        {
+            "file_name": "_selective_FightFire_EP04_026_Arnet_직_E4_std1.3_-19.3dB_780ms_890ms_M30ms.ogg",
+            "start_ms": 96069,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_059_Arnet_직_Asharp3_std7.6_-22.3dB_1000ms_1120ms_M30ms.ogg",
+            "start_ms": 96181,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_077_Arnet_직_Asharp3_std15.7_-20.5dB_4100ms_4220ms_M30ms.ogg",
+            "start_ms": 96298,
+            "duration_ms": 117
+        }
+    ],
+    "진": [
+        {
+            "file_name": "_selective_FightFire_EP01_042_Arnet_진_D4_std7.7_-17.5dB_1240ms_1400ms_M30ms.ogg",
+            "start_ms": 96415,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_022_Arnet_진_F3_std10.9_-21.0dB_3080ms_3240ms_M30ms.ogg",
+            "start_ms": 96572,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_041_Arnet_진_D4_std14.1_-16.9dB_4040ms_4200ms_M30ms.ogg",
+            "start_ms": 96729,
+            "duration_ms": 157
+        }
+    ],
+    "질": [
+        {
+            "file_name": "_selective_FightFire_EP06_024_Arnet_질_Gsharp3_std10.1_-20.0dB_1099ms_1280ms_M30ms.ogg",
+            "start_ms": 96886,
+            "duration_ms": 178
+        }
+    ],
+    "집": [
+        {
+            "file_name": "Voice_Arnet_Affinity4_집_Unvoiced_std0.0_-20.3dB_40ms_240ms_M30ms.ogg",
+            "start_ms": 97064,
+            "duration_ms": 197
+        }
+    ],
+    "짓": [
+        {
+            "file_name": "_selective_FightFire_EP02_011_Arnet_짓_Unvoiced_std0.0_-20.2dB_3600ms_3769ms_M30ms.ogg",
+            "start_ms": 97261,
+            "duration_ms": 171
+        }
+    ],
+    "짜": [
+        {
+            "file_name": "_selective_FightFire_EP01_065_Arnet_짜_Unvoiced_std0.0_-17.0dB_2120ms_2192ms_M30ms.ogg",
+            "start_ms": 97432,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_052_Arnet_짜_Unvoiced_std0.0_-14.1dB_2940ms_3030ms_M30ms.ogg",
+            "start_ms": 97501,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_011_Arnet_짜_D4_std5.5_-14.9dB_1180ms_1270ms_M30ms.ogg",
+            "start_ms": 97592,
+            "duration_ms": 91
+        }
+    ],
+    "쩔": [
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_쩔_D4_std11.8_-19.4dB_7860ms_8020ms_M30ms.ogg",
+            "start_ms": 97683,
+            "duration_ms": 157
+        }
+    ],
+    "쪽": [
+        {
+            "file_name": "_selective_FightFire_EP06_024_Arnet_쪽_Gsharp3_std14.8_-19.4dB_580ms_730ms_M30ms.ogg",
+            "start_ms": 97840,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_009_Arnet_쪽_Asharp3_std14.5_-18.5dB_4280ms_4380ms_M30ms.ogg",
+            "start_ms": 97992,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Arnet_Touch2_Skin1_쪽_B3_std6.5_-19.1dB_1780ms_1960ms_M30ms.ogg",
+            "start_ms": 98093,
+            "duration_ms": 177
+        }
+    ],
+    "찌": [
+        {
+            "file_name": "_selective_FightFire_EP07_065_Arnet_찌_Unvoiced_std0.0_-21.9dB_1280ms_1352ms_M30ms.ogg",
+            "start_ms": 98270,
+            "duration_ms": 69
+        }
+    ],
+    "차": [
+        {
+            "file_name": "_selective_FightFire_EP04_023_Arnet_차_Unvoiced_std0.0_-18.9dB_3820ms_3928ms_M30ms.ogg",
+            "start_ms": 98339,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_013_Arnet_차_Unvoiced_std0.0_-15.5dB_5380ms_5488ms_M30ms.ogg",
+            "start_ms": 98448,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_127_Arnet_차_Fsharp4_std1.6_-20.0dB_2880ms_2988ms_M30ms.ogg",
+            "start_ms": 98557,
+            "duration_ms": 109
+        }
+    ],
+    "찮": [
+        {
+            "file_name": "_selective_FightFire_EP03_007_Arnet_찮_B3_std33.3_-18.7dB_3860ms_4040ms_M30ms.ogg",
+            "start_ms": 98666,
+            "duration_ms": 181
+        }
+    ],
+    "찾": [
+        {
+            "file_name": "_selective_FightFire_EP03_044_Arnet_찾_Unvoiced_std0.0_-27.1dB_4960ms_5130ms_M30ms.ogg",
+            "start_ms": 98847,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_047_Arnet_찾_Unvoiced_std0.0_-21.3dB_2380ms_2550ms_M30ms.ogg",
+            "start_ms": 99018,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_061_Arnet_찾_Unvoiced_std0.0_-19.8dB_1520ms_1690ms_M30ms.ogg",
+            "start_ms": 99189,
+            "duration_ms": 171
+        }
+    ],
+    "채": [
+        {
+            "file_name": "_selective_FightFire_EP01_023_Arnet_채_Dsharp5_std9.3_-13.1dB_2220ms_2346ms_M30ms.ogg",
+            "start_ms": 99360,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_034_Arnet_채_G4_std11.2_-15.8dB_3380ms_3506ms_M30ms.ogg",
+            "start_ms": 99488,
+            "duration_ms": 128
+        }
+    ],
+    "책": [
+        {
+            "file_name": "_selective_FightFire_EP02_037_Arnet_책_Unvoiced_std0.0_-19.9dB_2380ms_2600ms_M30ms.ogg",
+            "start_ms": 99616,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_030_Arnet_책_G4_std10.1_-21.4dB_1540ms_1710ms_M30ms.ogg",
+            "start_ms": 99837,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_006_Arnet_책_C4_std24.9_-21.7dB_2000ms_2210ms_M30ms.ogg",
+            "start_ms": 100008,
+            "duration_ms": 211
+        }
+    ],
+    "처": [
+        {
+            "file_name": "_selective_FightFire_EP01_030_Arnet_처_Unvoiced_std0.0_-19.1dB_260ms_368ms_M30ms.ogg",
+            "start_ms": 100219,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_023_Arnet_처_Unvoiced_std0.0_-22.8dB_559ms_667ms_M30ms.ogg",
+            "start_ms": 100328,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_054_Arnet_처_Unvoiced_std0.0_-20.5dB_1480ms_1587ms_M30ms.ogg",
+            "start_ms": 100437,
+            "duration_ms": 109
+        }
+    ],
+    "척": [
+        {
+            "file_name": "_selective_FightFire_EP01_043_Arnet_척_F4_std11.8_-12.7dB_3929ms_4130ms_M30ms.ogg",
+            "start_ms": 100546,
+            "duration_ms": 203
+        }
+    ],
+    "철": [
+        {
+            "file_name": "_selective_FightFire_EP01_013_Arnet_철_Unvoiced_std0.0_-16.5dB_339ms_510ms_M30ms.ogg",
+            "start_ms": 100749,
+            "duration_ms": 173
+        }
+    ],
+    "청": [
+        {
+            "file_name": "_selective_FightFire_EP04_019_Arnet_청_Csharp4_std69.5_-16.9dB_2660ms_2820ms_M30ms.ogg",
+            "start_ms": 100922,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Arnet_Greeting_청_F4_std43.8_-14.9dB_220ms_380ms_M30ms.ogg",
+            "start_ms": 101079,
+            "duration_ms": 157
+        }
+    ],
+    "체": [
+        {
+            "file_name": "_selective_FightFire_EP05_058_Arnet_체_B3_std25.3_-16.0dB_1760ms_1886ms_M30ms.ogg",
+            "start_ms": 101236,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_041_Arnet_체_Dsharp4_std6.2_-18.6dB_3300ms_3426ms_M30ms.ogg",
+            "start_ms": 101364,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity1_3_체_Csharp4_std9.4_-17.6dB_3080ms_3206ms_M30ms.ogg",
+            "start_ms": 101492,
+            "duration_ms": 128
+        }
+    ],
+    "초": [
+        {
+            "file_name": "_selective_FightFire_EP03_044_Arnet_초_Fsharp4_std34.9_-21.4dB_1460ms_1568ms_M30ms.ogg",
+            "start_ms": 101620,
+            "duration_ms": 109
+        }
+    ],
+    "최": [
+        {
+            "file_name": "Voice_Arnet_Affinity7_최_E4_std3.3_-17.1dB_480ms_588ms_M30ms.ogg",
+            "start_ms": 101729,
+            "duration_ms": 109
+        }
+    ],
+    "충": [
+        {
+            "file_name": "_selective_FightFire_EP01_066_Arnet_충_E3_std25.8_-18.4dB_300ms_460ms_M30ms.ogg",
+            "start_ms": 101838,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_060_Arnet_충_Asharp3_std5.6_-16.9dB_240ms_420ms_M30ms.ogg",
+            "start_ms": 101995,
+            "duration_ms": 181
+        }
+    ],
+    "츠": [
+        {
+            "file_name": "_selective_FightFire_EP03_066_Arnet_츠_G3_std18.3_-14.6dB_919ms_1136ms_M30ms.ogg",
+            "start_ms": 102176,
+            "duration_ms": 219
+        }
+    ],
+    "치": [
+        {
+            "file_name": "_selective_FightFire_EP01_034_Arnet_치_Unvoiced_std0.0_-14.7dB_3340ms_3475ms_M30ms.ogg",
+            "start_ms": 102395,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_051_Arnet_치_C4_std4.6_-23.7dB_3620ms_3746ms_M30ms.ogg",
+            "start_ms": 102531,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_023_Arnet_치_Gsharp3_std11.8_-21.5dB_220ms_346ms_M30ms.ogg",
+            "start_ms": 102659,
+            "duration_ms": 128
+        }
+    ],
+    "친": [
+        {
+            "file_name": "_selective_FightFire_EP01_063_Arnet_친_G3_std18.0_-17.0dB_339ms_520ms_M30ms.ogg",
+            "start_ms": 102787,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_FightFire_EP05_057_Arnet_친_Dsharp4_std23.9_-18.8dB_2600ms_2760ms_M30ms.ogg",
+            "start_ms": 102965,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_044_Arnet_친_G4_std25.8_-13.9dB_2400ms_2600ms_M30ms.ogg",
+            "start_ms": 103122,
+            "duration_ms": 197
+        }
+    ],
+    "칠": [
+        {
+            "file_name": "Voice_Arnet_Touch2_1_Skin1_칠_F4_std42.4_-18.9dB_1460ms_1640ms_M30ms.ogg",
+            "start_ms": 103319,
+            "duration_ms": 177
+        }
+    ],
+    "칩": [
+        {
+            "file_name": "_selective_FightFire_EP01_030_Arnet_칩_Csharp4_std21.3_-23.3dB_2480ms_2610ms_M30ms.ogg",
+            "start_ms": 103496,
+            "duration_ms": 131
+        }
+    ],
+    "커": [
+        {
+            "file_name": "_selective_FightFire_EP01_042_Arnet_커_G4_std41.7_-17.0dB_1099ms_1226ms_M30ms.ogg",
+            "start_ms": 103627,
+            "duration_ms": 128
+        }
+    ],
+    "켜": [
+        {
+            "file_name": "_selective_FightFire_EP02_027_Arnet_켜_Dsharp4_std7.9_-18.8dB_2640ms_2748ms_M30ms.ogg",
+            "start_ms": 103755,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_038_Arnet_켜_F4_std3.9_-18.6dB_1900ms_2008ms_M30ms.ogg",
+            "start_ms": 103864,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_141_Arnet_켜_C5_std19.8_-15.1dB_5040ms_5184ms_M30ms.ogg",
+            "start_ms": 103973,
+            "duration_ms": 141
+        }
+    ],
+    "코": [
+        {
+            "file_name": "_selective_FightFire_EP07_016_Arnet_코_F4_std11.7_-13.5dB_4210ms_4309ms_M30ms.ogg",
+            "start_ms": 104114,
+            "duration_ms": 101
+        }
+    ],
+    "크": [
+        {
+            "file_name": "_selective_FightFire_EP02_048_Arnet_크_Unvoiced_std0.0_-22.4dB_3360ms_3504ms_M30ms.ogg",
+            "start_ms": 104215,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_019_Arnet_크_G4_std3.9_-14.9dB_60ms_186ms_M30ms.ogg",
+            "start_ms": 104356,
+            "duration_ms": 128
+        }
+    ],
+    "큰": [
+        {
+            "file_name": "_selective_FightFire_EP01_014_Arnet_큰_Fsharp4_std25.2_-17.7dB_3060ms_3180ms_M30ms.ogg",
+            "start_ms": 104484,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_큰_E4_std29.3_-19.0dB_8220ms_8360ms_M30ms.ogg",
+            "start_ms": 104601,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_007_Arnet_큰_G3_std49.5_-21.5dB_2900ms_3070ms_M30ms.ogg",
+            "start_ms": 104742,
+            "duration_ms": 171
+        }
+    ],
+    "큼": [
+        {
+            "file_name": "_selective_FightFire_EP02_025_Arnet_큼_F4_std44.1_-17.1dB_2180ms_2349ms_M30ms.ogg",
+            "start_ms": 104913,
+            "duration_ms": 171
+        }
+    ],
+    "키": [
+        {
+            "file_name": "_selective_FightFire_EP07_023_Arnet_키_G4_std15.1_-17.5dB_2580ms_2688ms_M30ms.ogg",
+            "start_ms": 105084,
+            "duration_ms": 109
+        }
+    ],
+    "킹": [
+        {
+            "file_name": "_selective_FightFire_EP05_031_Arnet_킹_Asharp3_std26.1_-19.9dB_3000ms_3180ms_M30ms.ogg",
+            "start_ms": 105193,
+            "duration_ms": 181
+        }
+    ],
+    "타": [
+        {
+            "file_name": "_selective_FightFire_EP02_030_Arnet_타_Unvoiced_std0.0_-23.0dB_3380ms_3452ms_M30ms.ogg",
+            "start_ms": 105374,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "Voice_Arnet_Board_Skin1_타_Unvoiced_std0.0_-17.2dB_420ms_528ms_M30ms.ogg",
+            "start_ms": 105443,
+            "duration_ms": 109
+        }
+    ],
+    "탕": [
+        {
+            "file_name": "_selective_FightFire_EP02_030_Arnet_탕_Gsharp3_std8.4_-22.0dB_1099ms_1240ms_M30ms.ogg",
+            "start_ms": 105552,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_077_Arnet_탕_D4_std11.4_-18.5dB_459ms_620ms_M30ms.ogg",
+            "start_ms": 105693,
+            "duration_ms": 163
+        }
+    ],
+    "태": [
+        {
+            "file_name": "Voice_Arnet_Affinity1_2_태_Unvoiced_std0.0_-22.3dB_1640ms_1730ms_M30ms.ogg",
+            "start_ms": 105856,
+            "duration_ms": 91
+        }
+    ],
+    "터": [
+        {
+            "file_name": "_selective_FightFire_EP03_047_Arnet_터_Unvoiced_std0.0_-21.9dB_2220ms_2310ms_M30ms.ogg",
+            "start_ms": 105947,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_013_Arnet_터_F4_std26.8_-17.5dB_1340ms_1412ms_M30ms.ogg",
+            "start_ms": 106038,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_028_Arnet_터_Dsharp4_std15.2_-18.2dB_380ms_452ms_M30ms.ogg",
+            "start_ms": 106107,
+            "duration_ms": 69
+        }
+    ],
+    "테": [
+        {
+            "file_name": "Voice_Arnet_Affinity3_테_Gsharp4_std24.4_-15.5dB_1280ms_1424ms_M30ms.ogg",
+            "start_ms": 106176,
+            "duration_ms": 141
+        }
+    ],
+    "톱": [
+        {
+            "file_name": "_selective_FightFire_EP01_034_Arnet_톱_G3_std26.5_-24.2dB_1960ms_2140ms_M30ms.ogg",
+            "start_ms": 106317,
+            "duration_ms": 177
+        }
+    ],
+    "통": [
+        {
+            "file_name": "_selective_FightFire_EP05_055_Arnet_통_Dsharp4_std24.5_-17.0dB_180ms_280ms_M30ms.ogg",
+            "start_ms": 106494,
+            "duration_ms": 101
+        }
+    ],
+    "투": [
+        {
+            "file_name": "_selective_FightFire_EP03_068_Arnet_투_Unvoiced_std0.0_-19.3dB_1700ms_1808ms_M30ms.ogg",
+            "start_ms": 106595,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_062_Arnet_투_E4_std18.8_-24.3dB_1460ms_1568ms_M30ms.ogg",
+            "start_ms": 106704,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Birthday_투_Gsharp3_std10.7_-23.5dB_2560ms_2668ms_M30ms.ogg",
+            "start_ms": 106813,
+            "duration_ms": 109
+        }
+    ],
+    "트": [
+        {
+            "file_name": "Voice_Arnet_Affinity4_트_Unvoiced_std0.0_-25.0dB_2400ms_2490ms_M30ms.ogg",
+            "start_ms": 106922,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Arnet_AsideGet_트_Unvoiced_std0.0_-24.1dB_2760ms_2850ms_M30ms.ogg",
+            "start_ms": 107013,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Arnet_DutchRubEnd2_Skin1_트_Dsharp4_std5.5_-20.9dB_860ms_950ms_M30ms.ogg",
+            "start_ms": 107104,
+            "duration_ms": 91
+        }
+    ],
+    "튼": [
+        {
+            "file_name": "_selective_FightFire_EP06_027_Arnet_튼_E4_std16.3_-19.3dB_5420ms_5540ms_M30ms.ogg",
+            "start_ms": 107195,
+            "duration_ms": 117
+        }
+    ],
+    "틀": [
+        {
+            "file_name": "_selective_FightFire_EP02_037_Arnet_틀_Unvoiced_std0.0_-18.5dB_4059ms_4170ms_M30ms.ogg",
+            "start_ms": 107312,
+            "duration_ms": 112
+        }
+    ],
+    "팅": [
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_팅_G3_std12.2_-19.1dB_6860ms_6999ms_M30ms.ogg",
+            "start_ms": 107424,
+            "duration_ms": 141
+        }
+    ],
+    "파": [
+        {
+            "file_name": "_selective_FightFire_EP07_015_Arnet_파_Unvoiced_std0.0_-15.5dB_3620ms_3727ms_M30ms.ogg",
+            "start_ms": 107565,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_AsideGet_파_A4_std10.1_-13.1dB_2460ms_2568ms_M30ms.ogg",
+            "start_ms": 107674,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Arnet_Gacha3_파_Fsharp4_std13.3_-16.3dB_1960ms_2104ms_M30ms.ogg",
+            "start_ms": 107783,
+            "duration_ms": 141
+        }
+    ],
+    "판": [
+        {
+            "file_name": "_selective_FightFire_EP07_014_Arnet_판_Asharp3_std9.4_-17.9dB_580ms_760ms_M30ms.ogg",
+            "start_ms": 107924,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Arnet_Birthday_판_Csharp4_std27.9_-21.0dB_2880ms_3060ms_M30ms.ogg",
+            "start_ms": 108105,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Arnet_Spawn1_판_E4_std62.2_-14.8dB_420ms_590ms_M30ms.ogg",
+            "start_ms": 108286,
+            "duration_ms": 171
+        }
+    ],
+    "팔": [
+        {
+            "file_name": "_selective_FightFire_EP02_021_Arnet_팔_G4_std35.6_-16.5dB_3360ms_3540ms_M30ms.ogg",
+            "start_ms": 108457,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_023_Arnet_팔_Gsharp4_std10.0_-16.2dB_2300ms_2460ms_M30ms.ogg",
+            "start_ms": 108634,
+            "duration_ms": 157
+        }
+    ],
+    "편": [
+        {
+            "file_name": "_selective_FightFire_EP04_024_Arnet_편_C4_std27.6_-22.6dB_1060ms_1240ms_M30ms.ogg",
+            "start_ms": 108791,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP06_011_Arnet_편_E4_std29.4_-17.2dB_4560ms_4760ms_M30ms.ogg",
+            "start_ms": 108972,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Arnet_Affinity4_편_Dsharp4_std10.2_-24.9dB_4860ms_5020ms_M30ms.ogg",
+            "start_ms": 109169,
+            "duration_ms": 157
+        }
+    ],
+    "포": [
+        {
+            "file_name": "_selective_FightFire_EP03_016_Arnet_포_Unvoiced_std0.0_-26.4dB_2180ms_2252ms_M30ms.ogg",
+            "start_ms": 109326,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_037_Arnet_포_Dsharp4_std31.2_-17.5dB_2140ms_2320ms_M30ms.ogg",
+            "start_ms": 109395,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_050_Arnet_포_F4_std19.6_-31.7dB_3720ms_3846ms_M30ms.ogg",
+            "start_ms": 109572,
+            "duration_ms": 123
+        }
+    ],
+    "폼": [
+        {
+            "file_name": "_selective_FightFire_EP07_010_Arnet_폼_Csharp4_std42.1_-16.9dB_1500ms_1700ms_M30ms.ogg",
+            "start_ms": 109695,
+            "duration_ms": 197
+        }
+    ],
+    "표": [
+        {
+            "file_name": "_selective_FightFire_EP06_011_Arnet_표_B3_std37.3_-20.7dB_3200ms_3353ms_M30ms.ogg",
+            "start_ms": 109892,
+            "duration_ms": 155
+        }
+    ],
+    "푹": [
+        {
+            "file_name": "_selective_FightFire_EP04_007_Arnet_푹_Fsharp4_std20.9_-19.1dB_2260ms_2389ms_M30ms.ogg",
+            "start_ms": 110047,
+            "duration_ms": 131
+        }
+    ],
+    "풀": [
+        {
+            "file_name": "_selective_FightFire_EP07_011_Arnet_풀_A4_std25.4_-13.4dB_4059ms_4210ms_M30ms.ogg",
+            "start_ms": 110178,
+            "duration_ms": 152
+        }
+    ],
+    "풍": [
+        {
+            "file_name": "_selective_FightFire_EP01_020_Arnet_풍_C4_std16.7_-18.2dB_1780ms_1979ms_M30ms.ogg",
+            "start_ms": 110330,
+            "duration_ms": 200
+        }
+    ],
+    "프": [
+        {
+            "file_name": "Voice_Arnet_Touch1_프_Fsharp4_std12.4_-14.5dB_1920ms_2028ms_M30ms.ogg",
+            "start_ms": 110530,
+            "duration_ms": 109
+        }
+    ],
+    "플": [
+        {
+            "file_name": "_selective_FightFire_EP01_077_Arnet_플_Unvoiced_std0.0_-20.1dB_2560ms_2680ms_M30ms.ogg",
+            "start_ms": 110639,
+            "duration_ms": 117
+        }
+    ],
+    "피": [
+        {
+            "file_name": "_selective_FightFire_EP02_031_Arnet_피_Unvoiced_std0.0_-21.1dB_2500ms_2626ms_M30ms.ogg",
+            "start_ms": 110756,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_014_Arnet_피_Asharp3_std26.3_-19.6dB_380ms_506ms_M30ms.ogg",
+            "start_ms": 110884,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_064_Arnet_피_Gsharp3_std5.6_-24.7dB_2100ms_2208ms_M30ms.ogg",
+            "start_ms": 111007,
+            "duration_ms": 109
+        }
+    ],
+    "필": [
+        {
+            "file_name": "Voice_Arnet_Equipment_Skin1_필_A4_std25.9_-13.2dB_2080ms_2210ms_M30ms.ogg",
+            "start_ms": 111116,
+            "duration_ms": 131
+        }
+    ],
+    "하": [
+        {
+            "file_name": "_selective_FightFire_EP01_046_Arnet_하_Gsharp3_std2.7_-18.1dB_3080ms_3188ms_M30ms.ogg",
+            "start_ms": 111247,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP01_047_Arnet_하_A3_std3.1_-13.3dB_2940ms_3048ms_M30ms.ogg",
+            "start_ms": 111356,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_FightFire_EP02_042_Arnet_하_E4_std21.7_-16.1dB_2960ms_3068ms_M30ms.ogg",
+            "start_ms": 111465,
+            "duration_ms": 109
+        }
+    ],
+    "한": [
+        {
+            "file_name": "_selective_FightFire_EP02_022_Arnet_한_Dsharp4_std22.7_-15.9dB_20ms_180ms_M30ms.ogg",
+            "start_ms": 111574,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_053_Arnet_한_B3_std4.3_-18.2dB_4440ms_4600ms_M30ms.ogg",
+            "start_ms": 111731,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_121_Arnet_한_G3_std6.1_-16.9dB_1340ms_1500ms_M30ms.ogg",
+            "start_ms": 111888,
+            "duration_ms": 157
+        }
+    ],
+    "할": [
+        {
+            "file_name": "_selective_FightFire_EP01_004_Arnet_할_Asharp3_std7.4_-18.5dB_4780ms_4940ms_M30ms.ogg",
+            "start_ms": 112045,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_015_Arnet_할_A3_std5.6_-16.6dB_3570ms_3720ms_M30ms.ogg",
+            "start_ms": 112202,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_023_Arnet_할_C4_std9.1_-19.3dB_2860ms_3020ms_M30ms.ogg",
+            "start_ms": 112354,
+            "duration_ms": 157
+        }
+    ],
+    "합": [
+        {
+            "file_name": "Voice_Arnet_Sorry2_합_F3_std11.1_-23.8dB_329ms_540ms_M30ms.ogg",
+            "start_ms": 112511,
+            "duration_ms": 213
+        }
+    ],
+    "항": [
+        {
+            "file_name": "_selective_FightFire_EP06_022_Arnet_항_Asharp3_std4.2_-14.6dB_2540ms_2640ms_M30ms.ogg",
+            "start_ms": 112724,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_141_Arnet_항_D4_std6.5_-17.2dB_840ms_1040ms_M30ms.ogg",
+            "start_ms": 112825,
+            "duration_ms": 197
+        }
+    ],
+    "해": [
+        {
+            "file_name": "_selective_FightFire_EP03_006_Arnet_해_Csharp4_std12.3_-17.2dB_2700ms_2826ms_M30ms.ogg",
+            "start_ms": 113022,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_015_Arnet_해_Fsharp4_std41.3_-17.6dB_2920ms_3046ms_M30ms.ogg",
+            "start_ms": 113150,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_FightFire_EP04_016_Arnet_해_Fsharp3_std3.3_-20.7dB_3999ms_4125ms_M30ms.ogg",
+            "start_ms": 113273,
+            "duration_ms": 123
+        }
+    ],
+    "했": [
+        {
+            "file_name": "_selective_FightFire_EP01_019_Arnet_했_Asharp3_std1.3_-20.4dB_3760ms_3940ms_M30ms.ogg",
+            "start_ms": 113396,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_FightFire_EP07_129_Arnet_했_C4_std4.0_-17.6dB_4730ms_4910ms_M30ms.ogg",
+            "start_ms": 113577,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Arnet_Die1_했_D4_std59.1_-18.7dB_1979ms_2160ms_M30ms.ogg",
+            "start_ms": 113758,
+            "duration_ms": 181
+        }
+    ],
+    "혹": [
+        {
+            "file_name": "_selective_FightFire_EP06_046_Arnet_혹_Fsharp4_std26.6_-23.6dB_1979ms_2160ms_M30ms.ogg",
+            "start_ms": 113939,
+            "duration_ms": 181
+        }
+    ],
+    "혼": [
+        {
+            "file_name": "_selective_FightFire_EP01_019_Arnet_혼_A4_std54.6_-16.0dB_500ms_720ms_M30ms.ogg",
+            "start_ms": 114120,
+            "duration_ms": 221
+        }
+    ],
+    "확": [
+        {
+            "file_name": "_selective_FightFire_EP02_025_Arnet_확_Gsharp1_std0.6_-23.7dB_2620ms_2840ms_M30ms.ogg",
+            "start_ms": 114341,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_FightFire_EP03_020_Arnet_확_D4_std4.4_-21.6dB_3160ms_3330ms_M30ms.ogg",
+            "start_ms": 114562,
+            "duration_ms": 171
+        }
+    ],
+    "활": [
+        {
+            "file_name": "_selective_FightFire_EP07_066_Arnet_활_C4_std27.0_-17.9dB_3560ms_3710ms_M30ms.ogg",
+            "start_ms": 114733,
+            "duration_ms": 152
+        }
+    ],
+    "회": [
+        {
+            "file_name": "_selective_FightFire_EP03_025_Arnet_회_Asharp3_std7.6_-18.5dB_3060ms_3159ms_M30ms.ogg",
+            "start_ms": 114885,
+            "duration_ms": 101
+        }
+    ],
+    "획": [
+        {
+            "file_name": "_selective_FightFire_EP04_024_Arnet_획_Gsharp3_std9.9_-18.3dB_8580ms_8720ms_M30ms.ogg",
+            "start_ms": 114986,
+            "duration_ms": 141
+        }
+    ],
+    "후": [
+        {
+            "file_name": "Voice_Arnet_AsideUpgrade_후_A4_std12.4_-11.4dB_2760ms_2850ms_M30ms.ogg",
+            "start_ms": 115127,
+            "duration_ms": 91
+        }
+    ],
+    "휴": [
+        {
+            "file_name": "Voice_Arnet_Touch2_2_휴_E4_std14.1_-24.3dB_3020ms_3146ms_M30ms.ogg",
+            "start_ms": 115218,
+            "duration_ms": 128
+        }
+    ]
+}

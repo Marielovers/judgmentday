@@ -1,0 +1,5519 @@
+{
+    "가": [
+        {
+            "file_name": "_selective_Elias_EP07_088_Rufo_가_Asharp4_std24.2_-12.4dB_1400ms_1517ms_M30ms.ogg",
+            "start_ms": 0,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP05_072_Rufo_가_G4_std8.2_-12.9dB_2290ms_2407ms_M30ms.ogg",
+            "start_ms": 117,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP06_113_Rufo_가_Fsharp4_std26.0_-11.9dB_2330ms_2447ms_M30ms.ogg",
+            "start_ms": 234,
+            "duration_ms": 117
+        }
+    ],
+    "각": [
+        {
+            "file_name": "_selective_Momo_EP02_018_Rufo_각_Dsharp4_std6.6_-17.3dB_3960ms_4100ms_M30ms.ogg",
+            "start_ms": 351,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Momo_EP06_054_Rufo_각_A4_std28.7_-21.3dB_1440ms_1570ms_M30ms.ogg",
+            "start_ms": 488,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP06_111_Rufo_각_F4_std14.0_-18.6dB_4290ms_4440ms_M30ms.ogg",
+            "start_ms": 619,
+            "duration_ms": 147
+        }
+    ],
+    "간": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_간_Fsharp4_std16.9_-12.4dB_3620ms_3780ms_M30ms.ogg",
+            "start_ms": 766,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP06_092_Rufo_간_Asharp4_std33.0_-15.1dB_1359ms_1510ms_M30ms.ogg",
+            "start_ms": 923,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_072_Rufo_간_Gsharp4_std10.2_-13.1dB_3640ms_3809ms_M30ms.ogg",
+            "start_ms": 1075,
+            "duration_ms": 171
+        }
+    ],
+    "갈": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_056_Rufo_갈_G4_std6.3_-14.4dB_2100ms_2240ms_M30ms.ogg",
+            "start_ms": 1246,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_057_Rufo_갈_A4_std10.5_-12.8dB_1940ms_2080ms_M30ms.ogg",
+            "start_ms": 1387,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity7_갈_F4_std16.2_-14.7dB_1760ms_1900ms_M30ms.ogg",
+            "start_ms": 1528,
+            "duration_ms": 141
+        }
+    ],
+    "감": [
+        {
+            "file_name": "_selective_Momo_EP07_090_Rufo_감_D5_std47.8_-15.6dB_480ms_659ms_M30ms.ogg",
+            "start_ms": 1669,
+            "duration_ms": 181
+        }
+    ],
+    "갔": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_041_Rufo_갔_A4_std29.2_-19.6dB_5060ms_5220ms_M30ms.ogg",
+            "start_ms": 1850,
+            "duration_ms": 180
+        }
+    ],
+    "강": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_043_Rufo_강_B4_std28.4_-9.7dB_2140ms_2280ms_M30ms.ogg",
+            "start_ms": 2030,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_046_Rufo_강_B3_std1.3_-22.4dB_2680ms_2840ms_M30ms.ogg",
+            "start_ms": 2171,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_001_HiddenRufo_강_D5_std77.9_-15.3dB_2000ms_2120ms_M30ms.ogg",
+            "start_ms": 2328,
+            "duration_ms": 117
+        }
+    ],
+    "같": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_033_Rufo_같_A4_std14.6_-13.9dB_2060ms_2230ms_M30ms.ogg",
+            "start_ms": 2445,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_035_Rufo_같_F4_std14.7_-16.9dB_1000ms_1170ms_M30ms.ogg",
+            "start_ms": 2616,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Momo_EP06_061_Rufo_같_E4_std4.8_-18.0dB_2520ms_2690ms_M30ms.ogg",
+            "start_ms": 2787,
+            "duration_ms": 171
+        }
+    ],
+    "갤": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_갤_F4_std29.3_-17.5dB_3999ms_4140ms_M30ms.ogg",
+            "start_ms": 2958,
+            "duration_ms": 141
+        }
+    ],
+    "거": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_012_Rufo_거_Gsharp4_std19.7_-12.5dB_4579ms_4688ms_M30ms.ogg",
+            "start_ms": 3099,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP06_111_Rufo_거_Fsharp4_std4.6_-12.8dB_3800ms_3908ms_M30ms.ogg",
+            "start_ms": 3208,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_073_Rufo_거_Gsharp4_std18.1_-10.5dB_2860ms_2968ms_M30ms.ogg",
+            "start_ms": 3317,
+            "duration_ms": 109
+        }
+    ],
+    "건": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_035_Rufo_건_A4_std7.4_-16.2dB_4030ms_4200ms_M30ms.ogg",
+            "start_ms": 3426,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity2_건_Asharp4_std78.0_-17.4dB_1560ms_1720ms_M30ms.ogg",
+            "start_ms": 3593,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity5_건_Csharp5_std41.8_-12.6dB_2239ms_2400ms_M30ms.ogg",
+            "start_ms": 3750,
+            "duration_ms": 163
+        }
+    ],
+    "걸": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_051_Rufo_걸_Asharp4_std16.9_-15.2dB_2440ms_2600ms_M30ms.ogg",
+            "start_ms": 3913,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP06_009_Rufo_걸_D5_std52.6_-14.3dB_1500ms_1660ms_M30ms.ogg",
+            "start_ms": 4070,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Rufo_Lobby_걸_F4_std17.2_-13.1dB_2120ms_2269ms_M30ms.ogg",
+            "start_ms": 4227,
+            "duration_ms": 149
+        }
+    ],
+    "겁": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_019_Rufo_겁_Fsharp4_std8.8_-12.0dB_3540ms_3720ms_M30ms.ogg",
+            "start_ms": 4376,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_034_Rufo_겁_A4_std3.8_-14.2dB_4140ms_4300ms_M30ms.ogg",
+            "start_ms": 4557,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_027_Rufo_겁_D4_std12.2_-22.9dB_3820ms_3970ms_M30ms.ogg",
+            "start_ms": 4714,
+            "duration_ms": 152
+        }
+    ],
+    "것": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_것_F4_std17.3_-20.1dB_4159ms_4310ms_M30ms.ogg",
+            "start_ms": 4866,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_050_Rufo_것_B4_std14.6_-15.3dB_559ms_710ms_M30ms.ogg",
+            "start_ms": 5018,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP04_050_Rufo_것_Csharp5_std21.3_-15.1dB_5899ms_6050ms_M30ms.ogg",
+            "start_ms": 5170,
+            "duration_ms": 152
+        }
+    ],
+    "게": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_030_Rufo_게_Gsharp4_std9.7_-13.2dB_3160ms_3286ms_M30ms.ogg",
+            "start_ms": 5322,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_073_Rufo_게_A4_std15.0_-17.2dB_6720ms_6846ms_M30ms.ogg",
+            "start_ms": 5450,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Rufo_Equipment_게_Dsharp5_std37.1_-13.5dB_1080ms_1206ms_M30ms.ogg",
+            "start_ms": 5578,
+            "duration_ms": 128
+        }
+    ],
+    "겠": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_003_Rufo_겠_C5_std9.0_-17.3dB_3380ms_3540ms_M30ms.ogg",
+            "start_ms": 5706,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP07_022_Rufo_겠_Unvoiced_std0.0_-16.4dB_1859ms_2020ms_M30ms.ogg",
+            "start_ms": 5863,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_094_Rufo_겠_G4_std24.6_-18.5dB_220ms_380ms_M30ms.ogg",
+            "start_ms": 6026,
+            "duration_ms": 157
+        }
+    ],
+    "겨": [
+        {
+            "file_name": "_selective_Momo_EP05_025_Rufo_겨_Dsharp4_std9.9_-16.1dB_1080ms_1206ms_M30ms.ogg",
+            "start_ms": 6183,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Rufo_Touch1_2_겨_F4_std50.9_-10.8dB_740ms_938ms_M30ms.ogg",
+            "start_ms": 6311,
+            "duration_ms": 200
+        }
+    ],
+    "격": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_033_Rufo_격_A4_std44.6_-18.6dB_2560ms_2730ms_M30ms.ogg",
+            "start_ms": 6511,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_063_Rufo_격_G4_std51.3_-14.4dB_4019ms_4170ms_M30ms.ogg",
+            "start_ms": 6682,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP05_008_Rufo_격_Csharp4_std18.8_-19.8dB_4100ms_4250ms_M30ms.ogg",
+            "start_ms": 6834,
+            "duration_ms": 152
+        }
+    ],
+    "결": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_061_Rufo_결_Fsharp4_std12.6_-12.4dB_4100ms_4200ms_M30ms.ogg",
+            "start_ms": 6986,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Momo_EP06_095_Rufo_결_Csharp5_std20.1_-12.0dB_840ms_1000ms_M30ms.ogg",
+            "start_ms": 7087,
+            "duration_ms": 157
+        }
+    ],
+    "경": [
+        {
+            "file_name": "_selective_Momo_EP06_020_Rufo_경_Asharp4_std19.9_-15.3dB_1000ms_1140ms_M30ms.ogg",
+            "start_ms": 7244,
+            "duration_ms": 141
+        }
+    ],
+    "계": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_078_HiddenRufo_계_E4_std2.7_-14.4dB_339ms_484ms_M30ms.ogg",
+            "start_ms": 7385,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_Momo_EP02_015_Rufo_계_Dsharp4_std9.1_-15.4dB_2940ms_3048ms_M30ms.ogg",
+            "start_ms": 7532,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_SPSkill1_계_Dsharp5_std45.2_-14.4dB_760ms_850ms_M30ms.ogg",
+            "start_ms": 7641,
+            "duration_ms": 91
+        }
+    ],
+    "고": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_060_Rufo_고_Asharp4_std17.6_-15.4dB_4560ms_4686ms_M30ms.ogg",
+            "start_ms": 7732,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_고_E4_std6.2_-17.1dB_1760ms_1886ms_M30ms.ogg",
+            "start_ms": 7855,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP04_009_Rufo_고_F4_std30.2_-18.6dB_1080ms_1206ms_M30ms.ogg",
+            "start_ms": 7983,
+            "duration_ms": 128
+        }
+    ],
+    "골": [
+        {
+            "file_name": "_selective_Momo_EP02_066_Rufo_골_G4_std45.8_-12.5dB_3000ms_3140ms_M30ms.ogg",
+            "start_ms": 8111,
+            "duration_ms": 141
+        }
+    ],
+    "곳": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_068_Rufo_곳_Gsharp4_std49.7_-17.5dB_2280ms_2429ms_M30ms.ogg",
+            "start_ms": 8252,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_Momo_EP06_030_Rufo_곳_Dsharp4_std5.0_-18.0dB_2300ms_2450ms_M30ms.ogg",
+            "start_ms": 8401,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP07_111_Rufo_곳_Fsharp4_std19.8_-19.1dB_459ms_610ms_M30ms.ogg",
+            "start_ms": 8553,
+            "duration_ms": 152
+        }
+    ],
+    "공": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_033_Rufo_공_Dsharp5_std24.5_-11.1dB_5020ms_5159ms_M30ms.ogg",
+            "start_ms": 8705,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_공_Fsharp4_std13.6_-17.8dB_4460ms_4600ms_M30ms.ogg",
+            "start_ms": 8846,
+            "duration_ms": 141
+        }
+    ],
+    "과": [
+        {
+            "file_name": "_selective_Momo_EP04_008_Rufo_과_F4_std10.6_-14.0dB_580ms_688ms_M30ms.ogg",
+            "start_ms": 8987,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP05_044_Rufo_과_B4_std7.6_-12.7dB_1840ms_1948ms_M30ms.ogg",
+            "start_ms": 9096,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP06_011_Rufo_과_Fsharp4_std7.5_-11.7dB_1040ms_1166ms_M30ms.ogg",
+            "start_ms": 9205,
+            "duration_ms": 128
+        }
+    ],
+    "관": [
+        {
+            "file_name": "_selective_Momo_EP06_018_Rufo_관_Csharp4_std2.0_-14.2dB_1099ms_1250ms_M30ms.ogg",
+            "start_ms": 9333,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_075_Rufo_관_Fsharp4_std8.8_-10.9dB_2380ms_2530ms_M30ms.ogg",
+            "start_ms": 9485,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_041_Rufo_관_G4_std9.5_-10.3dB_4739ms_4860ms_M30ms.ogg",
+            "start_ms": 9637,
+            "duration_ms": 123
+        }
+    ],
+    "교": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_035_Rufo_교_C4_std43.5_-23.3dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 9760,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_092_Rufo_교_G4_std33.5_-17.7dB_1359ms_1522ms_M30ms.ogg",
+            "start_ms": 9901,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "_selective_pray_EP03_122_Rufo_교_G4_std38.5_-16.9dB_1660ms_1840ms_M30ms.ogg",
+            "start_ms": 10066,
+            "duration_ms": 181
+        }
+    ],
+    "구": [
+        {
+            "file_name": "_selective_Momo_EP05_032_Rufo_구_Gsharp4_std11.8_-14.9dB_1859ms_1950ms_M30ms.ogg",
+            "start_ms": 10247,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity4_구_D4_std2.0_-21.4dB_459ms_549ms_M30ms.ogg",
+            "start_ms": 10340,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Rufo_Die1_구_E4_std0.9_-18.6dB_199ms_290ms_M30ms.ogg",
+            "start_ms": 10431,
+            "duration_ms": 93
+        }
+    ],
+    "국": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_국_F4_std32.7_-24.9dB_5569ms_5730ms_M30ms.ogg",
+            "start_ms": 10524,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Momo_EP05_072_Rufo_국_E4_std42.7_-21.9dB_1920ms_2080ms_M30ms.ogg",
+            "start_ms": 10687,
+            "duration_ms": 157
+        }
+    ],
+    "군": [
+        {
+            "file_name": "_selective_Momo_EP06_106_Rufo_군_Dsharp5_std65.3_-14.7dB_640ms_840ms_M30ms.ogg",
+            "start_ms": 10844,
+            "duration_ms": 220
+        }
+    ],
+    "굴": [
+        {
+            "file_name": "_selective_Main_Ch03_EP02_011_Rufo_굴_Fsharp4_std14.1_-14.6dB_4460ms_4630ms_M30ms.ogg",
+            "start_ms": 11064,
+            "duration_ms": 171
+        }
+    ],
+    "귀": [
+        {
+            "file_name": "_selective_Momo_EP04_057_Rufo_귀_B3_std4.1_-25.1dB_4059ms_4221ms_M30ms.ogg",
+            "start_ms": 11235,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Momo_EP05_044_Rufo_귀_A4_std6.1_-16.9dB_2840ms_2948ms_M30ms.ogg",
+            "start_ms": 11398,
+            "duration_ms": 109
+        }
+    ],
+    "그": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_027_Rufo_그_D4_std3.6_-17.6dB_4180ms_4297ms_M30ms.ogg",
+            "start_ms": 11507,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_028_Rufo_그_E4_std24.9_-14.6dB_40ms_157ms_M30ms.ogg",
+            "start_ms": 11621,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP05_045_Rufo_그_Gsharp3_std5.6_-21.9dB_4880ms_5005ms_M30ms.ogg",
+            "start_ms": 11738,
+            "duration_ms": 125
+        }
+    ],
+    "극": [
+        {
+            "file_name": "_selective_sameplace_EP02_076_Rufo_극_Gsharp4_std30.3_-24.4dB_640ms_799ms_M30ms.ogg",
+            "start_ms": 11863,
+            "duration_ms": 156
+        }
+    ],
+    "근": [
+        {
+            "file_name": "_selective_Momo_EP04_022_Rufo_근_B4_std31.6_-21.5dB_3440ms_3540ms_M30ms.ogg",
+            "start_ms": 12019,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Momo_EP04_024_Rufo_근_Fsharp4_std8.4_-20.8dB_3640ms_3739ms_M30ms.ogg",
+            "start_ms": 12120,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_075_Rufo_근_A4_std15.5_-20.4dB_220ms_420ms_M30ms.ogg",
+            "start_ms": 12221,
+            "duration_ms": 197
+        }
+    ],
+    "금": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_060_Rufo_금_Fsharp4_std18.4_-16.1dB_270ms_400ms_M30ms.ogg",
+            "start_ms": 12418,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_024_Rufo_금_A4_std20.0_-15.5dB_199ms_340ms_M30ms.ogg",
+            "start_ms": 12549,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_금_Dsharp4_std21.6_-16.0dB_260ms_400ms_M30ms.ogg",
+            "start_ms": 12690,
+            "duration_ms": 141
+        }
+    ],
+    "급": [
+        {
+            "file_name": "_selective_Momo_EP02_045_Rufo_급_A4_std28.3_-19.7dB_1240ms_1380ms_M30ms.ogg",
+            "start_ms": 12831,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP05_072_Rufo_급_G4_std25.9_-19.3dB_2780ms_2929ms_M30ms.ogg",
+            "start_ms": 12972,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "Voice_Rufo_HeroUpgrade_급_G4_std28.9_-24.6dB_799ms_960ms_M30ms.ogg",
+            "start_ms": 13121,
+            "duration_ms": 158
+        }
+    ],
+    "기": [
+        {
+            "file_name": "_selective_Main_Ch03_EP02_011_Rufo_기_G4_std7.9_-15.2dB_3560ms_3668ms_M30ms.ogg",
+            "start_ms": 13279,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_038_Rufo_기_D4_std9.7_-20.4dB_2700ms_2808ms_M30ms.ogg",
+            "start_ms": 13388,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_pray_EP02_087_Rufo_기_Fsharp5_std2.1_-19.5dB_4239ms_4348ms_M30ms.ogg",
+            "start_ms": 13497,
+            "duration_ms": 106
+        }
+    ],
+    "긴": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_031_Rufo_긴_C5_std18.7_-15.9dB_4620ms_4760ms_M30ms.ogg",
+            "start_ms": 13603,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP06_029_Rufo_긴_Gsharp4_std6.3_-21.1dB_1400ms_1530ms_M30ms.ogg",
+            "start_ms": 13744,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_pray_EP09_109_Rufo_긴_Asharp4_std12.3_-14.2dB_3220ms_3360ms_M30ms.ogg",
+            "start_ms": 13875,
+            "duration_ms": 141
+        }
+    ],
+    "길": [
+        {
+            "file_name": "_selective_sameplace_EP07_030_Rufo_길_Csharp5_std13.7_-16.7dB_4300ms_4440ms_M30ms.ogg",
+            "start_ms": 14016,
+            "duration_ms": 141
+        }
+    ],
+    "깃": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_067_Rufo_깃_Asharp4_std53.6_-18.6dB_3340ms_3520ms_M30ms.ogg",
+            "start_ms": 14157,
+            "duration_ms": 177
+        }
+    ],
+    "까": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_까_F4_std15.9_-22.2dB_3940ms_4048ms_M30ms.ogg",
+            "start_ms": 14334,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP05_007_Rufo_까_Fsharp4_std6.6_-14.2dB_240ms_348ms_M30ms.ogg",
+            "start_ms": 14443,
+            "duration_ms": 119
+        },
+        {
+            "file_name": "_selective_Momo_EP05_072_Rufo_까_G4_std14.2_-12.1dB_2080ms_2188ms_M30ms.ogg",
+            "start_ms": 14562,
+            "duration_ms": 109
+        }
+    ],
+    "깐": [
+        {
+            "file_name": "_selective_Momo_EP07_062_Rufo_깐_Csharp5_std83.2_-13.2dB_220ms_400ms_M30ms.ogg",
+            "start_ms": 14671,
+            "duration_ms": 181
+        }
+    ],
+    "깨": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_033_Rufo_깨_C4_std5.8_-17.1dB_4520ms_4664ms_M30ms.ogg",
+            "start_ms": 14852,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP04_008_Rufo_깨_Csharp4_std14.2_-14.6dB_2340ms_2520ms_M30ms.ogg",
+            "start_ms": 14993,
+            "duration_ms": 181
+        }
+    ],
+    "께": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_043_Rufo_께_A4_std19.2_-14.3dB_2239ms_2330ms_M30ms.ogg",
+            "start_ms": 15174,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_Momo_EP07_008_Rufo_께_Fsharp4_std3.9_-23.5dB_1280ms_1369ms_M30ms.ogg",
+            "start_ms": 15267,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_pray_EP10_189_Rufo_께_Unvoiced_std0.0_-11.0dB_3180ms_3288ms_M30ms.ogg",
+            "start_ms": 15358,
+            "duration_ms": 109
+        }
+    ],
+    "꿀": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_055_Rufo_꿀_A4_std20.9_-17.3dB_1900ms_2060ms_M30ms.ogg",
+            "start_ms": 15467,
+            "duration_ms": 157
+        }
+    ],
+    "끌": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_043_Rufo_끌_A4_std18.9_-15.6dB_2000ms_2160ms_M30ms.ogg",
+            "start_ms": 15624,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_070_Rufo_끌_G4_std12.8_-15.1dB_319ms_470ms_M30ms.ogg",
+            "start_ms": 15781,
+            "duration_ms": 152
+        }
+    ],
+    "끔": [
+        {
+            "file_name": "_selective_snakeroad_EP01_087_Rufo_끔_C5_std14.8_-19.7dB_1099ms_1200ms_M30ms.ogg",
+            "start_ms": 15933,
+            "duration_ms": 101
+        }
+    ],
+    "끝": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_022_Rufo_끝_Csharp5_std29.0_-14.5dB_580ms_720ms_M30ms.ogg",
+            "start_ms": 16034,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_067_HiddenRufo_끝_F5_std52.1_-15.3dB_2980ms_3140ms_M30ms.ogg",
+            "start_ms": 16175,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_071_Rufo_끝_Asharp3_std23.0_-17.6dB_1180ms_1340ms_M30ms.ogg",
+            "start_ms": 16332,
+            "duration_ms": 157
+        }
+    ],
+    "나": [
+        {
+            "file_name": "_selective_Elias_EP01_013_Rufo_나_D4_std10.5_-12.1dB_3680ms_3806ms_M30ms.ogg",
+            "start_ms": 16489,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP03_111_Rufo_나_Gsharp3_std9.6_-15.6dB_3020ms_3146ms_M30ms.ogg",
+            "start_ms": 16617,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP04_004_Rufo_나_B3_std14.8_-11.4dB_2320ms_2446ms_M30ms.ogg",
+            "start_ms": 16745,
+            "duration_ms": 128
+        }
+    ],
+    "난": [
+        {
+            "file_name": "_selective_Momo_EP04_016_Rufo_난_C4_std4.2_-16.9dB_300ms_459ms_M30ms.ogg",
+            "start_ms": 16873,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_061_Rufo_난_C5_std34.6_-12.4dB_3760ms_3920ms_M30ms.ogg",
+            "start_ms": 17033,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_071_Rufo_난_Asharp3_std4.4_-18.6dB_1340ms_1500ms_M30ms.ogg",
+            "start_ms": 17190,
+            "duration_ms": 157
+        }
+    ],
+    "날": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_012_Rufo_날_G4_std12.6_-17.2dB_4079ms_4220ms_M30ms.ogg",
+            "start_ms": 17347,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_067_HiddenRufo_날_Dsharp5_std15.4_-13.4dB_3140ms_3280ms_M30ms.ogg",
+            "start_ms": 17488,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_019_Rufo_날_E4_std26.0_-11.1dB_2700ms_2840ms_M30ms.ogg",
+            "start_ms": 17629,
+            "duration_ms": 141
+        }
+    ],
+    "남": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_068_Rufo_남_Asharp4_std4.5_-13.7dB_2739ms_2920ms_M30ms.ogg",
+            "start_ms": 17770,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP04_051_Rufo_남_D4_std21.2_-14.1dB_2480ms_2670ms_M30ms.ogg",
+            "start_ms": 17951,
+            "duration_ms": 192
+        }
+    ],
+    "났": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_022_Rufo_났_B4_std28.3_-13.7dB_720ms_910ms_M30ms.ogg",
+            "start_ms": 18143,
+            "duration_ms": 192
+        }
+    ],
+    "내": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_내_G4_std14.1_-16.7dB_2400ms_2544ms_M30ms.ogg",
+            "start_ms": 18335,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_068_Rufo_내_Gsharp4_std11.7_-14.0dB_2780ms_2924ms_M30ms.ogg",
+            "start_ms": 18476,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Touch2_Skin1_내_D4_std31.0_-13.4dB_880ms_1024ms_M30ms.ogg",
+            "start_ms": 18617,
+            "duration_ms": 141
+        }
+    ],
+    "낼": [
+        {
+            "file_name": "_selective_Momo_EP06_111_Rufo_낼_G4_std7.0_-16.8dB_3280ms_3460ms_M30ms.ogg",
+            "start_ms": 18758,
+            "duration_ms": 181
+        }
+    ],
+    "냐": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_012_Rufo_냐_Unvoiced_std0.0_-14.1dB_5239ms_5366ms_M30ms.ogg",
+            "start_ms": 18939,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP07_083_Rufo_냐_C4_std0.9_-16.9dB_310ms_444ms_M30ms.ogg",
+            "start_ms": 19067,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_pray_EP09_110_Rufo_냐_G5_std69.3_-6.8dB_5979ms_6106ms_M30ms.ogg",
+            "start_ms": 19203,
+            "duration_ms": 128
+        }
+    ],
+    "냥": [
+        {
+            "file_name": "_selective_Momo_EP06_039_Rufo_냥_Csharp5_std13.4_-10.8dB_319ms_440ms_M30ms.ogg",
+            "start_ms": 19331,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_034_Rufo_냥_Asharp4_std30.8_-14.4dB_1700ms_1820ms_M30ms.ogg",
+            "start_ms": 19454,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_042_Rufo_냥_B4_std11.7_-11.9dB_1340ms_1460ms_M30ms.ogg",
+            "start_ms": 19571,
+            "duration_ms": 117
+        }
+    ],
+    "너": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_029_Rufo_너_Asharp3_std30.3_-11.4dB_1840ms_1984ms_M30ms.ogg",
+            "start_ms": 19688,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_057_Rufo_너_D4_std16.8_-13.4dB_20ms_164ms_M30ms.ogg",
+            "start_ms": 19829,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_BasicAttack1_2_2_너_C4_std25.7_-21.5dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 19970,
+            "duration_ms": 141
+        }
+    ],
+    "넘": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_030_Rufo_넘_Dsharp4_std46.2_-13.4dB_1300ms_1490ms_M30ms.ogg",
+            "start_ms": 20111,
+            "duration_ms": 192
+        }
+    ],
+    "네": [
+        {
+            "file_name": "_selective_Momo_EP04_022_Rufo_네_Gsharp3_std6.5_-24.9dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 20303,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Gacha2_네_Unvoiced_std0.0_-13.4dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 20444,
+            "duration_ms": 141
+        }
+    ],
+    "녀": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_058_Rufo_녀_Gsharp4_std17.1_-11.3dB_280ms_423ms_M30ms.ogg",
+            "start_ms": 20585,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "_selective_Momo_EP05_072_Rufo_녀_G4_std7.8_-12.9dB_1640ms_1766ms_M30ms.ogg",
+            "start_ms": 20729,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP06_003_Rufo_녀_C4_std2.4_-19.2dB_1119ms_1246ms_M30ms.ogg",
+            "start_ms": 20857,
+            "duration_ms": 128
+        }
+    ],
+    "년": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_021_Rufo_년_E5_std34.5_-13.4dB_2660ms_2840ms_M30ms.ogg",
+            "start_ms": 20985,
+            "duration_ms": 181
+        }
+    ],
+    "녕": [
+        {
+            "file_name": "Voice_Rufo_Greeting_녕_Asharp4_std10.3_-12.4dB_229ms_380ms_M30ms.ogg",
+            "start_ms": 21166,
+            "duration_ms": 152
+        }
+    ],
+    "노": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_092_Rufo_노_D4_std20.7_-16.1dB_3220ms_3346ms_M30ms.ogg",
+            "start_ms": 21318,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Rufo_Defeat2_노_Dsharp4_std9.9_-15.0dB_1380ms_1524ms_M30ms.ogg",
+            "start_ms": 21446,
+            "duration_ms": 141
+        }
+    ],
+    "놀": [
+        {
+            "file_name": "_selective_sameplace_EP07_012_Rufo_놀_Csharp4_std8.5_-13.0dB_1300ms_1480ms_M30ms.ogg",
+            "start_ms": 21587,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_078_Rufo_놀_Gsharp4_std12.3_-15.3dB_940ms_1110ms_M30ms.ogg",
+            "start_ms": 21768,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity2_놀_A4_std84.5_-19.4dB_1740ms_1940ms_M30ms.ogg",
+            "start_ms": 21939,
+            "duration_ms": 197
+        }
+    ],
+    "놓": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_048_Rufo_놓_Csharp4_std5.2_-25.2dB_4340ms_4479ms_M30ms.ogg",
+            "start_ms": 22136,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_Momo_EP04_057_Rufo_놓_C4_std8.5_-17.8dB_3260ms_3400ms_M30ms.ogg",
+            "start_ms": 22272,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Momo_EP05_007_Rufo_놓_E4_std6.0_-20.3dB_1420ms_1560ms_M30ms.ogg",
+            "start_ms": 22409,
+            "duration_ms": 137
+        }
+    ],
+    "누": [
+        {
+            "file_name": "_selective_Momo_EP04_031_Rufo_누_E4_std12.6_-11.6dB_120ms_264ms_M30ms.ogg",
+            "start_ms": 22546,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP04_050_Rufo_누_F4_std48.6_-20.7dB_3460ms_3604ms_M30ms.ogg",
+            "start_ms": 22687,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP06_004_Rufo_누_G4_std72.4_-16.6dB_60ms_204ms_M30ms.ogg",
+            "start_ms": 22828,
+            "duration_ms": 141
+        }
+    ],
+    "눈": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_034_Rufo_눈_Dsharp4_std10.5_-17.1dB_3140ms_3290ms_M30ms.ogg",
+            "start_ms": 22969,
+            "duration_ms": 152
+        }
+    ],
+    "는": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_035_Rufo_는_E4_std7.2_-17.1dB_1680ms_1800ms_M30ms.ogg",
+            "start_ms": 23121,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity1_1_는_Fsharp4_std21.2_-23.4dB_720ms_840ms_M30ms.ogg",
+            "start_ms": 23238,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_Birthday_는_D4_std3.4_-21.8dB_2620ms_2740ms_M30ms.ogg",
+            "start_ms": 23355,
+            "duration_ms": 140
+        }
+    ],
+    "늘": [
+        {
+            "file_name": "Voice_Rufo_Affinity6_늘_B4_std9.9_-15.6dB_1440ms_1570ms_M30ms.ogg",
+            "start_ms": 23495,
+            "duration_ms": 131
+        }
+    ],
+    "능": [
+        {
+            "file_name": "_selective_Momo_EP02_024_Rufo_능_Asharp4_std45.6_-21.9dB_4239ms_4380ms_M30ms.ogg",
+            "start_ms": 23626,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Victory2_능_A4_std15.0_-19.3dB_840ms_1040ms_M30ms.ogg",
+            "start_ms": 23767,
+            "duration_ms": 197
+        }
+    ],
+    "니": [
+        {
+            "file_name": "_selective_Momo_EP04_010_Rufo_니_F4_std26.7_-23.3dB_4720ms_4872ms_M30ms.ogg",
+            "start_ms": 23964,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_Momo_EP04_025_Rufo_니_E4_std55.2_-20.1dB_280ms_442ms_M30ms.ogg",
+            "start_ms": 24113,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_sameplace_EP01_058_Rufo_니_E4_std21.4_-25.5dB_919ms_1064ms_M30ms.ogg",
+            "start_ms": 24272,
+            "duration_ms": 142
+        }
+    ],
+    "닌": [
+        {
+            "file_name": "_selective_Momo_EP06_003_Rufo_닌_Dsharp4_std2.9_-19.8dB_2180ms_2280ms_M30ms.ogg",
+            "start_ms": 24414,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_pray_EP01_052_Rufo_닌_A4_std6.6_-21.1dB_2080ms_2180ms_M30ms.ogg",
+            "start_ms": 24515,
+            "duration_ms": 101
+        }
+    ],
+    "님": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_077_Rufo_님_Asharp4_std5.1_-19.0dB_1920ms_2060ms_M30ms.ogg",
+            "start_ms": 24616,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_019_Rufo_님_Fsharp4_std5.9_-15.2dB_410ms_550ms_M30ms.ogg",
+            "start_ms": 24757,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Stage_님_Csharp5_std15.3_-17.8dB_400ms_550ms_M30ms.ogg",
+            "start_ms": 24898,
+            "duration_ms": 152
+        }
+    ],
+    "다": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_035_Rufo_다_Unvoiced_std0.0_-20.8dB_860ms_986ms_M30ms.ogg",
+            "start_ms": 25050,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_075_Rufo_다_D5_std22.8_-11.9dB_4600ms_4725ms_M30ms.ogg",
+            "start_ms": 25178,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_Momo_EP07_008_Rufo_다_D4_std11.0_-18.3dB_1720ms_1845ms_M30ms.ogg",
+            "start_ms": 25303,
+            "duration_ms": 125
+        }
+    ],
+    "닥": [
+        {
+            "file_name": "_selective_Momo_EP04_010_Rufo_닥_Asharp4_std10.4_-13.8dB_2060ms_2230ms_M30ms.ogg",
+            "start_ms": 25428,
+            "duration_ms": 171
+        }
+    ],
+    "닦": [
+        {
+            "file_name": "_selective_pray_EP03_126_Rufo_닦_E5_std16.7_-15.7dB_1560ms_1730ms_M30ms.ogg",
+            "start_ms": 25599,
+            "duration_ms": 171
+        }
+    ],
+    "단": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_단_C5_std18.6_-8.5dB_260ms_420ms_M30ms.ogg",
+            "start_ms": 25770,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_035_Rufo_단_D4_std8.3_-18.8dB_199ms_350ms_M30ms.ogg",
+            "start_ms": 25927,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_069_Rufo_단_E4_std9.4_-12.4dB_5319ms_5479ms_M30ms.ogg",
+            "start_ms": 26079,
+            "duration_ms": 157
+        }
+    ],
+    "달": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_012_Rufo_달_F4_std9.9_-16.3dB_1560ms_1700ms_M30ms.ogg",
+            "start_ms": 26236,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_033_Rufo_달_Asharp3_std4.6_-14.0dB_4680ms_4810ms_M30ms.ogg",
+            "start_ms": 26377,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP04_008_Rufo_달_E4_std3.2_-13.9dB_2540ms_2670ms_M30ms.ogg",
+            "start_ms": 26508,
+            "duration_ms": 131
+        }
+    ],
+    "담": [
+        {
+            "file_name": "_selective_Momo_EP04_010_Rufo_담_D4_std3.2_-13.1dB_3720ms_3820ms_M30ms.ogg",
+            "start_ms": 26639,
+            "duration_ms": 101
+        }
+    ],
+    "답": [
+        {
+            "file_name": "_selective_sameplace_EP02_059_Rufo_답_Asharp4_std23.4_-13.8dB_2870ms_3020ms_M30ms.ogg",
+            "start_ms": 26740,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_070_Rufo_답_Unvoiced_std0.0_-36.5dB_669ms_780ms_M30ms.ogg",
+            "start_ms": 26887,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_073_Rufo_답_Csharp5_std27.7_-14.2dB_5760ms_5920ms_M30ms.ogg",
+            "start_ms": 27019,
+            "duration_ms": 157
+        }
+    ],
+    "당": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_051_Rufo_당_G4_std9.8_-14.4dB_1960ms_2120ms_M30ms.ogg",
+            "start_ms": 27176,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP02_011_Rufo_당_Dsharp4_std16.9_-20.8dB_1180ms_1340ms_M30ms.ogg",
+            "start_ms": 27333,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_pray_EP10_189_Rufo_당_Unvoiced_std0.0_-15.4dB_720ms_899ms_M30ms.ogg",
+            "start_ms": 27490,
+            "duration_ms": 181
+        }
+    ],
+    "대": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_003_Rufo_대_Asharp4_std43.7_-19.3dB_1859ms_2004ms_M30ms.ogg",
+            "start_ms": 27671,
+            "duration_ms": 142
+        },
+        {
+            "file_name": "_selective_Momo_EP04_008_Rufo_대_Dsharp4_std16.1_-14.5dB_720ms_881ms_M30ms.ogg",
+            "start_ms": 27813,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Rufo_Die1_대_Dsharp4_std19.2_-17.3dB_300ms_461ms_M30ms.ogg",
+            "start_ms": 27976,
+            "duration_ms": 180
+        }
+    ],
+    "더": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_029_Rufo_더_Unvoiced_std0.0_-16.2dB_3320ms_3428ms_M30ms.ogg",
+            "start_ms": 28156,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_038_Rufo_더_Gsharp4_std4.0_-15.1dB_4600ms_4726ms_M30ms.ogg",
+            "start_ms": 28265,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP02_057_Rufo_더_Asharp3_std4.4_-18.9dB_4680ms_4805ms_M30ms.ogg",
+            "start_ms": 28393,
+            "duration_ms": 125
+        }
+    ],
+    "덕": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_덕_Fsharp4_std17.8_-16.0dB_3180ms_3360ms_M30ms.ogg",
+            "start_ms": 28518,
+            "duration_ms": 181
+        }
+    ],
+    "던": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_022_Rufo_던_Fsharp4_std33.9_-12.1dB_3380ms_3500ms_M30ms.ogg",
+            "start_ms": 28699,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP05_045_Rufo_던_D4_std4.2_-14.1dB_2360ms_2480ms_M30ms.ogg",
+            "start_ms": 28816,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_055_Rufo_던_F4_std3.1_-14.1dB_2739ms_2860ms_M30ms.ogg",
+            "start_ms": 28933,
+            "duration_ms": 123
+        }
+    ],
+    "데": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_015_Rufo_데_E5_std16.7_-11.3dB_4860ms_4986ms_M30ms.ogg",
+            "start_ms": 29056,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP04_014_Rufo_데_G4_std27.1_-18.6dB_1440ms_1566ms_M30ms.ogg",
+            "start_ms": 29184,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Momo_EP05_007_Rufo_데_D4_std11.4_-18.1dB_2239ms_2366ms_M30ms.ogg",
+            "start_ms": 29307,
+            "duration_ms": 124
+        }
+    ],
+    "도": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_031_Rufo_도_F4_std14.7_-20.2dB_6540ms_6648ms_M30ms.ogg",
+            "start_ms": 29431,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_SPSkill1_도_D5_std29.7_-15.0dB_319ms_427ms_M30ms.ogg",
+            "start_ms": 29540,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Touch2_1_Skin1_도_Asharp4_std11.3_-12.8dB_1020ms_1128ms_M30ms.ogg",
+            "start_ms": 29649,
+            "duration_ms": 109
+        }
+    ],
+    "돈": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_027_Rufo_돈_Gsharp4_std18.9_-16.8dB_2460ms_2590ms_M30ms.ogg",
+            "start_ms": 29758,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_027_Rufo_돈_B4_std36.1_-18.4dB_3080ms_3240ms_M30ms.ogg",
+            "start_ms": 29889,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_pray_EP01_055_Rufo_돈_G4_std16.0_-17.1dB_2260ms_2410ms_M30ms.ogg",
+            "start_ms": 30046,
+            "duration_ms": 152
+        }
+    ],
+    "돌": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_048_Rufo_돌_Dsharp4_std14.8_-18.6dB_559ms_710ms_M30ms.ogg",
+            "start_ms": 30198,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_072_Rufo_돌_C4_std7.2_-26.3dB_1320ms_1470ms_M30ms.ogg",
+            "start_ms": 30350,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_072_Rufo_돌_Gsharp3_std8.9_-18.9dB_6120ms_6270ms_M30ms.ogg",
+            "start_ms": 30502,
+            "duration_ms": 152
+        }
+    ],
+    "동": [
+        {
+            "file_name": "_selective_Momo_EP05_025_Rufo_동_Fsharp4_std13.5_-17.5dB_3940ms_4059ms_M30ms.ogg",
+            "start_ms": 30654,
+            "duration_ms": 120
+        },
+        {
+            "file_name": "_selective_Momo_EP05_056_Rufo_동_A4_std8.0_-18.4dB_1740ms_1859ms_M30ms.ogg",
+            "start_ms": 30774,
+            "duration_ms": 120
+        },
+        {
+            "file_name": "_selective_pray_EP09_092_Rufo_동_Gsharp4_std3.5_-18.0dB_2200ms_2320ms_M30ms.ogg",
+            "start_ms": 30894,
+            "duration_ms": 117
+        }
+    ],
+    "되": [
+        {
+            "file_name": "_selective_Momo_EP02_069_Rufo_되_A4_std12.9_-16.9dB_2980ms_3079ms_M30ms.ogg",
+            "start_ms": 31011,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_pray_EP01_076_Rufo_되_D5_std7.7_-15.2dB_4280ms_4379ms_M30ms.ogg",
+            "start_ms": 31112,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Rufo_DeckSetting2_되_F4_std1.7_-16.7dB_1160ms_1259ms_M30ms.ogg",
+            "start_ms": 31213,
+            "duration_ms": 101
+        }
+    ],
+    "된": [
+        {
+            "file_name": "_selective_Momo_EP06_124_Rufo_된_Asharp4_std32.7_-15.5dB_1160ms_1320ms_M30ms.ogg",
+            "start_ms": 31314,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_056_Rufo_된_C4_std14.9_-21.6dB_3260ms_3460ms_M30ms.ogg",
+            "start_ms": 31471,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_078_Rufo_된_Dsharp4_std4.7_-17.2dB_1820ms_2000ms_M30ms.ogg",
+            "start_ms": 31668,
+            "duration_ms": 177
+        }
+    ],
+    "될": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_041_Rufo_될_G4_std20.0_-13.3dB_3500ms_3660ms_M30ms.ogg",
+            "start_ms": 31845,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_035_Rufo_될_A4_std2.6_-16.2dB_3860ms_4000ms_M30ms.ogg",
+            "start_ms": 32002,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_028_Rufo_될_A4_std19.6_-15.0dB_3880ms_4040ms_M30ms.ogg",
+            "start_ms": 32139,
+            "duration_ms": 157
+        }
+    ],
+    "됩": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_075_Rufo_됩_E5_std37.2_-10.8dB_7640ms_7780ms_M30ms.ogg",
+            "start_ms": 32296,
+            "duration_ms": 141
+        }
+    ],
+    "두": [
+        {
+            "file_name": "_selective_Main_Ch02_EP06_085_Rufo_두_C4_std5.0_-19.2dB_3290ms_3407ms_M30ms.ogg",
+            "start_ms": 32437,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_092_Rufo_두_G4_std28.9_-18.8dB_339ms_447ms_M30ms.ogg",
+            "start_ms": 32554,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP06_098_Rufo_두_B4_std24.0_-14.4dB_1920ms_2028ms_M30ms.ogg",
+            "start_ms": 32663,
+            "duration_ms": 109
+        }
+    ],
+    "둘": [
+        {
+            "file_name": "_selective_Momo_EP05_060_Rufo_둘_F4_std9.6_-25.0dB_2100ms_2230ms_M30ms.ogg",
+            "start_ms": 32772,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP07_012_Rufo_둘_Csharp4_std4.5_-25.0dB_1240ms_1350ms_M30ms.ogg",
+            "start_ms": 32903,
+            "duration_ms": 112
+        }
+    ],
+    "둥": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_007_Rufo_둥_E5_std21.9_-16.6dB_260ms_380ms_M30ms.ogg",
+            "start_ms": 33015,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP07_007_Rufo_둥_E5_std24.2_-21.6dB_1500ms_1680ms_M30ms.ogg",
+            "start_ms": 33132,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_038_Rufo_둥_A4_std18.2_-18.4dB_2820ms_2920ms_M30ms.ogg",
+            "start_ms": 33313,
+            "duration_ms": 101
+        }
+    ],
+    "드": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_043_Rufo_드_Dsharp4_std9.9_-16.1dB_1380ms_1470ms_M30ms.ogg",
+            "start_ms": 33414,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_드_C5_std11.6_-11.4dB_6440ms_6530ms_M30ms.ogg",
+            "start_ms": 33505,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Momo_EP05_042_Rufo_드_G4_std6.8_-17.9dB_1640ms_1766ms_M30ms.ogg",
+            "start_ms": 33596,
+            "duration_ms": 128
+        }
+    ],
+    "득": [
+        {
+            "file_name": "_selective_Main_Ch04_EP06_038_Rufo_득_B4_std10.8_-22.2dB_5079ms_5260ms_M30ms.ogg",
+            "start_ms": 33724,
+            "duration_ms": 181
+        }
+    ],
+    "든": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_060_Rufo_든_Dsharp4_std4.5_-16.9dB_4999ms_5140ms_M30ms.ogg",
+            "start_ms": 33905,
+            "duration_ms": 138
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_든_F4_std23.6_-20.6dB_4920ms_5060ms_M30ms.ogg",
+            "start_ms": 34043,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_028_Rufo_든_Unvoiced_std0.0_-20.9dB_3340ms_3520ms_M30ms.ogg",
+            "start_ms": 34184,
+            "duration_ms": 177
+        }
+    ],
+    "듣": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_058_Rufo_듣_Gsharp4_std35.3_-18.5dB_2110ms_2300ms_M30ms.ogg",
+            "start_ms": 34361,
+            "duration_ms": 187
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_053_Rufo_듣_C5_std23.6_-13.5dB_2680ms_2840ms_M30ms.ogg",
+            "start_ms": 34548,
+            "duration_ms": 157
+        }
+    ],
+    "들": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_068_Rufo_들_Asharp4_std12.4_-17.2dB_4019ms_4130ms_M30ms.ogg",
+            "start_ms": 34705,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_049_Rufo_들_B4_std28.6_-19.3dB_459ms_570ms_M30ms.ogg",
+            "start_ms": 34817,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_010_Rufo_들_G4_std8.3_-14.4dB_799ms_910ms_M30ms.ogg",
+            "start_ms": 34929,
+            "duration_ms": 112
+        }
+    ],
+    "디": [
+        {
+            "file_name": "_selective_Elias_EP01_013_Rufo_디_Asharp3_std4.4_-25.4dB_2880ms_3042ms_M30ms.ogg",
+            "start_ms": 35041,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Momo_EP02_066_Rufo_디_Asharp4_std20.5_-18.5dB_2760ms_2850ms_M30ms.ogg",
+            "start_ms": 35204,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Rufo_DeckSetting1_디_Dsharp4_std19.1_-17.2dB_1540ms_1630ms_M30ms.ogg",
+            "start_ms": 35295,
+            "duration_ms": 91
+        }
+    ],
+    "따": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_012_Rufo_따_Csharp4_std5.4_-15.3dB_1979ms_2106ms_M30ms.ogg",
+            "start_ms": 35386,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_065_Rufo_따_Dsharp4_std12.5_-8.2dB_1540ms_1684ms_M30ms.ogg",
+            "start_ms": 35514,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_074_Rufo_따_C5_std4.1_-10.1dB_3680ms_3806ms_M30ms.ogg",
+            "start_ms": 35655,
+            "duration_ms": 128
+        }
+    ],
+    "때": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_027_Rufo_때_D4_std10.5_-12.6dB_2490ms_2607ms_M30ms.ogg",
+            "start_ms": 35783,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_pray_EP01_056_Rufo_때_B3_std12.5_-15.4dB_160ms_277ms_M30ms.ogg",
+            "start_ms": 35900,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity6_때_Asharp3_std2.7_-14.8dB_3660ms_3777ms_M30ms.ogg",
+            "start_ms": 36014,
+            "duration_ms": 114
+        }
+    ],
+    "떠": [
+        {
+            "file_name": "_selective_Momo_EP04_014_Rufo_떠_A4_std11.1_-12.1dB_3060ms_3186ms_M30ms.ogg",
+            "start_ms": 36128,
+            "duration_ms": 128
+        }
+    ],
+    "떤": [
+        {
+            "file_name": "_selective_Momo_EP04_022_Rufo_떤_D4_std7.7_-17.2dB_500ms_620ms_M30ms.ogg",
+            "start_ms": 36256,
+            "duration_ms": 117
+        }
+    ],
+    "떨": [
+        {
+            "file_name": "Voice_Rufo_Affinity6_떨_C4_std2.2_-12.9dB_3140ms_3309ms_M30ms.ogg",
+            "start_ms": 36373,
+            "duration_ms": 171
+        }
+    ],
+    "떻": [
+        {
+            "file_name": "_selective_Momo_EP06_054_Rufo_떻_B4_std12.7_-22.7dB_980ms_1080ms_M30ms.ogg",
+            "start_ms": 36544,
+            "duration_ms": 97
+        },
+        {
+            "file_name": "_selective_sameplace_EP04_053_Rufo_떻_Dsharp5_std49.3_-17.3dB_2030ms_2140ms_M30ms.ogg",
+            "start_ms": 36641,
+            "duration_ms": 129
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_074_Rufo_떻_D5_std25.0_-14.6dB_3160ms_3300ms_M30ms.ogg",
+            "start_ms": 36770,
+            "duration_ms": 137
+        }
+    ],
+    "또": [
+        {
+            "file_name": "_selective_sameplace_EP01_058_Rufo_또_Asharp4_std21.1_-13.6dB_2880ms_2970ms_M30ms.ogg",
+            "start_ms": 36907,
+            "duration_ms": 91
+        }
+    ],
+    "똑": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_040_Rufo_똑_Dsharp4_std51.7_-15.6dB_3680ms_3880ms_M30ms.ogg",
+            "start_ms": 36998,
+            "duration_ms": 197
+        }
+    ],
+    "똥": [
+        {
+            "file_name": "_selective_sameplace_EP05_042_Rufo_똥_A4_std20.4_-14.9dB_3820ms_3960ms_M30ms.ogg",
+            "start_ms": 37195,
+            "duration_ms": 137
+        }
+    ],
+    "뛰": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_뛰_A4_std11.6_-14.7dB_680ms_805ms_M30ms.ogg",
+            "start_ms": 37332,
+            "duration_ms": 125
+        }
+    ],
+    "라": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_046_Rufo_라_Gsharp4_std10.5_-13.5dB_3700ms_3808ms_M30ms.ogg",
+            "start_ms": 37457,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_074_Rufo_라_Gsharp4_std5.0_-11.2dB_2220ms_2328ms_M30ms.ogg",
+            "start_ms": 37566,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_033_Rufo_라_Fsharp4_std3.5_-9.9dB_3360ms_3468ms_M30ms.ogg",
+            "start_ms": 37675,
+            "duration_ms": 109
+        }
+    ],
+    "란": [
+        {
+            "file_name": "_selective_sameplace_EP07_012_Rufo_란_C4_std2.9_-13.7dB_1480ms_1660ms_M30ms.ogg",
+            "start_ms": 37784,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_018_Rufo_란_A4_std4.3_-14.4dB_3280ms_3420ms_M30ms.ogg",
+            "start_ms": 37961,
+            "duration_ms": 141
+        }
+    ],
+    "람": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_078_HiddenRufo_람_Gsharp4_std16.8_-14.2dB_1369ms_1550ms_M30ms.ogg",
+            "start_ms": 38102,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_034_Rufo_람_F4_std14.7_-13.5dB_2060ms_2210ms_M30ms.ogg",
+            "start_ms": 38283,
+            "duration_ms": 152
+        }
+    ],
+    "랐": [
+        {
+            "file_name": "_selective_sameplace_EP07_019_Rufo_랐_A3_std3.3_-17.4dB_1240ms_1440ms_M30ms.ogg",
+            "start_ms": 38435,
+            "duration_ms": 220
+        }
+    ],
+    "랑": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_068_Rufo_랑_F4_std13.4_-15.8dB_1520ms_1640ms_M30ms.ogg",
+            "start_ms": 38655,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_pray_EP01_052_Rufo_랑_G4_std5.5_-9.0dB_1560ms_1680ms_M30ms.ogg",
+            "start_ms": 38772,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity1_2_랑_C4_std6.5_-17.0dB_2160ms_2300ms_M30ms.ogg",
+            "start_ms": 38889,
+            "duration_ms": 141
+        }
+    ],
+    "래": [
+        {
+            "file_name": "_selective_Momo_EP06_045_Rufo_래_F5_std15.6_-10.8dB_220ms_364ms_M30ms.ogg",
+            "start_ms": 39030,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP06_112_Rufo_래_B4_std22.9_-13.7dB_280ms_423ms_M30ms.ogg",
+            "start_ms": 39171,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "_selective_Momo_EP07_070_Rufo_래_F4_std16.9_-16.8dB_2460ms_2604ms_M30ms.ogg",
+            "start_ms": 39315,
+            "duration_ms": 141
+        }
+    ],
+    "러": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_075_Rufo_러_Gsharp4_std17.3_-13.1dB_1160ms_1268ms_M30ms.ogg",
+            "start_ms": 39456,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP04_025_Rufo_러_F4_std7.9_-12.2dB_160ms_268ms_M30ms.ogg",
+            "start_ms": 39565,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_071_Rufo_러_G4_std18.8_-13.4dB_3860ms_3968ms_M30ms.ogg",
+            "start_ms": 39674,
+            "duration_ms": 109
+        }
+    ],
+    "런": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_004_Rufo_런_Asharp4_std2.8_-15.6dB_679ms_800ms_M30ms.ogg",
+            "start_ms": 39783,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Momo_EP04_003_Rufo_런_A4_std26.7_-12.8dB_160ms_280ms_M30ms.ogg",
+            "start_ms": 39906,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_snakeroad_EP01_086_Rufo_런_Asharp4_std10.0_-11.8dB_740ms_860ms_M30ms.ogg",
+            "start_ms": 40023,
+            "duration_ms": 117
+        }
+    ],
+    "럴": [
+        {
+            "file_name": "_selective_pray_EP09_100_Rufo_럴_Dsharp4_std10.6_-12.2dB_300ms_400ms_M30ms.ogg",
+            "start_ms": 40140,
+            "duration_ms": 101
+        }
+    ],
+    "럼": [
+        {
+            "file_name": "_selective_Momo_EP04_010_Rufo_럼_Asharp4_std40.3_-12.9dB_3040ms_3220ms_M30ms.ogg",
+            "start_ms": 40241,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP05_020_Rufo_럼_E4_std27.9_-16.7dB_2600ms_2780ms_M30ms.ogg",
+            "start_ms": 40422,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Rufo_Victory1_럼_Dsharp5_std46.5_-13.6dB_1080ms_1240ms_M30ms.ogg",
+            "start_ms": 40603,
+            "duration_ms": 157
+        }
+    ],
+    "럽": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_075_Rufo_럽_F5_std16.4_-13.9dB_6600ms_6780ms_M30ms.ogg",
+            "start_ms": 40760,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Momo_EP05_045_Rufo_럽_Csharp4_std3.8_-16.3dB_1979ms_2160ms_M30ms.ogg",
+            "start_ms": 40937,
+            "duration_ms": 178
+        }
+    ],
+    "렇": [
+        {
+            "file_name": "_selective_Momo_EP05_012_Rufo_렇_A4_std30.0_-17.1dB_420ms_559ms_M30ms.ogg",
+            "start_ms": 41115,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_pray_EP01_052_Rufo_렇_D4_std15.6_-15.6dB_640ms_760ms_M30ms.ogg",
+            "start_ms": 41251,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_059_Rufo_렇_Gsharp4_std10.1_-12.6dB_2470ms_2580ms_M30ms.ogg",
+            "start_ms": 41368,
+            "duration_ms": 107
+        }
+    ],
+    "레": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_027_Rufo_레_A4_std5.7_-16.2dB_5700ms_5826ms_M30ms.ogg",
+            "start_ms": 41475,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_037_Rufo_레_B4_std1.9_-12.5dB_1350ms_1449ms_M30ms.ogg",
+            "start_ms": 41603,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Momo_EP03_111_Rufo_레_A4_std50.8_-15.6dB_1500ms_1626ms_M30ms.ogg",
+            "start_ms": 41704,
+            "duration_ms": 128
+        }
+    ],
+    "려": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_042_Rufo_려_C4_std6.5_-17.2dB_1700ms_1808ms_M30ms.ogg",
+            "start_ms": 41832,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP06_085_Rufo_려_A4_std15.2_-14.7dB_4760ms_4868ms_M30ms.ogg",
+            "start_ms": 41941,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_043_Rufo_려_Gsharp4_std3.3_-11.1dB_2160ms_2268ms_M30ms.ogg",
+            "start_ms": 42050,
+            "duration_ms": 109
+        }
+    ],
+    "력": [
+        {
+            "file_name": "_selective_Main_Ch04_EP06_038_Rufo_력_Csharp5_std9.0_-20.3dB_5260ms_5430ms_M30ms.ogg",
+            "start_ms": 42159,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Rufo_Touch2_1_력_D5_std39.6_-12.3dB_1680ms_1830ms_M30ms.ogg",
+            "start_ms": 42330,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Rufo_Victory2_력_G4_std24.8_-18.4dB_1040ms_1210ms_M30ms.ogg",
+            "start_ms": 42482,
+            "duration_ms": 171
+        }
+    ],
+    "련": [
+        {
+            "file_name": "_selective_Momo_EP05_064_Rufo_련_D4_std6.4_-16.5dB_3220ms_3370ms_M30ms.ogg",
+            "start_ms": 42653,
+            "duration_ms": 152
+        }
+    ],
+    "렬": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_041_Rufo_렬_D4_std3.8_-10.8dB_339ms_439ms_M30ms.ogg",
+            "start_ms": 42805,
+            "duration_ms": 101
+        }
+    ],
+    "렸": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_023_Rufo_렸_E4_std5.0_-19.4dB_1640ms_1820ms_M30ms.ogg",
+            "start_ms": 42906,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Momo_EP05_056_Rufo_렸_E4_std23.5_-14.2dB_2720ms_2860ms_M30ms.ogg",
+            "start_ms": 43083,
+            "duration_ms": 137
+        }
+    ],
+    "령": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_027_Rufo_령_Asharp4_std15.9_-13.1dB_370ms_500ms_M30ms.ogg",
+            "start_ms": 43220,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP06_061_Rufo_령_Csharp4_std2.6_-19.4dB_1500ms_1660ms_M30ms.ogg",
+            "start_ms": 43351,
+            "duration_ms": 157
+        }
+    ],
+    "로": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_004_Rufo_로_Csharp5_std10.8_-15.9dB_5700ms_5808ms_M30ms.ogg",
+            "start_ms": 43508,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_023_Rufo_로_Dsharp4_std11.4_-23.9dB_1359ms_1468ms_M30ms.ogg",
+            "start_ms": 43617,
+            "duration_ms": 106
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP07_009_Rufo_로_A4_std31.2_-8.7dB_2160ms_2268ms_M30ms.ogg",
+            "start_ms": 43723,
+            "duration_ms": 109
+        }
+    ],
+    "론": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_043_Rufo_론_A4_std21.1_-13.4dB_1480ms_1670ms_M30ms.ogg",
+            "start_ms": 43832,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_071_Rufo_론_Dsharp4_std8.4_-20.7dB_1160ms_1280ms_M30ms.ogg",
+            "start_ms": 44024,
+            "duration_ms": 117
+        }
+    ],
+    "료": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_073_Rufo_료_G4_std4.2_-17.1dB_380ms_524ms_M30ms.ogg",
+            "start_ms": 44141,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP09_023_Rufo_료_Gsharp4_std21.1_-18.0dB_2480ms_2624ms_M30ms.ogg",
+            "start_ms": 44282,
+            "duration_ms": 141
+        }
+    ],
+    "루": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_077_Rufo_루_Gsharp4_std32.0_-16.0dB_1560ms_1740ms_M30ms.ogg",
+            "start_ms": 44423,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Momo_EP04_031_Rufo_루_C5_std17.9_-15.3dB_1460ms_1604ms_M30ms.ogg",
+            "start_ms": 44600,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Victory2_루_A4_std34.0_-19.5dB_260ms_421ms_M30ms.ogg",
+            "start_ms": 44741,
+            "duration_ms": 180
+        }
+    ],
+    "르": [
+        {
+            "file_name": "_selective_Momo_EP02_024_Rufo_르_Gsharp4_std3.1_-19.0dB_3440ms_3548ms_M30ms.ogg",
+            "start_ms": 44921,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_009_Rufo_르_F4_std18.6_-17.8dB_2920ms_3028ms_M30ms.ogg",
+            "start_ms": 45030,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_028_Rufo_르_E5_std25.8_-16.8dB_5120ms_5246ms_M30ms.ogg",
+            "start_ms": 45139,
+            "duration_ms": 123
+        }
+    ],
+    "른": [
+        {
+            "file_name": "_selective_Momo_EP02_023_Rufo_른_C4_std12.3_-21.0dB_2420ms_2520ms_M30ms.ogg",
+            "start_ms": 45262,
+            "duration_ms": 101
+        }
+    ],
+    "를": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_012_Rufo_를_F4_std1.1_-23.7dB_1820ms_1940ms_M30ms.ogg",
+            "start_ms": 45363,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_053_Rufo_를_E5_std53.1_-14.8dB_4260ms_4380ms_M30ms.ogg",
+            "start_ms": 45480,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_SPSkill1_를_Dsharp5_std11.0_-13.6dB_860ms_980ms_M30ms.ogg",
+            "start_ms": 45597,
+            "duration_ms": 117
+        }
+    ],
+    "리": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_043_Rufo_리_Asharp4_std28.4_-13.1dB_960ms_1068ms_M30ms.ogg",
+            "start_ms": 45714,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Bookmarks_EP03_058_Rufo_리_A4_std5.2_-13.2dB_740ms_848ms_M30ms.ogg",
+            "start_ms": 45823,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Momo_EP02_018_Rufo_리_G4_std34.6_-16.2dB_2120ms_2227ms_M30ms.ogg",
+            "start_ms": 45928,
+            "duration_ms": 109
+        }
+    ],
+    "릭": [
+        {
+            "file_name": "Voice_Rufo_Trickcal1_릭_Csharp5_std11.5_-14.4dB_110ms_260ms_M30ms.ogg",
+            "start_ms": 46037,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "Voice_Rufo_Trickcal2_릭_D5_std24.1_-18.1dB_120ms_319ms_M30ms.ogg",
+            "start_ms": 46184,
+            "duration_ms": 200
+        }
+    ],
+    "린": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_린_G4_std25.7_-17.3dB_4089ms_4240ms_M30ms.ogg",
+            "start_ms": 46384,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP05_060_Rufo_린_Csharp4_std6.6_-19.9dB_2500ms_2660ms_M30ms.ogg",
+            "start_ms": 46536,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP06_045_Rufo_린_F5_std56.9_-15.3dB_980ms_1140ms_M30ms.ogg",
+            "start_ms": 46693,
+            "duration_ms": 157
+        }
+    ],
+    "릴": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_릴_G4_std31.1_-14.6dB_4140ms_4319ms_M30ms.ogg",
+            "start_ms": 46850,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP02_058_Rufo_릴_E4_std36.0_-17.6dB_3280ms_3440ms_M30ms.ogg",
+            "start_ms": 47031,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_042_Rufo_릴_Fsharp4_std46.6_-14.0dB_4189ms_4359ms_M30ms.ogg",
+            "start_ms": 47188,
+            "duration_ms": 171
+        }
+    ],
+    "마": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_043_Rufo_마_C4_std4.8_-10.1dB_2980ms_3106ms_M30ms.ogg",
+            "start_ms": 47359,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_045_Rufo_마_G4_std39.7_-13.7dB_3460ms_3586ms_M30ms.ogg",
+            "start_ms": 47487,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP05_060_Rufo_마_Dsharp4_std4.9_-15.2dB_2360ms_2486ms_M30ms.ogg",
+            "start_ms": 47615,
+            "duration_ms": 128
+        }
+    ],
+    "막": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_066_Rufo_막_D4_std12.2_-20.3dB_1180ms_1359ms_M30ms.ogg",
+            "start_ms": 47743,
+            "duration_ms": 176
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_053_Rufo_막_D5_std38.6_-10.7dB_4040ms_4180ms_M30ms.ogg",
+            "start_ms": 47919,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP04_031_Rufo_막_A4_std24.6_-16.7dB_659ms_820ms_M30ms.ogg",
+            "start_ms": 48060,
+            "duration_ms": 158
+        }
+    ],
+    "만": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_069_Rufo_만_C5_std5.1_-11.0dB_2440ms_2590ms_M30ms.ogg",
+            "start_ms": 48218,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP02_024_Rufo_만_B4_std50.1_-16.4dB_459ms_600ms_M30ms.ogg",
+            "start_ms": 48370,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_021_Rufo_만_G4_std5.3_-11.6dB_1280ms_1430ms_M30ms.ogg",
+            "start_ms": 48511,
+            "duration_ms": 152
+        }
+    ],
+    "많": [
+        {
+            "file_name": "_selective_Momo_EP04_047_Rufo_많_G4_std13.8_-16.5dB_2000ms_2150ms_M30ms.ogg",
+            "start_ms": 48663,
+            "duration_ms": 152
+        }
+    ],
+    "말": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_031_Rufo_말_F4_std5.7_-13.7dB_3580ms_3730ms_M30ms.ogg",
+            "start_ms": 48815,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP05_020_Rufo_말_B4_std19.5_-11.4dB_5499ms_5640ms_M30ms.ogg",
+            "start_ms": 48967,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Touch1_말_C5_std11.6_-15.5dB_1480ms_1630ms_M30ms.ogg",
+            "start_ms": 49108,
+            "duration_ms": 152
+        }
+    ],
+    "망": [
+        {
+            "file_name": "_selective_Elias_EP07_088_Rufo_망_A4_std17.8_-14.1dB_1260ms_1400ms_M30ms.ogg",
+            "start_ms": 49260,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_048_Rufo_망_Gsharp4_std7.0_-18.5dB_2180ms_2340ms_M30ms.ogg",
+            "start_ms": 49397,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_pray_EP10_189_Rufo_망_Csharp5_std6.1_-13.5dB_3889ms_4019ms_M30ms.ogg",
+            "start_ms": 49554,
+            "duration_ms": 131
+        }
+    ],
+    "맞": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_033_Rufo_맞_Gsharp4_std37.9_-14.1dB_3560ms_3739ms_M30ms.ogg",
+            "start_ms": 49685,
+            "duration_ms": 191
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_034_Rufo_맞_D4_std8.1_-17.7dB_1040ms_1220ms_M30ms.ogg",
+            "start_ms": 49876,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_041_Rufo_맞_Fsharp4_std5.3_-13.0dB_880ms_1040ms_M30ms.ogg",
+            "start_ms": 50053,
+            "duration_ms": 157
+        }
+    ],
+    "매": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_069_Rufo_매_G4_std36.6_-11.3dB_6659ms_6786ms_M30ms.ogg",
+            "start_ms": 50210,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP09_023_Rufo_매_Csharp4_std46.9_-13.5dB_60ms_204ms_M30ms.ogg",
+            "start_ms": 50338,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_030_Rufo_매_G4_std12.6_-13.3dB_2060ms_2186ms_M30ms.ogg",
+            "start_ms": 50479,
+            "duration_ms": 128
+        }
+    ],
+    "맥": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_맥_A4_std19.1_-17.7dB_6100ms_6300ms_M30ms.ogg",
+            "start_ms": 50607,
+            "duration_ms": 197
+        }
+    ],
+    "머": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_051_Rufo_머_B3_std13.0_-14.8dB_960ms_1103ms_M30ms.ogg",
+            "start_ms": 50804,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_030_Rufo_머_C4_std25.9_-9.9dB_1060ms_1168ms_M30ms.ogg",
+            "start_ms": 50948,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity4_머_C4_std15.1_-11.2dB_40ms_166ms_M30ms.ogg",
+            "start_ms": 51057,
+            "duration_ms": 128
+        }
+    ],
+    "먹": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_077_Rufo_먹_G4_std50.0_-12.1dB_2180ms_2349ms_M30ms.ogg",
+            "start_ms": 51185,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_025_Rufo_먹_Fsharp4_std67.7_-11.8dB_3620ms_3790ms_M30ms.ogg",
+            "start_ms": 51356,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_pray_EP03_002_Rufo_먹_A4_std15.9_-12.3dB_1119ms_1290ms_M30ms.ogg",
+            "start_ms": 51527,
+            "duration_ms": 173
+        }
+    ],
+    "멀": [
+        {
+            "file_name": "_selective_Momo_EP05_020_Rufo_멀_F4_std14.2_-16.0dB_3540ms_3739ms_M30ms.ogg",
+            "start_ms": 51700,
+            "duration_ms": 196
+        }
+    ],
+    "면": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_035_Rufo_면_E4_std16.7_-16.5dB_1780ms_1940ms_M30ms.ogg",
+            "start_ms": 51896,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_068_Rufo_면_B4_std38.0_-14.3dB_5340ms_5500ms_M30ms.ogg",
+            "start_ms": 52053,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Rufo_Board_면_F4_std75.9_-19.3dB_780ms_940ms_M30ms.ogg",
+            "start_ms": 52210,
+            "duration_ms": 157
+        }
+    ],
+    "명": [
+        {
+            "file_name": "_selective_Main_Ch03_EP07_009_Rufo_명_B4_std12.3_-14.7dB_1160ms_1340ms_M30ms.ogg",
+            "start_ms": 52367,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP06_061_Rufo_명_Csharp4_std3.9_-17.1dB_1320ms_1500ms_M30ms.ogg",
+            "start_ms": 52548,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_pray_EP03_002_Rufo_명_C5_std6.5_-13.5dB_339ms_500ms_M30ms.ogg",
+            "start_ms": 52729,
+            "duration_ms": 163
+        }
+    ],
+    "모": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_050_Rufo_모_Gsharp4_std56.9_-17.3dB_0ms_126ms_M30ms.ogg",
+            "start_ms": 52892,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_036_Rufo_모_Gsharp4_std30.8_-17.9dB_2660ms_2786ms_M30ms.ogg",
+            "start_ms": 53020,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_033_Rufo_모_Csharp4_std15.3_-15.5dB_3980ms_4106ms_M30ms.ogg",
+            "start_ms": 53148,
+            "duration_ms": 128
+        }
+    ],
+    "목": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_035_Rufo_목_Dsharp4_std9.8_-16.0dB_3160ms_3320ms_M30ms.ogg",
+            "start_ms": 53276,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP04_022_Rufo_목_Dsharp4_std2.9_-18.1dB_1200ms_1359ms_M30ms.ogg",
+            "start_ms": 53433,
+            "duration_ms": 156
+        },
+        {
+            "file_name": "_selective_Momo_EP05_048_Rufo_목_E4_std13.7_-18.3dB_2460ms_2620ms_M30ms.ogg",
+            "start_ms": 53589,
+            "duration_ms": 180
+        }
+    ],
+    "몸": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_041_Rufo_몸_A4_std2.6_-14.3dB_1220ms_1370ms_M30ms.ogg",
+            "start_ms": 53769,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_078_HiddenRufo_몸_Csharp5_std92.4_-14.0dB_2600ms_2800ms_M30ms.ogg",
+            "start_ms": 53921,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_pray_EP03_121_Rufo_몸_G4_std79.4_-15.5dB_3160ms_3309ms_M30ms.ogg",
+            "start_ms": 54118,
+            "duration_ms": 149
+        }
+    ],
+    "못": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_052_Rufo_못_G4_std44.8_-25.3dB_2120ms_2280ms_M30ms.ogg",
+            "start_ms": 54267,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_Momo_EP05_007_Rufo_못_C4_std3.0_-20.2dB_3300ms_3460ms_M30ms.ogg",
+            "start_ms": 54447,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_018_Rufo_못_Csharp4_std17.2_-15.5dB_1190ms_1359ms_M30ms.ogg",
+            "start_ms": 54604,
+            "duration_ms": 166
+        }
+    ],
+    "몽": [
+        {
+            "file_name": "_selective_Momo_EP05_056_Rufo_몽_F4_std11.2_-17.2dB_2090ms_2280ms_M30ms.ogg",
+            "start_ms": 54770,
+            "duration_ms": 192
+        }
+    ],
+    "무": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_022_Rufo_무_A4_std13.1_-14.7dB_2220ms_2346ms_M30ms.ogg",
+            "start_ms": 54962,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Bookmarks_EP03_043_Rufo_무_A4_std23.0_-14.6dB_139ms_266ms_M30ms.ogg",
+            "start_ms": 55090,
+            "duration_ms": 124
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP07_013_Rufo_무_G4_std29.2_-14.7dB_2680ms_2806ms_M30ms.ogg",
+            "start_ms": 55214,
+            "duration_ms": 128
+        }
+    ],
+    "문": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_030_Rufo_문_D4_std24.2_-20.8dB_4979ms_5130ms_M30ms.ogg",
+            "start_ms": 55342,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP06_098_Rufo_문_C5_std10.6_-15.7dB_1619ms_1770ms_M30ms.ogg",
+            "start_ms": 55494,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP07_083_Rufo_문_A4_std2.4_-20.9dB_5280ms_5430ms_M30ms.ogg",
+            "start_ms": 55646,
+            "duration_ms": 152
+        }
+    ],
+    "물": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_065_Rufo_물_Gsharp4_std15.3_-14.6dB_3100ms_3250ms_M30ms.ogg",
+            "start_ms": 55798,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP04_010_Rufo_물_A4_std33.6_-16.4dB_2720ms_2920ms_M30ms.ogg",
+            "start_ms": 55950,
+            "duration_ms": 220
+        },
+        {
+            "file_name": "_selective_Momo_EP05_064_Rufo_물_B3_std11.0_-12.6dB_2320ms_2480ms_M30ms.ogg",
+            "start_ms": 56170,
+            "duration_ms": 157
+        }
+    ],
+    "뭐": [
+        {
+            "file_name": "_selective_sameplace_EP02_021_Rufo_뭐_E4_std36.4_-10.6dB_559ms_758ms_M30ms.ogg",
+            "start_ms": 56327,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity2_뭐_A3_std4.1_-18.3dB_170ms_287ms_M30ms.ogg",
+            "start_ms": 56527,
+            "duration_ms": 114
+        }
+    ],
+    "뭘": [
+        {
+            "file_name": "_selective_sameplace_EP02_027_Rufo_뭘_Gsharp4_std19.7_-11.5dB_4460ms_4600ms_M30ms.ogg",
+            "start_ms": 56641,
+            "duration_ms": 141
+        }
+    ],
+    "미": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_022_Rufo_미_G4_std72.2_-11.1dB_40ms_166ms_M30ms.ogg",
+            "start_ms": 56782,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Elias_EP01_009_Rufo_미_A4_std14.9_-14.7dB_2140ms_2284ms_M30ms.ogg",
+            "start_ms": 56910,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Elias_EP01_010_Rufo_미_A4_std21.8_-15.3dB_559ms_667ms_M30ms.ogg",
+            "start_ms": 57051,
+            "duration_ms": 109
+        }
+    ],
+    "민": [
+        {
+            "file_name": "_selective_Elias_EP01_013_Rufo_민_A4_std11.2_-18.2dB_1979ms_2150ms_M30ms.ogg",
+            "start_ms": 57160,
+            "duration_ms": 168
+        },
+        {
+            "file_name": "_selective_Momo_EP02_018_Rufo_민_F4_std8.1_-21.9dB_919ms_1070ms_M30ms.ogg",
+            "start_ms": 57328,
+            "duration_ms": 152
+        }
+    ],
+    "믿": [
+        {
+            "file_name": "_selective_Momo_EP06_112_Rufo_믿_E4_std59.6_-21.1dB_2480ms_2660ms_M30ms.ogg",
+            "start_ms": 57480,
+            "duration_ms": 181
+        }
+    ],
+    "밀": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_051_Rufo_밀_B4_std59.2_-12.6dB_2260ms_2410ms_M30ms.ogg",
+            "start_ms": 57661,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP02_020_Rufo_밀_Dsharp4_std5.4_-14.6dB_400ms_520ms_M30ms.ogg",
+            "start_ms": 57813,
+            "duration_ms": 117
+        }
+    ],
+    "바": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_042_Rufo_바_Unvoiced_std0.0_-18.1dB_1180ms_1324ms_M30ms.ogg",
+            "start_ms": 57930,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_028_Rufo_바_Csharp4_std3.0_-12.2dB_2500ms_2644ms_M30ms.ogg",
+            "start_ms": 58071,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP04_010_Rufo_바_Csharp4_std30.4_-12.3dB_1900ms_2044ms_M30ms.ogg",
+            "start_ms": 58212,
+            "duration_ms": 141
+        }
+    ],
+    "박": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_048_Rufo_박_Csharp4_std1.9_-19.8dB_5140ms_5280ms_M30ms.ogg",
+            "start_ms": 58353,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_051_Rufo_박_G4_std10.5_-14.4dB_1760ms_1870ms_M30ms.ogg",
+            "start_ms": 58490,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_092_Rufo_박_Unvoiced_std0.0_-18.4dB_1880ms_2080ms_M30ms.ogg",
+            "start_ms": 58602,
+            "duration_ms": 197
+        }
+    ],
+    "밖": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_043_Rufo_밖_A4_std9.0_-12.1dB_3440ms_3630ms_M30ms.ogg",
+            "start_ms": 58799,
+            "duration_ms": 192
+        }
+    ],
+    "반": [
+        {
+            "file_name": "Voice_Rufo_Equipment_반_B4_std12.1_-15.5dB_520ms_720ms_M30ms.ogg",
+            "start_ms": 58991,
+            "duration_ms": 197
+        }
+    ],
+    "받": [
+        {
+            "file_name": "_selective_Main_Ch09_EP09_023_Rufo_받_Asharp4_std26.0_-12.5dB_1220ms_1390ms_M30ms.ogg",
+            "start_ms": 59188,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity4_받_E4_std44.1_-23.2dB_860ms_1020ms_M30ms.ogg",
+            "start_ms": 59359,
+            "duration_ms": 157
+        }
+    ],
+    "발": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_057_Rufo_발_Gsharp4_std36.6_-14.2dB_1240ms_1380ms_M30ms.ogg",
+            "start_ms": 59516,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_pray_EP03_004_Rufo_발_G5_std4.3_-9.9dB_3280ms_3410ms_M30ms.ogg",
+            "start_ms": 59653,
+            "duration_ms": 131
+        }
+    ],
+    "밤": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_055_Rufo_밤_Gsharp4_std10.7_-14.5dB_2060ms_2239ms_M30ms.ogg",
+            "start_ms": 59784,
+            "duration_ms": 176
+        }
+    ],
+    "방": [
+        {
+            "file_name": "_selective_Momo_EP06_112_Rufo_방_A4_std31.8_-14.7dB_1020ms_1200ms_M30ms.ogg",
+            "start_ms": 59960,
+            "duration_ms": 177
+        }
+    ],
+    "배": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_012_Rufo_배_D4_std15.0_-17.9dB_1420ms_1546ms_M30ms.ogg",
+            "start_ms": 60137,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_053_Rufo_배_Dsharp4_std22.2_-16.3dB_1580ms_1724ms_M30ms.ogg",
+            "start_ms": 60265,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_010_Rufo_배_D4_std26.4_-12.1dB_1440ms_1619ms_M30ms.ogg",
+            "start_ms": 60406,
+            "duration_ms": 181
+        }
+    ],
+    "뱀": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_076_Rufo_뱀_D4_std67.3_-14.3dB_1980ms_2170ms_M30ms.ogg",
+            "start_ms": 60587,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Momo_EP04_069_Rufo_뱀_Unvoiced_std0.0_-13.7dB_1320ms_1500ms_M30ms.ogg",
+            "start_ms": 60779,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP06_095_Rufo_뱀_Fsharp5_std64.3_-10.3dB_1220ms_1350ms_M30ms.ogg",
+            "start_ms": 60960,
+            "duration_ms": 131
+        }
+    ],
+    "뱉": [
+        {
+            "file_name": "Voice_Rufo_SPSkill3-02_뱉_Dsharp5_std43.6_-15.2dB_1440ms_1630ms_M30ms.ogg",
+            "start_ms": 61091,
+            "duration_ms": 192
+        }
+    ],
+    "버": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_041_Rufo_버_A4_std3.9_-9.6dB_5340ms_5430ms_M30ms.ogg",
+            "start_ms": 61283,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_051_Rufo_버_C5_std11.1_-10.2dB_2500ms_2608ms_M30ms.ogg",
+            "start_ms": 61374,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP04_051_Rufo_버_Gsharp4_std17.1_-10.7dB_1400ms_1508ms_M30ms.ogg",
+            "start_ms": 61483,
+            "duration_ms": 109
+        }
+    ],
+    "번": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_092_HiddenRufo_번_Fsharp4_std8.5_-13.1dB_319ms_480ms_M30ms.ogg",
+            "start_ms": 61592,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Momo_EP04_010_Rufo_번_D4_std1.9_-14.3dB_319ms_500ms_M30ms.ogg",
+            "start_ms": 61755,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP05_041_Rufo_번_F4_std26.2_-14.8dB_520ms_720ms_M30ms.ogg",
+            "start_ms": 61936,
+            "duration_ms": 197
+        }
+    ],
+    "벌": [
+        {
+            "file_name": "_selective_pray_EP09_110_Rufo_벌_Csharp5_std50.8_-8.9dB_3740ms_3940ms_M30ms.ogg",
+            "start_ms": 62133,
+            "duration_ms": 197
+        }
+    ],
+    "법": [
+        {
+            "file_name": "_selective_Momo_EP06_114_Rufo_법_E4_std19.2_-14.2dB_260ms_430ms_M30ms.ogg",
+            "start_ms": 62330,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_075_Rufo_법_E4_std8.3_-13.8dB_4340ms_4490ms_M30ms.ogg",
+            "start_ms": 62501,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Rufo_Touch1_1_법_A4_std21.7_-12.4dB_1599ms_1790ms_M30ms.ogg",
+            "start_ms": 62653,
+            "duration_ms": 192
+        }
+    ],
+    "벽": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_068_Rufo_벽_E4_std134.2_-16.4dB_1700ms_1890ms_M30ms.ogg",
+            "start_ms": 62845,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP07_015_Rufo_벽_C5_std13.7_-15.7dB_3960ms_4100ms_M30ms.ogg",
+            "start_ms": 63037,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Momo_EP06_004_Rufo_벽_Csharp5_std10.2_-15.6dB_540ms_660ms_M30ms.ogg",
+            "start_ms": 63174,
+            "duration_ms": 117
+        }
+    ],
+    "별": [
+        {
+            "file_name": "_selective_sameplace_EP02_046_Rufo_별_D4_std37.5_-15.7dB_4239ms_4399ms_M30ms.ogg",
+            "start_ms": 63291,
+            "duration_ms": 157
+        }
+    ],
+    "보": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_013_Rufo_보_B4_std8.4_-15.7dB_400ms_508ms_M30ms.ogg",
+            "start_ms": 63448,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_034_Rufo_보_Dsharp5_std48.0_-13.0dB_2960ms_3068ms_M30ms.ogg",
+            "start_ms": 63557,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_032_Rufo_보_G4_std8.1_-15.4dB_2060ms_2168ms_M30ms.ogg",
+            "start_ms": 63666,
+            "duration_ms": 105
+        }
+    ],
+    "복": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_063_Rufo_복_F4_std8.8_-17.3dB_1500ms_1640ms_M30ms.ogg",
+            "start_ms": 63771,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_078_HiddenRufo_복_Fsharp4_std24.5_-20.5dB_720ms_850ms_M30ms.ogg",
+            "start_ms": 63908,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_pray_EP03_004_Rufo_복_Asharp4_std33.3_-18.3dB_3140ms_3280ms_M30ms.ogg",
+            "start_ms": 64039,
+            "duration_ms": 137
+        }
+    ],
+    "본": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_본_F4_std21.6_-18.4dB_3960ms_4120ms_M30ms.ogg",
+            "start_ms": 64176,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP02_066_Rufo_본_C5_std27.5_-14.3dB_4200ms_4320ms_M30ms.ogg",
+            "start_ms": 64333,
+            "duration_ms": 117
+        }
+    ],
+    "볼": [
+        {
+            "file_name": "Voice_Rufo_Affinity6_볼_Gsharp4_std14.9_-16.4dB_1900ms_2040ms_M30ms.ogg",
+            "start_ms": 64450,
+            "duration_ms": 141
+        }
+    ],
+    "봉": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_030_Rufo_봉_Fsharp4_std6.1_-14.3dB_899ms_1099ms_M30ms.ogg",
+            "start_ms": 64591,
+            "duration_ms": 197
+        }
+    ],
+    "봐": [
+        {
+            "file_name": "_selective_sameplace_EP02_027_Rufo_봐_Asharp4_std4.2_-11.8dB_2860ms_2968ms_M30ms.ogg",
+            "start_ms": 64788,
+            "duration_ms": 109
+        }
+    ],
+    "부": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_부_F4_std20.8_-21.5dB_1600ms_1744ms_M30ms.ogg",
+            "start_ms": 64897,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP05_048_Rufo_부_B3_std18.3_-24.1dB_1920ms_2064ms_M30ms.ogg",
+            "start_ms": 65038,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_040_Rufo_부_G4_std5.6_-17.9dB_870ms_1005ms_M30ms.ogg",
+            "start_ms": 65179,
+            "duration_ms": 132
+        }
+    ],
+    "분": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_073_Rufo_분_G4_std24.8_-16.8dB_4399ms_4529ms_M30ms.ogg",
+            "start_ms": 65311,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_028_Rufo_분_Dsharp4_std9.2_-15.0dB_3600ms_3739ms_M30ms.ogg",
+            "start_ms": 65442,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP07_083_Rufo_분_C5_std16.2_-15.5dB_2220ms_2340ms_M30ms.ogg",
+            "start_ms": 65583,
+            "duration_ms": 117
+        }
+    ],
+    "불": [
+        {
+            "file_name": "_selective_Momo_EP04_022_Rufo_불_Csharp4_std6.4_-23.5dB_720ms_919ms_M30ms.ogg",
+            "start_ms": 65700,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_021_Rufo_불_Fsharp4_std14.8_-19.6dB_1099ms_1280ms_M30ms.ogg",
+            "start_ms": 65900,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_041_Rufo_불_E4_std6.3_-19.9dB_3060ms_3250ms_M30ms.ogg",
+            "start_ms": 66081,
+            "duration_ms": 192
+        }
+    ],
+    "브": [
+        {
+            "file_name": "_selective_Momo_EP03_111_Rufo_브_C4_std7.5_-22.4dB_1380ms_1488ms_M30ms.ogg",
+            "start_ms": 66273,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_AsideGet_브_Asharp4_std17.8_-16.1dB_1240ms_1330ms_M30ms.ogg",
+            "start_ms": 66382,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Rufo_Trickcal1_브_Asharp3_std34.7_-20.1dB_919ms_1046ms_M30ms.ogg",
+            "start_ms": 66473,
+            "duration_ms": 128
+        }
+    ],
+    "비": [
+        {
+            "file_name": "_selective_Momo_EP05_045_Rufo_비_Csharp4_std5.2_-25.5dB_3080ms_3188ms_M30ms.ogg",
+            "start_ms": 66601,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP06_056_Rufo_비_G4_std17.7_-14.1dB_1720ms_1828ms_M30ms.ogg",
+            "start_ms": 66710,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_041_Rufo_비_Asharp4_std10.4_-14.2dB_400ms_508ms_M30ms.ogg",
+            "start_ms": 66819,
+            "duration_ms": 109
+        }
+    ],
+    "빠": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_032_Rufo_빠_D4_std8.6_-11.8dB_4800ms_4926ms_M30ms.ogg",
+            "start_ms": 66928,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP06_030_Rufo_빠_E4_std11.6_-15.2dB_2580ms_2706ms_M30ms.ogg",
+            "start_ms": 67056,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Rufo_BasicAttack1_2_2_빠_Unvoiced_std0.0_-15.0dB_380ms_506ms_M30ms.ogg",
+            "start_ms": 67184,
+            "duration_ms": 128
+        }
+    ],
+    "빨": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_035_Rufo_빨_Fsharp4_std19.4_-9.3dB_3860ms_3999ms_M30ms.ogg",
+            "start_ms": 67312,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_056_Rufo_빨_Unvoiced_std0.0_-13.7dB_4040ms_4180ms_M30ms.ogg",
+            "start_ms": 67453,
+            "duration_ms": 141
+        }
+    ],
+    "빼": [
+        {
+            "file_name": "_selective_Momo_EP02_067_Rufo_빼_C5_std25.9_-17.0dB_1860ms_2022ms_M30ms.ogg",
+            "start_ms": 67594,
+            "duration_ms": 163
+        }
+    ],
+    "뿌": [
+        {
+            "file_name": "_selective_Momo_EP04_028_Rufo_뿌_D5_std35.2_-16.2dB_2400ms_2490ms_M30ms.ogg",
+            "start_ms": 67757,
+            "duration_ms": 91
+        }
+    ],
+    "뿐": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_033_Rufo_뿐_Fsharp4_std18.1_-18.7dB_3180ms_3330ms_M30ms.ogg",
+            "start_ms": 67848,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_065_Rufo_뿐_Asharp4_std18.2_-18.3dB_4440ms_4570ms_M30ms.ogg",
+            "start_ms": 68000,
+            "duration_ms": 131
+        }
+    ],
+    "쁘": [
+        {
+            "file_name": "_selective_Momo_EP05_062_Rufo_쁘_Dsharp4_std14.6_-18.7dB_1140ms_1266ms_M30ms.ogg",
+            "start_ms": 68131,
+            "duration_ms": 128
+        }
+    ],
+    "쁜": [
+        {
+            "file_name": "_selective_Momo_EP04_024_Rufo_쁜_Asharp4_std23.2_-17.9dB_4220ms_4420ms_M30ms.ogg",
+            "start_ms": 68259,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_121_Rufo_쁜_E4_std11.5_-19.8dB_2380ms_2520ms_M30ms.ogg",
+            "start_ms": 68456,
+            "duration_ms": 137
+        }
+    ],
+    "사": [
+        {
+            "file_name": "_selective_Elias_EP07_088_Rufo_사_G5_std13.4_-13.7dB_3200ms_3308ms_M30ms.ogg",
+            "start_ms": 68593,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_076_Rufo_사_G4_std17.4_-14.8dB_1380ms_1488ms_M30ms.ogg",
+            "start_ms": 68702,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_033_Rufo_사_F4_std15.0_-14.0dB_1340ms_1448ms_M30ms.ogg",
+            "start_ms": 68811,
+            "duration_ms": 109
+        }
+    ],
+    "삭": [
+        {
+            "file_name": "_selective_Momo_EP04_084_Rufo_삭_E5_std40.5_-15.7dB_1780ms_1980ms_M30ms.ogg",
+            "start_ms": 68920,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Rufo_DutchRubEnd2_Skin1_삭_E5_std64.0_-11.5dB_630ms_799ms_M30ms.ogg",
+            "start_ms": 69117,
+            "duration_ms": 166
+        }
+    ],
+    "산": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_066_Rufo_산_Csharp5_std77.9_-13.3dB_2540ms_2690ms_M30ms.ogg",
+            "start_ms": 69283,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_산_A4_std9.7_-10.6dB_6300ms_6420ms_M30ms.ogg",
+            "start_ms": 69435,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_040_Rufo_산_Dsharp4_std4.9_-16.7dB_2720ms_2849ms_M30ms.ogg",
+            "start_ms": 69552,
+            "duration_ms": 131
+        }
+    ],
+    "살": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_092_Rufo_살_B4_std5.3_-13.0dB_2080ms_2200ms_M30ms.ogg",
+            "start_ms": 69683,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP05_026_Rufo_살_E4_std22.7_-15.8dB_2820ms_3000ms_M30ms.ogg",
+            "start_ms": 69800,
+            "duration_ms": 177
+        }
+    ],
+    "상": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_013_HiddenRufo_상_D5_std17.3_-15.8dB_2860ms_3000ms_M30ms.ogg",
+            "start_ms": 69977,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP07_013_Rufo_상_D5_std44.0_-13.3dB_1000ms_1140ms_M30ms.ogg",
+            "start_ms": 70118,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP02_024_Rufo_상_Dsharp4_std4.7_-16.7dB_2680ms_2820ms_M30ms.ogg",
+            "start_ms": 70259,
+            "duration_ms": 141
+        }
+    ],
+    "새": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_053_Rufo_새_D5_std36.8_-15.2dB_1060ms_1186ms_M30ms.ogg",
+            "start_ms": 70400,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP07_009_Rufo_새_C4_std10.6_-16.1dB_2020ms_2146ms_M30ms.ogg",
+            "start_ms": 70528,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Rufo_LevelUp_Skin1_새_Gsharp4_std18.3_-12.0dB_1650ms_1785ms_M30ms.ogg",
+            "start_ms": 70656,
+            "duration_ms": 136
+        }
+    ],
+    "색": [
+        {
+            "file_name": "_selective_Momo_EP07_111_Rufo_색_Dsharp4_std9.3_-20.7dB_3150ms_3260ms_M30ms.ogg",
+            "start_ms": 70792,
+            "duration_ms": 107
+        }
+    ],
+    "생": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_056_Rufo_생_A4_std15.6_-19.5dB_2240ms_2360ms_M30ms.ogg",
+            "start_ms": 70899,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_078_Rufo_생_B4_std42.1_-13.5dB_2760ms_2880ms_M30ms.ogg",
+            "start_ms": 71016,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP06_054_Rufo_생_Gsharp4_std45.3_-17.6dB_1330ms_1440ms_M30ms.ogg",
+            "start_ms": 71133,
+            "duration_ms": 112
+        }
+    ],
+    "서": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_041_Rufo_서_A4_std20.0_-9.6dB_4180ms_4288ms_M30ms.ogg",
+            "start_ms": 71245,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_025_Rufo_서_Csharp4_std14.4_-18.3dB_840ms_948ms_M30ms.ogg",
+            "start_ms": 71354,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_DeckSetting1_서_Fsharp4_std4.4_-13.7dB_1060ms_1168ms_M30ms.ogg",
+            "start_ms": 71463,
+            "duration_ms": 109
+        }
+    ],
+    "석": [
+        {
+            "file_name": "_selective_pray_EP02_087_Rufo_석_F4_std18.7_-15.9dB_2520ms_2660ms_M30ms.ogg",
+            "start_ms": 71572,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_040_Rufo_석_A4_std52.9_-15.5dB_3420ms_3570ms_M30ms.ogg",
+            "start_ms": 71709,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_030_Rufo_석_E5_std114.4_-16.5dB_3070ms_3220ms_M30ms.ogg",
+            "start_ms": 71861,
+            "duration_ms": 147
+        }
+    ],
+    "선": [
+        {
+            "file_name": "_selective_Elias_EP01_010_Rufo_선_Asharp4_std17.5_-17.5dB_919ms_1070ms_M30ms.ogg",
+            "start_ms": 72008,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_선_D5_std69.8_-16.9dB_7040ms_7200ms_M30ms.ogg",
+            "start_ms": 72160,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP05_044_Rufo_선_G4_std17.9_-17.0dB_2970ms_3110ms_M30ms.ogg",
+            "start_ms": 72317,
+            "duration_ms": 141
+        }
+    ],
+    "설": [
+        {
+            "file_name": "_selective_Momo_EP05_009_Rufo_설_Gsharp4_std21.8_-13.4dB_1380ms_1510ms_M30ms.ogg",
+            "start_ms": 72458,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP06_106_Rufo_설_E5_std66.2_-12.2dB_1380ms_1510ms_M30ms.ogg",
+            "start_ms": 72589,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP07_062_Rufo_설_D5_std59.2_-13.8dB_1760ms_1930ms_M30ms.ogg",
+            "start_ms": 72720,
+            "duration_ms": 171
+        }
+    ],
+    "성": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_033_Rufo_성_Gsharp4_std19.2_-15.6dB_2360ms_2560ms_M30ms.ogg",
+            "start_ms": 72891,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_027_Rufo_성_E4_std17.7_-15.0dB_2260ms_2420ms_M30ms.ogg",
+            "start_ms": 73088,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP06_011_Rufo_성_Fsharp4_std13.4_-14.0dB_860ms_1040ms_M30ms.ogg",
+            "start_ms": 73245,
+            "duration_ms": 181
+        }
+    ],
+    "세": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_078_HiddenRufo_세_Unvoiced_std0.0_-16.8dB_160ms_321ms_M30ms.ogg",
+            "start_ms": 73426,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_068_Rufo_세_B3_std5.1_-18.6dB_2260ms_2404ms_M30ms.ogg",
+            "start_ms": 73589,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_027_Rufo_세_A4_std39.8_-17.5dB_1800ms_1944ms_M30ms.ogg",
+            "start_ms": 73730,
+            "duration_ms": 141
+        }
+    ],
+    "션": [
+        {
+            "file_name": "_selective_sameplace_EP02_075_Rufo_션_Asharp4_std16.2_-16.0dB_760ms_900ms_M30ms.ogg",
+            "start_ms": 73871,
+            "duration_ms": 141
+        }
+    ],
+    "소": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_051_Rufo_소_F4_std3.6_-21.8dB_3999ms_4108ms_M30ms.ogg",
+            "start_ms": 74012,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_071_Rufo_소_Asharp4_std1.6_-20.3dB_4680ms_4805ms_M30ms.ogg",
+            "start_ms": 74121,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity7_소_Fsharp5_std105.9_-14.6dB_1380ms_1488ms_M30ms.ogg",
+            "start_ms": 74246,
+            "duration_ms": 109
+        }
+    ],
+    "속": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_032_Rufo_속_B3_std18.4_-17.7dB_5860ms_6060ms_M30ms.ogg",
+            "start_ms": 74355,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Momo_EP05_042_Rufo_속_G4_std6.5_-15.6dB_360ms_550ms_M30ms.ogg",
+            "start_ms": 74552,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Rufo_SPSkill3_속_D5_std94.9_-14.1dB_1320ms_1520ms_M30ms.ogg",
+            "start_ms": 74744,
+            "duration_ms": 197
+        }
+    ],
+    "송": [
+        {
+            "file_name": "Voice_Rufo_Sorry2-01_송_C5_std6.3_-14.5dB_199ms_339ms_M30ms.ogg",
+            "start_ms": 74941,
+            "duration_ms": 141
+        }
+    ],
+    "수": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_047_Rufo_수_Csharp4_std16.2_-23.6dB_640ms_748ms_M30ms.ogg",
+            "start_ms": 75082,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity4_수_C5_std6.1_-16.5dB_2280ms_2388ms_M30ms.ogg",
+            "start_ms": 75191,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity6_수_Unvoiced_std0.0_-26.2dB_2040ms_2148ms_M30ms.ogg",
+            "start_ms": 75300,
+            "duration_ms": 105
+        }
+    ],
+    "숙": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_숙_Asharp4_std8.9_-20.2dB_559ms_700ms_M30ms.ogg",
+            "start_ms": 75405,
+            "duration_ms": 138
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_041_Rufo_숙_Csharp5_std17.5_-15.5dB_2300ms_2440ms_M30ms.ogg",
+            "start_ms": 75543,
+            "duration_ms": 137
+        }
+    ],
+    "순": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_058_Rufo_순_A4_std5.6_-20.6dB_3400ms_3560ms_M30ms.ogg",
+            "start_ms": 75680,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP04_003_Rufo_순_E4_std1.5_-22.2dB_1820ms_1920ms_M30ms.ogg",
+            "start_ms": 75837,
+            "duration_ms": 101
+        }
+    ],
+    "숨": [
+        {
+            "file_name": "_selective_pray_EP01_056_Rufo_숨_C5_std3.0_-25.3dB_2260ms_2429ms_M30ms.ogg",
+            "start_ms": 75938,
+            "duration_ms": 171
+        }
+    ],
+    "쉬": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_027_Rufo_쉬_A4_std9.5_-17.2dB_4979ms_5141ms_M30ms.ogg",
+            "start_ms": 76109,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Momo_EP05_008_Rufo_쉬_A4_std2.2_-20.0dB_780ms_887ms_M30ms.ogg",
+            "start_ms": 76272,
+            "duration_ms": 109
+        }
+    ],
+    "스": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_020_Rufo_스_A4_std3.0_-18.4dB_3680ms_3806ms_M30ms.ogg",
+            "start_ms": 76381,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Momo_EP02_050_Rufo_스_Unvoiced_std0.0_-26.1dB_2200ms_2326ms_M30ms.ogg",
+            "start_ms": 76504,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Momo_EP02_070_Rufo_스_D5_std12.0_-22.6dB_1580ms_1706ms_M30ms.ogg",
+            "start_ms": 76627,
+            "duration_ms": 128
+        }
+    ],
+    "슨": [
+        {
+            "file_name": "_selective_sameplace_EP07_020_Rufo_슨_Csharp4_std0.7_-21.2dB_300ms_400ms_M30ms.ogg",
+            "start_ms": 76755,
+            "duration_ms": 101
+        }
+    ],
+    "습": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_022_Rufo_습_D5_std8.1_-23.3dB_2020ms_2140ms_M30ms.ogg",
+            "start_ms": 76856,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_050_Rufo_습_G4_std6.3_-19.8dB_300ms_420ms_M30ms.ogg",
+            "start_ms": 76973,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_pray_EP09_093_Rufo_습_E4_std16.8_-23.1dB_1970ms_2090ms_M30ms.ogg",
+            "start_ms": 77090,
+            "duration_ms": 117
+        }
+    ],
+    "승": [
+        {
+            "file_name": "Voice_Rufo_HeroUpgrade_승_Gsharp4_std42.7_-18.5dB_620ms_799ms_M30ms.ogg",
+            "start_ms": 77207,
+            "duration_ms": 181
+        }
+    ],
+    "시": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_046_Rufo_시_Gsharp4_std14.9_-22.5dB_1780ms_1897ms_M30ms.ogg",
+            "start_ms": 77388,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_031_Rufo_시_Fsharp4_std6.4_-19.9dB_300ms_425ms_M30ms.ogg",
+            "start_ms": 77505,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_Momo_EP02_019_Rufo_시_D4_std2.2_-19.3dB_1220ms_1345ms_M30ms.ogg",
+            "start_ms": 77630,
+            "duration_ms": 125
+        }
+    ],
+    "식": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_085_Rufo_식_F4_std19.5_-22.5dB_2360ms_2510ms_M30ms.ogg",
+            "start_ms": 77755,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_025_Rufo_식_Gsharp4_std10.0_-18.9dB_3300ms_3450ms_M30ms.ogg",
+            "start_ms": 77907,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_070_Rufo_식_Csharp5_std22.4_-24.0dB_3800ms_3950ms_M30ms.ogg",
+            "start_ms": 78059,
+            "duration_ms": 152
+        }
+    ],
+    "신": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_024_Rufo_신_G4_std8.6_-18.5dB_740ms_890ms_M30ms.ogg",
+            "start_ms": 78211,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_신_Fsharp4_std5.3_-20.9dB_3720ms_3870ms_M30ms.ogg",
+            "start_ms": 78363,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_pray_EP09_101_Rufo_신_B4_std1.3_-24.8dB_1280ms_1430ms_M30ms.ogg",
+            "start_ms": 78515,
+            "duration_ms": 152
+        }
+    ],
+    "실": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_022_Rufo_실_F4_std25.0_-23.8dB_2320ms_2469ms_M30ms.ogg",
+            "start_ms": 78667,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_038_Rufo_실_Fsharp4_std13.6_-20.4dB_339ms_480ms_M30ms.ogg",
+            "start_ms": 78816,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP06_011_Rufo_실_Fsharp4_std20.1_-18.8dB_1220ms_1380ms_M30ms.ogg",
+            "start_ms": 78957,
+            "duration_ms": 157
+        }
+    ],
+    "싫": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_034_Rufo_싫_Gsharp4_std23.5_-18.3dB_2739ms_2870ms_M30ms.ogg",
+            "start_ms": 79114,
+            "duration_ms": 133
+        }
+    ],
+    "심": [
+        {
+            "file_name": "_selective_Momo_EP04_047_Rufo_심_A4_std20.2_-24.3dB_2320ms_2500ms_M30ms.ogg",
+            "start_ms": 79247,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Momo_EP04_081_Rufo_심_Asharp4_std22.9_-19.9dB_3160ms_3300ms_M30ms.ogg",
+            "start_ms": 79424,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_020_Rufo_심_Gsharp4_std22.0_-20.1dB_1400ms_1540ms_M30ms.ogg",
+            "start_ms": 79565,
+            "duration_ms": 141
+        }
+    ],
+    "싶": [
+        {
+            "file_name": "_selective_Momo_EP05_020_Rufo_싶_Unvoiced_std0.0_-30.2dB_5840ms_5990ms_M30ms.ogg",
+            "start_ms": 79706,
+            "duration_ms": 152
+        }
+    ],
+    "싸": [
+        {
+            "file_name": "_selective_pray_EP10_189_Rufo_싸_B4_std19.9_-9.7dB_4540ms_4630ms_M30ms.ogg",
+            "start_ms": 79858,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_027_Rufo_싸_G4_std30.5_-11.9dB_3580ms_3670ms_M30ms.ogg",
+            "start_ms": 79949,
+            "duration_ms": 91
+        }
+    ],
+    "쓰": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_074_Rufo_쓰_A4_std8.6_-17.1dB_1700ms_1808ms_M30ms.ogg",
+            "start_ms": 80040,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_027_Rufo_쓰_Asharp4_std6.8_-19.6dB_5600ms_5690ms_M30ms.ogg",
+            "start_ms": 80149,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Momo_EP06_020_Rufo_쓰_A4_std24.5_-17.3dB_1200ms_1308ms_M30ms.ogg",
+            "start_ms": 80240,
+            "duration_ms": 109
+        }
+    ],
+    "쓸": [
+        {
+            "file_name": "_selective_Momo_EP02_069_Rufo_쓸_Gsharp4_std18.0_-15.6dB_720ms_880ms_M30ms.ogg",
+            "start_ms": 80349,
+            "duration_ms": 157
+        }
+    ],
+    "아": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_043_Rufo_아_Unvoiced_std0.0_-11.0dB_0ms_126ms_M30ms.ogg",
+            "start_ms": 80506,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_아_Unvoiced_std0.0_-13.7dB_3460ms_3586ms_M30ms.ogg",
+            "start_ms": 80634,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_073_Rufo_아_Dsharp4_std12.7_-15.1dB_6490ms_6607ms_M30ms.ogg",
+            "start_ms": 80762,
+            "duration_ms": 117
+        }
+    ],
+    "안": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_046_Rufo_안_Gsharp4_std18.8_-15.9dB_1820ms_1940ms_M30ms.ogg",
+            "start_ms": 80879,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity2_안_Unvoiced_std0.0_-17.5dB_2140ms_2260ms_M30ms.ogg",
+            "start_ms": 80996,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_Defeat2_안_Dsharp4_std15.3_-11.6dB_160ms_280ms_M30ms.ogg",
+            "start_ms": 81113,
+            "duration_ms": 117
+        }
+    ],
+    "않": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_않_Gsharp4_std7.4_-11.0dB_1000ms_1160ms_M30ms.ogg",
+            "start_ms": 81230,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_092_HiddenRufo_않_Gsharp4_std14.6_-13.0dB_2620ms_2780ms_M30ms.ogg",
+            "start_ms": 81387,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP05_012_Rufo_않_C4_std18.4_-19.0dB_3220ms_3380ms_M30ms.ogg",
+            "start_ms": 81544,
+            "duration_ms": 157
+        }
+    ],
+    "알": [
+        {
+            "file_name": "_selective_Momo_EP04_012_Rufo_알_G4_std13.9_-13.3dB_1880ms_2040ms_M30ms.ogg",
+            "start_ms": 81701,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_065_Rufo_알_A4_std40.4_-13.2dB_2720ms_2860ms_M30ms.ogg",
+            "start_ms": 81858,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Defeat2_알_B3_std8.4_-13.1dB_1800ms_1930ms_M30ms.ogg",
+            "start_ms": 81999,
+            "duration_ms": 131
+        }
+    ],
+    "았": [
+        {
+            "file_name": "_selective_Momo_EP06_030_Rufo_았_Gsharp4_std7.8_-17.5dB_1270ms_1430ms_M30ms.ogg",
+            "start_ms": 82130,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Momo_EP06_111_Rufo_았_E4_std5.6_-16.8dB_4830ms_4979ms_M30ms.ogg",
+            "start_ms": 82287,
+            "duration_ms": 149
+        }
+    ],
+    "애": [
+        {
+            "file_name": "_selective_sameplace_EP02_027_Rufo_애_G5_std66.9_-12.6dB_2420ms_2618ms_M30ms.ogg",
+            "start_ms": 82436,
+            "duration_ms": 200
+        }
+    ],
+    "야": [
+        {
+            "file_name": "_selective_pray_EP03_053_Rufo_야_Fsharp4_std4.8_-8.2dB_4870ms_4969ms_M30ms.ogg",
+            "start_ms": 82636,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity2_야_G4_std22.5_-11.6dB_730ms_829ms_M30ms.ogg",
+            "start_ms": 82737,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Rufo_HeroSkill_야_Unvoiced_std0.0_-14.8dB_1290ms_1389ms_M30ms.ogg",
+            "start_ms": 82838,
+            "duration_ms": 101
+        }
+    ],
+    "약": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_074_Rufo_약_Fsharp4_std20.0_-11.7dB_2840ms_3010ms_M30ms.ogg",
+            "start_ms": 82939,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_약_F4_std8.2_-10.2dB_1540ms_1700ms_M30ms.ogg",
+            "start_ms": 83110,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_약_G4_std3.4_-12.3dB_2400ms_2560ms_M30ms.ogg",
+            "start_ms": 83267,
+            "duration_ms": 157
+        }
+    ],
+    "얘": [
+        {
+            "file_name": "_selective_sameplace_EP05_041_Rufo_얘_G4_std12.8_-12.7dB_700ms_826ms_M30ms.ogg",
+            "start_ms": 83424,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_020_Rufo_얘_Csharp4_std6.7_-13.0dB_540ms_665ms_M30ms.ogg",
+            "start_ms": 83552,
+            "duration_ms": 122
+        }
+    ],
+    "어": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_073_Rufo_어_Fsharp4_std6.5_-9.0dB_830ms_947ms_M30ms.ogg",
+            "start_ms": 83674,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity6_어_Unvoiced_std0.0_-11.3dB_2450ms_2567ms_M30ms.ogg",
+            "start_ms": 83791,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_Touch2_2_Skin1_어_Gsharp4_std5.5_-15.6dB_2790ms_2907ms_M30ms.ogg",
+            "start_ms": 83908,
+            "duration_ms": 117
+        }
+    ],
+    "언": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_언_E4_std8.0_-11.8dB_3020ms_3180ms_M30ms.ogg",
+            "start_ms": 84025,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_042_Rufo_언_A4_std56.9_-14.3dB_799ms_940ms_M30ms.ogg",
+            "start_ms": 84182,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP05_044_Rufo_언_G4_std1.0_-13.9dB_3110ms_3210ms_M30ms.ogg",
+            "start_ms": 84323,
+            "duration_ms": 101
+        }
+    ],
+    "얻": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_042_Rufo_얻_C4_std4.2_-10.9dB_679ms_770ms_M30ms.ogg",
+            "start_ms": 84424,
+            "duration_ms": 93
+        }
+    ],
+    "얼": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_045_Rufo_얼_A4_std21.7_-13.5dB_1480ms_1640ms_M30ms.ogg",
+            "start_ms": 84517,
+            "duration_ms": 157
+        }
+    ],
+    "엄": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_035_Rufo_엄_A4_std9.5_-18.0dB_6399ms_6540ms_M30ms.ogg",
+            "start_ms": 84674,
+            "duration_ms": 141
+        }
+    ],
+    "없": [
+        {
+            "file_name": "_selective_Momo_EP03_109_Rufo_없_Fsharp4_std20.2_-16.9dB_3000ms_3180ms_M30ms.ogg",
+            "start_ms": 84815,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP04_009_Rufo_없_Dsharp4_std24.4_-13.8dB_2000ms_2180ms_M30ms.ogg",
+            "start_ms": 84996,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Rufo_DutchRubEnd2_Skin1_없_Csharp5_std8.1_-12.1dB_1400ms_1580ms_M30ms.ogg",
+            "start_ms": 85177,
+            "duration_ms": 181
+        }
+    ],
+    "엇": [
+        {
+            "file_name": "_selective_Momo_EP02_039_Rufo_엇_F4_std10.4_-16.5dB_2700ms_2870ms_M30ms.ogg",
+            "start_ms": 85358,
+            "duration_ms": 171
+        }
+    ],
+    "었": [
+        {
+            "file_name": "_selective_Momo_EP04_012_Rufo_었_Gsharp4_std6.7_-16.4dB_2250ms_2340ms_M30ms.ogg",
+            "start_ms": 85529,
+            "duration_ms": 87
+        },
+        {
+            "file_name": "_selective_Momo_EP05_007_Rufo_었_E4_std3.4_-16.9dB_1990ms_2100ms_M30ms.ogg",
+            "start_ms": 85616,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Momo_EP05_020_Rufo_었_Fsharp5_std25.8_-12.1dB_5990ms_6100ms_M30ms.ogg",
+            "start_ms": 85728,
+            "duration_ms": 107
+        }
+    ],
+    "에": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_042_Rufo_에_B3_std1.3_-18.2dB_420ms_528ms_M30ms.ogg",
+            "start_ms": 85835,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Elias_EP01_013_Rufo_에_Gsharp4_std20.1_-11.1dB_2250ms_2358ms_M30ms.ogg",
+            "start_ms": 85944,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Momo_EP05_021_Rufo_에_B4_std18.0_-14.4dB_2620ms_2728ms_M30ms.ogg",
+            "start_ms": 86049,
+            "duration_ms": 105
+        }
+    ],
+    "엔": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_022_Rufo_엔_Gsharp4_std32.6_-8.7dB_1850ms_2040ms_M30ms.ogg",
+            "start_ms": 86154,
+            "duration_ms": 187
+        }
+    ],
+    "엘": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_041_Rufo_엘_B3_std14.7_-12.6dB_2360ms_2540ms_M30ms.ogg",
+            "start_ms": 86341,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_036_Rufo_엘_Dsharp4_std8.6_-19.8dB_830ms_960ms_M30ms.ogg",
+            "start_ms": 86522,
+            "duration_ms": 131
+        }
+    ],
+    "여": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_028_Rufo_여_F4_std16.5_-12.7dB_1220ms_1355ms_M30ms.ogg",
+            "start_ms": 86653,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "Voice_Rufo_Line1_여_E4_std3.7_-12.1dB_559ms_686ms_M30ms.ogg",
+            "start_ms": 86789,
+            "duration_ms": 124
+        },
+        {
+            "file_name": "Voice_Rufo_SPSkill1-01_여_D5_std68.5_-16.6dB_1099ms_1226ms_M30ms.ogg",
+            "start_ms": 86913,
+            "duration_ms": 128
+        }
+    ],
+    "역": [
+        {
+            "file_name": "Voice_Rufo_Line1_역_D5_std38.8_-14.1dB_2230ms_2430ms_M30ms.ogg",
+            "start_ms": 87041,
+            "duration_ms": 197
+        }
+    ],
+    "연": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_028_Rufo_연_B4_std17.0_-14.8dB_700ms_880ms_M30ms.ogg",
+            "start_ms": 87238,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP06_011_Rufo_연_F4_std9.0_-15.4dB_5380ms_5579ms_M30ms.ogg",
+            "start_ms": 87419,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_pray_EP10_189_Rufo_연_A4_std16.6_-12.2dB_899ms_1000ms_M30ms.ogg",
+            "start_ms": 87619,
+            "duration_ms": 101
+        }
+    ],
+    "열": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_060_Rufo_열_Fsharp4_std14.3_-14.2dB_5860ms_5999ms_M30ms.ogg",
+            "start_ms": 87720,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Birthday_열_Csharp4_std12.3_-14.5dB_2300ms_2450ms_M30ms.ogg",
+            "start_ms": 87861,
+            "duration_ms": 152
+        }
+    ],
+    "영": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_020_Rufo_영_Fsharp4_std3.6_-14.2dB_4180ms_4380ms_M30ms.ogg",
+            "start_ms": 88013,
+            "duration_ms": 197
+        }
+    ],
+    "예": [
+        {
+            "file_name": "_selective_Main_Ch02_EP06_085_Rufo_예_B3_std28.2_-11.6dB_1440ms_1638ms_M30ms.ogg",
+            "start_ms": 88210,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_041_Rufo_예_A4_std19.1_-15.2dB_1560ms_1650ms_M30ms.ogg",
+            "start_ms": 88410,
+            "duration_ms": 91
+        }
+    ],
+    "오": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_035_Rufo_오_C4_std48.5_-19.0dB_5640ms_5766ms_M30ms.ogg",
+            "start_ms": 88501,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_오_C4_std16.5_-16.2dB_1460ms_1585ms_M30ms.ogg",
+            "start_ms": 88629,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_Momo_EP04_083_Rufo_오_D5_std82.4_-12.3dB_1260ms_1386ms_M30ms.ogg",
+            "start_ms": 88754,
+            "duration_ms": 128
+        }
+    ],
+    "온": [
+        {
+            "file_name": "_selective_Momo_EP05_009_Rufo_온_Gsharp4_std8.9_-18.1dB_3960ms_4100ms_M30ms.ogg",
+            "start_ms": 88882,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_pray_EP09_091_Rufo_온_A4_std9.0_-12.1dB_1700ms_1840ms_M30ms.ogg",
+            "start_ms": 89023,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_055_Rufo_온_Gsharp4_std14.2_-17.9dB_1580ms_1720ms_M30ms.ogg",
+            "start_ms": 89164,
+            "duration_ms": 141
+        }
+    ],
+    "올": [
+        {
+            "file_name": "_selective_Momo_EP05_056_Rufo_올_Gsharp4_std10.9_-13.6dB_2600ms_2720ms_M30ms.ogg",
+            "start_ms": 89305,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_pray_EP04_046_Rufo_올_Dsharp5_std19.8_-10.8dB_3460ms_3560ms_M30ms.ogg",
+            "start_ms": 89422,
+            "duration_ms": 101
+        }
+    ],
+    "와": [
+        {
+            "file_name": "_selective_sameplace_EP02_072_Rufo_와_C4_std8.9_-12.9dB_420ms_564ms_M30ms.ogg",
+            "start_ms": 89523,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_038_Rufo_와_F5_std78.0_-9.3dB_420ms_600ms_M30ms.ogg",
+            "start_ms": 89664,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_030_Rufo_와_B4_std29.3_-11.5dB_3580ms_3723ms_M30ms.ogg",
+            "start_ms": 89845,
+            "duration_ms": 144
+        }
+    ],
+    "완": [
+        {
+            "file_name": "_selective_Momo_EP06_112_Rufo_완_Gsharp4_std35.9_-12.2dB_1940ms_2140ms_M30ms.ogg",
+            "start_ms": 89989,
+            "duration_ms": 197
+        }
+    ],
+    "왔": [
+        {
+            "file_name": "_selective_sameplace_EP06_040_Rufo_왔_A4_std4.1_-10.8dB_2980ms_3110ms_M30ms.ogg",
+            "start_ms": 90186,
+            "duration_ms": 127
+        }
+    ],
+    "왕": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_019_Rufo_왕_F4_std11.3_-10.9dB_220ms_410ms_M30ms.ogg",
+            "start_ms": 90313,
+            "duration_ms": 192
+        }
+    ],
+    "왜": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_004_Rufo_왜_B4_std9.3_-13.6dB_280ms_388ms_M30ms.ogg",
+            "start_ms": 90505,
+            "duration_ms": 109
+        }
+    ],
+    "요": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_022_Rufo_요_A4_std10.3_-13.5dB_1660ms_1804ms_M30ms.ogg",
+            "start_ms": 90614,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_요_E4_std13.4_-16.1dB_2000ms_2144ms_M30ms.ogg",
+            "start_ms": 90755,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_pray_EP03_053_Rufo_요_A4_std8.9_-14.1dB_1160ms_1304ms_M30ms.ogg",
+            "start_ms": 90896,
+            "duration_ms": 141
+        }
+    ],
+    "용": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_040_Rufo_용_Asharp4_std5.9_-12.1dB_1180ms_1300ms_M30ms.ogg",
+            "start_ms": 91037,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP02_058_Rufo_용_F4_std7.4_-16.9dB_3580ms_3700ms_M30ms.ogg",
+            "start_ms": 91154,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_pray_EP01_051_Rufo_용_Gsharp4_std5.8_-11.0dB_260ms_380ms_M30ms.ogg",
+            "start_ms": 91271,
+            "duration_ms": 117
+        }
+    ],
+    "우": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_031_Rufo_우_Dsharp4_std30.8_-14.9dB_3400ms_3508ms_M30ms.ogg",
+            "start_ms": 91388,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity1_2_우_B3_std23.1_-15.7dB_1960ms_2068ms_M30ms.ogg",
+            "start_ms": 91497,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Touch1_2_우_C5_std11.0_-12.6dB_960ms_1068ms_M30ms.ogg",
+            "start_ms": 91606,
+            "duration_ms": 109
+        }
+    ],
+    "운": [
+        {
+            "file_name": "_selective_Momo_EP05_008_Rufo_운_B3_std1.2_-18.8dB_2430ms_2560ms_M30ms.ogg",
+            "start_ms": 91715,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP06_004_Rufo_운_Fsharp4_std4.8_-16.9dB_1560ms_1690ms_M30ms.ogg",
+            "start_ms": 91846,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP07_079_Rufo_운_Gsharp4_std35.0_-21.5dB_1160ms_1300ms_M30ms.ogg",
+            "start_ms": 91977,
+            "duration_ms": 141
+        }
+    ],
+    "울": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_056_Rufo_울_Fsharp4_std6.5_-14.8dB_4460ms_4570ms_M30ms.ogg",
+            "start_ms": 92118,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_025_Rufo_울_B3_std2.5_-15.0dB_630ms_730ms_M30ms.ogg",
+            "start_ms": 92230,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_072_Rufo_울_B3_std2.9_-16.4dB_870ms_1020ms_M30ms.ogg",
+            "start_ms": 92331,
+            "duration_ms": 147
+        }
+    ],
+    "움": [
+        {
+            "file_name": "_selective_Momo_EP02_050_Rufo_움_Gsharp4_std21.2_-17.9dB_3420ms_3590ms_M30ms.ogg",
+            "start_ms": 92478,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Momo_EP06_061_Rufo_움_Csharp4_std5.4_-19.4dB_1900ms_2060ms_M30ms.ogg",
+            "start_ms": 92649,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_078_Rufo_움_Dsharp4_std11.0_-17.3dB_1619ms_1750ms_M30ms.ogg",
+            "start_ms": 92806,
+            "duration_ms": 133
+        }
+    ],
+    "워": [
+        {
+            "file_name": "Voice_Rufo_HeroUpgrade_Skin1_워_B4_std8.6_-12.0dB_1400ms_1508ms_M30ms.ogg",
+            "start_ms": 92939,
+            "duration_ms": 109
+        }
+    ],
+    "원": [
+        {
+            "file_name": "_selective_Momo_EP04_002_Rufo_원_A4_std5.9_-12.2dB_2769ms_2910ms_M30ms.ogg",
+            "start_ms": 93048,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP04_004_Rufo_원_A4_std13.9_-13.7dB_4440ms_4560ms_M30ms.ogg",
+            "start_ms": 93189,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP07_125_Rufo_원_G4_std5.0_-15.2dB_2520ms_2640ms_M30ms.ogg",
+            "start_ms": 93306,
+            "duration_ms": 117
+        }
+    ],
+    "웨": [
+        {
+            "file_name": "_selective_sameplace_EP02_018_Rufo_웨_D4_std13.2_-13.3dB_2080ms_2260ms_M30ms.ogg",
+            "start_ms": 93423,
+            "duration_ms": 181
+        }
+    ],
+    "위": [
+        {
+            "file_name": "_selective_Elias_EP01_010_Rufo_위_Gsharp4_std5.6_-14.8dB_1200ms_1326ms_M30ms.ogg",
+            "start_ms": 93604,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_078_Rufo_위_Gsharp4_std4.2_-14.7dB_2100ms_2217ms_M30ms.ogg",
+            "start_ms": 93732,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP05_048_Rufo_위_G4_std10.2_-16.6dB_1460ms_1568ms_M30ms.ogg",
+            "start_ms": 93849,
+            "duration_ms": 109
+        }
+    ],
+    "유": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_080_Rufo_유_F4_std18.7_-20.3dB_2840ms_2966ms_M30ms.ogg",
+            "start_ms": 93958,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP02_066_Rufo_유_A3_std13.7_-19.7dB_120ms_264ms_M30ms.ogg",
+            "start_ms": 94086,
+            "duration_ms": 141
+        }
+    ],
+    "으": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_030_Rufo_으_Asharp4_std8.3_-13.6dB_1490ms_1589ms_M30ms.ogg",
+            "start_ms": 94227,
+            "duration_ms": 101
+        }
+    ],
+    "은": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_043_Rufo_은_Gsharp4_std33.0_-18.9dB_3530ms_3660ms_M30ms.ogg",
+            "start_ms": 94328,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_은_F4_std10.8_-20.1dB_3330ms_3460ms_M30ms.ogg",
+            "start_ms": 94455,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_030_Rufo_은_F4_std8.9_-16.4dB_250ms_380ms_M30ms.ogg",
+            "start_ms": 94586,
+            "duration_ms": 131
+        }
+    ],
+    "을": [
+        {
+            "file_name": "_selective_Elias_EP01_010_Rufo_을_Asharp4_std1.7_-13.6dB_1070ms_1180ms_M30ms.ogg",
+            "start_ms": 94717,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Elias_EP01_010_Rufo_을_F4_std7.3_-15.5dB_2130ms_2240ms_M30ms.ogg",
+            "start_ms": 94829,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "Voice_Rufo_Touch1_1_을_Asharp4_std9.5_-12.3dB_1050ms_1160ms_M30ms.ogg",
+            "start_ms": 94941,
+            "duration_ms": 112
+        }
+    ],
+    "음": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_025_Rufo_음_Gsharp4_std33.0_-18.0dB_3120ms_3300ms_M30ms.ogg",
+            "start_ms": 95053,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_음_Fsharp4_std14.4_-16.0dB_1900ms_2070ms_M30ms.ogg",
+            "start_ms": 95234,
+            "duration_ms": 171
+        }
+    ],
+    "의": [
+        {
+            "file_name": "_selective_Elias_EP01_010_Rufo_의_B4_std16.0_-14.5dB_300ms_426ms_M30ms.ogg",
+            "start_ms": 95405,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Rufo_AsideGet_의_B4_std0.8_-11.2dB_1080ms_1206ms_M30ms.ogg",
+            "start_ms": 95533,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Rufo_Line1_의_B4_std6.5_-13.1dB_2060ms_2186ms_M30ms.ogg",
+            "start_ms": 95661,
+            "duration_ms": 128
+        }
+    ],
+    "이": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_035_Rufo_이_Csharp4_std14.8_-21.9dB_1960ms_2068ms_M30ms.ogg",
+            "start_ms": 95789,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_AsideGet_이_Asharp4_std5.1_-11.2dB_1420ms_1528ms_M30ms.ogg",
+            "start_ms": 95898,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Gacha4_이_Asharp4_std6.7_-10.9dB_280ms_388ms_M30ms.ogg",
+            "start_ms": 96007,
+            "duration_ms": 109
+        }
+    ],
+    "익": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_익_Gsharp4_std46.2_-19.7dB_400ms_559ms_M30ms.ogg",
+            "start_ms": 96116,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_041_Rufo_익_Asharp4_std6.8_-16.7dB_2120ms_2300ms_M30ms.ogg",
+            "start_ms": 96276,
+            "duration_ms": 181
+        }
+    ],
+    "인": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_041_Rufo_인_Fsharp4_std20.7_-18.7dB_3270ms_3410ms_M30ms.ogg",
+            "start_ms": 96457,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_003_Rufo_인_C5_std19.3_-18.1dB_2780ms_2920ms_M30ms.ogg",
+            "start_ms": 96598,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_인_Gsharp4_std6.6_-16.5dB_4380ms_4520ms_M30ms.ogg",
+            "start_ms": 96735,
+            "duration_ms": 141
+        }
+    ],
+    "일": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_004_Rufo_일_Asharp4_std8.3_-16.2dB_880ms_1030ms_M30ms.ogg",
+            "start_ms": 96876,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_065_Rufo_일_Asharp4_std26.4_-17.7dB_4290ms_4420ms_M30ms.ogg",
+            "start_ms": 97028,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_069_Rufo_일_C5_std32.2_-13.8dB_3340ms_3480ms_M30ms.ogg",
+            "start_ms": 97155,
+            "duration_ms": 137
+        }
+    ],
+    "읽": [
+        {
+            "file_name": "_selective_Momo_EP05_005_Rufo_읽_D4_std6.7_-19.2dB_2000ms_2150ms_M30ms.ogg",
+            "start_ms": 97292,
+            "duration_ms": 152
+        }
+    ],
+    "임": [
+        {
+            "file_name": "_selective_Momo_EP04_025_Rufo_임_B3_std3.9_-16.8dB_3420ms_3560ms_M30ms.ogg",
+            "start_ms": 97444,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_pray_EP03_004_Rufo_임_G4_std6.4_-20.4dB_2660ms_2800ms_M30ms.ogg",
+            "start_ms": 97585,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_079_Rufo_임_C5_std32.6_-14.1dB_850ms_990ms_M30ms.ogg",
+            "start_ms": 97726,
+            "duration_ms": 141
+        }
+    ],
+    "입": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_069_Rufo_입_B4_std8.3_-14.3dB_3080ms_3200ms_M30ms.ogg",
+            "start_ms": 97867,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_입_G4_std10.9_-23.4dB_6770ms_6880ms_M30ms.ogg",
+            "start_ms": 97984,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_028_Rufo_입_Asharp4_std8.3_-26.9dB_4230ms_4340ms_M30ms.ogg",
+            "start_ms": 98096,
+            "duration_ms": 112
+        }
+    ],
+    "있": [
+        {
+            "file_name": "_selective_Momo_EP04_012_Rufo_있_Fsharp4_std22.1_-16.7dB_2120ms_2250ms_M30ms.ogg",
+            "start_ms": 98208,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP05_021_Rufo_있_C5_std18.0_-18.5dB_3100ms_3230ms_M30ms.ogg",
+            "start_ms": 98339,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP05_063_Rufo_있_D4_std1.5_-20.8dB_2720ms_2850ms_M30ms.ogg",
+            "start_ms": 98470,
+            "duration_ms": 151
+        }
+    ],
+    "자": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_051_Rufo_자_Csharp5_std4.8_-11.7dB_2760ms_2886ms_M30ms.ogg",
+            "start_ms": 98621,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_030_Rufo_자_Dsharp4_std5.4_-24.5dB_540ms_665ms_M30ms.ogg",
+            "start_ms": 98749,
+            "duration_ms": 122
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_034_Rufo_자_Gsharp4_std11.8_-11.2dB_3560ms_3686ms_M30ms.ogg",
+            "start_ms": 98871,
+            "duration_ms": 128
+        }
+    ],
+    "작": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_작_D4_std15.2_-13.9dB_1760ms_1940ms_M30ms.ogg",
+            "start_ms": 98999,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_065_Rufo_작_Asharp4_std34.0_-11.7dB_4120ms_4290ms_M30ms.ogg",
+            "start_ms": 99180,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_019_Rufo_작_A4_std51.9_-13.0dB_2540ms_2720ms_M30ms.ogg",
+            "start_ms": 99347,
+            "duration_ms": 177
+        }
+    ],
+    "잖": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_001_HiddenRufo_잖_Fsharp5_std34.1_-13.7dB_2260ms_2410ms_M30ms.ogg",
+            "start_ms": 99524,
+            "duration_ms": 152
+        }
+    ],
+    "잘": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_019_Rufo_잘_Dsharp4_std16.7_-11.3dB_700ms_900ms_M30ms.ogg",
+            "start_ms": 99676,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Momo_EP02_062_Rufo_잘_Csharp5_std58.8_-15.2dB_2020ms_2200ms_M30ms.ogg",
+            "start_ms": 99873,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_053_Rufo_잘_Dsharp4_std20.3_-15.1dB_1920ms_2120ms_M30ms.ogg",
+            "start_ms": 100054,
+            "duration_ms": 197
+        }
+    ],
+    "잠": [
+        {
+            "file_name": "_selective_Momo_EP07_062_Rufo_잠_B4_std29.1_-17.3dB_60ms_220ms_M30ms.ogg",
+            "start_ms": 100251,
+            "duration_ms": 157
+        }
+    ],
+    "잡": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_034_Rufo_잡_Dsharp4_std8.8_-17.0dB_2180ms_2360ms_M30ms.ogg",
+            "start_ms": 100408,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_072_Rufo_잡_Unvoiced_std0.0_-15.3dB_2300ms_2440ms_M30ms.ogg",
+            "start_ms": 100585,
+            "duration_ms": 141
+        }
+    ],
+    "장": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_장_Asharp4_std8.2_-8.5dB_860ms_1000ms_M30ms.ogg",
+            "start_ms": 100726,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_046_Rufo_장_B4_std15.8_-14.8dB_1320ms_1460ms_M30ms.ogg",
+            "start_ms": 100867,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_051_Rufo_장_D4_std8.4_-18.7dB_2940ms_3080ms_M30ms.ogg",
+            "start_ms": 101008,
+            "duration_ms": 141
+        }
+    ],
+    "재": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_027_Rufo_재_D4_std12.6_-18.2dB_2640ms_2784ms_M30ms.ogg",
+            "start_ms": 101149,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP05_007_Rufo_재_Csharp4_std12.3_-21.2dB_1240ms_1348ms_M30ms.ogg",
+            "start_ms": 101290,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP06_003_Rufo_재_C4_std8.3_-18.1dB_1500ms_1644ms_M30ms.ogg",
+            "start_ms": 101399,
+            "duration_ms": 141
+        }
+    ],
+    "저": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_024_Rufo_저_D5_std46.2_-13.8dB_540ms_683ms_M30ms.ogg",
+            "start_ms": 101540,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_034_Rufo_저_Csharp4_std2.7_-14.4dB_1800ms_1926ms_M30ms.ogg",
+            "start_ms": 101684,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_067_Rufo_저_Fsharp5_std21.2_-14.2dB_2260ms_2386ms_M30ms.ogg",
+            "start_ms": 101812,
+            "duration_ms": 128
+        }
+    ],
+    "적": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_073_Rufo_적_Fsharp4_std11.4_-14.1dB_3860ms_4029ms_M30ms.ogg",
+            "start_ms": 101940,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_적_Csharp4_std8.7_-15.5dB_3390ms_3550ms_M30ms.ogg",
+            "start_ms": 102111,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_025_Rufo_적_Fsharp4_std36.0_-15.7dB_3960ms_4119ms_M30ms.ogg",
+            "start_ms": 102268,
+            "duration_ms": 160
+        }
+    ],
+    "전": [
+        {
+            "file_name": "_selective_Elias_EP01_010_Rufo_전_C4_std15.0_-16.4dB_1960ms_2130ms_M30ms.ogg",
+            "start_ms": 102428,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Momo_EP02_023_Rufo_전_A4_std15.8_-16.0dB_640ms_820ms_M30ms.ogg",
+            "start_ms": 102599,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP05_072_Rufo_전_Csharp4_std16.7_-15.2dB_740ms_910ms_M30ms.ogg",
+            "start_ms": 102780,
+            "duration_ms": 171
+        }
+    ],
+    "절": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_052_Rufo_절_Unvoiced_std0.0_-18.2dB_1500ms_1700ms_M30ms.ogg",
+            "start_ms": 102951,
+            "duration_ms": 220
+        }
+    ],
+    "점": [
+        {
+            "file_name": "_selective_Momo_EP05_063_Rufo_점_D4_std7.8_-17.1dB_2570ms_2680ms_M30ms.ogg",
+            "start_ms": 103171,
+            "duration_ms": 112
+        }
+    ],
+    "정": [
+        {
+            "file_name": "_selective_Momo_EP05_047_Rufo_정_Asharp4_std16.7_-15.4dB_1599ms_1740ms_M30ms.ogg",
+            "start_ms": 103283,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP06_003_Rufo_정_D4_std5.6_-18.5dB_1660ms_1820ms_M30ms.ogg",
+            "start_ms": 103424,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_pray_EP03_053_Rufo_정_A4_std13.4_-13.7dB_1320ms_1480ms_M30ms.ogg",
+            "start_ms": 103581,
+            "duration_ms": 157
+        }
+    ],
+    "제": [
+        {
+            "file_name": "_selective_Momo_EP05_063_Rufo_제_E4_std6.5_-14.6dB_720ms_846ms_M30ms.ogg",
+            "start_ms": 103738,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_072_Rufo_제_Gsharp3_std4.4_-20.9dB_4300ms_4426ms_M30ms.ogg",
+            "start_ms": 103866,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity6_제_B3_std12.5_-16.6dB_4120ms_4236ms_M30ms.ogg",
+            "start_ms": 103989,
+            "duration_ms": 117
+        }
+    ],
+    "져": [
+        {
+            "file_name": "_selective_Momo_EP06_030_Rufo_져_Fsharp4_std4.4_-14.2dB_2720ms_2810ms_M30ms.ogg",
+            "start_ms": 104106,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Momo_EP07_089_Rufo_져_A4_std17.9_-17.8dB_2100ms_2190ms_M30ms.ogg",
+            "start_ms": 104197,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_071_Rufo_져_Dsharp4_std6.0_-21.2dB_1670ms_1823ms_M30ms.ogg",
+            "start_ms": 104288,
+            "duration_ms": 155
+        }
+    ],
+    "조": [
+        {
+            "file_name": "_selective_Momo_EP05_045_Rufo_조_Gsharp3_std3.0_-24.2dB_4180ms_4359ms_M30ms.ogg",
+            "start_ms": 104443,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_pray_EP01_052_Rufo_조_Gsharp4_std22.3_-14.3dB_1119ms_1228ms_M30ms.ogg",
+            "start_ms": 104624,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_pray_EP04_046_Rufo_조_D5_std27.7_-16.1dB_2680ms_2824ms_M30ms.ogg",
+            "start_ms": 104733,
+            "duration_ms": 141
+        }
+    ],
+    "족": [
+        {
+            "file_name": "_selective_sameplace_EP02_073_Rufo_족_Gsharp4_std20.1_-19.0dB_2090ms_2220ms_M30ms.ogg",
+            "start_ms": 104874,
+            "duration_ms": 127
+        }
+    ],
+    "존": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_034_Rufo_존_E4_std44.4_-22.9dB_439ms_620ms_M30ms.ogg",
+            "start_ms": 105001,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_030_Rufo_존_C5_std9.3_-15.3dB_1460ms_1660ms_M30ms.ogg",
+            "start_ms": 105182,
+            "duration_ms": 197
+        }
+    ],
+    "좀": [
+        {
+            "file_name": "_selective_sameplace_EP02_075_Rufo_좀_A4_std7.4_-20.3dB_1300ms_1420ms_M30ms.ogg",
+            "start_ms": 105379,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_040_Rufo_좀_B3_std16.4_-15.8dB_2980ms_3100ms_M30ms.ogg",
+            "start_ms": 105496,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_snakeroad_EP01_087_Rufo_좀_Gsharp4_std9.8_-16.8dB_620ms_740ms_M30ms.ogg",
+            "start_ms": 105613,
+            "duration_ms": 117
+        }
+    ],
+    "종": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_031_Rufo_종_A4_std9.3_-16.4dB_4380ms_4499ms_M30ms.ogg",
+            "start_ms": 105730,
+            "duration_ms": 120
+        },
+        {
+            "file_name": "_selective_Momo_EP06_113_Rufo_종_F4_std8.7_-15.2dB_1700ms_1859ms_M30ms.ogg",
+            "start_ms": 105850,
+            "duration_ms": 160
+        }
+    ],
+    "좋": [
+        {
+            "file_name": "_selective_Momo_EP02_057_Rufo_좋_A4_std12.1_-15.7dB_2700ms_2820ms_M30ms.ogg",
+            "start_ms": 106010,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Momo_EP04_025_Rufo_좋_F4_std4.8_-19.6dB_1280ms_1400ms_M30ms.ogg",
+            "start_ms": 106127,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP01_058_Rufo_좋_F4_std10.7_-17.9dB_1580ms_1700ms_M30ms.ogg",
+            "start_ms": 106244,
+            "duration_ms": 117
+        }
+    ],
+    "주": [
+        {
+            "file_name": "_selective_Elias_EP01_013_Rufo_주_Gsharp4_std4.6_-19.8dB_1859ms_1967ms_M30ms.ogg",
+            "start_ms": 106361,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_pray_EP03_004_Rufo_주_D4_std7.1_-22.4dB_1500ms_1607ms_M30ms.ogg",
+            "start_ms": 106470,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_040_Rufo_주_B4_std35.5_-13.6dB_1260ms_1367ms_M30ms.ogg",
+            "start_ms": 106579,
+            "duration_ms": 109
+        }
+    ],
+    "죽": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_050_Rufo_죽_Gsharp4_std18.2_-20.7dB_700ms_850ms_M30ms.ogg",
+            "start_ms": 106688,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP04_040_Rufo_죽_D5_std21.1_-17.6dB_1859ms_2009ms_M30ms.ogg",
+            "start_ms": 106840,
+            "duration_ms": 152
+        }
+    ],
+    "준": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_042_Rufo_준_Csharp4_std6.0_-25.8dB_1820ms_1940ms_M30ms.ogg",
+            "start_ms": 106992,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Rufo_Birthday_준_Gsharp4_std11.4_-20.5dB_500ms_640ms_M30ms.ogg",
+            "start_ms": 107109,
+            "duration_ms": 141
+        }
+    ],
+    "줄": [
+        {
+            "file_name": "_selective_pray_EP03_053_Rufo_줄_Asharp4_std11.8_-13.5dB_3060ms_3200ms_M30ms.ogg",
+            "start_ms": 107250,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_021_Rufo_줄_F4_std20.6_-13.3dB_1180ms_1340ms_M30ms.ogg",
+            "start_ms": 107391,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity4_줄_C5_std10.6_-16.1dB_2120ms_2240ms_M30ms.ogg",
+            "start_ms": 107548,
+            "duration_ms": 117
+        }
+    ],
+    "중": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_045_Rufo_중_G4_std4.7_-19.2dB_1940ms_2040ms_M30ms.ogg",
+            "start_ms": 107665,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP01_022_Rufo_중_Fsharp4_std18.4_-17.2dB_1520ms_1660ms_M30ms.ogg",
+            "start_ms": 107766,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity7_중_E4_std28.4_-21.7dB_250ms_360ms_M30ms.ogg",
+            "start_ms": 107907,
+            "duration_ms": 112
+        }
+    ],
+    "증": [
+        {
+            "file_name": "Voice_Rufo_AsideGet_증_C5_std11.3_-17.8dB_500ms_660ms_M30ms.ogg",
+            "start_ms": 108019,
+            "duration_ms": 157
+        }
+    ],
+    "지": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_051_Rufo_지_D5_std33.0_-22.2dB_2600ms_2708ms_M30ms.ogg",
+            "start_ms": 108176,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Elias_EP01_009_Rufo_지_Gsharp4_std4.4_-18.5dB_2300ms_2408ms_M30ms.ogg",
+            "start_ms": 108285,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_LevelUp_Skin1_지_Gsharp4_std15.8_-21.1dB_1140ms_1248ms_M30ms.ogg",
+            "start_ms": 108394,
+            "duration_ms": 109
+        }
+    ],
+    "직": [
+        {
+            "file_name": "_selective_Momo_EP04_002_Rufo_직_G4_std46.1_-18.8dB_1460ms_1600ms_M30ms.ogg",
+            "start_ms": 108503,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Momo_EP06_061_Rufo_직_Dsharp4_std25.6_-23.0dB_2060ms_2190ms_M30ms.ogg",
+            "start_ms": 108640,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Momo_EP06_111_Rufo_직_A4_std42.7_-20.7dB_430ms_559ms_M30ms.ogg",
+            "start_ms": 108771,
+            "duration_ms": 126
+        }
+    ],
+    "진": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_032_Rufo_진_E4_std13.7_-23.8dB_4940ms_5100ms_M30ms.ogg",
+            "start_ms": 108897,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_068_Rufo_진_A4_std14.3_-18.2dB_5060ms_5220ms_M30ms.ogg",
+            "start_ms": 109054,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Rufo_LevelUp_Skin1_진_A4_std5.5_-19.8dB_1800ms_1960ms_M30ms.ogg",
+            "start_ms": 109211,
+            "duration_ms": 157
+        }
+    ],
+    "질": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_069_Rufo_질_C5_std15.0_-13.9dB_7460ms_7620ms_M30ms.ogg",
+            "start_ms": 109368,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity6_질_C4_std12.4_-17.5dB_3420ms_3600ms_M30ms.ogg",
+            "start_ms": 109525,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Rufo_Touch2_1_Skin1_질_Unvoiced_std0.0_-20.6dB_1800ms_1900ms_M30ms.ogg",
+            "start_ms": 109702,
+            "duration_ms": 101
+        }
+    ],
+    "집": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_068_Rufo_집_Csharp4_std81.2_-21.6dB_1140ms_1320ms_M30ms.ogg",
+            "start_ms": 109803,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP07_022_Rufo_집_B4_std13.4_-12.8dB_1400ms_1560ms_M30ms.ogg",
+            "start_ms": 109984,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP07_009_Rufo_집_Asharp4_std58.6_-16.4dB_2520ms_2690ms_M30ms.ogg",
+            "start_ms": 110141,
+            "duration_ms": 171
+        }
+    ],
+    "짓": [
+        {
+            "file_name": "_selective_Momo_EP05_040_Rufo_짓_Gsharp4_std6.1_-20.4dB_1770ms_1920ms_M30ms.ogg",
+            "start_ms": 110312,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP06_045_Rufo_짓_Dsharp5_std10.9_-19.0dB_1840ms_2009ms_M30ms.ogg",
+            "start_ms": 110464,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_028_Rufo_짓_C5_std4.9_-18.9dB_3100ms_3239ms_M30ms.ogg",
+            "start_ms": 110635,
+            "duration_ms": 141
+        }
+    ],
+    "짜": [
+        {
+            "file_name": "_selective_Momo_EP06_027_Rufo_짜_Asharp4_std56.6_-18.1dB_2840ms_2930ms_M30ms.ogg",
+            "start_ms": 110776,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Momo_EP06_111_Rufo_짜_B4_std12.7_-13.9dB_1440ms_1530ms_M30ms.ogg",
+            "start_ms": 110867,
+            "duration_ms": 91
+        }
+    ],
+    "짝": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_057_Rufo_짝_Gsharp4_std5.4_-17.0dB_1380ms_1540ms_M30ms.ogg",
+            "start_ms": 110958,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Rufo_Equipment_짝_B4_std31.2_-16.6dB_720ms_890ms_M30ms.ogg",
+            "start_ms": 111115,
+            "duration_ms": 171
+        }
+    ],
+    "쪽": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_046_Rufo_쪽_G4_std10.4_-20.0dB_559ms_710ms_M30ms.ogg",
+            "start_ms": 111286,
+            "duration_ms": 152
+        }
+    ],
+    "쫓": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_043_Rufo_쫓_A4_std55.3_-17.9dB_3860ms_4040ms_M30ms.ogg",
+            "start_ms": 111438,
+            "duration_ms": 177
+        }
+    ],
+    "차": [
+        {
+            "file_name": "_selective_Momo_EP05_048_Rufo_차_Unvoiced_std0.0_-21.6dB_2080ms_2206ms_M30ms.ogg",
+            "start_ms": 111615,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP07_082_Rufo_차_A4_std15.8_-15.4dB_500ms_626ms_M30ms.ogg",
+            "start_ms": 111743,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_pray_EP09_101_Rufo_차_A4_std9.9_-21.6dB_1560ms_1686ms_M30ms.ogg",
+            "start_ms": 111880,
+            "duration_ms": 128
+        }
+    ],
+    "착": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_073_Rufo_착_Unvoiced_std0.0_-18.7dB_4940ms_5130ms_M30ms.ogg",
+            "start_ms": 112008,
+            "duration_ms": 209
+        },
+        {
+            "file_name": "_selective_Momo_EP05_026_Rufo_착_G5_std63.5_-14.3dB_4550ms_4680ms_M30ms.ogg",
+            "start_ms": 112217,
+            "duration_ms": 127
+        }
+    ],
+    "참": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_043_Rufo_참_G4_std25.5_-14.5dB_4319ms_4500ms_M30ms.ogg",
+            "start_ms": 112344,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP05_064_Rufo_참_G4_std33.6_-18.0dB_3620ms_3809ms_M30ms.ogg",
+            "start_ms": 112525,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_085_Rufo_참_B4_std38.6_-15.5dB_3600ms_3780ms_M30ms.ogg",
+            "start_ms": 112714,
+            "duration_ms": 181
+        }
+    ],
+    "찾": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_080_Rufo_찾_Dsharp5_std32.3_-18.3dB_3840ms_4010ms_M30ms.ogg",
+            "start_ms": 112895,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Momo_EP06_030_Rufo_찾_Unvoiced_std0.0_-24.5dB_1140ms_1270ms_M30ms.ogg",
+            "start_ms": 113066,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_075_Rufo_찾_F4_std12.1_-21.1dB_4600ms_4750ms_M30ms.ogg",
+            "start_ms": 113197,
+            "duration_ms": 152
+        }
+    ],
+    "책": [
+        {
+            "file_name": "_selective_Momo_EP06_011_Rufo_책_C5_std18.3_-18.7dB_2720ms_2910ms_M30ms.ogg",
+            "start_ms": 113349,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Momo_EP06_019_Rufo_책_A4_std3.9_-21.1dB_2660ms_2849ms_M30ms.ogg",
+            "start_ms": 113541,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "Voice_Rufo_Spawn1_책_Asharp4_std21.8_-17.3dB_559ms_730ms_M30ms.ogg",
+            "start_ms": 113730,
+            "duration_ms": 173
+        }
+    ],
+    "처": [
+        {
+            "file_name": "_selective_Momo_EP04_010_Rufo_처_A4_std23.8_-15.5dB_2920ms_3028ms_M30ms.ogg",
+            "start_ms": 113903,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP05_020_Rufo_처_A4_std25.6_-18.8dB_2480ms_2588ms_M30ms.ogg",
+            "start_ms": 114012,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP05_025_Rufo_처_Csharp5_std28.1_-17.6dB_2940ms_3048ms_M30ms.ogg",
+            "start_ms": 114121,
+            "duration_ms": 109
+        }
+    ],
+    "척": [
+        {
+            "file_name": "_selective_sameplace_EP07_018_Rufo_척_C5_std13.5_-15.6dB_2540ms_2660ms_M30ms.ogg",
+            "start_ms": 114230,
+            "duration_ms": 117
+        }
+    ],
+    "천": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_035_Rufo_천_Asharp4_std109.8_-16.1dB_2820ms_3020ms_M30ms.ogg",
+            "start_ms": 114347,
+            "duration_ms": 197
+        }
+    ],
+    "첨": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_075_Rufo_첨_C5_std13.8_-15.6dB_1920ms_2100ms_M30ms.ogg",
+            "start_ms": 114544,
+            "duration_ms": 181
+        }
+    ],
+    "청": [
+        {
+            "file_name": "_selective_Momo_EP02_050_Rufo_청_G4_std5.6_-18.5dB_3880ms_3999ms_M30ms.ogg",
+            "start_ms": 114725,
+            "duration_ms": 120
+        },
+        {
+            "file_name": "_selective_Momo_EP03_110_Rufo_청_B4_std15.9_-14.6dB_3540ms_3660ms_M30ms.ogg",
+            "start_ms": 114845,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_040_Rufo_청_B4_std10.6_-13.8dB_2420ms_2540ms_M30ms.ogg",
+            "start_ms": 114962,
+            "duration_ms": 117
+        }
+    ],
+    "체": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_068_Rufo_체_C5_std8.9_-14.5dB_4479ms_4587ms_M30ms.ogg",
+            "start_ms": 115079,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_069_Rufo_체_B3_std13.1_-14.2dB_4380ms_4505ms_M30ms.ogg",
+            "start_ms": 115188,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_Momo_EP05_025_Rufo_체_D5_std29.5_-15.1dB_4720ms_4846ms_M30ms.ogg",
+            "start_ms": 115313,
+            "duration_ms": 123
+        }
+    ],
+    "쳐": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_007_Rufo_쳐_G5_std31.6_-11.1dB_1270ms_1387ms_M30ms.ogg",
+            "start_ms": 115436,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_038_Rufo_쳐_A4_std6.8_-21.1dB_3340ms_3448ms_M30ms.ogg",
+            "start_ms": 115553,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_020_Rufo_쳐_G4_std14.7_-13.4dB_1800ms_1935ms_M30ms.ogg",
+            "start_ms": 115662,
+            "duration_ms": 136
+        }
+    ],
+    "촌": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_067_HiddenRufo_촌_F4_std75.7_-19.8dB_459ms_659ms_M30ms.ogg",
+            "start_ms": 115798,
+            "duration_ms": 197
+        }
+    ],
+    "최": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_033_Rufo_최_Gsharp4_std15.1_-18.0dB_2400ms_2580ms_M30ms.ogg",
+            "start_ms": 115995,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Rufo_AsideGet_최_Asharp4_std10.1_-14.5dB_760ms_958ms_M30ms.ogg",
+            "start_ms": 116176,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Rufo_Sorry2_최_E4_std25.8_-14.7dB_40ms_238ms_M30ms.ogg",
+            "start_ms": 116376,
+            "duration_ms": 200
+        }
+    ],
+    "출": [
+        {
+            "file_name": "_selective_Momo_EP05_071_Rufo_출_D4_std9.5_-17.7dB_459ms_640ms_M30ms.ogg",
+            "start_ms": 116576,
+            "duration_ms": 178
+        }
+    ],
+    "충": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_033_Rufo_충_Asharp4_std28.2_-23.3dB_3400ms_3560ms_M30ms.ogg",
+            "start_ms": 116754,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_051_Rufo_충_Asharp4_std2.1_-19.2dB_6700ms_6820ms_M30ms.ogg",
+            "start_ms": 116911,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_018_Rufo_충_Asharp4_std6.3_-20.3dB_4800ms_4960ms_M30ms.ogg",
+            "start_ms": 117028,
+            "duration_ms": 157
+        }
+    ],
+    "취": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_취_G4_std6.3_-16.9dB_2239ms_2384ms_M30ms.ogg",
+            "start_ms": 117185,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_019_Rufo_취_A4_std1.6_-14.0dB_4479ms_4606ms_M30ms.ogg",
+            "start_ms": 117332,
+            "duration_ms": 128
+        }
+    ],
+    "치": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_045_Rufo_치_G4_std19.8_-26.2dB_2260ms_2368ms_M30ms.ogg",
+            "start_ms": 117460,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Momo_EP02_057_Rufo_치_A4_std5.5_-17.8dB_1200ms_1308ms_M30ms.ogg",
+            "start_ms": 117565,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Momo_EP02_069_Rufo_치_Unvoiced_std0.0_-21.7dB_1800ms_1908ms_M30ms.ogg",
+            "start_ms": 117674,
+            "duration_ms": 109
+        }
+    ],
+    "친": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_019_Rufo_친_C5_std9.5_-18.9dB_2440ms_2580ms_M30ms.ogg",
+            "start_ms": 117783,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP04_015_Rufo_친_B4_std24.4_-21.8dB_1240ms_1420ms_M30ms.ogg",
+            "start_ms": 117924,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP05_025_Rufo_친_Gsharp4_std21.7_-17.6dB_3550ms_3680ms_M30ms.ogg",
+            "start_ms": 118105,
+            "duration_ms": 131
+        }
+    ],
+    "침": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_050_Rufo_침_G4_std10.7_-21.0dB_1859ms_2030ms_M30ms.ogg",
+            "start_ms": 118236,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_023_Rufo_침_D4_std15.0_-21.9dB_520ms_690ms_M30ms.ogg",
+            "start_ms": 118409,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_pray_EP03_004_Rufo_침_Gsharp4_std19.5_-22.2dB_1910ms_2040ms_M30ms.ogg",
+            "start_ms": 118580,
+            "duration_ms": 131
+        }
+    ],
+    "칫": [
+        {
+            "file_name": "_selective_pray_EP02_087_Rufo_칫_Gsharp4_std14.8_-24.8dB_1680ms_1859ms_M30ms.ogg",
+            "start_ms": 118711,
+            "duration_ms": 199
+        }
+    ],
+    "케": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_030_Rufo_케_Csharp5_std12.4_-12.2dB_3880ms_4032ms_M30ms.ogg",
+            "start_ms": 118910,
+            "duration_ms": 149
+        }
+    ],
+    "켜": [
+        {
+            "file_name": "_selective_sameplace_EP05_044_Rufo_켜_E4_std14.0_-15.5dB_1119ms_1228ms_M30ms.ogg",
+            "start_ms": 119059,
+            "duration_ms": 106
+        }
+    ],
+    "콤": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_029_Rufo_콤_Asharp4_std5.0_-17.0dB_2560ms_2660ms_M30ms.ogg",
+            "start_ms": 119165,
+            "duration_ms": 101
+        }
+    ],
+    "크": [
+        {
+            "file_name": "_selective_Momo_EP06_045_Rufo_크_E5_std46.6_-13.7dB_1140ms_1230ms_M30ms.ogg",
+            "start_ms": 119266,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Rufo_Sorrow3_크_B4_std44.6_-20.4dB_500ms_643ms_M30ms.ogg",
+            "start_ms": 119357,
+            "duration_ms": 140
+        }
+    ],
+    "키": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_070_Rufo_키_B4_std5.8_-12.3dB_2880ms_3024ms_M30ms.ogg",
+            "start_ms": 119497,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP05_042_Rufo_키_Dsharp4_std1.8_-20.8dB_2200ms_2326ms_M30ms.ogg",
+            "start_ms": 119638,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Momo_EP06_061_Rufo_키_G4_std24.6_-19.8dB_3739ms_3893ms_M30ms.ogg",
+            "start_ms": 119766,
+            "duration_ms": 155
+        }
+    ],
+    "킵": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_074_Rufo_킵_C5_std22.6_-14.3dB_5860ms_6020ms_M30ms.ogg",
+            "start_ms": 119921,
+            "duration_ms": 157
+        }
+    ],
+    "타": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_020_HiddenRufo_타_Fsharp4_std23.3_-22.1dB_1160ms_1304ms_M30ms.ogg",
+            "start_ms": 120078,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP04_018_Rufo_타_Unvoiced_std0.0_-20.7dB_2600ms_2690ms_M30ms.ogg",
+            "start_ms": 120219,
+            "duration_ms": 91
+        }
+    ],
+    "탁": [
+        {
+            "file_name": "Voice_Rufo_Affinity6_탁_B4_std17.6_-14.5dB_679ms_820ms_M30ms.ogg",
+            "start_ms": 120310,
+            "duration_ms": 138
+        }
+    ],
+    "탈": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_035_Rufo_탈_G4_std33.4_-15.2dB_6739ms_6880ms_M30ms.ogg",
+            "start_ms": 120448,
+            "duration_ms": 141
+        }
+    ],
+    "탕": [
+        {
+            "file_name": "_selective_pray_EP09_093_Rufo_탕_Dsharp4_std9.9_-20.2dB_960ms_1160ms_M30ms.ogg",
+            "start_ms": 120589,
+            "duration_ms": 197
+        }
+    ],
+    "택": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_택_B4_std17.6_-23.3dB_7200ms_7380ms_M30ms.ogg",
+            "start_ms": 120786,
+            "duration_ms": 177
+        }
+    ],
+    "터": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_025_Rufo_터_Csharp4_std6.5_-17.1dB_1140ms_1230ms_M30ms.ogg",
+            "start_ms": 120963,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Momo_EP05_007_Rufo_터_A4_std24.8_-16.8dB_500ms_590ms_M30ms.ogg",
+            "start_ms": 121054,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_040_Rufo_터_Gsharp4_std5.1_-13.0dB_1020ms_1110ms_M30ms.ogg",
+            "start_ms": 121145,
+            "duration_ms": 91
+        }
+    ],
+    "테": [
+        {
+            "file_name": "_selective_sameplace_EP05_009_Rufo_테_Fsharp4_std7.4_-18.1dB_720ms_809ms_M30ms.ogg",
+            "start_ms": 121236,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Rufo_Touch1_Skin1_테_E5_std5.4_-11.3dB_1800ms_1908ms_M30ms.ogg",
+            "start_ms": 121327,
+            "duration_ms": 109
+        }
+    ],
+    "토": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_070_Rufo_토_Gsharp4_std16.0_-14.2dB_1000ms_1144ms_M30ms.ogg",
+            "start_ms": 121436,
+            "duration_ms": 141
+        }
+    ],
+    "통": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_029_Rufo_통_E4_std21.0_-19.5dB_4300ms_4420ms_M30ms.ogg",
+            "start_ms": 121577,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP09_023_Rufo_통_A4_std9.1_-20.4dB_680ms_820ms_M30ms.ogg",
+            "start_ms": 121694,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP05_020_Rufo_통_E4_std12.9_-23.5dB_2280ms_2480ms_M30ms.ogg",
+            "start_ms": 121835,
+            "duration_ms": 197
+        }
+    ],
+    "투": [
+        {
+            "file_name": "_selective_Momo_EP07_082_Rufo_투_Asharp4_std12.4_-18.9dB_860ms_968ms_M30ms.ogg",
+            "start_ms": 122032,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity3_투_Asharp4_std19.6_-17.7dB_300ms_408ms_M30ms.ogg",
+            "start_ms": 122141,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity4_투_A4_std21.0_-21.2dB_1760ms_1867ms_M30ms.ogg",
+            "start_ms": 122250,
+            "duration_ms": 109
+        }
+    ],
+    "트": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_045_Rufo_트_A4_std11.5_-18.8dB_1200ms_1290ms_M30ms.ogg",
+            "start_ms": 122359,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP09_023_Rufo_트_Csharp4_std1.9_-20.5dB_2980ms_3070ms_M30ms.ogg",
+            "start_ms": 122450,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Momo_EP02_020_Rufo_트_E4_std6.5_-19.0dB_5040ms_5130ms_M30ms.ogg",
+            "start_ms": 122541,
+            "duration_ms": 91
+        }
+    ],
+    "튼": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_043_Rufo_튼_F4_std16.2_-20.2dB_380ms_520ms_M30ms.ogg",
+            "start_ms": 122632,
+            "duration_ms": 141
+        }
+    ],
+    "틀": [
+        {
+            "file_name": "_selective_Momo_EP04_018_Rufo_틀_Asharp4_std15.5_-19.4dB_2840ms_3040ms_M30ms.ogg",
+            "start_ms": 122773,
+            "duration_ms": 197
+        }
+    ],
+    "판": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_085_Rufo_판_A3_std9.4_-19.8dB_5860ms_6050ms_M30ms.ogg",
+            "start_ms": 122970,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP02_011_Rufo_판_Fsharp4_std22.0_-13.8dB_3380ms_3560ms_M30ms.ogg",
+            "start_ms": 123162,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Momo_EP03_111_Rufo_판_B3_std19.7_-17.5dB_3600ms_3760ms_M30ms.ogg",
+            "start_ms": 123343,
+            "duration_ms": 157
+        }
+    ],
+    "팔": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_팔_Fsharp4_std17.7_-14.5dB_3960ms_4089ms_M30ms.ogg",
+            "start_ms": 123500,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_028_Rufo_팔_Gsharp4_std18.6_-11.7dB_940ms_1080ms_M30ms.ogg",
+            "start_ms": 123631,
+            "duration_ms": 141
+        }
+    ],
+    "패": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_020_Rufo_패_A4_std5.3_-15.7dB_5319ms_5410ms_M30ms.ogg",
+            "start_ms": 123772,
+            "duration_ms": 93
+        }
+    ],
+    "편": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_편_Dsharp5_std42.4_-18.2dB_2820ms_2960ms_M30ms.ogg",
+            "start_ms": 123865,
+            "duration_ms": 141
+        }
+    ],
+    "포": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_077_Rufo_포_Asharp4_std14.4_-15.7dB_1760ms_1904ms_M30ms.ogg",
+            "start_ms": 124006,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_075_Rufo_포_A4_std18.5_-17.6dB_600ms_744ms_M30ms.ogg",
+            "start_ms": 124147,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Rufo_SPSkill3-01_포_Fsharp4_std7.6_-14.0dB_360ms_504ms_M30ms.ogg",
+            "start_ms": 124288,
+            "duration_ms": 141
+        }
+    ],
+    "표": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_036_Rufo_표_E5_std91.5_-15.8dB_3780ms_3888ms_M30ms.ogg",
+            "start_ms": 124429,
+            "duration_ms": 109
+        }
+    ],
+    "푸": [
+        {
+            "file_name": "_selective_Momo_EP05_008_Rufo_푸_Dsharp4_std1.3_-19.7dB_3630ms_3728ms_M30ms.ogg",
+            "start_ms": 124538,
+            "duration_ms": 99
+        }
+    ],
+    "프": [
+        {
+            "file_name": "_selective_Main_Ch03_EP01_030_Rufo_프_E4_std23.4_-18.1dB_2739ms_2902ms_M30ms.ogg",
+            "start_ms": 124637,
+            "duration_ms": 183
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP04_032_Rufo_프_Asharp4_std8.6_-15.7dB_740ms_830ms_M30ms.ogg",
+            "start_ms": 124820,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch03_EP05_027_Rufo_프_G4_std16.3_-17.9dB_1800ms_1908ms_M30ms.ogg",
+            "start_ms": 124911,
+            "duration_ms": 105
+        }
+    ],
+    "플": [
+        {
+            "file_name": "Voice_Rufo_Affinity1_2_플_E5_std50.6_-11.1dB_520ms_640ms_M30ms.ogg",
+            "start_ms": 125016,
+            "duration_ms": 117
+        }
+    ],
+    "피": [
+        {
+            "file_name": "_selective_pray_EP03_053_Rufo_피_A4_std20.8_-19.8dB_4440ms_4584ms_M30ms.ogg",
+            "start_ms": 125133,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_pray_EP03_121_Rufo_피_Unvoiced_std0.0_-24.7dB_3520ms_3610ms_M30ms.ogg",
+            "start_ms": 125274,
+            "duration_ms": 91
+        }
+    ],
+    "필": [
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_015_Rufo_필_Unvoiced_std0.0_-22.3dB_1040ms_1180ms_M30ms.ogg",
+            "start_ms": 125365,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_필_Fsharp4_std15.2_-21.8dB_4280ms_4430ms_M30ms.ogg",
+            "start_ms": 125506,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Momo_EP04_047_Rufo_필_Unvoiced_std0.0_-21.3dB_2780ms_2929ms_M30ms.ogg",
+            "start_ms": 125658,
+            "duration_ms": 149
+        }
+    ],
+    "하": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_049_Rufo_하_D4_std5.1_-11.0dB_1820ms_1928ms_M30ms.ogg",
+            "start_ms": 125807,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity6_하_B4_std7.1_-15.8dB_1320ms_1428ms_M30ms.ogg",
+            "start_ms": 125916,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Rufo_Defeat2_하_E4_std2.1_-12.2dB_280ms_388ms_M30ms.ogg",
+            "start_ms": 126025,
+            "duration_ms": 109
+        }
+    ],
+    "한": [
+        {
+            "file_name": "_selective_Bookmarks_EP03_022_Rufo_한_B4_std11.3_-15.1dB_280ms_440ms_M30ms.ogg",
+            "start_ms": 126134,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Bookmarks_EP03_051_Rufo_한_B3_std28.3_-21.2dB_2900ms_3060ms_M30ms.ogg",
+            "start_ms": 126291,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main2_Ch06_EP10_067_Rufo_한_B4_std19.3_-18.1dB_2960ms_3120ms_M30ms.ogg",
+            "start_ms": 126448,
+            "duration_ms": 157
+        }
+    ],
+    "할": [
+        {
+            "file_name": "_selective_Momo_EP05_040_Rufo_할_Gsharp4_std13.4_-11.9dB_2040ms_2180ms_M30ms.ogg",
+            "start_ms": 126605,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Momo_EP06_113_Rufo_할_Dsharp4_std14.0_-13.5dB_2060ms_2200ms_M30ms.ogg",
+            "start_ms": 126746,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_pray_EP03_126_Rufo_할_Unvoiced_std0.0_-15.2dB_720ms_860ms_M30ms.ogg",
+            "start_ms": 126883,
+            "duration_ms": 141
+        }
+    ],
+    "함": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_043_Rufo_함_Fsharp4_std29.7_-16.5dB_2040ms_2239ms_M30ms.ogg",
+            "start_ms": 127024,
+            "duration_ms": 196
+        },
+        {
+            "file_name": "_selective_pray_EP10_189_Rufo_함_A4_std49.8_-13.0dB_3000ms_3180ms_M30ms.ogg",
+            "start_ms": 127220,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_059_Rufo_함_G4_std26.0_-18.1dB_1859ms_2040ms_M30ms.ogg",
+            "start_ms": 127397,
+            "duration_ms": 181
+        }
+    ],
+    "합": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_합_Dsharp4_std20.7_-16.7dB_2560ms_2739ms_M30ms.ogg",
+            "start_ms": 127578,
+            "duration_ms": 181
+        }
+    ],
+    "핰": [
+        {
+            "file_name": "Voice_Rufo_Pleasure5_핰_G5_std24.4_-10.5dB_270ms_410ms_M30ms.ogg",
+            "start_ms": 127759,
+            "duration_ms": 141
+        }
+    ],
+    "해": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_084_Rufo_해_E4_std11.9_-14.3dB_4540ms_4665ms_M30ms.ogg",
+            "start_ms": 127900,
+            "duration_ms": 122
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_094_Rufo_해_E3_std4.6_-14.2dB_1740ms_1865ms_M30ms.ogg",
+            "start_ms": 128022,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "Voice_Rufo_Affinity4_해_E5_std28.2_-12.8dB_3460ms_3586ms_M30ms.ogg",
+            "start_ms": 128147,
+            "duration_ms": 128
+        }
+    ],
+    "했": [
+        {
+            "file_name": "_selective_Momo_EP05_045_Rufo_했_D4_std3.6_-16.8dB_2260ms_2360ms_M30ms.ogg",
+            "start_ms": 128275,
+            "duration_ms": 97
+        },
+        {
+            "file_name": "_selective_Momo_EP06_112_Rufo_했_Asharp4_std32.0_-16.1dB_2980ms_3140ms_M30ms.ogg",
+            "start_ms": 128372,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Rufo_Birthday_했_Asharp4_std30.3_-16.0dB_720ms_919ms_M30ms.ogg",
+            "start_ms": 128529,
+            "duration_ms": 196
+        }
+    ],
+    "행": [
+        {
+            "file_name": "_selective_Main_Ch07_EP03_067_Rufo_행_C5_std4.6_-20.0dB_3780ms_3900ms_M30ms.ogg",
+            "start_ms": 128725,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP09_023_Rufo_행_Asharp4_std2.8_-21.3dB_820ms_980ms_M30ms.ogg",
+            "start_ms": 128842,
+            "duration_ms": 157
+        }
+    ],
+    "헤": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_029_Rufo_헤_Asharp4_std10.6_-14.7dB_2820ms_2910ms_M30ms.ogg",
+            "start_ms": 128999,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_073_Rufo_헤_A4_std9.1_-14.8dB_2540ms_2684ms_M30ms.ogg",
+            "start_ms": 129090,
+            "duration_ms": 141
+        }
+    ],
+    "혁": [
+        {
+            "file_name": "_selective_Main_Ch03_EP07_009_Rufo_혁_B4_std35.2_-17.4dB_980ms_1160ms_M30ms.ogg",
+            "start_ms": 129231,
+            "duration_ms": 181
+        }
+    ],
+    "협": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_051_Rufo_협_G4_std12.9_-18.5dB_1580ms_1760ms_M30ms.ogg",
+            "start_ms": 129412,
+            "duration_ms": 177
+        }
+    ],
+    "형": [
+        {
+            "file_name": "_selective_Momo_EP05_026_Rufo_형_G4_std3.9_-15.6dB_3520ms_3680ms_M30ms.ogg",
+            "start_ms": 129589,
+            "duration_ms": 157
+        }
+    ],
+    "호": [
+        {
+            "file_name": "_selective_pray_EP01_052_Rufo_호_Gsharp4_std8.2_-9.9dB_1420ms_1546ms_M30ms.ogg",
+            "start_ms": 129746,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_018_Rufo_호_Fsharp4_std13.3_-17.5dB_2600ms_2726ms_M30ms.ogg",
+            "start_ms": 129874,
+            "duration_ms": 128
+        }
+    ],
+    "혼": [
+        {
+            "file_name": "_selective_Main2_Ch02_EP03_051_Rufo_혼_Fsharp4_std29.4_-21.2dB_3100ms_3300ms_M30ms.ogg",
+            "start_ms": 130002,
+            "duration_ms": 197
+        }
+    ],
+    "홀": [
+        {
+            "file_name": "_selective_Momo_EP07_083_Rufo_홀_Asharp4_std31.9_-15.5dB_2480ms_2660ms_M30ms.ogg",
+            "start_ms": 130199,
+            "duration_ms": 181
+        }
+    ],
+    "홈": [
+        {
+            "file_name": "_selective_Main_Ch03_EP05_024_Rufo_홈_A4_std14.6_-20.0dB_5760ms_5960ms_M30ms.ogg",
+            "start_ms": 130380,
+            "duration_ms": 197
+        }
+    ],
+    "활": [
+        {
+            "file_name": "_selective_sameplace_EP02_073_Rufo_활_G4_std13.1_-12.9dB_1660ms_1790ms_M30ms.ogg",
+            "start_ms": 130577,
+            "duration_ms": 131
+        }
+    ],
+    "황": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_013_HiddenRufo_황_C5_std35.6_-10.9dB_2440ms_2560ms_M30ms.ogg",
+            "start_ms": 130708,
+            "duration_ms": 117
+        }
+    ],
+    "훈": [
+        {
+            "file_name": "_selective_Momo_EP05_064_Rufo_훈_E4_std13.2_-19.0dB_3080ms_3220ms_M30ms.ogg",
+            "start_ms": 130825,
+            "duration_ms": 141
+        }
+    ],
+    "희": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_063_Rufo_희_A4_std18.9_-14.6dB_2480ms_2606ms_M30ms.ogg",
+            "start_ms": 130966,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch07_EP03_067_Rufo_희_F4_std6.5_-17.1dB_2400ms_2508ms_M30ms.ogg",
+            "start_ms": 131094,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_070_Rufo_희_Dsharp4_std11.9_-17.5dB_300ms_408ms_M30ms.ogg",
+            "start_ms": 131203,
+            "duration_ms": 109
+        }
+    ],
+    "히": [
+        {
+            "file_name": "_selective_Momo_EP06_111_Rufo_히_A4_std12.3_-14.1dB_559ms_650ms_M30ms.ogg",
+            "start_ms": 131312,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_Momo_EP06_112_Rufo_히_Csharp5_std11.8_-16.5dB_2360ms_2450ms_M30ms.ogg",
+            "start_ms": 131405,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP02_018_Rufo_히_Asharp4_std6.7_-15.8dB_5079ms_5170ms_M30ms.ogg",
+            "start_ms": 131496,
+            "duration_ms": 93
+        }
+    ],
+    "힘": [
+        {
+            "file_name": "_selective_Main_Ch03_EP04_067_Rufo_힘_A4_std13.4_-19.4dB_1260ms_1430ms_M30ms.ogg",
+            "start_ms": 131589,
+            "duration_ms": 171
+        }
+    ]
+}

@@ -1,0 +1,2378 @@
+{
+    "가": [
+        {
+            "file_name": "_selective_Darkpath_EP01_047_BigWood_가_B3_std8.4_-9.3dB_1740ms_1902ms_M30ms.ogg",
+            "start_ms": 0,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_가_G3_std17.4_-15.3dB_2300ms_2462ms_M30ms.ogg",
+            "start_ms": 163,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_BigWood_DeckSetting2_가_C4_std19.5_-9.3dB_3040ms_3202ms_M30ms.ogg",
+            "start_ms": 326,
+            "duration_ms": 183
+        }
+    ],
+    "각": [
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_각_C4_std42.1_-16.6dB_3300ms_3480ms_M30ms.ogg",
+            "start_ms": 509,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_083_BigWood_각_D3_std5.4_-27.3dB_4019ms_4220ms_M30ms.ogg",
+            "start_ms": 686,
+            "duration_ms": 198
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_083_BigWood_각_Unvoiced_std0.0_-34.1dB_3890ms_4019ms_M30ms.ogg",
+            "start_ms": 884,
+            "duration_ms": 126
+        }
+    ],
+    "간": [
+        {
+            "file_name": "BigWood_Affinity6_간_F3_std8.4_-9.4dB_559ms_820ms_M30ms.ogg",
+            "start_ms": 1010,
+            "duration_ms": 258
+        }
+    ],
+    "거": [
+        {
+            "file_name": "_selective_InMirror_EP06_130_BigWood_거_Fsharp4_std57.4_-13.0dB_3580ms_3760ms_M30ms.ogg",
+            "start_ms": 1268,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_054_BigWood_거_Fsharp3_std17.3_-12.4dB_1359ms_1540ms_M30ms.ogg",
+            "start_ms": 1445,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_014_BigWood_거_Asharp3_std52.3_-9.8dB_5079ms_5251ms_M30ms.ogg",
+            "start_ms": 1623,
+            "duration_ms": 169
+        }
+    ],
+    "건": [
+        {
+            "file_name": "_selective_InMirror_EP06_125_BigWood_건_A3_std31.1_-13.1dB_220ms_440ms_M30ms.ogg",
+            "start_ms": 1792,
+            "duration_ms": 221
+        }
+    ],
+    "걸": [
+        {
+            "file_name": "_selective_Darkpath_EP01_044_BigWood_걸_Dsharp3_std4.6_-16.3dB_2020ms_2200ms_M30ms.ogg",
+            "start_ms": 2013,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_걸_Fsharp3_std14.6_-23.5dB_2280ms_2469ms_M30ms.ogg",
+            "start_ms": 2194,
+            "duration_ms": 189
+        }
+    ],
+    "것": [
+        {
+            "file_name": "_selective_Darkpath_EP01_035_BigWood_것_C4_std32.5_-11.1dB_5470ms_5640ms_M30ms.ogg",
+            "start_ms": 2383,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_054_BigWood_것_Asharp3_std19.6_-7.6dB_3900ms_4079ms_M30ms.ogg",
+            "start_ms": 2550,
+            "duration_ms": 176
+        },
+        {
+            "file_name": "BigWood_Affinity7_것_F3_std14.2_-12.6dB_7100ms_7300ms_M30ms.ogg",
+            "start_ms": 2726,
+            "duration_ms": 197
+        }
+    ],
+    "게": [
+        {
+            "file_name": "_selective_InMirror_EP06_093_BigWood_게_Csharp4_std10.1_-14.6dB_3160ms_3286ms_M30ms.ogg",
+            "start_ms": 2923,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_105_BigWood_게_E4_std12.4_-15.4dB_1660ms_1786ms_M30ms.ogg",
+            "start_ms": 3051,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_072_BigWood_게_Asharp3_std9.7_-11.3dB_3860ms_3985ms_M30ms.ogg",
+            "start_ms": 3179,
+            "duration_ms": 125
+        }
+    ],
+    "겠": [
+        {
+            "file_name": "_selective_Darkpath_EP01_049_BigWood_겠_A3_std3.4_-11.4dB_4739ms_4999ms_M30ms.ogg",
+            "start_ms": 3304,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_066_BigWood_겠_Gsharp3_std9.7_-21.7dB_960ms_1230ms_M30ms.ogg",
+            "start_ms": 3561,
+            "duration_ms": 272
+        }
+    ],
+    "겨": [
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_겨_Fsharp3_std21.7_-15.3dB_880ms_1042ms_M30ms.ogg",
+            "start_ms": 3833,
+            "duration_ms": 163
+        }
+    ],
+    "고": [
+        {
+            "file_name": "_selective_Darkpath_EP01_045_BigWood_고_E4_std16.4_-10.8dB_1810ms_1963ms_M30ms.ogg",
+            "start_ms": 3996,
+            "duration_ms": 150
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_016_BigWood_고_F4_std40.2_-11.1dB_1619ms_1764ms_M30ms.ogg",
+            "start_ms": 4146,
+            "duration_ms": 142
+        },
+        {
+            "file_name": "Voice_BigWood_Touch1_Skin1_고_F3_std10.6_-15.5dB_1800ms_1944ms_M30ms.ogg",
+            "start_ms": 4288,
+            "duration_ms": 141
+        }
+    ],
+    "곤": [
+        {
+            "file_name": "_selective_T_XMas_EP02_075_BigWood_곤_Asharp3_std3.6_-19.6dB_1480ms_1640ms_M30ms.ogg",
+            "start_ms": 4429,
+            "duration_ms": 157
+        }
+    ],
+    "구": [
+        {
+            "file_name": "Voice_BigWood_LevelUp_Skin1_구_A3_std21.3_-15.6dB_350ms_521ms_M30ms.ogg",
+            "start_ms": 4586,
+            "duration_ms": 168
+        },
+        {
+            "file_name": "Voice_BigWood_LevelUp_구_Gsharp3_std26.5_-16.0dB_330ms_501ms_M30ms.ogg",
+            "start_ms": 4754,
+            "duration_ms": 168
+        },
+        {
+            "file_name": "Voice_BigWood_Line3_구_Gsharp3_std28.3_-14.5dB_350ms_521ms_M30ms.ogg",
+            "start_ms": 4922,
+            "duration_ms": 168
+        }
+    ],
+    "군": [
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_군_G3_std11.7_-17.9dB_2080ms_2300ms_M30ms.ogg",
+            "start_ms": 5090,
+            "duration_ms": 217
+        }
+    ],
+    "그": [
+        {
+            "file_name": "_selective_InMirror_EP06_105_BigWood_그_C4_std10.4_-16.7dB_1520ms_1646ms_M30ms.ogg",
+            "start_ms": 5307,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_015_BigWood_그_Dsharp3_std8.9_-15.3dB_280ms_423ms_M30ms.ogg",
+            "start_ms": 5435,
+            "duration_ms": 140
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity4_그_A3_std18.9_-11.8dB_3520ms_3664ms_M30ms.ogg",
+            "start_ms": 5575,
+            "duration_ms": 141
+        }
+    ],
+    "근": [
+        {
+            "file_name": "BigWood_Affinity7_근_Asharp3_std15.2_-13.0dB_5239ms_5440ms_M30ms.ogg",
+            "start_ms": 5716,
+            "duration_ms": 220
+        }
+    ],
+    "금": [
+        {
+            "file_name": "_selective_InMirror_EP06_117_BigWood_금_G3_std6.9_-16.6dB_1960ms_2120ms_M30ms.ogg",
+            "start_ms": 5936,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_BigWood_Touch1_1_Skin1_금_Dsharp3_std4.9_-16.5dB_2760ms_2950ms_M30ms.ogg",
+            "start_ms": 6093,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_BigWood_Ultimate1-01_금_Gsharp3_std11.8_-19.4dB_2260ms_2400ms_M30ms.ogg",
+            "start_ms": 6285,
+            "duration_ms": 137
+        }
+    ],
+    "급": [
+        {
+            "file_name": "_selective_T_XMas_EP02_034_BigWood_급_Asharp3_std29.4_-16.4dB_1780ms_1979ms_M30ms.ogg",
+            "start_ms": 6422,
+            "duration_ms": 196
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_034_BigWood_급_Gsharp3_std10.6_-15.0dB_1369ms_1580ms_M30ms.ogg",
+            "start_ms": 6618,
+            "duration_ms": 213
+        }
+    ],
+    "기": [
+        {
+            "file_name": "_selective_Darkpath_EP01_052_BigWood_기_Csharp4_std4.1_-15.0dB_2180ms_2306ms_M30ms.ogg",
+            "start_ms": 6831,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_BigWood_DeckSetting2_기_Csharp4_std31.5_-15.1dB_3220ms_3346ms_M30ms.ogg",
+            "start_ms": 6959,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_BigWood_Lobby_기_A3_std19.6_-11.7dB_1260ms_1386ms_M30ms.ogg",
+            "start_ms": 7087,
+            "duration_ms": 128
+        }
+    ],
+    "김": [
+        {
+            "file_name": "BigWood_Die_김_G3_std11.1_-12.8dB_360ms_590ms_M30ms.ogg",
+            "start_ms": 7215,
+            "duration_ms": 232
+        }
+    ],
+    "까": [
+        {
+            "file_name": "Voice_BigWood_HeroUpgrade_까_C4_std43.4_-9.2dB_1530ms_1737ms_M30ms.ogg",
+            "start_ms": 7447,
+            "duration_ms": 204
+        }
+    ],
+    "깨": [
+        {
+            "file_name": "Voice_BigWood_Growth2_Skin1_깨_E4_std56.1_-9.2dB_1580ms_1760ms_M30ms.ogg",
+            "start_ms": 7651,
+            "duration_ms": 181
+        }
+    ],
+    "께": [
+        {
+            "file_name": "Voice_BigWood_Birthday_께_Gsharp3_std8.3_-10.3dB_3560ms_3668ms_M30ms.ogg",
+            "start_ms": 7832,
+            "duration_ms": 109
+        }
+    ],
+    "끝": [
+        {
+            "file_name": "Voice_BigWood_Stage_끝_E4_std84.9_-11.7dB_1979ms_2220ms_M30ms.ogg",
+            "start_ms": 7941,
+            "duration_ms": 243
+        }
+    ],
+    "낌": [
+        {
+            "file_name": "_selective_Darkpath_EP01_025_BigWood_낌_E4_std44.2_-14.7dB_4440ms_4609ms_M30ms.ogg",
+            "start_ms": 8184,
+            "duration_ms": 171
+        }
+    ],
+    "나": [
+        {
+            "file_name": "_selective_Darkpath_EP01_073_BigWood_나_F4_std23.7_-8.4dB_1880ms_2060ms_M30ms.ogg",
+            "start_ms": 8355,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_085_BigWood_나_Fsharp3_std10.2_-16.0dB_4499ms_4680ms_M30ms.ogg",
+            "start_ms": 8536,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "BigWood_SkillCast_나_G3_std17.3_-9.9dB_220ms_400ms_M30ms.ogg",
+            "start_ms": 8714,
+            "duration_ms": 181
+        }
+    ],
+    "난": [
+        {
+            "file_name": "_selective_Darkpath_EP01_039_BigWood_난_E3_std2.6_-20.9dB_1520ms_1690ms_M30ms.ogg",
+            "start_ms": 8895,
+            "duration_ms": 171
+        }
+    ],
+    "내": [
+        {
+            "file_name": "BigWood_Affinity7_내_F3_std5.2_-14.2dB_1520ms_1664ms_M30ms.ogg",
+            "start_ms": 9066,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_BigWood_Board_내_Gsharp3_std7.1_-8.8dB_380ms_524ms_M30ms.ogg",
+            "start_ms": 9207,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_BigWood_Touch1_1_Skin1_내_E3_std6.6_-12.9dB_3360ms_3504ms_M30ms.ogg",
+            "start_ms": 9348,
+            "duration_ms": 141
+        }
+    ],
+    "낼": [
+        {
+            "file_name": "_selective_Darkpath_EP01_066_BigWood_낼_F3_std6.6_-21.5dB_4270ms_4440ms_M30ms.ogg",
+            "start_ms": 9489,
+            "duration_ms": 171
+        }
+    ],
+    "너": [
+        {
+            "file_name": "_selective_InMirror_EP06_125_BigWood_너_A3_std1.7_-11.3dB_4019ms_4146ms_M30ms.ogg",
+            "start_ms": 9660,
+            "duration_ms": 128
+        }
+    ],
+    "놀": [
+        {
+            "file_name": "_selective_T_XMas_EP02_034_BigWood_놀_Csharp4_std39.4_-13.6dB_3590ms_3840ms_M30ms.ogg",
+            "start_ms": 9788,
+            "duration_ms": 247
+        }
+    ],
+    "누": [
+        {
+            "file_name": "_selective_InMirror_EP06_088_BigWood_누_E3_std10.0_-23.2dB_3040ms_3219ms_M30ms.ogg",
+            "start_ms": 10035,
+            "duration_ms": 176
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_누_Asharp3_std12.4_-15.0dB_1920ms_2064ms_M30ms.ogg",
+            "start_ms": 10211,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_BigWood_Touch2_Skin1_누_Dsharp3_std9.2_-23.3dB_160ms_339ms_M30ms.ogg",
+            "start_ms": 10352,
+            "duration_ms": 176
+        }
+    ],
+    "눈": [
+        {
+            "file_name": "Voice_BigWood_AsideGet_눈_C4_std38.3_-16.1dB_1800ms_2060ms_M30ms.ogg",
+            "start_ms": 10528,
+            "duration_ms": 261
+        }
+    ],
+    "느": [
+        {
+            "file_name": "_selective_Darkpath_EP01_025_BigWood_느_Dsharp4_std10.9_-10.2dB_4200ms_4416ms_M30ms.ogg",
+            "start_ms": 10789,
+            "duration_ms": 213
+        }
+    ],
+    "는": [
+        {
+            "file_name": "_selective_Darkpath_EP01_052_BigWood_는_G3_std6.1_-15.3dB_4009ms_4180ms_M30ms.ogg",
+            "start_ms": 11002,
+            "duration_ms": 168
+        },
+        {
+            "file_name": "BigWood_Affinity4_는_Dsharp3_std4.0_-14.4dB_2000ms_2180ms_M30ms.ogg",
+            "start_ms": 11170,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity4_는_Fsharp3_std3.2_-12.0dB_2060ms_2239ms_M30ms.ogg",
+            "start_ms": 11347,
+            "duration_ms": 191
+        }
+    ],
+    "니": [
+        {
+            "file_name": "Voice_Bigwood_Touch1_2_니_Dsharp3_std12.9_-22.3dB_960ms_1103ms_M30ms.ogg",
+            "start_ms": 11538,
+            "duration_ms": 144
+        }
+    ],
+    "다": [
+        {
+            "file_name": "_selective_Darkpath_EP01_049_BigWood_다_Unvoiced_std0.0_-11.9dB_4999ms_5143ms_M30ms.ogg",
+            "start_ms": 11682,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_093_BigWood_다_Dsharp4_std20.4_-12.7dB_3540ms_3684ms_M30ms.ogg",
+            "start_ms": 11823,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_099_BigWood_다_G4_std13.2_-12.7dB_5380ms_5524ms_M30ms.ogg",
+            "start_ms": 11964,
+            "duration_ms": 141
+        }
+    ],
+    "달": [
+        {
+            "file_name": "_selective_T_XMas_EP07_016_BigWood_달_Asharp3_std22.8_-14.4dB_2060ms_2280ms_M30ms.ogg",
+            "start_ms": 12105,
+            "duration_ms": 221
+        }
+    ],
+    "더": [
+        {
+            "file_name": "_selective_Darkpath_EP01_046_BigWood_더_G3_std11.1_-20.4dB_4399ms_4544ms_M30ms.ogg",
+            "start_ms": 12326,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "Voice_BigWood_SPSkill1-01_더_A3_std56.8_-9.6dB_1580ms_1796ms_M30ms.ogg",
+            "start_ms": 12473,
+            "duration_ms": 213
+        }
+    ],
+    "덜": [
+        {
+            "file_name": "_selective_InMirror_EP06_099_BigWood_덜_F3_std4.4_-19.7dB_2000ms_2239ms_M30ms.ogg",
+            "start_ms": 12686,
+            "duration_ms": 240
+        }
+    ],
+    "데": [
+        {
+            "file_name": "_selective_Darkpath_EP01_038_BigWood_데_Csharp4_std19.3_-9.1dB_319ms_446ms_M30ms.ogg",
+            "start_ms": 12926,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "BigWood_Affinity4_데_F3_std13.5_-8.9dB_780ms_923ms_M30ms.ogg",
+            "start_ms": 13054,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity4_데_F3_std16.6_-8.8dB_760ms_903ms_M30ms.ogg",
+            "start_ms": 13198,
+            "duration_ms": 140
+        }
+    ],
+    "도": [
+        {
+            "file_name": "_selective_InMirror_EP06_093_BigWood_도_Gsharp3_std10.0_-19.6dB_2239ms_2366ms_M30ms.ogg",
+            "start_ms": 13338,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_121_BigWood_도_B3_std13.2_-14.0dB_559ms_686ms_M30ms.ogg",
+            "start_ms": 13466,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_130_BigWood_도_C4_std23.1_-13.4dB_470ms_587ms_M30ms.ogg",
+            "start_ms": 13594,
+            "duration_ms": 117
+        }
+    ],
+    "돌": [
+        {
+            "file_name": "_selective_Darkpath_EP01_047_BigWood_돌_G4_std33.7_-14.2dB_1420ms_1590ms_M30ms.ogg",
+            "start_ms": 13711,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_067_BigWood_돌_Asharp3_std5.9_-10.8dB_2540ms_2670ms_M30ms.ogg",
+            "start_ms": 13882,
+            "duration_ms": 131
+        }
+    ],
+    "된": [
+        {
+            "file_name": "BigWood_Affinity7_된_Gsharp3_std7.9_-9.6dB_3540ms_3780ms_M30ms.ogg",
+            "start_ms": 14013,
+            "duration_ms": 237
+        }
+    ],
+    "두": [
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_두_A3_std3.8_-17.7dB_6380ms_6488ms_M30ms.ogg",
+            "start_ms": 14250,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_BigWood_Line3_두_Asharp3_std16.7_-13.7dB_540ms_720ms_M30ms.ogg",
+            "start_ms": 14359,
+            "duration_ms": 181
+        }
+    ],
+    "둠": [
+        {
+            "file_name": "_selective_Darkpath_EP01_058_BigWood_둠_Fsharp3_std14.3_-18.8dB_300ms_490ms_M30ms.ogg",
+            "start_ms": 14540,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_058_BigWood_둠_G3_std14.9_-17.0dB_2420ms_2610ms_M30ms.ogg",
+            "start_ms": 14732,
+            "duration_ms": 192
+        }
+    ],
+    "드": [
+        {
+            "file_name": "_selective_InMirror_EP06_128_BigWood_드_A3_std9.3_-17.7dB_2739ms_2848ms_M30ms.ogg",
+            "start_ms": 14924,
+            "duration_ms": 106
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity1_1_드_Gsharp3_std4.3_-14.7dB_2000ms_2108ms_M30ms.ogg",
+            "start_ms": 15030,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Bigwood_Touch1_2_드_Gsharp3_std17.0_-21.4dB_2340ms_2466ms_M30ms.ogg",
+            "start_ms": 15139,
+            "duration_ms": 128
+        }
+    ],
+    "든": [
+        {
+            "file_name": "_selective_InMirror_EP06_093_BigWood_든_E4_std47.1_-14.5dB_4680ms_4940ms_M30ms.ogg",
+            "start_ms": 15267,
+            "duration_ms": 261
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_121_BigWood_든_Csharp4_std54.6_-17.8dB_3420ms_3680ms_M30ms.ogg",
+            "start_ms": 15528,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity3_든_G3_std25.6_-15.3dB_3340ms_3600ms_M30ms.ogg",
+            "start_ms": 15785,
+            "duration_ms": 257
+        }
+    ],
+    "듣": [
+        {
+            "file_name": "BigWood_Affinity2_듣_Gsharp3_std7.8_-12.6dB_1800ms_2020ms_M30ms.ogg",
+            "start_ms": 16042,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "BigWood_Affinity3_듣_Asharp3_std29.3_-17.5dB_1820ms_2040ms_M30ms.ogg",
+            "start_ms": 16259,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity2_듣_Gsharp3_std9.4_-14.3dB_1720ms_1960ms_M30ms.ogg",
+            "start_ms": 16480,
+            "duration_ms": 237
+        }
+    ],
+    "들": [
+        {
+            "file_name": "_selective_Darkpath_EP01_049_BigWood_들_G3_std2.7_-14.9dB_4040ms_4190ms_M30ms.ogg",
+            "start_ms": 16717,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_077_BigWood_들_Csharp4_std8.5_-13.4dB_580ms_730ms_M30ms.ogg",
+            "start_ms": 16869,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_BigWood_SPSkill1-01_들_Gsharp3_std10.8_-18.1dB_540ms_690ms_M30ms.ogg",
+            "start_ms": 17021,
+            "duration_ms": 152
+        }
+    ],
+    "듬": [
+        {
+            "file_name": "_selective_Darkpath_EP01_049_BigWood_듬_E4_std10.7_-11.9dB_2040ms_2210ms_M30ms.ogg",
+            "start_ms": 17173,
+            "duration_ms": 171
+        }
+    ],
+    "때": [
+        {
+            "file_name": "_selective_Darkpath_EP01_047_BigWood_때_Asharp4_std14.2_-8.3dB_1220ms_1328ms_M30ms.ogg",
+            "start_ms": 17344,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_BigWood_Lobby_때_Dsharp4_std22.5_-12.0dB_2960ms_3140ms_M30ms.ogg",
+            "start_ms": 17453,
+            "duration_ms": 181
+        }
+    ],
+    "라": [
+        {
+            "file_name": "BigWood_Affinity3_라_G3_std10.2_-10.3dB_3389ms_3534ms_M30ms.ogg",
+            "start_ms": 17634,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity7_라_F3_std3.2_-12.5dB_7040ms_7156ms_M30ms.ogg",
+            "start_ms": 17781,
+            "duration_ms": 117
+        }
+    ],
+    "랑": [
+        {
+            "file_name": "_selective_Darkpath_EP01_049_BigWood_랑_G3_std13.7_-16.9dB_4190ms_4320ms_M30ms.ogg",
+            "start_ms": 17898,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_034_BigWood_랑_Csharp4_std3.9_-10.8dB_3120ms_3320ms_M30ms.ogg",
+            "start_ms": 18029,
+            "duration_ms": 197
+        }
+    ],
+    "래": [
+        {
+            "file_name": "_selective_InMirror_EP06_091_BigWood_래_Gsharp3_std10.0_-14.2dB_180ms_413ms_M30ms.ogg",
+            "start_ms": 18226,
+            "duration_ms": 235
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_099_BigWood_래_Asharp3_std4.0_-15.9dB_290ms_425ms_M30ms.ogg",
+            "start_ms": 18461,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_123_BigWood_래_Fsharp3_std2.0_-17.3dB_1270ms_1477ms_M30ms.ogg",
+            "start_ms": 18597,
+            "duration_ms": 208
+        }
+    ],
+    "러": [
+        {
+            "file_name": "_selective_InMirror_EP06_125_BigWood_러_F3_std3.8_-14.7dB_3320ms_3446ms_M30ms.ogg",
+            "start_ms": 18805,
+            "duration_ms": 128
+        }
+    ],
+    "런": [
+        {
+            "file_name": "_selective_T_XMas_EP02_054_BigWood_런_E3_std2.2_-14.5dB_1080ms_1240ms_M30ms.ogg",
+            "start_ms": 18933,
+            "duration_ms": 157
+        }
+    ],
+    "렇": [
+        {
+            "file_name": "_selective_Darkpath_EP01_066_BigWood_렇_B3_std40.3_-9.6dB_5780ms_5999ms_M30ms.ogg",
+            "start_ms": 19090,
+            "duration_ms": 216
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_070_BigWood_렇_E3_std13.5_-18.5dB_2380ms_2600ms_M30ms.ogg",
+            "start_ms": 19306,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_039_BigWood_렇_Fsharp3_std53.8_-13.0dB_4460ms_4680ms_M30ms.ogg",
+            "start_ms": 19523,
+            "duration_ms": 217
+        }
+    ],
+    "려": [
+        {
+            "file_name": "_selective_Darkpath_EP01_061_BigWood_려_Csharp4_std12.7_-10.0dB_429ms_565ms_M30ms.ogg",
+            "start_ms": 19740,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_016_BigWood_려_C4_std8.4_-9.8dB_2280ms_2397ms_M30ms.ogg",
+            "start_ms": 19873,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_BigWood_DutchRubEnd2_Skin1_려_B3_std23.1_-10.7dB_4390ms_4560ms_M30ms.ogg",
+            "start_ms": 19990,
+            "duration_ms": 167
+        }
+    ],
+    "력": [
+        {
+            "file_name": "Voice_BigWood_LevelUp_Skin1_력_Dsharp4_std30.4_-12.8dB_3250ms_3469ms_M30ms.ogg",
+            "start_ms": 20157,
+            "duration_ms": 221
+        }
+    ],
+    "령": [
+        {
+            "file_name": "_selective_Darkpath_EP01_059_BigWood_령_Fsharp4_std27.6_-9.0dB_1840ms_2040ms_M30ms.ogg",
+            "start_ms": 20378,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_054_BigWood_령_A3_std6.2_-8.6dB_3080ms_3280ms_M30ms.ogg",
+            "start_ms": 20575,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_054_BigWood_령_G3_std2.8_-10.7dB_420ms_620ms_M30ms.ogg",
+            "start_ms": 20772,
+            "duration_ms": 197
+        }
+    ],
+    "로": [
+        {
+            "file_name": "_selective_Darkpath_EP01_047_BigWood_로_A3_std5.1_-9.4dB_740ms_866ms_M30ms.ogg",
+            "start_ms": 20969,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_BigWood_Equipment_Skin1_로_G3_std3.7_-8.7dB_1080ms_1206ms_M30ms.ogg",
+            "start_ms": 21097,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_BigWood_Growth2_Skin1_로_F4_std21.5_-10.2dB_380ms_506ms_M30ms.ogg",
+            "start_ms": 21225,
+            "duration_ms": 128
+        }
+    ],
+    "록": [
+        {
+            "file_name": "_selective_Darkpath_EP01_053_BigWood_록_A3_std22.6_-18.7dB_1480ms_1680ms_M30ms.ogg",
+            "start_ms": 21353,
+            "duration_ms": 197
+        }
+    ],
+    "루": [
+        {
+            "file_name": "_selective_InMirror_EP06_097_BigWood_루_Csharp4_std14.5_-11.4dB_2860ms_3040ms_M30ms.ogg",
+            "start_ms": 21550,
+            "duration_ms": 181
+        }
+    ],
+    "르": [
+        {
+            "file_name": "_selective_Darkpath_EP01_052_BigWood_르_A3_std5.1_-13.7dB_2700ms_2817ms_M30ms.ogg",
+            "start_ms": 21731,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_066_BigWood_르_Fsharp3_std5.6_-21.0dB_830ms_947ms_M30ms.ogg",
+            "start_ms": 21848,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_081_BigWood_르_F3_std13.3_-19.4dB_2600ms_2717ms_M30ms.ogg",
+            "start_ms": 21962,
+            "duration_ms": 137
+        }
+    ],
+    "를": [
+        {
+            "file_name": "_selective_InMirror_EP06_107_BigWood_를_D4_std13.0_-14.5dB_4880ms_5000ms_M30ms.ogg",
+            "start_ms": 22099,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_를_D4_std19.9_-15.4dB_3480ms_3600ms_M30ms.ogg",
+            "start_ms": 22216,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity3_를_A3_std8.4_-15.5dB_2820ms_2940ms_M30ms.ogg",
+            "start_ms": 22333,
+            "duration_ms": 117
+        }
+    ],
+    "리": [
+        {
+            "file_name": "_selective_InMirror_EP06_088_BigWood_리_Gsharp3_std20.8_-19.1dB_2020ms_2182ms_M30ms.ogg",
+            "start_ms": 22450,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity6_리_Gsharp3_std7.5_-13.7dB_3020ms_3164ms_M30ms.ogg",
+            "start_ms": 22609,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_BigWood_Lobby_리_Dsharp4_std46.9_-8.5dB_3160ms_3322ms_M30ms.ogg",
+            "start_ms": 22750,
+            "duration_ms": 159
+        }
+    ],
+    "릭": [
+        {
+            "file_name": "Voice_BigWood_Trickcal1_릭_E4_std13.3_-10.6dB_139ms_400ms_M30ms.ogg",
+            "start_ms": 22909,
+            "duration_ms": 258
+        }
+    ],
+    "린": [
+        {
+            "file_name": "_selective_InMirror_EP06_099_BigWood_린_G3_std12.2_-16.6dB_2239ms_2460ms_M30ms.ogg",
+            "start_ms": 23167,
+            "duration_ms": 221
+        }
+    ],
+    "릴": [
+        {
+            "file_name": "Voice_BigWood_Board_릴_Fsharp3_std9.3_-14.0dB_540ms_800ms_M30ms.ogg",
+            "start_ms": 23388,
+            "duration_ms": 261
+        }
+    ],
+    "마": [
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_마_Dsharp3_std5.1_-16.0dB_1760ms_1976ms_M30ms.ogg",
+            "start_ms": 23649,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_072_BigWood_마_G3_std5.1_-17.4dB_1560ms_1829ms_M30ms.ogg",
+            "start_ms": 23862,
+            "duration_ms": 269
+        },
+        {
+            "file_name": "Voice_BigWood_Touch1_2_Skin1_마_A3_std6.5_-11.0dB_1560ms_1722ms_M30ms.ogg",
+            "start_ms": 24131,
+            "duration_ms": 163
+        }
+    ],
+    "막": [
+        {
+            "file_name": "_selective_T_XMas_EP07_016_BigWood_막_G4_std55.9_-10.3dB_3380ms_3590ms_M30ms.ogg",
+            "start_ms": 24294,
+            "duration_ms": 211
+        }
+    ],
+    "만": [
+        {
+            "file_name": "_selective_InMirror_EP06_118_BigWood_만_Dsharp3_std9.8_-19.1dB_1520ms_1740ms_M30ms.ogg",
+            "start_ms": 24505,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_034_BigWood_만_Csharp4_std18.5_-11.5dB_3320ms_3520ms_M30ms.ogg",
+            "start_ms": 24726,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_015_BigWood_만_F3_std8.6_-14.4dB_439ms_660ms_M30ms.ogg",
+            "start_ms": 24923,
+            "duration_ms": 221
+        }
+    ],
+    "많": [
+        {
+            "file_name": "_selective_T_XMas_EP02_061_BigWood_많_A3_std6.9_-10.7dB_4280ms_4490ms_M30ms.ogg",
+            "start_ms": 25144,
+            "duration_ms": 211
+        }
+    ],
+    "말": [
+        {
+            "file_name": "_selective_Darkpath_EP01_047_BigWood_말_A3_std4.6_-9.2dB_520ms_740ms_M30ms.ogg",
+            "start_ms": 25355,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "BigWood_Affinity2_말_G3_std3.9_-9.4dB_1440ms_1630ms_M30ms.ogg",
+            "start_ms": 25576,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity2_말_Gsharp3_std5.5_-10.2dB_1320ms_1510ms_M30ms.ogg",
+            "start_ms": 25768,
+            "duration_ms": 192
+        }
+    ],
+    "맞": [
+        {
+            "file_name": "Voice_BigWood_DeckSetting1_맞_A3_std7.3_-12.5dB_1540ms_1780ms_M30ms.ogg",
+            "start_ms": 25960,
+            "duration_ms": 237
+        }
+    ],
+    "매": [
+        {
+            "file_name": "_selective_InMirror_EP06_099_BigWood_매_E4_std32.9_-17.1dB_2820ms_2946ms_M30ms.ogg",
+            "start_ms": 26197,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_121_BigWood_매_E3_std1.9_-16.9dB_1260ms_1386ms_M30ms.ogg",
+            "start_ms": 26325,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_027_BigWood_매_G3_std11.2_-10.3dB_2440ms_2566ms_M30ms.ogg",
+            "start_ms": 26453,
+            "duration_ms": 123
+        }
+    ],
+    "먹": [
+        {
+            "file_name": "_selective_Darkpath_EP01_078_BigWood_먹_Dsharp4_std25.6_-10.1dB_559ms_790ms_M30ms.ogg",
+            "start_ms": 26576,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_먹_Csharp4_std49.1_-15.0dB_4479ms_4720ms_M30ms.ogg",
+            "start_ms": 26808,
+            "duration_ms": 243
+        },
+        {
+            "file_name": "BigWood_Affinity4_먹_Dsharp3_std4.3_-12.3dB_1760ms_2000ms_M30ms.ogg",
+            "start_ms": 27051,
+            "duration_ms": 237
+        }
+    ],
+    "며": [
+        {
+            "file_name": "_selective_InMirror_EP06_087_BigWood_며_D4_std3.0_-12.2dB_4520ms_4628ms_M30ms.ogg",
+            "start_ms": 27288,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "BigWood_Affinity6_며_F3_std8.4_-11.2dB_2860ms_3058ms_M30ms.ogg",
+            "start_ms": 27397,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity6_며_F3_std8.0_-13.7dB_3180ms_3414ms_M30ms.ogg",
+            "start_ms": 27597,
+            "duration_ms": 235
+        }
+    ],
+    "면": [
+        {
+            "file_name": "_selective_Darkpath_EP01_078_BigWood_면_Dsharp4_std31.6_-12.2dB_899ms_1080ms_M30ms.ogg",
+            "start_ms": 27832,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "BigWood_Affinity7_면_Gsharp3_std4.9_-10.1dB_2200ms_2380ms_M30ms.ogg",
+            "start_ms": 28013,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity7_면_Fsharp3_std7.7_-10.6dB_2300ms_2480ms_M30ms.ogg",
+            "start_ms": 28194,
+            "duration_ms": 181
+        }
+    ],
+    "명": [
+        {
+            "file_name": "Voice_BigWood_Growth1_Skin1_명_F3_std16.5_-15.6dB_3780ms_4000ms_M30ms.ogg",
+            "start_ms": 28375,
+            "duration_ms": 221
+        }
+    ],
+    "모": [
+        {
+            "file_name": "_selective_Darkpath_EP01_052_BigWood_모_A3_std7.6_-10.3dB_3700ms_3880ms_M30ms.ogg",
+            "start_ms": 28596,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_081_BigWood_모_Fsharp3_std6.4_-10.4dB_2420ms_2582ms_M30ms.ogg",
+            "start_ms": 28777,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_BigWood_AsideUpgrade_모_Dsharp3_std7.3_-18.0dB_300ms_498ms_M30ms.ogg",
+            "start_ms": 28940,
+            "duration_ms": 195
+        }
+    ],
+    "못": [
+        {
+            "file_name": "_selective_Darkpath_EP01_077_BigWood_못_C4_std13.1_-13.1dB_1820ms_1940ms_M30ms.ogg",
+            "start_ms": 29135,
+            "duration_ms": 117
+        }
+    ],
+    "무": [
+        {
+            "file_name": "_selective_Darkpath_EP01_060_BigWood_무_B3_std23.0_-15.6dB_1940ms_2084ms_M30ms.ogg",
+            "start_ms": 29252,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_095_BigWood_무_E4_std17.0_-12.3dB_4360ms_4522ms_M30ms.ogg",
+            "start_ms": 29393,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity2_무_Csharp3_std26.7_-17.9dB_3340ms_3502ms_M30ms.ogg",
+            "start_ms": 29556,
+            "duration_ms": 159
+        }
+    ],
+    "묵": [
+        {
+            "file_name": "Voice_BigWood_Affinity4_묵_Dsharp3_std20.9_-14.0dB_310ms_480ms_M30ms.ogg",
+            "start_ms": 29715,
+            "duration_ms": 167
+        }
+    ],
+    "문": [
+        {
+            "file_name": "_selective_T_XMas_EP02_061_BigWood_문_Gsharp3_std9.4_-15.5dB_4079ms_4240ms_M30ms.ogg",
+            "start_ms": 29882,
+            "duration_ms": 163
+        }
+    ],
+    "미": [
+        {
+            "file_name": "_selective_InMirror_EP06_097_BigWood_미_B3_std18.4_-12.7dB_2560ms_2830ms_M30ms.ogg",
+            "start_ms": 30045,
+            "duration_ms": 272
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_123_BigWood_미_B3_std20.3_-12.9dB_100ms_352ms_M30ms.ogg",
+            "start_ms": 30317,
+            "duration_ms": 253
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity5_미_Asharp3_std19.3_-15.0dB_2650ms_2884ms_M30ms.ogg",
+            "start_ms": 30570,
+            "duration_ms": 235
+        }
+    ],
+    "바": [
+        {
+            "file_name": "Voice_BigWood_Trickcal1_바_A3_std9.9_-9.5dB_1060ms_1222ms_M30ms.ogg",
+            "start_ms": 30805,
+            "duration_ms": 163
+        }
+    ],
+    "방": [
+        {
+            "file_name": "_selective_InMirror_EP06_103_BigWood_방_Fsharp4_std47.1_-17.1dB_1960ms_2200ms_M30ms.ogg",
+            "start_ms": 30968,
+            "duration_ms": 237
+        }
+    ],
+    "배": [
+        {
+            "file_name": "_selective_Darkpath_EP01_078_BigWood_배_Dsharp4_std15.7_-10.5dB_2200ms_2416ms_M30ms.ogg",
+            "start_ms": 31205,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_083_BigWood_배_Dsharp3_std3.3_-18.1dB_439ms_673ms_M30ms.ogg",
+            "start_ms": 31418,
+            "duration_ms": 235
+        }
+    ],
+    "번": [
+        {
+            "file_name": "_selective_Darkpath_EP01_072_BigWood_번_Fsharp3_std9.5_-18.4dB_3320ms_3460ms_M30ms.ogg",
+            "start_ms": 31653,
+            "duration_ms": 141
+        }
+    ],
+    "법": [
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_법_Dsharp3_std6.6_-17.1dB_2000ms_2130ms_M30ms.ogg",
+            "start_ms": 31794,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_072_BigWood_법_Csharp4_std37.1_-9.1dB_4499ms_4689ms_M30ms.ogg",
+            "start_ms": 31925,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_BigWood_Touch2_1_Skin1_법_C5_std14.1_-9.9dB_380ms_530ms_M30ms.ogg",
+            "start_ms": 32117,
+            "duration_ms": 152
+        }
+    ],
+    "벽": [
+        {
+            "file_name": "_selective_T_XMas_EP07_011_BigWood_벽_Asharp3_std18.7_-11.7dB_4479ms_4700ms_M30ms.ogg",
+            "start_ms": 32269,
+            "duration_ms": 218
+        },
+        {
+            "file_name": "Voice_BigWood_AsideUpgrade_벽_Csharp4_std39.7_-8.2dB_5300ms_5499ms_M30ms.ogg",
+            "start_ms": 32487,
+            "duration_ms": 196
+        }
+    ],
+    "보": [
+        {
+            "file_name": "_selective_Darkpath_EP01_026_BigWood_보_Dsharp4_std32.0_-11.3dB_3160ms_3304ms_M30ms.ogg",
+            "start_ms": 32683,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_016_BigWood_보_D4_std13.4_-12.6dB_1460ms_1603ms_M30ms.ogg",
+            "start_ms": 32824,
+            "duration_ms": 140
+        },
+        {
+            "file_name": "Voice_BigWood_Equipment_Skin1_보_F3_std6.0_-16.6dB_3380ms_3524ms_M30ms.ogg",
+            "start_ms": 32964,
+            "duration_ms": 141
+        }
+    ],
+    "복": [
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_복_D4_std40.1_-17.3dB_8560ms_8770ms_M30ms.ogg",
+            "start_ms": 33105,
+            "duration_ms": 211
+        }
+    ],
+    "부": [
+        {
+            "file_name": "_selective_Darkpath_EP01_052_BigWood_부_B3_std10.8_-22.5dB_2580ms_2688ms_M30ms.ogg",
+            "start_ms": 33316,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_090_BigWood_부_D4_std34.7_-18.3dB_2380ms_2542ms_M30ms.ogg",
+            "start_ms": 33425,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_020_BigWood_부_G3_std13.4_-17.2dB_2880ms_3132ms_M30ms.ogg",
+            "start_ms": 33584,
+            "duration_ms": 249
+        }
+    ],
+    "분": [
+        {
+            "file_name": "_selective_T_XMas_EP02_039_BigWood_분_Fsharp3_std8.6_-12.4dB_1619ms_1830ms_M30ms.ogg",
+            "start_ms": 33833,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "Voice_BigWood_Defeat1_분_Fsharp3_std11.3_-11.4dB_1190ms_1400ms_M30ms.ogg",
+            "start_ms": 34046,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "Voice_BigWood_Victory1_분_G3_std6.2_-7.3dB_360ms_610ms_M30ms.ogg",
+            "start_ms": 34257,
+            "duration_ms": 251
+        }
+    ],
+    "브": [
+        {
+            "file_name": "Voice_BigWood_Trickcal1_브_D3_std18.8_-18.9dB_1420ms_1600ms_M30ms.ogg",
+            "start_ms": 34508,
+            "duration_ms": 181
+        }
+    ],
+    "비": [
+        {
+            "file_name": "_selective_Darkpath_EP01_049_BigWood_비_Fsharp3_std16.2_-23.5dB_3600ms_3852ms_M30ms.ogg",
+            "start_ms": 34689,
+            "duration_ms": 253
+        },
+        {
+            "file_name": "Voice_BigWood_Birthday_비_G3_std13.4_-14.0dB_2400ms_2652ms_M30ms.ogg",
+            "start_ms": 34942,
+            "duration_ms": 253
+        },
+        {
+            "file_name": "Voice_BigWood_Growth2_Skin1_비_B3_std28.0_-20.1dB_3520ms_3772ms_M30ms.ogg",
+            "start_ms": 35195,
+            "duration_ms": 249
+        }
+    ],
+    "빠": [
+        {
+            "file_name": "_selective_T_XMas_EP02_033_BigWood_빠_Fsharp3_std9.7_-10.4dB_2790ms_3033ms_M30ms.ogg",
+            "start_ms": 35444,
+            "duration_ms": 245
+        }
+    ],
+    "빵": [
+        {
+            "file_name": "Voice_BigWood_Affinity1_1_빵_Asharp3_std22.0_-9.8dB_1380ms_1640ms_M30ms.ogg",
+            "start_ms": 35689,
+            "duration_ms": 261
+        }
+    ],
+    "뿌": [
+        {
+            "file_name": "Voice_BigWood_Affinity6_뿌_Csharp4_std29.4_-16.6dB_2860ms_3004ms_M30ms.ogg",
+            "start_ms": 35950,
+            "duration_ms": 141
+        }
+    ],
+    "사": [
+        {
+            "file_name": "_selective_Darkpath_EP01_058_BigWood_사_G3_std5.3_-19.8dB_3300ms_3444ms_M30ms.ogg",
+            "start_ms": 36091,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_067_BigWood_사_Csharp4_std8.1_-14.9dB_4380ms_4524ms_M30ms.ogg",
+            "start_ms": 36232,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Bigwood_Touch1_2_사_F3_std6.7_-22.4dB_2180ms_2324ms_M30ms.ogg",
+            "start_ms": 36373,
+            "duration_ms": 141
+        }
+    ],
+    "산": [
+        {
+            "file_name": "_selective_Darkpath_EP01_026_BigWood_산_Gsharp3_std28.5_-18.2dB_2760ms_2910ms_M30ms.ogg",
+            "start_ms": 36514,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_066_BigWood_산_D3_std10.2_-24.5dB_3360ms_3530ms_M30ms.ogg",
+            "start_ms": 36666,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_067_BigWood_산_Asharp3_std15.7_-12.4dB_580ms_750ms_M30ms.ogg",
+            "start_ms": 36837,
+            "duration_ms": 171
+        }
+    ],
+    "살": [
+        {
+            "file_name": "BigWood_Affinity6_살_E3_std9.4_-14.8dB_3140ms_3400ms_M30ms.ogg",
+            "start_ms": 37008,
+            "duration_ms": 257
+        }
+    ],
+    "새": [
+        {
+            "file_name": "Voice_BigWood_Equipment_Skin1_새_A3_std3.9_-18.6dB_919ms_1064ms_M30ms.ogg",
+            "start_ms": 37265,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "Voice_BigWood_Growth2_Skin1_새_G4_std40.8_-12.4dB_220ms_364ms_M30ms.ogg",
+            "start_ms": 37412,
+            "duration_ms": 141
+        }
+    ],
+    "생": [
+        {
+            "file_name": "_selective_T_XMas_EP02_034_BigWood_생_F3_std6.8_-17.9dB_1119ms_1369ms_M30ms.ogg",
+            "start_ms": 37553,
+            "duration_ms": 271
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_034_BigWood_생_Gsharp3_std8.1_-12.8dB_1580ms_1780ms_M30ms.ogg",
+            "start_ms": 37824,
+            "duration_ms": 197
+        }
+    ],
+    "서": [
+        {
+            "file_name": "_selective_Darkpath_EP01_046_BigWood_서_Asharp3_std10.7_-12.3dB_3969ms_4086ms_M30ms.ogg",
+            "start_ms": 38021,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_128_BigWood_서_C4_std12.1_-13.5dB_1720ms_1846ms_M30ms.ogg",
+            "start_ms": 38138,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "BigWood_Affinity6_서_F3_std7.5_-13.6dB_1560ms_1686ms_M30ms.ogg",
+            "start_ms": 38266,
+            "duration_ms": 128
+        }
+    ],
+    "석": [
+        {
+            "file_name": "_selective_Darkpath_EP01_083_BigWood_석_Gsharp3_std18.1_-21.4dB_2440ms_2660ms_M30ms.ogg",
+            "start_ms": 38394,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_028_BigWood_석_Fsharp3_std34.1_-11.3dB_3070ms_3239ms_M30ms.ogg",
+            "start_ms": 38611,
+            "duration_ms": 166
+        }
+    ],
+    "세": [
+        {
+            "file_name": "Voice_BigWood_HeroSkill_세_D4_std35.3_-9.4dB_2180ms_2432ms_M30ms.ogg",
+            "start_ms": 38777,
+            "duration_ms": 253
+        }
+    ],
+    "소": [
+        {
+            "file_name": "_selective_InMirror_EP06_105_BigWood_소_Asharp4_std68.0_-10.0dB_580ms_742ms_M30ms.ogg",
+            "start_ms": 39030,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_033_BigWood_소_Asharp3_std14.2_-13.4dB_1060ms_1222ms_M30ms.ogg",
+            "start_ms": 39193,
+            "duration_ms": 163
+        }
+    ],
+    "속": [
+        {
+            "file_name": "_selective_T_XMas_EP02_075_BigWood_속_G4_std27.1_-10.3dB_2880ms_3120ms_M30ms.ogg",
+            "start_ms": 39356,
+            "duration_ms": 237
+        }
+    ],
+    "수": [
+        {
+            "file_name": "_selective_InMirror_EP06_093_BigWood_수_Csharp4_std9.0_-15.4dB_2680ms_2806ms_M30ms.ogg",
+            "start_ms": 39593,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_130_BigWood_수_E4_std30.6_-12.9dB_2960ms_3086ms_M30ms.ogg",
+            "start_ms": 39721,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_BigWood_Touch2_2_Skin1_수_Asharp3_std14.3_-12.8dB_1960ms_2086ms_M30ms.ogg",
+            "start_ms": 39849,
+            "duration_ms": 128
+        }
+    ],
+    "순": [
+        {
+            "file_name": "_selective_InMirror_EP06_128_BigWood_순_B3_std7.1_-14.4dB_1359ms_1500ms_M30ms.ogg",
+            "start_ms": 39977,
+            "duration_ms": 141
+        }
+    ],
+    "습": [
+        {
+            "file_name": "_selective_Darkpath_EP01_035_BigWood_습_Fsharp3_std13.9_-21.0dB_3330ms_3490ms_M30ms.ogg",
+            "start_ms": 40118,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_BigWood_Equipment_Skin1_습_A3_std31.0_-14.9dB_1820ms_1960ms_M30ms.ogg",
+            "start_ms": 40275,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "Voice_Bigwood_Touch1_2_습_F3_std12.8_-18.8dB_800ms_960ms_M30ms.ogg",
+            "start_ms": 40412,
+            "duration_ms": 157
+        }
+    ],
+    "시": [
+        {
+            "file_name": "_selective_T_XMas_EP02_028_BigWood_시_Asharp3_std24.4_-16.0dB_2220ms_2364ms_M30ms.ogg",
+            "start_ms": 40569,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_028_BigWood_시_Dsharp4_std17.4_-11.1dB_1820ms_1982ms_M30ms.ogg",
+            "start_ms": 40733,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "Voice_BigWood_Board_시_Gsharp3_std14.7_-13.9dB_840ms_984ms_M30ms.ogg",
+            "start_ms": 40892,
+            "duration_ms": 164
+        }
+    ],
+    "식": [
+        {
+            "file_name": "_selective_InMirror_EP06_103_BigWood_식_Dsharp4_std19.3_-18.9dB_2200ms_2349ms_M30ms.ogg",
+            "start_ms": 41056,
+            "duration_ms": 149
+        }
+    ],
+    "신": [
+        {
+            "file_name": "_selective_InMirror_EP06_125_BigWood_신_A3_std3.4_-15.5dB_4540ms_4710ms_M30ms.ogg",
+            "start_ms": 41205,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_130_BigWood_신_A3_std6.8_-13.9dB_1859ms_2050ms_M30ms.ogg",
+            "start_ms": 41376,
+            "duration_ms": 192
+        }
+    ],
+    "싫": [
+        {
+            "file_name": "_selective_Darkpath_EP01_044_BigWood_싫_C4_std32.8_-18.9dB_2400ms_2610ms_M30ms.ogg",
+            "start_ms": 41568,
+            "duration_ms": 211
+        }
+    ],
+    "심": [
+        {
+            "file_name": "_selective_Darkpath_EP01_069_BigWood_심_Dsharp4_std39.2_-12.4dB_3830ms_3990ms_M30ms.ogg",
+            "start_ms": 41779,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_BigWood_Line3_심_Fsharp3_std14.8_-9.4dB_1900ms_2140ms_M30ms.ogg",
+            "start_ms": 41936,
+            "duration_ms": 237
+        }
+    ],
+    "싶": [
+        {
+            "file_name": "_selective_InMirror_EP06_121_BigWood_싶_Unvoiced_std0.0_-20.0dB_1880ms_2090ms_M30ms.ogg",
+            "start_ms": 42173,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_128_BigWood_싶_D4_std38.1_-19.4dB_3360ms_3610ms_M30ms.ogg",
+            "start_ms": 42384,
+            "duration_ms": 251
+        }
+    ],
+    "아": [
+        {
+            "file_name": "_selective_Darkpath_EP01_047_BigWood_아_A3_std11.4_-10.6dB_1590ms_1725ms_M30ms.ogg",
+            "start_ms": 42635,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_084_BigWood_아_Asharp3_std14.1_-11.5dB_3780ms_3942ms_M30ms.ogg",
+            "start_ms": 42767,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_014_BigWood_아_Fsharp3_std2.4_-9.2dB_2790ms_2943ms_M30ms.ogg",
+            "start_ms": 42926,
+            "duration_ms": 155
+        }
+    ],
+    "안": [
+        {
+            "file_name": "_selective_Darkpath_EP01_060_BigWood_안_F3_std10.8_-21.2dB_3820ms_4000ms_M30ms.ogg",
+            "start_ms": 43081,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "BigWood_Affinity7_안_G3_std6.6_-9.8dB_6300ms_6480ms_M30ms.ogg",
+            "start_ms": 43258,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity7_안_Fsharp3_std3.2_-10.5dB_6540ms_6720ms_M30ms.ogg",
+            "start_ms": 43439,
+            "duration_ms": 181
+        }
+    ],
+    "않": [
+        {
+            "file_name": "_selective_Darkpath_EP01_065_BigWood_않_A3_std4.6_-12.3dB_2100ms_2290ms_M30ms.ogg",
+            "start_ms": 43620,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_BigWood_Lobby_않_Gsharp3_std10.2_-10.3dB_3480ms_3720ms_M30ms.ogg",
+            "start_ms": 43812,
+            "duration_ms": 237
+        }
+    ],
+    "앞": [
+        {
+            "file_name": "_selective_T_XMas_EP02_062_BigWood_앞_Dsharp3_std5.2_-18.7dB_3440ms_3690ms_M30ms.ogg",
+            "start_ms": 44049,
+            "duration_ms": 251
+        }
+    ],
+    "야": [
+        {
+            "file_name": "_selective_T_XMas_EP02_061_BigWood_야_D4_std18.7_-8.7dB_5410ms_5545ms_M30ms.ogg",
+            "start_ms": 44300,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_062_BigWood_야_C4_std12.3_-9.2dB_1690ms_1825ms_M30ms.ogg",
+            "start_ms": 44436,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_062_BigWood_야_Csharp4_std10.2_-8.6dB_5290ms_5407ms_M30ms.ogg",
+            "start_ms": 44572,
+            "duration_ms": 117
+        }
+    ],
+    "양": [
+        {
+            "file_name": "_selective_T_XMas_EP07_011_BigWood_양_Dsharp4_std9.4_-9.5dB_5720ms_5920ms_M30ms.ogg",
+            "start_ms": 44689,
+            "duration_ms": 220
+        },
+        {
+            "file_name": "Voice_BigWood_AsideUpgrade_양_G3_std8.0_-9.0dB_3620ms_3800ms_M30ms.ogg",
+            "start_ms": 44909,
+            "duration_ms": 183
+        }
+    ],
+    "어": [
+        {
+            "file_name": "_selective_Darkpath_EP01_045_BigWood_어_Fsharp3_std11.0_-14.7dB_1000ms_1162ms_M30ms.ogg",
+            "start_ms": 45092,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_어_E3_std6.3_-20.7dB_2469ms_2605ms_M30ms.ogg",
+            "start_ms": 45251,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_072_BigWood_어_Dsharp4_std58.3_-11.6dB_1220ms_1345ms_M30ms.ogg",
+            "start_ms": 45384,
+            "duration_ms": 122
+        }
+    ],
+    "얼": [
+        {
+            "file_name": "_selective_InMirror_EP06_107_BigWood_얼_Asharp3_std22.9_-12.7dB_3820ms_4059ms_M30ms.ogg",
+            "start_ms": 45506,
+            "duration_ms": 240
+        }
+    ],
+    "없": [
+        {
+            "file_name": "_selective_Darkpath_EP01_083_BigWood_없_G3_std3.6_-12.1dB_5540ms_5800ms_M30ms.ogg",
+            "start_ms": 45746,
+            "duration_ms": 257
+        }
+    ],
+    "에": [
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_에_Fsharp3_std7.0_-13.9dB_580ms_724ms_M30ms.ogg",
+            "start_ms": 46003,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_에_Fsharp3_std6.1_-17.2dB_6499ms_6643ms_M30ms.ogg",
+            "start_ms": 46167,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity1_3_에_Gsharp3_std3.0_-7.9dB_459ms_604ms_M30ms.ogg",
+            "start_ms": 46331,
+            "duration_ms": 142
+        }
+    ],
+    "여": [
+        {
+            "file_name": "_selective_InMirror_EP06_091_BigWood_여_F3_std13.0_-15.7dB_1820ms_2000ms_M30ms.ogg",
+            "start_ms": 46473,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_030_BigWood_여_F3_std12.0_-11.9dB_120ms_335ms_M30ms.ogg",
+            "start_ms": 46650,
+            "duration_ms": 212
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_062_BigWood_여_B3_std20.8_-7.9dB_4899ms_5098ms_M30ms.ogg",
+            "start_ms": 46862,
+            "duration_ms": 209
+        }
+    ],
+    "열": [
+        {
+            "file_name": "_selective_InMirror_EP06_121_BigWood_열_Dsharp3_std9.4_-15.8dB_1000ms_1260ms_M30ms.ogg",
+            "start_ms": 47071,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_062_BigWood_열_Gsharp3_std13.7_-9.6dB_4239ms_4479ms_M30ms.ogg",
+            "start_ms": 47328,
+            "duration_ms": 237
+        }
+    ],
+    "영": [
+        {
+            "file_name": "_selective_Darkpath_EP01_026_BigWood_영_Asharp3_std12.1_-16.9dB_2500ms_2760ms_M30ms.ogg",
+            "start_ms": 47565,
+            "duration_ms": 261
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_076_BigWood_영_Csharp4_std20.6_-11.6dB_1720ms_1940ms_M30ms.ogg",
+            "start_ms": 47826,
+            "duration_ms": 221
+        }
+    ],
+    "오": [
+        {
+            "file_name": "_selective_Darkpath_EP01_061_BigWood_오_B3_std9.2_-12.8dB_50ms_248ms_M30ms.ogg",
+            "start_ms": 48047,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_086_BigWood_오_F4_std17.5_-11.7dB_2480ms_2696ms_M30ms.ogg",
+            "start_ms": 48247,
+            "duration_ms": 213
+        }
+    ],
+    "온": [
+        {
+            "file_name": "_selective_InMirror_EP06_091_BigWood_온_G3_std4.5_-14.5dB_3260ms_3460ms_M30ms.ogg",
+            "start_ms": 48460,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_051_BigWood_온_G3_std1.2_-11.0dB_1560ms_1740ms_M30ms.ogg",
+            "start_ms": 48657,
+            "duration_ms": 181
+        }
+    ],
+    "와": [
+        {
+            "file_name": "Voice_BigWood_Birthday_와_A3_std8.0_-7.1dB_3040ms_3184ms_M30ms.ogg",
+            "start_ms": 48838,
+            "duration_ms": 141
+        }
+    ],
+    "완": [
+        {
+            "file_name": "Voice_BigWood_AsideUpgrade_완_A3_std11.2_-9.4dB_4999ms_5300ms_M30ms.ogg",
+            "start_ms": 48979,
+            "duration_ms": 298
+        }
+    ],
+    "외": [
+        {
+            "file_name": "_selective_T_XMas_EP02_056_BigWood_외_Fsharp3_std12.3_-11.4dB_2130ms_2319ms_M30ms.ogg",
+            "start_ms": 49277,
+            "duration_ms": 186
+        }
+    ],
+    "요": [
+        {
+            "file_name": "BigWood_Affinity3_요_G3_std6.7_-12.9dB_80ms_295ms_M30ms.ogg",
+            "start_ms": 49463,
+            "duration_ms": 212
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity1_2_요_Asharp3_std19.6_-11.0dB_679ms_895ms_M30ms.ogg",
+            "start_ms": 49675,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity7_요_Gsharp3_std11.8_-11.3dB_3220ms_3418ms_M30ms.ogg",
+            "start_ms": 49888,
+            "duration_ms": 209
+        }
+    ],
+    "우": [
+        {
+            "file_name": "_selective_Darkpath_EP01_049_BigWood_우_Gsharp3_std10.7_-14.9dB_4609ms_4726ms_M30ms.ogg",
+            "start_ms": 50097,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_085_BigWood_우_E4_std20.0_-8.0dB_4189ms_4325ms_M30ms.ogg",
+            "start_ms": 50211,
+            "duration_ms": 133
+        }
+    ],
+    "운": [
+        {
+            "file_name": "_selective_T_XMas_EP02_033_BigWood_운_F3_std8.0_-14.3dB_2340ms_2560ms_M30ms.ogg",
+            "start_ms": 50344,
+            "duration_ms": 221
+        }
+    ],
+    "울": [
+        {
+            "file_name": "_selective_InMirror_EP06_093_BigWood_울_C4_std18.6_-14.3dB_2380ms_2560ms_M30ms.ogg",
+            "start_ms": 50565,
+            "duration_ms": 181
+        }
+    ],
+    "움": [
+        {
+            "file_name": "_selective_InMirror_EP06_123_BigWood_움_G3_std7.9_-17.3dB_2970ms_3150ms_M30ms.ogg",
+            "start_ms": 50746,
+            "duration_ms": 181
+        }
+    ],
+    "워": [
+        {
+            "file_name": "_selective_T_XMas_EP02_021_BigWood_워_G3_std8.2_-8.9dB_4739ms_4955ms_M30ms.ogg",
+            "start_ms": 50927,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_062_BigWood_워_Asharp3_std4.6_-6.5dB_1530ms_1674ms_M30ms.ogg",
+            "start_ms": 51140,
+            "duration_ms": 141
+        }
+    ],
+    "원": [
+        {
+            "file_name": "_selective_T_XMas_EP02_084_BigWood_원_Fsharp4_std60.8_-9.2dB_5620ms_5860ms_M30ms.ogg",
+            "start_ms": 51281,
+            "duration_ms": 237
+        }
+    ],
+    "유": [
+        {
+            "file_name": "_selective_Darkpath_EP01_067_BigWood_유_Csharp4_std37.8_-14.2dB_3580ms_3778ms_M30ms.ogg",
+            "start_ms": 51518,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_070_BigWood_유_A3_std8.7_-17.7dB_3420ms_3618ms_M30ms.ogg",
+            "start_ms": 51718,
+            "duration_ms": 195
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_084_BigWood_유_Asharp3_std14.8_-15.0dB_640ms_838ms_M30ms.ogg",
+            "start_ms": 51913,
+            "duration_ms": 200
+        }
+    ],
+    "으": [
+        {
+            "file_name": "_selective_T_XMas_EP02_045_BigWood_으_F4_std7.7_-15.0dB_1020ms_1137ms_M30ms.ogg",
+            "start_ms": 52113,
+            "duration_ms": 117
+        }
+    ],
+    "은": [
+        {
+            "file_name": "_selective_Darkpath_EP01_070_BigWood_은_A3_std28.9_-15.2dB_3820ms_4059ms_M30ms.ogg",
+            "start_ms": 52230,
+            "duration_ms": 236
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_091_BigWood_은_C4_std44.4_-15.3dB_1390ms_1620ms_M30ms.ogg",
+            "start_ms": 52466,
+            "duration_ms": 227
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_054_BigWood_은_A3_std26.8_-10.4dB_620ms_840ms_M30ms.ogg",
+            "start_ms": 52693,
+            "duration_ms": 231
+        }
+    ],
+    "을": [
+        {
+            "file_name": "_selective_Darkpath_EP01_039_BigWood_을_E3_std7.0_-19.7dB_1690ms_1840ms_M30ms.ogg",
+            "start_ms": 52924,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_058_BigWood_을_Fsharp3_std19.3_-17.6dB_3950ms_4100ms_M30ms.ogg",
+            "start_ms": 53071,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_을_E3_std6.1_-17.6dB_2130ms_2280ms_M30ms.ogg",
+            "start_ms": 53223,
+            "duration_ms": 147
+        }
+    ],
+    "음": [
+        {
+            "file_name": "_selective_Darkpath_EP01_025_BigWood_음_E4_std6.1_-12.7dB_3330ms_3500ms_M30ms.ogg",
+            "start_ms": 53370,
+            "duration_ms": 171
+        }
+    ],
+    "의": [
+        {
+            "file_name": "_selective_Darkpath_EP01_061_BigWood_의_B3_std10.1_-14.8dB_2680ms_2860ms_M30ms.ogg",
+            "start_ms": 53541,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_076_BigWood_의_Gsharp3_std4.6_-10.2dB_679ms_860ms_M30ms.ogg",
+            "start_ms": 53718,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "BigWood_Affinity2_의_G3_std3.3_-10.2dB_1240ms_1420ms_M30ms.ogg",
+            "start_ms": 53899,
+            "duration_ms": 177
+        }
+    ],
+    "이": [
+        {
+            "file_name": "_selective_Darkpath_EP01_038_BigWood_이_C4_std7.5_-17.8dB_1400ms_1544ms_M30ms.ogg",
+            "start_ms": 54076,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_060_BigWood_이_Csharp4_std12.1_-15.2dB_2980ms_3124ms_M30ms.ogg",
+            "start_ms": 54217,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity1_2_이_A3_std3.9_-8.2dB_1080ms_1224ms_M30ms.ogg",
+            "start_ms": 54358,
+            "duration_ms": 141
+        }
+    ],
+    "인": [
+        {
+            "file_name": "_selective_Darkpath_EP01_035_BigWood_인_F3_std5.6_-18.2dB_3490ms_3700ms_M30ms.ogg",
+            "start_ms": 54499,
+            "duration_ms": 207
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_046_BigWood_인_F3_std9.7_-23.7dB_2080ms_2350ms_M30ms.ogg",
+            "start_ms": 54706,
+            "duration_ms": 272
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_069_BigWood_인_Asharp3_std24.5_-18.6dB_3990ms_4220ms_M30ms.ogg",
+            "start_ms": 54978,
+            "duration_ms": 227
+        }
+    ],
+    "일": [
+        {
+            "file_name": "_selective_Darkpath_EP01_078_BigWood_일_D4_std13.7_-9.6dB_1840ms_1970ms_M30ms.ogg",
+            "start_ms": 55205,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_091_BigWood_일_Gsharp3_std5.8_-14.5dB_2860ms_3100ms_M30ms.ogg",
+            "start_ms": 55336,
+            "duration_ms": 237
+        }
+    ],
+    "있": [
+        {
+            "file_name": "_selective_Darkpath_EP01_066_BigWood_있_F3_std15.7_-21.2dB_4610ms_4819ms_M30ms.ogg",
+            "start_ms": 55573,
+            "duration_ms": 228
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_있_Unvoiced_std0.0_-20.9dB_4070ms_4280ms_M30ms.ogg",
+            "start_ms": 55801,
+            "duration_ms": 207
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_111_BigWood_있_Dsharp3_std10.6_-18.3dB_980ms_1180ms_M30ms.ogg",
+            "start_ms": 56008,
+            "duration_ms": 197
+        }
+    ],
+    "잊": [
+        {
+            "file_name": "_selective_InMirror_EP06_099_BigWood_잊_C4_std25.7_-13.7dB_3770ms_3999ms_M30ms.ogg",
+            "start_ms": 56205,
+            "duration_ms": 229
+        }
+    ],
+    "자": [
+        {
+            "file_name": "_selective_Darkpath_EP01_052_BigWood_자_A3_std4.2_-16.5dB_1979ms_2160ms_M30ms.ogg",
+            "start_ms": 56434,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_125_BigWood_자_A3_std8.9_-15.9dB_4319ms_4518ms_M30ms.ogg",
+            "start_ms": 56615,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_BigWood_DutchRubEnd2_Skin1_자_E4_std45.1_-9.3dB_1570ms_1777ms_M30ms.ogg",
+            "start_ms": 56815,
+            "duration_ms": 208
+        }
+    ],
+    "잘": [
+        {
+            "file_name": "BigWood_Affinity7_잘_E3_std11.6_-21.2dB_1880ms_2020ms_M30ms.ogg",
+            "start_ms": 57023,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity7_잘_Fsharp3_std8.3_-18.1dB_1960ms_2120ms_M30ms.ogg",
+            "start_ms": 57164,
+            "duration_ms": 157
+        }
+    ],
+    "장": [
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_장_B3_std28.3_-15.1dB_7420ms_7580ms_M30ms.ogg",
+            "start_ms": 57321,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_BigWood_Birthday_장_E4_std28.6_-8.3dB_4140ms_4300ms_M30ms.ogg",
+            "start_ms": 57478,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_BigWood_Growth1_장_C4_std13.4_-10.7dB_1200ms_1359ms_M30ms.ogg",
+            "start_ms": 57635,
+            "duration_ms": 160
+        }
+    ],
+    "재": [
+        {
+            "file_name": "BigWood_Affinity7_재_Asharp3_std11.8_-8.1dB_360ms_539ms_M30ms.ogg",
+            "start_ms": 57795,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity7_재_A3_std13.4_-9.1dB_380ms_506ms_M30ms.ogg",
+            "start_ms": 57976,
+            "duration_ms": 128
+        }
+    ],
+    "적": [
+        {
+            "file_name": "Voice_BigWood_LevelUp_Skin1_적_Dsharp4_std48.6_-12.2dB_2450ms_2610ms_M30ms.ogg",
+            "start_ms": 58104,
+            "duration_ms": 157
+        }
+    ],
+    "전": [
+        {
+            "file_name": "Voice_BigWood_Growth2_Skin1_전_E3_std12.9_-20.0dB_3130ms_3290ms_M30ms.ogg",
+            "start_ms": 58261,
+            "duration_ms": 157
+        }
+    ],
+    "정": [
+        {
+            "file_name": "_selective_Darkpath_EP01_058_BigWood_정_E3_std9.6_-20.3dB_2739ms_2960ms_M30ms.ogg",
+            "start_ms": 58418,
+            "duration_ms": 218
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_014_BigWood_정_G3_std20.4_-11.4dB_3889ms_4100ms_M30ms.ogg",
+            "start_ms": 58636,
+            "duration_ms": 208
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity7_정_Csharp4_std25.0_-10.1dB_3440ms_3660ms_M30ms.ogg",
+            "start_ms": 58844,
+            "duration_ms": 231
+        }
+    ],
+    "제": [
+        {
+            "file_name": "_selective_InMirror_EP06_121_BigWood_제_E4_std11.0_-13.9dB_3260ms_3404ms_M30ms.ogg",
+            "start_ms": 59075,
+            "duration_ms": 141
+        }
+    ],
+    "젠": [
+        {
+            "file_name": "BigWood_Affinity6_젠_F3_std8.8_-10.4dB_300ms_559ms_M30ms.ogg",
+            "start_ms": 59216,
+            "duration_ms": 256
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity6_젠_Fsharp3_std14.2_-11.8dB_300ms_559ms_M30ms.ogg",
+            "start_ms": 59472,
+            "duration_ms": 256
+        }
+    ],
+    "조": [
+        {
+            "file_name": "_selective_InMirror_EP06_117_BigWood_조_E3_std12.0_-17.4dB_1680ms_1932ms_M30ms.ogg",
+            "start_ms": 59728,
+            "duration_ms": 249
+        },
+        {
+            "file_name": "Voice_BigWood_Ultimate1-01_조_Fsharp3_std107.9_-13.7dB_2020ms_2236ms_M30ms.ogg",
+            "start_ms": 59977,
+            "duration_ms": 213
+        }
+    ],
+    "족": [
+        {
+            "file_name": "Voice_Bigwood_Touch1_2_족_Gsharp3_std8.9_-18.3dB_360ms_540ms_M30ms.ogg",
+            "start_ms": 60190,
+            "duration_ms": 181
+        }
+    ],
+    "좀": [
+        {
+            "file_name": "_selective_InMirror_EP06_123_BigWood_좀_Asharp3_std33.0_-16.3dB_3360ms_3620ms_M30ms.ogg",
+            "start_ms": 60371,
+            "duration_ms": 257
+        }
+    ],
+    "종": [
+        {
+            "file_name": "BigWood_Affinity3_종_Asharp3_std15.1_-13.6dB_3780ms_4019ms_M30ms.ogg",
+            "start_ms": 60628,
+            "duration_ms": 240
+        },
+        {
+            "file_name": "Voice_BigWood_Gacha3_종_G3_std18.7_-9.3dB_500ms_740ms_M30ms.ogg",
+            "start_ms": 60868,
+            "duration_ms": 237
+        }
+    ],
+    "좋": [
+        {
+            "file_name": "_selective_Darkpath_EP01_084_BigWood_좋_Csharp4_std19.7_-18.7dB_2880ms_3020ms_M30ms.ogg",
+            "start_ms": 61105,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_InMirror_EP06_105_BigWood_좋_Fsharp4_std16.4_-12.7dB_2100ms_2300ms_M30ms.ogg",
+            "start_ms": 61246,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_014_BigWood_좋_Fsharp3_std3.4_-13.1dB_2620ms_2790ms_M30ms.ogg",
+            "start_ms": 61443,
+            "duration_ms": 171
+        }
+    ],
+    "주": [
+        {
+            "file_name": "_selective_Darkpath_EP01_078_BigWood_주_Dsharp4_std15.8_-10.8dB_1700ms_1826ms_M30ms.ogg",
+            "start_ms": 61614,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_BigWood_DutchRubEnd2_Skin1_주_Csharp4_std11.7_-17.8dB_4579ms_4723ms_M30ms.ogg",
+            "start_ms": 61742,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_BigWood_Touch2_1_Skin1_주_Fsharp3_std8.9_-18.3dB_1410ms_1563ms_M30ms.ogg",
+            "start_ms": 61883,
+            "duration_ms": 155
+        }
+    ],
+    "중": [
+        {
+            "file_name": "_selective_Darkpath_EP01_085_BigWood_중_G3_std5.8_-16.4dB_430ms_540ms_M30ms.ogg",
+            "start_ms": 62038,
+            "duration_ms": 112
+        }
+    ],
+    "줘": [
+        {
+            "file_name": "_selective_T_XMas_EP02_062_BigWood_줘_Asharp3_std23.3_-7.8dB_5120ms_5273ms_M30ms.ogg",
+            "start_ms": 62150,
+            "duration_ms": 155
+        }
+    ],
+    "지": [
+        {
+            "file_name": "_selective_Darkpath_EP01_065_BigWood_지_Csharp4_std7.0_-12.1dB_1940ms_2066ms_M30ms.ogg",
+            "start_ms": 62305,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "BigWood_Affinity3_지_Asharp3_std5.0_-14.3dB_2040ms_2166ms_M30ms.ogg",
+            "start_ms": 62433,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_BigWood_Lobby_지_Unvoiced_std0.0_-10.0dB_3340ms_3466ms_M30ms.ogg",
+            "start_ms": 62561,
+            "duration_ms": 128
+        }
+    ],
+    "직": [
+        {
+            "file_name": "Voice_BigWood_Affinity2_직_C4_std36.7_-17.3dB_2640ms_2860ms_M30ms.ogg",
+            "start_ms": 62689,
+            "duration_ms": 221
+        }
+    ],
+    "진": [
+        {
+            "file_name": "_selective_T_XMas_EP02_028_BigWood_진_Gsharp3_std15.2_-17.1dB_2640ms_2800ms_M30ms.ogg",
+            "start_ms": 62910,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity1_3_진_Asharp3_std21.5_-17.3dB_2520ms_2640ms_M30ms.ogg",
+            "start_ms": 63067,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_BigWood_Birthday_진_Asharp3_std17.2_-11.7dB_1020ms_1260ms_M30ms.ogg",
+            "start_ms": 63184,
+            "duration_ms": 260
+        }
+    ],
+    "쪽": [
+        {
+            "file_name": "_selective_Darkpath_EP01_067_BigWood_쪽_G3_std37.4_-14.0dB_1500ms_1730ms_M30ms.ogg",
+            "start_ms": 63444,
+            "duration_ms": 232
+        }
+    ],
+    "차": [
+        {
+            "file_name": "Voice_BigWood_Line2_차_Fsharp4_std20.0_-11.5dB_3080ms_3242ms_M30ms.ogg",
+            "start_ms": 63676,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "Voice_BigWood_Touch1_1_Skin1_차_G3_std13.3_-17.8dB_3720ms_3882ms_M30ms.ogg",
+            "start_ms": 63835,
+            "duration_ms": 163
+        }
+    ],
+    "착": [
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_착_D4_std5.7_-20.5dB_3040ms_3300ms_M30ms.ogg",
+            "start_ms": 63998,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity6_착_Fsharp3_std18.4_-19.5dB_1300ms_1500ms_M30ms.ogg",
+            "start_ms": 64255,
+            "duration_ms": 197
+        }
+    ],
+    "찮": [
+        {
+            "file_name": "_selective_Darkpath_EP01_082_BigWood_찮_F3_std10.3_-19.6dB_3750ms_3929ms_M30ms.ogg",
+            "start_ms": 64452,
+            "duration_ms": 181
+        }
+    ],
+    "처": [
+        {
+            "file_name": "_selective_Darkpath_EP01_025_BigWood_처_E4_std14.8_-19.0dB_3120ms_3309ms_M30ms.ogg",
+            "start_ms": 64633,
+            "duration_ms": 189
+        }
+    ],
+    "추": [
+        {
+            "file_name": "Voice_BigWood_PowerAttack1-02_추_Csharp5_std50.9_-14.8dB_720ms_954ms_M30ms.ogg",
+            "start_ms": 64822,
+            "duration_ms": 231
+        }
+    ],
+    "충": [
+        {
+            "file_name": "BigWood_Affinity2_충_D4_std30.2_-15.3dB_2420ms_2660ms_M30ms.ogg",
+            "start_ms": 65053,
+            "duration_ms": 237
+        }
+    ],
+    "치": [
+        {
+            "file_name": "_selective_Darkpath_EP01_039_BigWood_치_Unvoiced_std0.0_-20.7dB_1880ms_2006ms_M30ms.ogg",
+            "start_ms": 65290,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Darkpath_EP01_060_BigWood_치_Unvoiced_std0.0_-20.9dB_740ms_901ms_M30ms.ogg",
+            "start_ms": 65418,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_027_BigWood_치_Unvoiced_std0.0_-16.2dB_2980ms_3106ms_M30ms.ogg",
+            "start_ms": 65576,
+            "duration_ms": 123
+        }
+    ],
+    "커": [
+        {
+            "file_name": "Voice_BigWood_Birthday_커_B3_std32.5_-11.6dB_740ms_992ms_M30ms.ogg",
+            "start_ms": 65699,
+            "duration_ms": 253
+        }
+    ],
+    "큰": [
+        {
+            "file_name": "Voice_BigWood_Gacha3_큰_Fsharp4_std5.6_-13.8dB_2700ms_2860ms_M30ms.ogg",
+            "start_ms": 65952,
+            "duration_ms": 157
+        }
+    ],
+    "키": [
+        {
+            "file_name": "_selective_InMirror_EP06_087_BigWood_키_Dsharp4_std2.2_-16.1dB_4340ms_4502ms_M30ms.ogg",
+            "start_ms": 66109,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_021_BigWood_키_A3_std7.7_-14.4dB_4560ms_4721ms_M30ms.ogg",
+            "start_ms": 66272,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_062_BigWood_키_Csharp4_std7.4_-15.8dB_1359ms_1513ms_M30ms.ogg",
+            "start_ms": 66435,
+            "duration_ms": 155
+        }
+    ],
+    "투": [
+        {
+            "file_name": "Voice_BigWood_Affinity5_투_A3_std5.7_-15.4dB_1800ms_1926ms_M30ms.ogg",
+            "start_ms": 66590,
+            "duration_ms": 128
+        }
+    ],
+    "표": [
+        {
+            "file_name": "_selective_T_XMas_EP02_045_BigWood_표_Dsharp4_std30.4_-11.3dB_580ms_814ms_M30ms.ogg",
+            "start_ms": 66718,
+            "duration_ms": 231
+        }
+    ],
+    "프": [
+        {
+            "file_name": "_selective_T_XMas_EP07_014_BigWood_프_Fsharp3_std8.6_-17.4dB_2200ms_2326ms_M30ms.ogg",
+            "start_ms": 66949,
+            "duration_ms": 145
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_015_BigWood_프_B3_std20.0_-16.3dB_1130ms_1247ms_M30ms.ogg",
+            "start_ms": 67094,
+            "duration_ms": 114
+        }
+    ],
+    "플": [
+        {
+            "file_name": "_selective_InMirror_EP06_101_BigWood_플_Gsharp4_std25.8_-13.8dB_1740ms_1940ms_M30ms.ogg",
+            "start_ms": 67208,
+            "duration_ms": 197
+        }
+    ],
+    "픔": [
+        {
+            "file_name": "_selective_InMirror_EP06_108_BigWood_픔_E3_std7.1_-23.8dB_380ms_550ms_M30ms.ogg",
+            "start_ms": 67405,
+            "duration_ms": 171
+        }
+    ],
+    "피": [
+        {
+            "file_name": "_selective_Darkpath_EP01_062_BigWood_피_Fsharp3_std24.8_-18.5dB_20ms_272ms_M30ms.ogg",
+            "start_ms": 67576,
+            "duration_ms": 249
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_075_BigWood_피_Gsharp3_std30.9_-22.4dB_1220ms_1454ms_M30ms.ogg",
+            "start_ms": 67825,
+            "duration_ms": 235
+        },
+        {
+            "file_name": "Voice_BigWood_HeroSkill_피_Csharp4_std31.6_-14.0dB_20ms_254ms_M30ms.ogg",
+            "start_ms": 68060,
+            "duration_ms": 231
+        }
+    ],
+    "필": [
+        {
+            "file_name": "_selective_Darkpath_EP01_045_BigWood_필_A3_std9.7_-22.0dB_1460ms_1630ms_M30ms.ogg",
+            "start_ms": 68291,
+            "duration_ms": 171
+        }
+    ],
+    "하": [
+        {
+            "file_name": "_selective_Darkpath_EP01_084_BigWood_하_Fsharp3_std8.0_-15.5dB_1950ms_2103ms_M30ms.ogg",
+            "start_ms": 68462,
+            "duration_ms": 150
+        },
+        {
+            "file_name": "BigWood_Affinity7_하_G3_std10.1_-10.7dB_2020ms_2182ms_M30ms.ogg",
+            "start_ms": 68612,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity7_하_Fsharp3_std9.6_-13.0dB_2120ms_2282ms_M30ms.ogg",
+            "start_ms": 68771,
+            "duration_ms": 163
+        }
+    ],
+    "한": [
+        {
+            "file_name": "_selective_Darkpath_EP01_026_BigWood_한_F4_std21.4_-11.3dB_3480ms_3700ms_M30ms.ogg",
+            "start_ms": 68934,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "BigWood_Affinity2_한_Asharp3_std9.4_-11.0dB_2860ms_3080ms_M30ms.ogg",
+            "start_ms": 69151,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_BigWood_AsideUpgrade_한_Csharp4_std38.7_-11.5dB_1960ms_2200ms_M30ms.ogg",
+            "start_ms": 69372,
+            "duration_ms": 237
+        }
+    ],
+    "할": [
+        {
+            "file_name": "_selective_Darkpath_EP01_047_BigWood_할_A3_std2.9_-13.7dB_919ms_1100ms_M30ms.ogg",
+            "start_ms": 69609,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_T_XMas_EP07_014_BigWood_할_C4_std33.0_-12.2dB_4890ms_5060ms_M30ms.ogg",
+            "start_ms": 69787,
+            "duration_ms": 167
+        }
+    ],
+    "해": [
+        {
+            "file_name": "_selective_Darkpath_EP01_060_BigWood_해_D4_std8.2_-15.4dB_1700ms_1916ms_M30ms.ogg",
+            "start_ms": 69954,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_T_XMas_EP02_022_BigWood_해_Asharp3_std18.1_-8.6dB_6210ms_6399ms_M30ms.ogg",
+            "start_ms": 70167,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "Voice_BigWood_Affinity6_해_F3_std11.3_-18.1dB_1500ms_1698ms_M30ms.ogg",
+            "start_ms": 70356,
+            "duration_ms": 200
+        }
+    ],
+    "행": [
+        {
+            "file_name": "_selective_InMirror_EP06_125_BigWood_행_Dsharp3_std17.1_-16.6dB_890ms_1020ms_M30ms.ogg",
+            "start_ms": 70556,
+            "duration_ms": 131
+        }
+    ],
+    "호": [
+        {
+            "file_name": "_selective_Darkpath_EP01_026_BigWood_호_Dsharp4_std13.3_-6.9dB_3320ms_3464ms_M30ms.ogg",
+            "start_ms": 70687,
+            "duration_ms": 141
+        }
+    ],
+    "흐": [
+        {
+            "file_name": "Voice_BigWood_Anger3_흐_Asharp3_std17.3_-8.8dB_1430ms_1583ms_M30ms.ogg",
+            "start_ms": 70828,
+            "duration_ms": 155
+        }
+    ],
+    "히": [
+        {
+            "file_name": "_selective_Darkpath_EP01_061_BigWood_히_B3_std13.6_-17.0dB_270ms_413ms_M30ms.ogg",
+            "start_ms": 70983,
+            "duration_ms": 144
+        }
+    ]
+}

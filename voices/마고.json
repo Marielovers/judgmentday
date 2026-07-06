@@ -1,0 +1,2815 @@
+{
+    "가": [
+        {
+            "file_name": "_selective_Holiday_EP06_047_Mago_가_Gsharp4_std22.4_-15.1dB_1780ms_1906ms_M30ms.ogg",
+            "start_ms": 0,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_081_Mago_가_Fsharp4_std7.5_-13.6dB_1640ms_1766ms_M30ms.ogg",
+            "start_ms": 128,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_Affinity5_가_Gsharp4_std7.3_-8.5dB_2120ms_2246ms_M30ms.ogg",
+            "start_ms": 256,
+            "duration_ms": 123
+        }
+    ],
+    "각": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_067_Mago_각_Asharp4_std22.1_-17.7dB_3040ms_3260ms_M30ms.ogg",
+            "start_ms": 379,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_067_Mago_각_Gsharp4_std5.1_-20.6dB_659ms_840ms_M30ms.ogg",
+            "start_ms": 596,
+            "duration_ms": 201
+        }
+    ],
+    "간": [
+        {
+            "file_name": "_selective_Holiday_EP05_008_Mago_간_Asharp4_std25.0_-12.6dB_3260ms_3450ms_M30ms.ogg",
+            "start_ms": 797,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Mago_Lobby_간_Fsharp4_std17.0_-10.6dB_2280ms_2440ms_M30ms.ogg",
+            "start_ms": 989,
+            "duration_ms": 157
+        }
+    ],
+    "갈": [
+        {
+            "file_name": "Voice_Mago_Affinity7_갈_D4_std32.6_-12.4dB_2160ms_2349ms_M30ms.ogg",
+            "start_ms": 1146,
+            "duration_ms": 189
+        }
+    ],
+    "값": [
+        {
+            "file_name": "_selective_Holiday_EP02_048_Mago_값_Gsharp4_std14.6_-16.9dB_2560ms_2790ms_M30ms.ogg",
+            "start_ms": 1335,
+            "duration_ms": 232
+        }
+    ],
+    "강": [
+        {
+            "file_name": "Voice_Mago_HeroSkill_강_Csharp4_std9.4_-14.0dB_840ms_1020ms_M30ms.ogg",
+            "start_ms": 1567,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Mago_LevelUp_강_Asharp3_std27.2_-12.2dB_760ms_919ms_M30ms.ogg",
+            "start_ms": 1748,
+            "duration_ms": 160
+        }
+    ],
+    "같": [
+        {
+            "file_name": "Voice_Mago_Affinity2_같_B3_std30.2_-19.0dB_1560ms_1810ms_M30ms.ogg",
+            "start_ms": 1908,
+            "duration_ms": 251
+        },
+        {
+            "file_name": "Voice_Mago_Birthday_같_Unvoiced_std0.0_-19.3dB_1960ms_2210ms_M30ms.ogg",
+            "start_ms": 2159,
+            "duration_ms": 251
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_Skin1_같_G4_std7.9_-16.4dB_660ms_890ms_M30ms.ogg",
+            "start_ms": 2410,
+            "duration_ms": 232
+        }
+    ],
+    "거": [
+        {
+            "file_name": "Voice_Mago_Affinity1_3_거_B3_std12.5_-15.1dB_1820ms_1963ms_M30ms.ogg",
+            "start_ms": 2642,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_Skin1_거_D4_std11.1_-16.5dB_1080ms_1224ms_M30ms.ogg",
+            "start_ms": 2786,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Victory2_거_A4_std34.2_-8.7dB_1550ms_1703ms_M30ms.ogg",
+            "start_ms": 2927,
+            "duration_ms": 155
+        }
+    ],
+    "건": [
+        {
+            "file_name": "_selective_Holiday_EP03_027_Mago_건_A4_std19.0_-10.3dB_620ms_800ms_M30ms.ogg",
+            "start_ms": 3082,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_건_Asharp3_std38.3_-13.1dB_1359ms_1619ms_M30ms.ogg",
+            "start_ms": 3263,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_건_Fsharp4_std32.5_-9.7dB_1119ms_1320ms_M30ms.ogg",
+            "start_ms": 3520,
+            "duration_ms": 198
+        }
+    ],
+    "것": [
+        {
+            "file_name": "Voice_Mago_DeckSetting1_것_A4_std25.7_-14.9dB_880ms_1040ms_M30ms.ogg",
+            "start_ms": 3718,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_1_것_Fsharp4_std12.2_-14.0dB_2739ms_2900ms_M30ms.ogg",
+            "start_ms": 3875,
+            "duration_ms": 158
+        }
+    ],
+    "게": [
+        {
+            "file_name": "Voice_Mago_Affinity2_게_Fsharp4_std16.7_-14.0dB_2140ms_2284ms_M30ms.ogg",
+            "start_ms": 4033,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Gacha2_게_B4_std41.2_-13.1dB_980ms_1124ms_M30ms.ogg",
+            "start_ms": 4174,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Growth2_게_F4_std26.1_-13.0dB_880ms_1006ms_M30ms.ogg",
+            "start_ms": 4315,
+            "duration_ms": 128
+        }
+    ],
+    "겠": [
+        {
+            "file_name": "_selective_Holiday_EP03_039_Mago_겠_Asharp4_std21.0_-14.4dB_1920ms_2140ms_M30ms.ogg",
+            "start_ms": 4443,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_겠_G4_std6.1_-19.1dB_3920ms_4140ms_M30ms.ogg",
+            "start_ms": 4660,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Mago_Growth2_Skin1_겠_Fsharp4_std12.1_-18.4dB_2020ms_2220ms_M30ms.ogg",
+            "start_ms": 4881,
+            "duration_ms": 197
+        }
+    ],
+    "계": [
+        {
+            "file_name": "_selective_Holiday_EP02_038_Mago_계_Dsharp4_std5.9_-18.2dB_439ms_637ms_M30ms.ogg",
+            "start_ms": 5078,
+            "duration_ms": 200
+        }
+    ],
+    "고": [
+        {
+            "file_name": "_selective_Holiday_EP02_047_Mago_고_Asharp4_std4.2_-15.1dB_2440ms_2548ms_M30ms.ogg",
+            "start_ms": 5278,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_006_Mago_고_G4_std33.5_-13.2dB_2680ms_2788ms_M30ms.ogg",
+            "start_ms": 5387,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_고_G4_std24.7_-14.8dB_2620ms_2728ms_M30ms.ogg",
+            "start_ms": 5496,
+            "duration_ms": 109
+        }
+    ],
+    "곧": [
+        {
+            "file_name": "_selective_Holiday_EP02_013_Mago_곧_F4_std50.1_-15.0dB_1940ms_2160ms_M30ms.ogg",
+            "start_ms": 5605,
+            "duration_ms": 217
+        }
+    ],
+    "공": [
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_공_Gsharp4_std19.5_-14.3dB_4220ms_4340ms_M30ms.ogg",
+            "start_ms": 5822,
+            "duration_ms": 117
+        }
+    ],
+    "관": [
+        {
+            "file_name": "_selective_Holiday_EP03_003_Mago_관_Gsharp3_std57.1_-16.9dB_600ms_860ms_M30ms.ogg",
+            "start_ms": 5939,
+            "duration_ms": 261
+        }
+    ],
+    "교": [
+        {
+            "file_name": "Voice_Mago_CallPlayer3_교_E4_std24.0_-8.8dB_0ms_198ms_M30ms.ogg",
+            "start_ms": 6200,
+            "duration_ms": 195
+        },
+        {
+            "file_name": "Voice_Mago_FakeEvent1_교_Asharp4_std19.2_-12.3dB_1940ms_2120ms_M30ms.ogg",
+            "start_ms": 6395,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_Skin1_교_C4_std18.6_-22.6dB_80ms_278ms_M30ms.ogg",
+            "start_ms": 6576,
+            "duration_ms": 200
+        }
+    ],
+    "구": [
+        {
+            "file_name": "Voice_Mago_Affinity2_구_Asharp4_std12.4_-12.1dB_1040ms_1148ms_M30ms.ogg",
+            "start_ms": 6776,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Mago_DutchRubEnd2_구_D4_std6.4_-18.4dB_1440ms_1548ms_M30ms.ogg",
+            "start_ms": 6881,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Mago_Gacha3_구_Gsharp4_std14.7_-11.0dB_620ms_728ms_M30ms.ogg",
+            "start_ms": 6990,
+            "duration_ms": 109
+        }
+    ],
+    "국": [
+        {
+            "file_name": "_selective_Holiday_EP05_005_Mago_국_Asharp4_std18.9_-18.2dB_2600ms_2840ms_M30ms.ogg",
+            "start_ms": 7099,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_008_Mago_국_B4_std14.1_-17.7dB_2520ms_2720ms_M30ms.ogg",
+            "start_ms": 7336,
+            "duration_ms": 197
+        }
+    ],
+    "그": [
+        {
+            "file_name": "_selective_Holiday_EP03_001_Mago_그_D4_std6.1_-16.6dB_1260ms_1377ms_M30ms.ogg",
+            "start_ms": 7533,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Mago_Affinity1_2_그_Dsharp4_std3.2_-14.4dB_1359ms_1468ms_M30ms.ogg",
+            "start_ms": 7650,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Mago_Affinity1_2_그_F4_std9.0_-13.4dB_520ms_628ms_M30ms.ogg",
+            "start_ms": 7759,
+            "duration_ms": 109
+        }
+    ],
+    "금": [
+        {
+            "file_name": "_selective_Holiday_EP02_017_Mago_금_G4_std18.5_-12.6dB_339ms_600ms_M30ms.ogg",
+            "start_ms": 7868,
+            "duration_ms": 261
+        }
+    ],
+    "기": [
+        {
+            "file_name": "_selective_Holiday_EP02_018_Mago_기_Fsharp4_std9.6_-20.5dB_2500ms_2608ms_M30ms.ogg",
+            "start_ms": 8129,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_006_Mago_기_A4_std21.1_-12.8dB_1480ms_1587ms_M30ms.ogg",
+            "start_ms": 8238,
+            "duration_ms": 104
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_092_Mago_기_A4_std7.7_-13.7dB_2540ms_2630ms_M30ms.ogg",
+            "start_ms": 8342,
+            "duration_ms": 91
+        }
+    ],
+    "긴": [
+        {
+            "file_name": "_selective_Holiday_EP02_080_Mago_긴_D4_std6.2_-23.8dB_3680ms_3860ms_M30ms.ogg",
+            "start_ms": 8433,
+            "duration_ms": 177
+        }
+    ],
+    "길": [
+        {
+            "file_name": "_selective_Holiday_EP02_013_Mago_길_D4_std16.9_-17.1dB_2460ms_2630ms_M30ms.ogg",
+            "start_ms": 8610,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_022_Mago_길_Csharp4_std30.6_-17.9dB_3100ms_3350ms_M30ms.ogg",
+            "start_ms": 8781,
+            "duration_ms": 251
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_038_Mago_길_Dsharp4_std8.3_-17.6dB_840ms_1010ms_M30ms.ogg",
+            "start_ms": 9032,
+            "duration_ms": 171
+        }
+    ],
+    "까": [
+        {
+            "file_name": "Voice_Mago_Affinity1_1_까_Dsharp4_std39.2_-13.5dB_3040ms_3274ms_M30ms.ogg",
+            "start_ms": 9203,
+            "duration_ms": 231
+        },
+        {
+            "file_name": "Voice_Mago_Affinity4_까_C4_std19.4_-14.2dB_3040ms_3202ms_M30ms.ogg",
+            "start_ms": 9434,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_Skin1_까_C4_std21.4_-20.4dB_3440ms_3620ms_M30ms.ogg",
+            "start_ms": 9597,
+            "duration_ms": 181
+        }
+    ],
+    "깎": [
+        {
+            "file_name": "_selective_Holiday_EP02_068_Mago_깎_Gsharp4_std7.1_-16.7dB_1780ms_2050ms_M30ms.ogg",
+            "start_ms": 9778,
+            "duration_ms": 272
+        }
+    ],
+    "깨": [
+        {
+            "file_name": "_selective_Holiday_EP03_003_Mago_깨_Gsharp4_std12.7_-17.3dB_3340ms_3538ms_M30ms.ogg",
+            "start_ms": 10050,
+            "duration_ms": 195
+        }
+    ],
+    "꼬": [
+        {
+            "file_name": "_selective_Holiday_EP02_053_Mago_꼬_B4_std22.9_-11.4dB_3860ms_4040ms_M30ms.ogg",
+            "start_ms": 10245,
+            "duration_ms": 181
+        }
+    ],
+    "꿀": [
+        {
+            "file_name": "_selective_Holiday_EP03_008_Mago_꿀_A4_std11.7_-12.1dB_2800ms_2940ms_M30ms.ogg",
+            "start_ms": 10426,
+            "duration_ms": 141
+        }
+    ],
+    "나": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_072_Mago_나_C4_std23.9_-19.4dB_3720ms_3846ms_M30ms.ogg",
+            "start_ms": 10567,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_나_F4_std4.3_-15.7dB_2120ms_2246ms_M30ms.ogg",
+            "start_ms": 10695,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_DeckSetting1_나_F4_std42.9_-10.9dB_2020ms_2164ms_M30ms.ogg",
+            "start_ms": 10823,
+            "duration_ms": 141
+        }
+    ],
+    "난": [
+        {
+            "file_name": "_selective_Holiday_EP02_022_Mago_난_D4_std36.3_-13.4dB_1420ms_1600ms_M30ms.ogg",
+            "start_ms": 10964,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_035_Mago_난_Fsharp4_std24.2_-10.5dB_60ms_220ms_M30ms.ogg",
+            "start_ms": 11145,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_045_Mago_난_A4_std16.1_-12.0dB_1650ms_1790ms_M30ms.ogg",
+            "start_ms": 11302,
+            "duration_ms": 141
+        }
+    ],
+    "날": [
+        {
+            "file_name": "Voice_Mago_Line3_날_D4_std22.7_-13.0dB_1160ms_1370ms_M30ms.ogg",
+            "start_ms": 11443,
+            "duration_ms": 211
+        }
+    ],
+    "났": [
+        {
+            "file_name": "Voice_Mago_FakeEvent1_났_Csharp5_std34.9_-15.6dB_2660ms_2929ms_M30ms.ogg",
+            "start_ms": 11654,
+            "duration_ms": 269
+        }
+    ],
+    "낭": [
+        {
+            "file_name": "Voice_Mago_Affinity6_낭_Asharp3_std9.8_-16.1dB_1520ms_1760ms_M30ms.ogg",
+            "start_ms": 11923,
+            "duration_ms": 237
+        }
+    ],
+    "내": [
+        {
+            "file_name": "_selective_Holiday_EP03_010_Mago_내_Csharp4_std7.9_-11.4dB_640ms_766ms_M30ms.ogg",
+            "start_ms": 12160,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_Affinity5_내_D4_std8.8_-14.6dB_2420ms_2546ms_M30ms.ogg",
+            "start_ms": 12288,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_Skin1_내_A4_std8.8_-15.2dB_919ms_1046ms_M30ms.ogg",
+            "start_ms": 12416,
+            "duration_ms": 128
+        }
+    ],
+    "냥": [
+        {
+            "file_name": "Voice_Mago_FakeEvent2_냥_G4_std7.0_-12.8dB_2030ms_2180ms_M30ms.ogg",
+            "start_ms": 12544,
+            "duration_ms": 152
+        }
+    ],
+    "너": [
+        {
+            "file_name": "_selective_Holiday_EP02_048_Mago_너_Dsharp4_std12.6_-12.3dB_1180ms_1306ms_M30ms.ogg",
+            "start_ms": 12696,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_Affinity1_1_너_B3_std6.7_-12.9dB_1580ms_1778ms_M30ms.ogg",
+            "start_ms": 12824,
+            "duration_ms": 195
+        },
+        {
+            "file_name": "Voice_Mago_Affinity3_너_B3_std4.1_-15.7dB_1530ms_1701ms_M30ms.ogg",
+            "start_ms": 13019,
+            "duration_ms": 168
+        }
+    ],
+    "넘": [
+        {
+            "file_name": "Voice_Mago_Stage_넘_Csharp4_std37.5_-10.7dB_500ms_730ms_M30ms.ogg",
+            "start_ms": 13187,
+            "duration_ms": 232
+        }
+    ],
+    "녕": [
+        {
+            "file_name": "Voice_Mago_Greeting_녕_B3_std47.3_-10.8dB_319ms_460ms_M30ms.ogg",
+            "start_ms": 13419,
+            "duration_ms": 141
+        }
+    ],
+    "노": [
+        {
+            "file_name": "_selective_Holiday_EP02_018_Mago_노_Csharp4_std13.3_-15.7dB_2960ms_3122ms_M30ms.ogg",
+            "start_ms": 13560,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Holiday_EP04_011_Mago_노_F4_std14.8_-13.4dB_1540ms_1684ms_M30ms.ogg",
+            "start_ms": 13723,
+            "duration_ms": 141
+        }
+    ],
+    "누": [
+        {
+            "file_name": "_selective_Holiday_EP02_047_Mago_누_Csharp4_std3.4_-17.4dB_1940ms_2030ms_M30ms.ogg",
+            "start_ms": 13864,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Mago_Affinity1_1_누_A3_std7.8_-15.9dB_340ms_537ms_M30ms.ogg",
+            "start_ms": 13955,
+            "duration_ms": 194
+        },
+        {
+            "file_name": "Voice_Mago_Affinity1_2_누_Csharp4_std1.1_-14.4dB_1800ms_1890ms_M30ms.ogg",
+            "start_ms": 14149,
+            "duration_ms": 91
+        }
+    ],
+    "느": [
+        {
+            "file_name": "Voice_Mago_Touch2_Skin1_느_F4_std8.3_-22.8dB_1220ms_1418ms_M30ms.ogg",
+            "start_ms": 14240,
+            "duration_ms": 195
+        }
+    ],
+    "는": [
+        {
+            "file_name": "_selective_Holiday_EP06_047_Mago_는_G4_std15.1_-15.6dB_439ms_600ms_M30ms.ogg",
+            "start_ms": 14435,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "Voice_Mago_Affinity3_는_Gsharp4_std13.0_-12.7dB_659ms_820ms_M30ms.ogg",
+            "start_ms": 14593,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Mago_DutchRubEnd2_는_Dsharp4_std9.2_-14.4dB_1560ms_1720ms_M30ms.ogg",
+            "start_ms": 14756,
+            "duration_ms": 157
+        }
+    ],
+    "니": [
+        {
+            "file_name": "_selective_Holiday_EP03_031_Mago_니_F4_std12.1_-18.6dB_2260ms_2404ms_M30ms.ogg",
+            "start_ms": 14913,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_니_Asharp4_std23.4_-12.8dB_480ms_624ms_M30ms.ogg",
+            "start_ms": 15077,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_HeroSkill_Skin1_니_E4_std15.3_-20.3dB_2340ms_2493ms_M30ms.ogg",
+            "start_ms": 15218,
+            "duration_ms": 155
+        }
+    ],
+    "님": [
+        {
+            "file_name": "_selective_Holiday_EP03_031_Mago_님_Asharp4_std7.2_-10.4dB_3340ms_3510ms_M30ms.ogg",
+            "start_ms": 15373,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_064_Mago_님_E4_std17.2_-19.6dB_2440ms_2610ms_M30ms.ogg",
+            "start_ms": 15544,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_068_Mago_님_G4_std10.8_-16.9dB_1800ms_1970ms_M30ms.ogg",
+            "start_ms": 15715,
+            "duration_ms": 171
+        }
+    ],
+    "다": [
+        {
+            "file_name": "_selective_Holiday_EP02_013_Mago_다_F4_std11.1_-11.7dB_2720ms_2864ms_M30ms.ogg",
+            "start_ms": 15886,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_다_Fsharp4_std6.4_-13.8dB_3200ms_3344ms_M30ms.ogg",
+            "start_ms": 16027,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Touch2_1_다_A4_std3.5_-10.0dB_2500ms_2644ms_M30ms.ogg",
+            "start_ms": 16168,
+            "duration_ms": 141
+        }
+    ],
+    "단": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_063_Mago_단_E4_std7.3_-15.5dB_199ms_370ms_M30ms.ogg",
+            "start_ms": 16309,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "Voice_Mago_FakeEvent1_단_C5_std12.2_-13.2dB_2140ms_2290ms_M30ms.ogg",
+            "start_ms": 16482,
+            "duration_ms": 152
+        }
+    ],
+    "당": [
+        {
+            "file_name": "_selective_Holiday_EP03_027_Mago_당_F4_std36.6_-13.9dB_2040ms_2300ms_M30ms.ogg",
+            "start_ms": 16634,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_당_A4_std6.7_-11.0dB_280ms_400ms_M30ms.ogg",
+            "start_ms": 16891,
+            "duration_ms": 117
+        }
+    ],
+    "대": [
+        {
+            "file_name": "Voice_Mago_Touch2_1_Skin1_대_Asharp3_std13.3_-20.8dB_319ms_482ms_M30ms.ogg",
+            "start_ms": 17008,
+            "duration_ms": 165
+        }
+    ],
+    "더": [
+        {
+            "file_name": "Voice_Mago_Affinity4_더_Dsharp4_std11.4_-12.0dB_1220ms_1346ms_M30ms.ogg",
+            "start_ms": 17173,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_Skin1_더_B3_std6.2_-21.3dB_2380ms_2506ms_M30ms.ogg",
+            "start_ms": 17301,
+            "duration_ms": 128
+        }
+    ],
+    "던": [
+        {
+            "file_name": "Voice_Mago_FakeEvent2_던_Asharp4_std5.8_-13.5dB_2870ms_2960ms_M30ms.ogg",
+            "start_ms": 17429,
+            "duration_ms": 91
+        }
+    ],
+    "도": [
+        {
+            "file_name": "_selective_Holiday_EP03_027_Mago_도_Fsharp4_std47.0_-13.4dB_2950ms_3085ms_M30ms.ogg",
+            "start_ms": 17520,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "Voice_Mago_Growth2_Skin1_도_C4_std22.0_-15.4dB_1359ms_1522ms_M30ms.ogg",
+            "start_ms": 17652,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "Voice_Mago_Victory1_도_E4_std19.7_-12.8dB_720ms_846ms_M30ms.ogg",
+            "start_ms": 17817,
+            "duration_ms": 128
+        }
+    ],
+    "돈": [
+        {
+            "file_name": "_selective_Holiday_EP02_073_Mago_돈_Dsharp4_std17.8_-16.1dB_780ms_990ms_M30ms.ogg",
+            "start_ms": 17945,
+            "duration_ms": 211
+        }
+    ],
+    "돌": [
+        {
+            "file_name": "_selective_Holiday_EP02_035_Mago_돌_D4_std12.1_-16.9dB_860ms_1099ms_M30ms.ogg",
+            "start_ms": 18156,
+            "duration_ms": 236
+        },
+        {
+            "file_name": "Voice_Mago_Affinity2_돌_D4_std21.3_-13.4dB_339ms_580ms_M30ms.ogg",
+            "start_ms": 18392,
+            "duration_ms": 243
+        }
+    ],
+    "동": [
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_동_Dsharp4_std41.5_-14.2dB_2360ms_2560ms_M30ms.ogg",
+            "start_ms": 18635,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Mago_Gacha3_동_C4_std20.2_-11.9dB_0ms_180ms_M30ms.ogg",
+            "start_ms": 18832,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Mago_Lobby_동_C4_std14.1_-14.9dB_2500ms_2720ms_M30ms.ogg",
+            "start_ms": 19013,
+            "duration_ms": 221
+        }
+    ],
+    "되": [
+        {
+            "file_name": "_selective_Holiday_EP02_068_Mago_되_G4_std32.8_-14.2dB_3760ms_3922ms_M30ms.ogg",
+            "start_ms": 19234,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Mago_DeckSetting1_되_Dsharp4_std14.6_-15.9dB_1800ms_1998ms_M30ms.ogg",
+            "start_ms": 19397,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Mago_Growth2_Skin1_되_C4_std19.8_-18.4dB_1820ms_2000ms_M30ms.ogg",
+            "start_ms": 19597,
+            "duration_ms": 177
+        }
+    ],
+    "드": [
+        {
+            "file_name": "Voice_Mago_Touch1_2_Skin1_드_Gsharp4_std3.0_-14.4dB_1080ms_1170ms_M30ms.ogg",
+            "start_ms": 19774,
+            "duration_ms": 91
+        }
+    ],
+    "든": [
+        {
+            "file_name": "_selective_Holiday_EP06_043_Mago_든_Gsharp4_std6.0_-13.3dB_4120ms_4220ms_M30ms.ogg",
+            "start_ms": 19865,
+            "duration_ms": 101
+        }
+    ],
+    "들": [
+        {
+            "file_name": "Voice_Mago_Affinity3_들_Fsharp4_std32.5_-12.7dB_1200ms_1330ms_M30ms.ogg",
+            "start_ms": 19966,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "Voice_Mago_Gacha3_들_G4_std4.6_-11.3dB_740ms_870ms_M30ms.ogg",
+            "start_ms": 20097,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "Voice_Mago_Touch2_1_들_Gsharp4_std11.0_-12.2dB_1560ms_1690ms_M30ms.ogg",
+            "start_ms": 20228,
+            "duration_ms": 131
+        }
+    ],
+    "듬": [
+        {
+            "file_name": "Voice_Mago_Touch2_1_듬_A4_std17.0_-12.4dB_2660ms_2830ms_M30ms.ogg",
+            "start_ms": 20359,
+            "duration_ms": 171
+        }
+    ],
+    "따": [
+        {
+            "file_name": "Voice_Mago_Board_Skin1_따_Fsharp4_std7.6_-11.0dB_420ms_545ms_M30ms.ogg",
+            "start_ms": 20530,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_Skin1_따_E4_std8.9_-12.9dB_2880ms_2988ms_M30ms.ogg",
+            "start_ms": 20655,
+            "duration_ms": 109
+        }
+    ],
+    "때": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_082_Mago_때_F4_std12.8_-19.7dB_1599ms_1762ms_M30ms.ogg",
+            "start_ms": 20764,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "Voice_Mago_Growth2_Skin1_때_Dsharp4_std5.4_-16.0dB_880ms_1006ms_M30ms.ogg",
+            "start_ms": 20929,
+            "duration_ms": 128
+        }
+    ],
+    "또": [
+        {
+            "file_name": "_selective_Holiday_EP06_092_Mago_또_B4_std22.3_-11.8dB_1240ms_1365ms_M30ms.ogg",
+            "start_ms": 21057,
+            "duration_ms": 125
+        }
+    ],
+    "뜻": [
+        {
+            "file_name": "Voice_Mago_Touch2_1_Skin1_뜻_Gsharp4_std8.6_-21.2dB_1619ms_1780ms_M30ms.ogg",
+            "start_ms": 21182,
+            "duration_ms": 158
+        }
+    ],
+    "라": [
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_Skin1_라_Fsharp4_std5.0_-15.0dB_3000ms_3162ms_M30ms.ogg",
+            "start_ms": 21340,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Mago_SPSkill1_라_Asharp4_std21.2_-10.6dB_400ms_562ms_M30ms.ogg",
+            "start_ms": 21503,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_Skin1_라_F4_std18.9_-14.3dB_1380ms_1524ms_M30ms.ogg",
+            "start_ms": 21666,
+            "duration_ms": 141
+        }
+    ],
+    "랑": [
+        {
+            "file_name": "_selective_Holiday_EP02_035_Mago_랑_D4_std13.7_-14.7dB_3620ms_3780ms_M30ms.ogg",
+            "start_ms": 21807,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_064_Mago_랑_Dsharp4_std3.3_-14.9dB_640ms_800ms_M30ms.ogg",
+            "start_ms": 21964,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Mago_Affinity2_랑_G4_std14.2_-11.6dB_1359ms_1500ms_M30ms.ogg",
+            "start_ms": 22121,
+            "duration_ms": 141
+        }
+    ],
+    "래": [
+        {
+            "file_name": "_selective_Holiday_EP02_062_Mago_래_E4_std10.3_-16.7dB_510ms_699ms_M30ms.ogg",
+            "start_ms": 22262,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_087_Mago_래_D4_std21.8_-13.7dB_130ms_319ms_M30ms.ogg",
+            "start_ms": 22451,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "Voice_Mago_Affinity1_2_래_E4_std7.4_-11.3dB_640ms_801ms_M30ms.ogg",
+            "start_ms": 22640,
+            "duration_ms": 163
+        }
+    ],
+    "러": [
+        {
+            "file_name": "Voice_Mago_Anger1_러_A4_std36.5_-8.0dB_120ms_246ms_M30ms.ogg",
+            "start_ms": 22803,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_Defeat2_러_Asharp4_std52.2_-10.3dB_2620ms_2890ms_M30ms.ogg",
+            "start_ms": 22931,
+            "duration_ms": 272
+        }
+    ],
+    "럭": [
+        {
+            "file_name": "Voice_Mago_Yes3_럭_Fsharp4_std16.7_-11.5dB_160ms_420ms_M30ms.ogg",
+            "start_ms": 23203,
+            "duration_ms": 257
+        }
+    ],
+    "런": [
+        {
+            "file_name": "_selective_Holiday_EP02_028_Mago_런_Fsharp4_std29.4_-11.3dB_1440ms_1540ms_M30ms.ogg",
+            "start_ms": 23460,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Mago_Touch2_Skin1_런_D4_std11.8_-17.5dB_980ms_1120ms_M30ms.ogg",
+            "start_ms": 23561,
+            "duration_ms": 141
+        }
+    ],
+    "럼": [
+        {
+            "file_name": "_selective_Holiday_EP03_006_Mago_럼_A4_std14.2_-10.0dB_130ms_320ms_M30ms.ogg",
+            "start_ms": 23702,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Mago_DeckSetting1_럼_Gsharp4_std12.0_-11.4dB_1160ms_1240ms_M30ms.ogg",
+            "start_ms": 23894,
+            "duration_ms": 77
+        }
+    ],
+    "렇": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_067_Mago_렇_D4_std12.2_-19.9dB_160ms_339ms_M30ms.ogg",
+            "start_ms": 23971,
+            "duration_ms": 176
+        },
+        {
+            "file_name": "Voice_Mago_Affinity1_2_렇_Fsharp4_std21.8_-12.4dB_1480ms_1640ms_M30ms.ogg",
+            "start_ms": 24147,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Mago_Joy2_렇_Fsharp4_std25.1_-12.3dB_169ms_420ms_M30ms.ogg",
+            "start_ms": 24304,
+            "duration_ms": 248
+        }
+    ],
+    "레": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_104_Mago_레_F4_std8.4_-16.4dB_400ms_580ms_M30ms.ogg",
+            "start_ms": 24552,
+            "duration_ms": 181
+        }
+    ],
+    "력": [
+        {
+            "file_name": "_selective_Holiday_EP04_011_Mago_력_Asharp4_std29.8_-15.0dB_1700ms_1900ms_M30ms.ogg",
+            "start_ms": 24733,
+            "duration_ms": 220
+        }
+    ],
+    "로": [
+        {
+            "file_name": "_selective_Holiday_EP02_073_Mago_로_Fsharp4_std3.8_-13.1dB_1040ms_1130ms_M30ms.ogg",
+            "start_ms": 24953,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_008_Mago_로_Asharp4_std10.7_-11.0dB_2480ms_2570ms_M30ms.ogg",
+            "start_ms": 25044,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_093_Mago_로_F4_std13.7_-14.6dB_659ms_750ms_M30ms.ogg",
+            "start_ms": 25135,
+            "duration_ms": 93
+        }
+    ],
+    "록": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_068_Mago_록_D4_std11.1_-21.1dB_2520ms_2660ms_M30ms.ogg",
+            "start_ms": 25228,
+            "duration_ms": 137
+        }
+    ],
+    "료": [
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_료_Asharp4_std34.5_-13.8dB_3700ms_3862ms_M30ms.ogg",
+            "start_ms": 25365,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_064_Mago_료_G4_std5.2_-15.2dB_3239ms_3330ms_M30ms.ogg",
+            "start_ms": 25524,
+            "duration_ms": 93
+        }
+    ],
+    "뤄": [
+        {
+            "file_name": "Voice_Mago_DutchRubEnd2_Skin1_뤄_F4_std25.8_-11.0dB_1000ms_1126ms_M30ms.ogg",
+            "start_ms": 25617,
+            "duration_ms": 128
+        }
+    ],
+    "르": [
+        {
+            "file_name": "_selective_Holiday_EP02_029_Mago_르_G4_std13.3_-18.8dB_4979ms_5196ms_M30ms.ogg",
+            "start_ms": 25745,
+            "duration_ms": 214
+        },
+        {
+            "file_name": "Voice_Mago_Affinity1_2_르_E4_std10.0_-13.9dB_1900ms_2026ms_M30ms.ogg",
+            "start_ms": 25959,
+            "duration_ms": 128
+        }
+    ],
+    "른": [
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_른_Fsharp4_std27.1_-13.1dB_3360ms_3460ms_M30ms.ogg",
+            "start_ms": 26087,
+            "duration_ms": 101
+        }
+    ],
+    "를": [
+        {
+            "file_name": "_selective_Holiday_EP02_018_Mago_를_Dsharp4_std27.1_-14.7dB_3460ms_3580ms_M30ms.ogg",
+            "start_ms": 26188,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_를_A4_std16.2_-12.8dB_620ms_740ms_M30ms.ogg",
+            "start_ms": 26305,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Mago_Affinity4_를_Gsharp4_std23.5_-13.5dB_1060ms_1200ms_M30ms.ogg",
+            "start_ms": 26422,
+            "duration_ms": 137
+        }
+    ],
+    "름": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_082_Mago_름_C4_std11.6_-21.7dB_4760ms_4920ms_M30ms.ogg",
+            "start_ms": 26559,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Mago_Growth_름_G4_std9.6_-8.6dB_300ms_470ms_M30ms.ogg",
+            "start_ms": 26716,
+            "duration_ms": 171
+        }
+    ],
+    "리": [
+        {
+            "file_name": "_selective_Holiday_EP03_003_Mago_리_G3_std69.3_-18.3dB_860ms_1004ms_M30ms.ogg",
+            "start_ms": 26887,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_008_Mago_리_E4_std13.7_-16.4dB_940ms_1083ms_M30ms.ogg",
+            "start_ms": 27028,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "Voice_Mago_Affinity6_리_E4_std17.9_-18.6dB_2580ms_2723ms_M30ms.ogg",
+            "start_ms": 27172,
+            "duration_ms": 164
+        }
+    ],
+    "릭": [
+        {
+            "file_name": "Voice_Mago_Trickcal1_릭_Asharp4_std16.8_-15.6dB_130ms_360ms_M30ms.ogg",
+            "start_ms": 27336,
+            "duration_ms": 227
+        },
+        {
+            "file_name": "Voice_Mago_Trickcal2_릭_A4_std9.7_-15.3dB_130ms_380ms_M30ms.ogg",
+            "start_ms": 27563,
+            "duration_ms": 247
+        }
+    ],
+    "린": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_린_D4_std26.2_-21.8dB_3000ms_3150ms_M30ms.ogg",
+            "start_ms": 27810,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Mago_Affinity7_린_D4_std9.2_-18.2dB_2739ms_2960ms_M30ms.ogg",
+            "start_ms": 27962,
+            "duration_ms": 218
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_1_린_Gsharp4_std28.3_-9.1dB_1380ms_1599ms_M30ms.ogg",
+            "start_ms": 28180,
+            "duration_ms": 221
+        }
+    ],
+    "릴": [
+        {
+            "file_name": "_selective_Holiday_EP06_093_Mago_릴_Fsharp4_std10.7_-14.3dB_1940ms_2100ms_M30ms.ogg",
+            "start_ms": 28401,
+            "duration_ms": 157
+        }
+    ],
+    "마": [
+        {
+            "file_name": "Voice_Mago_Affinity3_마_B3_std6.1_-10.1dB_60ms_204ms_M30ms.ogg",
+            "start_ms": 28558,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Defeat1_마_D4_std10.1_-13.3dB_1099ms_1262ms_M30ms.ogg",
+            "start_ms": 28699,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "Voice_Mago_SPSkill3-01_마_Csharp4_std15.1_-11.3dB_40ms_220ms_M30ms.ogg",
+            "start_ms": 28864,
+            "duration_ms": 181
+        }
+    ],
+    "막": [
+        {
+            "file_name": "_selective_Holiday_EP06_046_Mago_막_F4_std12.1_-14.1dB_2500ms_2769ms_M30ms.ogg",
+            "start_ms": 29045,
+            "duration_ms": 269
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_047_Mago_막_D4_std36.1_-15.5dB_4319ms_4590ms_M30ms.ogg",
+            "start_ms": 29314,
+            "duration_ms": 272
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_막_E4_std27.8_-13.6dB_4100ms_4270ms_M30ms.ogg",
+            "start_ms": 29586,
+            "duration_ms": 171
+        }
+    ],
+    "만": [
+        {
+            "file_name": "_selective_Holiday_EP02_045_Mago_만_A4_std17.0_-12.0dB_2200ms_2420ms_M30ms.ogg",
+            "start_ms": 29757,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_060_Mago_만_G4_std16.2_-12.6dB_319ms_540ms_M30ms.ogg",
+            "start_ms": 29974,
+            "duration_ms": 241
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_1_만_Fsharp4_std15.5_-10.3dB_2300ms_2520ms_M30ms.ogg",
+            "start_ms": 30215,
+            "duration_ms": 221
+        }
+    ],
+    "많": [
+        {
+            "file_name": "_selective_Holiday_EP02_013_Mago_많_C4_std3.3_-14.3dB_40ms_250ms_M30ms.ogg",
+            "start_ms": 30436,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "Voice_Mago_Growth1_많_B3_std25.0_-11.9dB_460ms_710ms_M30ms.ogg",
+            "start_ms": 30647,
+            "duration_ms": 251
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_많_A4_std9.7_-10.4dB_540ms_690ms_M30ms.ogg",
+            "start_ms": 30898,
+            "duration_ms": 152
+        }
+    ],
+    "말": [
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_말_B4_std5.9_-13.1dB_5220ms_5390ms_M30ms.ogg",
+            "start_ms": 31050,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Mago_Anger2_말_Fsharp4_std11.6_-8.7dB_480ms_620ms_M30ms.ogg",
+            "start_ms": 31221,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_Skin1_말_G4_std9.1_-13.2dB_500ms_660ms_M30ms.ogg",
+            "start_ms": 31362,
+            "duration_ms": 157
+        }
+    ],
+    "맛": [
+        {
+            "file_name": "_selective_Holiday_EP02_048_Mago_맛_D4_std31.5_-14.1dB_1960ms_2130ms_M30ms.ogg",
+            "start_ms": 31519,
+            "duration_ms": 171
+        }
+    ],
+    "망": [
+        {
+            "file_name": "_selective_Holiday_EP03_027_Mago_망_E4_std5.1_-15.2dB_5020ms_5280ms_M30ms.ogg",
+            "start_ms": 31690,
+            "duration_ms": 261
+        },
+        {
+            "file_name": "Voice_Mago_Line2_망_Csharp4_std13.3_-16.9dB_199ms_400ms_M30ms.ogg",
+            "start_ms": 31951,
+            "duration_ms": 203
+        },
+        {
+            "file_name": "Voice_Mago_Lobby_망_G4_std19.4_-10.7dB_2080ms_2280ms_M30ms.ogg",
+            "start_ms": 32154,
+            "duration_ms": 220
+        }
+    ],
+    "맞": [
+        {
+            "file_name": "Voice_Mago_Defeat1_맞_G4_std18.2_-13.8dB_2150ms_2309ms_M30ms.ogg",
+            "start_ms": 32374,
+            "duration_ms": 160
+        }
+    ],
+    "맡": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_063_Mago_맡_A3_std12.1_-23.6dB_1380ms_1590ms_M30ms.ogg",
+            "start_ms": 32534,
+            "duration_ms": 211
+        }
+    ],
+    "맣": [
+        {
+            "file_name": "_selective_Holiday_EP06_093_Mago_맣_A4_std6.2_-13.6dB_2580ms_2780ms_M30ms.ogg",
+            "start_ms": 32745,
+            "duration_ms": 197
+        }
+    ],
+    "먹": [
+        {
+            "file_name": "_selective_Holiday_EP02_038_Mago_먹_Gsharp4_std16.3_-13.3dB_1160ms_1330ms_M30ms.ogg",
+            "start_ms": 32942,
+            "duration_ms": 171
+        }
+    ],
+    "면": [
+        {
+            "file_name": "_selective_Holiday_EP02_068_Mago_면_G4_std10.3_-12.9dB_2160ms_2280ms_M30ms.ogg",
+            "start_ms": 33113,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_085_Mago_면_Fsharp4_std16.0_-16.4dB_2780ms_2940ms_M30ms.ogg",
+            "start_ms": 33230,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_001_Mago_면_Fsharp4_std8.1_-14.7dB_2480ms_2600ms_M30ms.ogg",
+            "start_ms": 33387,
+            "duration_ms": 117
+        }
+    ],
+    "모": [
+        {
+            "file_name": "_selective_Holiday_EP02_036_Mago_모_C4_std6.1_-18.2dB_1900ms_2044ms_M30ms.ogg",
+            "start_ms": 33504,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_043_Mago_모_Dsharp4_std13.4_-18.6dB_3920ms_4100ms_M30ms.ogg",
+            "start_ms": 33645,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_모_Fsharp4_std10.1_-12.7dB_3800ms_3962ms_M30ms.ogg",
+            "start_ms": 33822,
+            "duration_ms": 159
+        }
+    ],
+    "몰": [
+        {
+            "file_name": "Voice_Mago_Affinity1_3_몰_C4_std13.9_-15.3dB_5100ms_5340ms_M30ms.ogg",
+            "start_ms": 33981,
+            "duration_ms": 237
+        }
+    ],
+    "못": [
+        {
+            "file_name": "_selective_Holiday_EP07_096_Mago_못_Gsharp4_std6.7_-17.0dB_3739ms_3880ms_M30ms.ogg",
+            "start_ms": 34218,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Lobby_못_Asharp3_std7.5_-19.5dB_3340ms_3440ms_M30ms.ogg",
+            "start_ms": 34359,
+            "duration_ms": 97
+        }
+    ],
+    "무": [
+        {
+            "file_name": "_selective_Holiday_EP02_040_Mago_무_D4_std18.8_-17.9dB_2220ms_2400ms_M30ms.ogg",
+            "start_ms": 34456,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Holiday_EP04_009_Mago_무_Csharp4_std7.2_-24.3dB_2180ms_2378ms_M30ms.ogg",
+            "start_ms": 34637,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Mago_Affinity6_무_A3_std7.5_-22.7dB_2940ms_3102ms_M30ms.ogg",
+            "start_ms": 34837,
+            "duration_ms": 163
+        }
+    ],
+    "물": [
+        {
+            "file_name": "_selective_Holiday_EP02_047_Mago_물_D4_std9.9_-14.2dB_1180ms_1350ms_M30ms.ogg",
+            "start_ms": 35000,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_003_Mago_물_Dsharp4_std21.0_-14.9dB_2020ms_2190ms_M30ms.ogg",
+            "start_ms": 35171,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_물_Gsharp4_std13.0_-14.8dB_2400ms_2570ms_M30ms.ogg",
+            "start_ms": 35342,
+            "duration_ms": 171
+        }
+    ],
+    "뭐": [
+        {
+            "file_name": "_selective_Holiday_EP02_017_Mago_뭐_D4_std9.9_-13.8dB_2100ms_2208ms_M30ms.ogg",
+            "start_ms": 35513,
+            "duration_ms": 109
+        }
+    ],
+    "미": [
+        {
+            "file_name": "_selective_Holiday_EP03_031_Mago_미_B4_std30.7_-10.0dB_2080ms_2242ms_M30ms.ogg",
+            "start_ms": 35622,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_미_C5_std17.4_-13.3dB_1780ms_1942ms_M30ms.ogg",
+            "start_ms": 35785,
+            "duration_ms": 183
+        },
+        {
+            "file_name": "Voice_Mago_Sorry2_미_F4_std8.2_-11.9dB_199ms_415ms_M30ms.ogg",
+            "start_ms": 35968,
+            "duration_ms": 213
+        }
+    ],
+    "민": [
+        {
+            "file_name": "_selective_Holiday_EP06_046_Mago_민_B4_std11.4_-13.4dB_2160ms_2349ms_M30ms.ogg",
+            "start_ms": 36181,
+            "duration_ms": 189
+        }
+    ],
+    "바": [
+        {
+            "file_name": "_selective_Holiday_EP03_008_Mago_바_Fsharp4_std25.6_-14.4dB_2620ms_2782ms_M30ms.ogg",
+            "start_ms": 36370,
+            "duration_ms": 159
+        }
+    ],
+    "배": [
+        {
+            "file_name": "Voice_Mago_LevelUp_Skin1_배_B3_std15.8_-15.6dB_1000ms_1180ms_M30ms.ogg",
+            "start_ms": 36529,
+            "duration_ms": 181
+        }
+    ],
+    "버": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_081_Mago_버_C4_std23.9_-19.3dB_1300ms_1498ms_M30ms.ogg",
+            "start_ms": 36710,
+            "duration_ms": 195
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_버_B3_std18.8_-20.9dB_1760ms_1976ms_M30ms.ogg",
+            "start_ms": 36905,
+            "duration_ms": 213
+        }
+    ],
+    "법": [
+        {
+            "file_name": "Voice_Mago_Affinity7_법_E4_std20.1_-12.4dB_1060ms_1270ms_M30ms.ogg",
+            "start_ms": 37118,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "Voice_Mago_LevelUp_Skin1_법_F4_std11.9_-14.0dB_2070ms_2250ms_M30ms.ogg",
+            "start_ms": 37329,
+            "duration_ms": 181
+        }
+    ],
+    "별": [
+        {
+            "file_name": "_selective_Holiday_EP02_080_Mago_별_C4_std17.0_-19.4dB_3060ms_3280ms_M30ms.ogg",
+            "start_ms": 37510,
+            "duration_ms": 221
+        }
+    ],
+    "보": [
+        {
+            "file_name": "Voice_Mago_Affinity2_보_G4_std32.3_-11.1dB_580ms_688ms_M30ms.ogg",
+            "start_ms": 37731,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Mago_Affinity4_보_F4_std13.8_-15.3dB_480ms_606ms_M30ms.ogg",
+            "start_ms": 37840,
+            "duration_ms": 145
+        },
+        {
+            "file_name": "Voice_Mago_Affinity5_보_D4_std23.2_-18.5dB_2300ms_2408ms_M30ms.ogg",
+            "start_ms": 37985,
+            "duration_ms": 109
+        }
+    ],
+    "복": [
+        {
+            "file_name": "_selective_Holiday_EP07_062_Mago_복_C4_std16.6_-22.7dB_2260ms_2460ms_M30ms.ogg",
+            "start_ms": 38094,
+            "duration_ms": 197
+        }
+    ],
+    "부": [
+        {
+            "file_name": "_selective_Holiday_EP02_022_Mago_부_Csharp4_std11.0_-19.3dB_2680ms_2806ms_M30ms.ogg",
+            "start_ms": 38291,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Holiday_EP04_009_Mago_부_Csharp4_std5.1_-22.9dB_2760ms_2922ms_M30ms.ogg",
+            "start_ms": 38419,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "Voice_Mago_FakeEvent1_부_B4_std5.7_-12.2dB_2420ms_2528ms_M30ms.ogg",
+            "start_ms": 38578,
+            "duration_ms": 109
+        }
+    ],
+    "분": [
+        {
+            "file_name": "_selective_Holiday_EP03_003_Mago_분_Gsharp4_std5.3_-12.7dB_3080ms_3180ms_M30ms.ogg",
+            "start_ms": 38687,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_064_Mago_분_F4_std18.9_-19.4dB_1200ms_1390ms_M30ms.ogg",
+            "start_ms": 38788,
+            "duration_ms": 187
+        }
+    ],
+    "블": [
+        {
+            "file_name": "Voice_Mago_FakeEvent2_블_E4_std53.2_-12.3dB_2410ms_2640ms_M30ms.ogg",
+            "start_ms": 38975,
+            "duration_ms": 232
+        }
+    ],
+    "비": [
+        {
+            "file_name": "_selective_Holiday_EP02_023_Mago_비_E4_std17.3_-22.7dB_740ms_956ms_M30ms.ogg",
+            "start_ms": 39207,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_비_Csharp4_std21.8_-19.5dB_4100ms_4244ms_M30ms.ogg",
+            "start_ms": 39420,
+            "duration_ms": 141
+        }
+    ],
+    "사": [
+        {
+            "file_name": "_selective_Holiday_EP02_073_Mago_사_Asharp4_std15.8_-11.9dB_1359ms_1468ms_M30ms.ogg",
+            "start_ms": 39561,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_006_Mago_사_Asharp4_std6.1_-13.0dB_840ms_966ms_M30ms.ogg",
+            "start_ms": 39670,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_Affinity7_사_G4_std14.1_-9.9dB_540ms_666ms_M30ms.ogg",
+            "start_ms": 39798,
+            "duration_ms": 128
+        }
+    ],
+    "산": [
+        {
+            "file_name": "_selective_Holiday_EP02_080_Mago_산_G4_std16.1_-16.6dB_1599ms_1780ms_M30ms.ogg",
+            "start_ms": 39926,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_산_A4_std21.4_-17.0dB_2940ms_3160ms_M30ms.ogg",
+            "start_ms": 40107,
+            "duration_ms": 221
+        }
+    ],
+    "살": [
+        {
+            "file_name": "_selective_Holiday_EP06_093_Mago_살_Asharp4_std28.9_-13.9dB_2400ms_2580ms_M30ms.ogg",
+            "start_ms": 40328,
+            "duration_ms": 181
+        }
+    ],
+    "상": [
+        {
+            "file_name": "_selective_Holiday_EP02_053_Mago_상_B4_std12.4_-12.9dB_3400ms_3520ms_M30ms.ogg",
+            "start_ms": 40509,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_031_Mago_상_B4_std14.8_-11.3dB_4340ms_4460ms_M30ms.ogg",
+            "start_ms": 40626,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Mago_Lobby_상_Gsharp4_std7.4_-12.5dB_330ms_459ms_M30ms.ogg",
+            "start_ms": 40743,
+            "duration_ms": 131
+        }
+    ],
+    "생": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_067_Mago_생_A4_std5.4_-19.8dB_2890ms_3040ms_M30ms.ogg",
+            "start_ms": 40874,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_067_Mago_생_Fsharp4_std10.0_-21.3dB_500ms_659ms_M30ms.ogg",
+            "start_ms": 41026,
+            "duration_ms": 160
+        }
+    ],
+    "서": [
+        {
+            "file_name": "_selective_Holiday_EP02_068_Mago_서_G4_std12.7_-11.9dB_640ms_748ms_M30ms.ogg",
+            "start_ms": 41186,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_085_Mago_서_G4_std12.3_-15.4dB_2500ms_2626ms_M30ms.ogg",
+            "start_ms": 41295,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_063_Mago_서_D4_std3.6_-19.8dB_559ms_668ms_M30ms.ogg",
+            "start_ms": 41423,
+            "duration_ms": 109
+        }
+    ],
+    "석": [
+        {
+            "file_name": "_selective_Holiday_EP03_031_Mago_석_B4_std27.8_-13.5dB_4880ms_5020ms_M30ms.ogg",
+            "start_ms": 41532,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "Voice_Mago_Stage_석_A4_std2.5_-16.8dB_1080ms_1260ms_M30ms.ogg",
+            "start_ms": 41669,
+            "duration_ms": 177
+        }
+    ],
+    "성": [
+        {
+            "file_name": "_selective_Holiday_EP02_065_Mago_성_D4_std49.4_-14.4dB_2700ms_2960ms_M30ms.ogg",
+            "start_ms": 41846,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "Voice_Mago_Growth1_Skin1_성_F4_std6.9_-22.7dB_480ms_740ms_M30ms.ogg",
+            "start_ms": 42103,
+            "duration_ms": 257
+        }
+    ],
+    "세": [
+        {
+            "file_name": "_selective_Holiday_EP05_007_Mago_세_B4_std12.3_-12.1dB_1350ms_1503ms_M30ms.ogg",
+            "start_ms": 42360,
+            "duration_ms": 155
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_1_Skin1_세_Fsharp4_std11.2_-14.6dB_659ms_858ms_M30ms.ogg",
+            "start_ms": 42515,
+            "duration_ms": 200
+        }
+    ],
+    "셨": [
+        {
+            "file_name": "_selective_Holiday_EP06_042_Mago_셨_A4_std12.9_-15.9dB_880ms_1099ms_M30ms.ogg",
+            "start_ms": 42715,
+            "duration_ms": 216
+        }
+    ],
+    "소": [
+        {
+            "file_name": "_selective_Holiday_EP02_040_Mago_소_A4_std12.9_-11.9dB_2620ms_2746ms_M30ms.ogg",
+            "start_ms": 42931,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_047_Mago_소_Asharp4_std2.0_-13.9dB_3440ms_3548ms_M30ms.ogg",
+            "start_ms": 43059,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Mago_Affinity6_소_G4_std5.1_-16.3dB_2480ms_2570ms_M30ms.ogg",
+            "start_ms": 43168,
+            "duration_ms": 91
+        }
+    ],
+    "속": [
+        {
+            "file_name": "_selective_Holiday_EP02_038_Mago_속_Fsharp4_std11.7_-17.6dB_659ms_760ms_M30ms.ogg",
+            "start_ms": 43259,
+            "duration_ms": 98
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_속_Gsharp4_std11.1_-18.4dB_1619ms_1780ms_M30ms.ogg",
+            "start_ms": 43357,
+            "duration_ms": 158
+        }
+    ],
+    "손": [
+        {
+            "file_name": "_selective_Holiday_EP03_010_Mago_손_B4_std10.8_-15.0dB_1340ms_1460ms_M30ms.ogg",
+            "start_ms": 43515,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_010_Mago_손_Fsharp4_std18.7_-13.3dB_840ms_1010ms_M30ms.ogg",
+            "start_ms": 43632,
+            "duration_ms": 171
+        }
+    ],
+    "수": [
+        {
+            "file_name": "_selective_Holiday_EP02_047_Mago_수_A4_std22.0_-16.7dB_3020ms_3128ms_M30ms.ogg",
+            "start_ms": 43803,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_047_Mago_수_Unvoiced_std0.0_-20.3dB_4800ms_4907ms_M30ms.ogg",
+            "start_ms": 43912,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Mago_Affinity3_수_A4_std7.5_-14.3dB_899ms_1008ms_M30ms.ogg",
+            "start_ms": 44021,
+            "duration_ms": 109
+        }
+    ],
+    "스": [
+        {
+            "file_name": "_selective_Holiday_EP02_023_Mago_스_B3_std15.0_-25.5dB_980ms_1087ms_M30ms.ogg",
+            "start_ms": 44130,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_026_Mago_스_G4_std21.5_-16.0dB_1160ms_1357ms_M30ms.ogg",
+            "start_ms": 44239,
+            "duration_ms": 197
+        }
+    ],
+    "슨": [
+        {
+            "file_name": "_selective_Holiday_EP02_023_Mago_슨_A4_std0.9_-14.6dB_280ms_380ms_M30ms.ogg",
+            "start_ms": 44436,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_040_Mago_슨_A4_std1.2_-15.1dB_2420ms_2500ms_M30ms.ogg",
+            "start_ms": 44537,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "Voice_Mago_Affinity6_슨_E4_std3.9_-19.1dB_3120ms_3220ms_M30ms.ogg",
+            "start_ms": 44614,
+            "duration_ms": 101
+        }
+    ],
+    "습": [
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_습_B4_std9.6_-12.3dB_350ms_480ms_M30ms.ogg",
+            "start_ms": 44715,
+            "duration_ms": 131
+        }
+    ],
+    "승": [
+        {
+            "file_name": "Voice_Mago_Victory2_승_Asharp4_std2.4_-14.9dB_1020ms_1220ms_M30ms.ogg",
+            "start_ms": 44846,
+            "duration_ms": 197
+        }
+    ],
+    "시": [
+        {
+            "file_name": "_selective_Holiday_EP02_035_Mago_시_Unvoiced_std0.0_-23.7dB_4059ms_4167ms_M30ms.ogg",
+            "start_ms": 45043,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_008_Mago_시_Asharp4_std14.9_-18.5dB_3140ms_3248ms_M30ms.ogg",
+            "start_ms": 45148,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_092_Mago_시_Unvoiced_std0.0_-20.4dB_2640ms_2757ms_M30ms.ogg",
+            "start_ms": 45257,
+            "duration_ms": 117
+        }
+    ],
+    "식": [
+        {
+            "file_name": "_selective_Holiday_EP06_093_Mago_식_Gsharp4_std29.3_-17.0dB_400ms_570ms_M30ms.ogg",
+            "start_ms": 45374,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Mago_Affinity4_식_G4_std11.4_-17.4dB_220ms_480ms_M30ms.ogg",
+            "start_ms": 45545,
+            "duration_ms": 257
+        }
+    ],
+    "신": [
+        {
+            "file_name": "Voice_Mago_DutchRubEnd2_신_G4_std12.5_-15.1dB_1910ms_2140ms_M30ms.ogg",
+            "start_ms": 45802,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_신_Gsharp4_std20.5_-14.8dB_840ms_1020ms_M30ms.ogg",
+            "start_ms": 46034,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Mago_Touch2_2_Skin1_신_Csharp4_std10.9_-26.9dB_2490ms_2700ms_M30ms.ogg",
+            "start_ms": 46215,
+            "duration_ms": 211
+        }
+    ],
+    "실": [
+        {
+            "file_name": "_selective_Holiday_EP02_080_Mago_실_G4_std6.8_-15.6dB_380ms_540ms_M30ms.ogg",
+            "start_ms": 46426,
+            "duration_ms": 157
+        }
+    ],
+    "심": [
+        {
+            "file_name": "Voice_Mago_Affinity5_심_G4_std17.0_-14.6dB_480ms_590ms_M30ms.ogg",
+            "start_ms": 46583,
+            "duration_ms": 112
+        }
+    ],
+    "싶": [
+        {
+            "file_name": "_selective_Holiday_EP03_010_Mago_싶_Unvoiced_std0.0_-23.5dB_1700ms_1910ms_M30ms.ogg",
+            "start_ms": 46695,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "Voice_Mago_Touch2_1_싶_G4_std17.3_-21.9dB_3239ms_3510ms_M30ms.ogg",
+            "start_ms": 46906,
+            "duration_ms": 272
+        }
+    ],
+    "쓰": [
+        {
+            "file_name": "Voice_Mago_Touch2_1_쓰_Gsharp4_std16.5_-16.8dB_2380ms_2488ms_M30ms.ogg",
+            "start_ms": 47178,
+            "duration_ms": 109
+        }
+    ],
+    "씀": [
+        {
+            "file_name": "_selective_Holiday_EP03_031_Mago_씀_G4_std15.4_-14.4dB_3860ms_4010ms_M30ms.ogg",
+            "start_ms": 47287,
+            "duration_ms": 152
+        }
+    ],
+    "아": [
+        {
+            "file_name": "_selective_Holiday_EP02_047_Mago_아_C4_std12.4_-18.0dB_3940ms_4102ms_M30ms.ogg",
+            "start_ms": 47439,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_080_Mago_아_B3_std12.0_-19.4dB_980ms_1142ms_M30ms.ogg",
+            "start_ms": 47602,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Mago_Die1_아_Csharp4_std20.0_-12.7dB_2960ms_3122ms_M30ms.ogg",
+            "start_ms": 47765,
+            "duration_ms": 163
+        }
+    ],
+    "안": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_072_Mago_안_C4_std16.3_-18.4dB_3220ms_3360ms_M30ms.ogg",
+            "start_ms": 47928,
+            "duration_ms": 141
+        }
+    ],
+    "않": [
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_않_Dsharp4_std19.0_-17.3dB_1110ms_1280ms_M30ms.ogg",
+            "start_ms": 48069,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "Voice_Mago_DutchRubEnd2_Skin1_않_C4_std32.8_-17.1dB_1390ms_1580ms_M30ms.ogg",
+            "start_ms": 48236,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_않_C4_std13.5_-21.7dB_3020ms_3190ms_M30ms.ogg",
+            "start_ms": 48428,
+            "duration_ms": 171
+        }
+    ],
+    "알": [
+        {
+            "file_name": "_selective_Holiday_EP07_062_Mago_알_C4_std9.8_-19.0dB_60ms_300ms_M30ms.ogg",
+            "start_ms": 48599,
+            "duration_ms": 260
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_068_Mago_알_Asharp3_std19.3_-21.8dB_3840ms_4059ms_M30ms.ogg",
+            "start_ms": 48859,
+            "duration_ms": 221
+        }
+    ],
+    "았": [
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_았_F4_std24.7_-18.7dB_3190ms_3410ms_M30ms.ogg",
+            "start_ms": 49080,
+            "duration_ms": 221
+        }
+    ],
+    "야": [
+        {
+            "file_name": "_selective_Holiday_EP02_018_Mago_야_G4_std49.0_-13.9dB_4550ms_4649ms_M30ms.ogg",
+            "start_ms": 49301,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_032_Mago_야_F4_std39.8_-16.7dB_2610ms_2709ms_M30ms.ogg",
+            "start_ms": 49402,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_065_Mago_야_D4_std30.3_-11.7dB_3239ms_3330ms_M30ms.ogg",
+            "start_ms": 49503,
+            "duration_ms": 93
+        }
+    ],
+    "양": [
+        {
+            "file_name": "Voice_Mago_HeroSkill_Skin1_양_Asharp3_std10.5_-18.2dB_60ms_300ms_M30ms.ogg",
+            "start_ms": 49596,
+            "duration_ms": 237
+        }
+    ],
+    "어": [
+        {
+            "file_name": "_selective_Holiday_EP02_038_Mago_어_G4_std19.7_-10.7dB_1010ms_1145ms_M30ms.ogg",
+            "start_ms": 49833,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_073_Mago_어_D4_std16.4_-25.8dB_3600ms_3744ms_M30ms.ogg",
+            "start_ms": 49965,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Victory1_어_G4_std32.0_-8.8dB_1670ms_1823ms_M30ms.ogg",
+            "start_ms": 50106,
+            "duration_ms": 155
+        }
+    ],
+    "얼": [
+        {
+            "file_name": "_selective_Holiday_EP02_073_Mago_얼_Csharp4_std15.1_-15.2dB_1740ms_1960ms_M30ms.ogg",
+            "start_ms": 50261,
+            "duration_ms": 217
+        }
+    ],
+    "없": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_082_Mago_없_Asharp3_std6.2_-23.7dB_1200ms_1410ms_M30ms.ogg",
+            "start_ms": 50478,
+            "duration_ms": 211
+        }
+    ],
+    "에": [
+        {
+            "file_name": "_selective_Holiday_EP03_006_Mago_에_B4_std7.7_-10.2dB_670ms_823ms_M30ms.ogg",
+            "start_ms": 50689,
+            "duration_ms": 155
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_008_Mago_에_Asharp4_std13.0_-14.1dB_1490ms_1643ms_M30ms.ogg",
+            "start_ms": 50844,
+            "duration_ms": 155
+        },
+        {
+            "file_name": "_selective_Holiday_EP07_096_Mago_에_Asharp4_std3.8_-17.9dB_1680ms_1841ms_M30ms.ogg",
+            "start_ms": 50999,
+            "duration_ms": 163
+        }
+    ],
+    "여": [
+        {
+            "file_name": "Voice_Mago_Lobby_여_B3_std9.1_-11.8dB_1440ms_1611ms_M30ms.ogg",
+            "start_ms": 51162,
+            "duration_ms": 168
+        }
+    ],
+    "역": [
+        {
+            "file_name": "Voice_Mago_Spawn1_역_Asharp4_std42.2_-16.9dB_1119ms_1360ms_M30ms.ogg",
+            "start_ms": 51330,
+            "duration_ms": 243
+        },
+        {
+            "file_name": "Voice_Mago_Stage_역_B4_std53.1_-10.6dB_220ms_390ms_M30ms.ogg",
+            "start_ms": 51573,
+            "duration_ms": 171
+        }
+    ],
+    "연": [
+        {
+            "file_name": "_selective_Holiday_EP03_010_Mago_연_Dsharp4_std15.4_-13.1dB_280ms_490ms_M30ms.ogg",
+            "start_ms": 51744,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_Holiday_EP07_062_Mago_연_Dsharp4_std24.1_-14.7dB_1920ms_2110ms_M30ms.ogg",
+            "start_ms": 51955,
+            "duration_ms": 192
+        }
+    ],
+    "열": [
+        {
+            "file_name": "_selective_Holiday_EP02_029_Mago_열_Dsharp4_std16.6_-14.3dB_1859ms_2120ms_M30ms.ogg",
+            "start_ms": 52147,
+            "duration_ms": 261
+        }
+    ],
+    "영": [
+        {
+            "file_name": "_selective_Holiday_EP02_029_Mago_영_Dsharp4_std31.3_-13.4dB_5400ms_5540ms_M30ms.ogg",
+            "start_ms": 52408,
+            "duration_ms": 141
+        }
+    ],
+    "오": [
+        {
+            "file_name": "_selective_Holiday_EP02_035_Mago_오_C4_std5.8_-18.9dB_2860ms_3040ms_M30ms.ogg",
+            "start_ms": 52549,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_042_Mago_오_Dsharp4_std6.6_-16.0dB_720ms_864ms_M30ms.ogg",
+            "start_ms": 52730,
+            "duration_ms": 141
+        }
+    ],
+    "온": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_082_Mago_온_F4_std25.2_-20.3dB_2840ms_3050ms_M30ms.ogg",
+            "start_ms": 52871,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_104_Mago_온_Gsharp4_std54.6_-18.3dB_870ms_1060ms_M30ms.ogg",
+            "start_ms": 53082,
+            "duration_ms": 187
+        },
+        {
+            "file_name": "Voice_Mago_Stage_온_B4_std29.5_-10.7dB_780ms_940ms_M30ms.ogg",
+            "start_ms": 53269,
+            "duration_ms": 157
+        }
+    ],
+    "올": [
+        {
+            "file_name": "_selective_Holiday_EP02_036_Mago_올_B3_std12.4_-19.2dB_3239ms_3460ms_M30ms.ogg",
+            "start_ms": 53426,
+            "duration_ms": 218
+        },
+        {
+            "file_name": "Voice_Mago_Affinity7_올_C4_std3.2_-12.4dB_2620ms_2739ms_M30ms.ogg",
+            "start_ms": 53644,
+            "duration_ms": 120
+        }
+    ],
+    "요": [
+        {
+            "file_name": "_selective_Holiday_EP02_029_Mago_요_Dsharp4_std4.0_-21.6dB_3320ms_3590ms_M30ms.ogg",
+            "start_ms": 53764,
+            "duration_ms": 272
+        },
+        {
+            "file_name": "_selective_Holiday_EP07_062_Mago_요_Csharp4_std5.8_-16.8dB_780ms_870ms_M30ms.ogg",
+            "start_ms": 54036,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_Skin1_요_Asharp3_std35.2_-19.1dB_3640ms_3730ms_M30ms.ogg",
+            "start_ms": 54127,
+            "duration_ms": 91
+        }
+    ],
+    "우": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_082_Mago_우_A3_std5.7_-26.3dB_3500ms_3608ms_M30ms.ogg",
+            "start_ms": 54218,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Mago_LevelUp_Skin1_우_D4_std14.7_-17.0dB_1200ms_1326ms_M30ms.ogg",
+            "start_ms": 54327,
+            "duration_ms": 128
+        }
+    ],
+    "울": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_울_Csharp4_std25.8_-17.7dB_60ms_280ms_M30ms.ogg",
+            "start_ms": 54455,
+            "duration_ms": 221
+        }
+    ],
+    "움": [
+        {
+            "file_name": "Voice_Mago_Growth2_Skin1_움_Csharp4_std9.4_-17.6dB_1540ms_1690ms_M30ms.ogg",
+            "start_ms": 54676,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Mago_Victory1_움_Fsharp4_std21.1_-11.4dB_860ms_1089ms_M30ms.ogg",
+            "start_ms": 54828,
+            "duration_ms": 229
+        }
+    ],
+    "원": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_068_Mago_원_Fsharp4_std33.6_-16.8dB_2840ms_3000ms_M30ms.ogg",
+            "start_ms": 55057,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Mago_Affinity6_원_Fsharp4_std14.0_-11.4dB_1040ms_1230ms_M30ms.ogg",
+            "start_ms": 55214,
+            "duration_ms": 192
+        }
+    ],
+    "위": [
+        {
+            "file_name": "_selective_Holiday_EP02_085_Mago_위_Csharp4_std3.4_-23.0dB_2220ms_2346ms_M30ms.ogg",
+            "start_ms": 55406,
+            "duration_ms": 128
+        }
+    ],
+    "유": [
+        {
+            "file_name": "Voice_Mago_Affinity6_유_Asharp3_std20.4_-19.5dB_659ms_893ms_M30ms.ogg",
+            "start_ms": 55534,
+            "duration_ms": 235
+        }
+    ],
+    "으": [
+        {
+            "file_name": "_selective_Holiday_EP02_068_Mago_으_A4_std10.2_-13.5dB_2050ms_2149ms_M30ms.ogg",
+            "start_ms": 55769,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_093_Mago_으_G4_std1.9_-11.5dB_570ms_650ms_M30ms.ogg",
+            "start_ms": 55870,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_으_Fsharp4_std13.6_-19.4dB_3410ms_3491ms_M30ms.ogg",
+            "start_ms": 55947,
+            "duration_ms": 83
+        }
+    ],
+    "은": [
+        {
+            "file_name": "_selective_Holiday_EP03_006_Mago_은_G4_std13.9_-11.8dB_1710ms_1820ms_M30ms.ogg",
+            "start_ms": 56030,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Holiday_EP05_005_Mago_은_Gsharp4_std10.7_-17.4dB_3150ms_3260ms_M30ms.ogg",
+            "start_ms": 56142,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "Voice_Mago_Affinity3_은_F4_std13.3_-14.5dB_1330ms_1440ms_M30ms.ogg",
+            "start_ms": 56254,
+            "duration_ms": 112
+        }
+    ],
+    "을": [
+        {
+            "file_name": "_selective_Holiday_EP02_013_Mago_을_E4_std5.9_-13.9dB_2330ms_2460ms_M30ms.ogg",
+            "start_ms": 56366,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_010_Mago_을_Dsharp4_std18.5_-13.0dB_490ms_620ms_M30ms.ogg",
+            "start_ms": 56493,
+            "duration_ms": 151
+        },
+        {
+            "file_name": "Voice_Mago_Affinity3_을_Dsharp4_std26.1_-11.9dB_220ms_350ms_M30ms.ogg",
+            "start_ms": 56644,
+            "duration_ms": 131
+        }
+    ],
+    "음": [
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_음_F4_std29.3_-15.6dB_3510ms_3700ms_M30ms.ogg",
+            "start_ms": 56775,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_068_Mago_음_Dsharp4_std17.2_-21.0dB_220ms_439ms_M30ms.ogg",
+            "start_ms": 56967,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Mago_Defeat1_음_Dsharp4_std36.2_-11.0dB_1280ms_1450ms_M30ms.ogg",
+            "start_ms": 57188,
+            "duration_ms": 171
+        }
+    ],
+    "의": [
+        {
+            "file_name": "_selective_Holiday_EP03_031_Mago_의_Asharp4_std5.9_-9.9dB_3510ms_3591ms_M30ms.ogg",
+            "start_ms": 57359,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "Voice_Mago_Affinity3_의_G4_std15.0_-11.8dB_350ms_485ms_M30ms.ogg",
+            "start_ms": 57442,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "Voice_Mago_Victory1_의_A4_std3.8_-10.4dB_570ms_651ms_M30ms.ogg",
+            "start_ms": 57578,
+            "duration_ms": 92
+        }
+    ],
+    "이": [
+        {
+            "file_name": "_selective_Holiday_EP07_062_Mago_이_E4_std15.8_-17.6dB_3010ms_3127ms_M30ms.ogg",
+            "start_ms": 57670,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Mago_Gacha3_이_A3_std7.1_-13.4dB_1680ms_1806ms_M30ms.ogg",
+            "start_ms": 57787,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_Line3_이_Dsharp4_std2.7_-17.3dB_1370ms_1487ms_M30ms.ogg",
+            "start_ms": 57915,
+            "duration_ms": 117
+        }
+    ],
+    "인": [
+        {
+            "file_name": "_selective_Holiday_EP02_023_Mago_인_Gsharp3_std13.4_-18.5dB_1099ms_1359ms_M30ms.ogg",
+            "start_ms": 58032,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_081_Mago_인_A3_std5.1_-18.3dB_4079ms_4300ms_M30ms.ogg",
+            "start_ms": 58289,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Mago_Affinity3_인_Asharp4_std16.3_-12.3dB_1020ms_1200ms_M30ms.ogg",
+            "start_ms": 58510,
+            "duration_ms": 181
+        }
+    ],
+    "일": [
+        {
+            "file_name": "_selective_Holiday_EP07_062_Mago_일_C4_std18.5_-21.8dB_2860ms_3010ms_M30ms.ogg",
+            "start_ms": 58691,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_068_Mago_일_B3_std27.2_-21.6dB_2040ms_2160ms_M30ms.ogg",
+            "start_ms": 58843,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Mago_HeroSkill_Skin1_일_E4_std8.2_-22.6dB_880ms_1050ms_M30ms.ogg",
+            "start_ms": 58960,
+            "duration_ms": 171
+        }
+    ],
+    "잃": [
+        {
+            "file_name": "Voice_Mago_Victory1_잃_D4_std18.4_-21.4dB_1220ms_1380ms_M30ms.ogg",
+            "start_ms": 59131,
+            "duration_ms": 157
+        }
+    ],
+    "있": [
+        {
+            "file_name": "_selective_Holiday_EP02_017_Mago_있_Fsharp4_std25.5_-12.2dB_2570ms_2739ms_M30ms.ogg",
+            "start_ms": 59288,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_029_Mago_있_E4_std22.1_-16.7dB_2960ms_3110ms_M30ms.ogg",
+            "start_ms": 59459,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "Voice_Mago_LevelUp_Skin1_있_A3_std7.4_-16.9dB_1720ms_1880ms_M30ms.ogg",
+            "start_ms": 59606,
+            "duration_ms": 157
+        }
+    ],
+    "자": [
+        {
+            "file_name": "_selective_Holiday_EP03_010_Mago_자_F4_std28.5_-14.2dB_100ms_262ms_M30ms.ogg",
+            "start_ms": 59763,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_047_Mago_자_C5_std29.7_-12.2dB_1619ms_1764ms_M30ms.ogg",
+            "start_ms": 59926,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_Holiday_EP07_062_Mago_자_B3_std2.8_-17.4dB_1740ms_1902ms_M30ms.ogg",
+            "start_ms": 60073,
+            "duration_ms": 163
+        }
+    ],
+    "작": [
+        {
+            "file_name": "_selective_Holiday_EP06_092_Mago_작_B4_std9.2_-18.2dB_2770ms_2940ms_M30ms.ogg",
+            "start_ms": 60236,
+            "duration_ms": 191
+        }
+    ],
+    "잔": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_081_Mago_잔_Gsharp3_std16.1_-23.2dB_4700ms_4940ms_M30ms.ogg",
+            "start_ms": 60427,
+            "duration_ms": 237
+        }
+    ],
+    "잖": [
+        {
+            "file_name": "_selective_Holiday_EP02_068_Mago_잖_B4_std28.3_-12.8dB_4560ms_4750ms_M30ms.ogg",
+            "start_ms": 60664,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_잖_G4_std18.6_-13.8dB_5140ms_5330ms_M30ms.ogg",
+            "start_ms": 60856,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_1_Skin1_잖_A4_std4.8_-11.7dB_2800ms_2990ms_M30ms.ogg",
+            "start_ms": 61048,
+            "duration_ms": 192
+        }
+    ],
+    "잘": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_061_Mago_잘_Asharp3_std13.2_-21.9dB_2400ms_2660ms_M30ms.ogg",
+            "start_ms": 61240,
+            "duration_ms": 257
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_064_Mago_잘_A3_std9.1_-22.4dB_2820ms_2960ms_M30ms.ogg",
+            "start_ms": 61497,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_Skin1_잘_Gsharp3_std7.1_-24.1dB_2580ms_2760ms_M30ms.ogg",
+            "start_ms": 61638,
+            "duration_ms": 181
+        }
+    ],
+    "장": [
+        {
+            "file_name": "_selective_Holiday_EP03_027_Mago_장_Gsharp4_std16.3_-12.6dB_2300ms_2480ms_M30ms.ogg",
+            "start_ms": 61819,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_042_Mago_장_B4_std25.2_-12.6dB_260ms_439ms_M30ms.ogg",
+            "start_ms": 61996,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_068_Mago_장_G4_std18.7_-14.6dB_1619ms_1800ms_M30ms.ogg",
+            "start_ms": 62177,
+            "duration_ms": 181
+        }
+    ],
+    "재": [
+        {
+            "file_name": "Voice_Mago_Affinity7_재_B3_std17.8_-17.0dB_40ms_274ms_M30ms.ogg",
+            "start_ms": 62358,
+            "duration_ms": 231
+        }
+    ],
+    "저": [
+        {
+            "file_name": "_selective_Holiday_EP02_029_Mago_저_E4_std17.5_-15.1dB_1000ms_1252ms_M30ms.ogg",
+            "start_ms": 62589,
+            "duration_ms": 249
+        },
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_Skin1_저_B3_std14.8_-17.9dB_1780ms_1996ms_M30ms.ogg",
+            "start_ms": 62838,
+            "duration_ms": 213
+        }
+    ],
+    "적": [
+        {
+            "file_name": "Voice_Mago_Touch1_Skin1_적_F4_std38.2_-14.2dB_1520ms_1680ms_M30ms.ogg",
+            "start_ms": 63051,
+            "duration_ms": 157
+        }
+    ],
+    "전": [
+        {
+            "file_name": "_selective_Holiday_EP05_008_Mago_전_Asharp4_std32.7_-16.2dB_2300ms_2520ms_M30ms.ogg",
+            "start_ms": 63208,
+            "duration_ms": 221
+        }
+    ],
+    "정": [
+        {
+            "file_name": "_selective_Holiday_EP06_043_Mago_정_Dsharp4_std65.6_-16.3dB_1300ms_1520ms_M30ms.ogg",
+            "start_ms": 63429,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Mago_Line3_정_C4_std56.2_-14.6dB_40ms_300ms_M30ms.ogg",
+            "start_ms": 63646,
+            "duration_ms": 261
+        }
+    ],
+    "제": [
+        {
+            "file_name": "Voice_Mago_Affinity2_제_Csharp4_std13.0_-13.2dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 63907,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_Affinity6_제_D4_std3.5_-14.3dB_20ms_146ms_M30ms.ogg",
+            "start_ms": 64048,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_Gacha4_제_B3_std16.8_-14.2dB_60ms_186ms_M30ms.ogg",
+            "start_ms": 64176,
+            "duration_ms": 128
+        }
+    ],
+    "조": [
+        {
+            "file_name": "_selective_Holiday_EP02_057_Mago_조_Dsharp4_std22.7_-17.2dB_780ms_942ms_M30ms.ogg",
+            "start_ms": 64304,
+            "duration_ms": 163
+        }
+    ],
+    "좀": [
+        {
+            "file_name": "Voice_Mago_Growth1_좀_C4_std28.3_-13.0dB_40ms_180ms_M30ms.ogg",
+            "start_ms": 64467,
+            "duration_ms": 141
+        }
+    ],
+    "좋": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_067_Mago_좋_C4_std24.0_-22.6dB_2200ms_2420ms_M30ms.ogg",
+            "start_ms": 64608,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_좋_B3_std10.0_-23.8dB_3700ms_3920ms_M30ms.ogg",
+            "start_ms": 64825,
+            "duration_ms": 217
+        }
+    ],
+    "주": [
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_주_B4_std15.5_-18.9dB_1960ms_2158ms_M30ms.ogg",
+            "start_ms": 65042,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_Skin1_주_F4_std12.1_-20.2dB_300ms_425ms_M30ms.ogg",
+            "start_ms": 65242,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_주_G4_std14.3_-15.9dB_1979ms_2124ms_M30ms.ogg",
+            "start_ms": 65367,
+            "duration_ms": 147
+        }
+    ],
+    "줄": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_064_Mago_줄_Fsharp4_std19.6_-20.5dB_3480ms_3700ms_M30ms.ogg",
+            "start_ms": 65514,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Mago_HeroUpgrade_Skin1_줄_E4_std21.9_-20.5dB_3180ms_3440ms_M30ms.ogg",
+            "start_ms": 65731,
+            "duration_ms": 257
+        }
+    ],
+    "중": [
+        {
+            "file_name": "Voice_Mago_CallPlayer3_중_Gsharp4_std8.1_-8.3dB_220ms_400ms_M30ms.ogg",
+            "start_ms": 65988,
+            "duration_ms": 181
+        }
+    ],
+    "지": [
+        {
+            "file_name": "Voice_Mago_Affinity5_지_F4_std9.3_-16.6dB_2960ms_3068ms_M30ms.ogg",
+            "start_ms": 66169,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Mago_DutchRubEnd2_Skin1_지_Gsharp4_std5.1_-18.5dB_1140ms_1248ms_M30ms.ogg",
+            "start_ms": 66278,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_지_G4_std18.3_-15.3dB_2880ms_2988ms_M30ms.ogg",
+            "start_ms": 66387,
+            "duration_ms": 109
+        }
+    ],
+    "직": [
+        {
+            "file_name": "Voice_Mago_Die1_직_Dsharp4_std8.3_-20.0dB_1580ms_1740ms_M30ms.ogg",
+            "start_ms": 66496,
+            "duration_ms": 157
+        }
+    ],
+    "진": [
+        {
+            "file_name": "_selective_Holiday_EP02_073_Mago_진_D4_std25.0_-17.4dB_380ms_620ms_M30ms.ogg",
+            "start_ms": 66653,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "Voice_Mago_LevelUp_진_Asharp4_std8.9_-10.6dB_1080ms_1240ms_M30ms.ogg",
+            "start_ms": 66890,
+            "duration_ms": 157
+        }
+    ],
+    "짓": [
+        {
+            "file_name": "Voice_Mago_Touch1_Skin1_짓_F4_std5.7_-21.2dB_319ms_500ms_M30ms.ogg",
+            "start_ms": 67047,
+            "duration_ms": 181
+        }
+    ],
+    "짜": [
+        {
+            "file_name": "_selective_Holiday_EP02_073_Mago_짜_G4_std7.1_-10.8dB_620ms_710ms_M30ms.ogg",
+            "start_ms": 67228,
+            "duration_ms": 91
+        }
+    ],
+    "짬": [
+        {
+            "file_name": "_selective_Holiday_EP03_008_Mago_짬_Gsharp4_std17.3_-11.7dB_2140ms_2340ms_M30ms.ogg",
+            "start_ms": 67319,
+            "duration_ms": 197
+        }
+    ],
+    "쩔": [
+        {
+            "file_name": "_selective_Holiday_EP07_062_Mago_쩔_F4_std12.8_-19.0dB_4140ms_4340ms_M30ms.ogg",
+            "start_ms": 67516,
+            "duration_ms": 197
+        }
+    ],
+    "찮": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_061_Mago_찮_E4_std24.7_-18.9dB_1160ms_1370ms_M30ms.ogg",
+            "start_ms": 67713,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_081_Mago_찮_Fsharp4_std9.5_-16.7dB_2040ms_2210ms_M30ms.ogg",
+            "start_ms": 67924,
+            "duration_ms": 171
+        }
+    ],
+    "찾": [
+        {
+            "file_name": "Voice_Mago_Line1_찾_Asharp4_std14.7_-13.0dB_700ms_910ms_M30ms.ogg",
+            "start_ms": 68095,
+            "duration_ms": 211
+        }
+    ],
+    "책": [
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_책_A4_std33.9_-13.7dB_3160ms_3320ms_M30ms.ogg",
+            "start_ms": 68306,
+            "duration_ms": 157
+        }
+    ],
+    "처": [
+        {
+            "file_name": "Voice_Mago_DeckSetting1_처_Asharp4_std6.2_-13.7dB_1040ms_1148ms_M30ms.ogg",
+            "start_ms": 68463,
+            "duration_ms": 109
+        }
+    ],
+    "천": [
+        {
+            "file_name": "_selective_Holiday_EP02_018_Mago_천_Asharp4_std17.8_-12.2dB_1460ms_1680ms_M30ms.ogg",
+            "start_ms": 68572,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_043_Mago_천_Asharp4_std23.2_-14.1dB_1760ms_1979ms_M30ms.ogg",
+            "start_ms": 68793,
+            "duration_ms": 221
+        }
+    ],
+    "총": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_063_Mago_총_G4_std12.8_-21.2dB_799ms_980ms_M30ms.ogg",
+            "start_ms": 69014,
+            "duration_ms": 181
+        }
+    ],
+    "출": [
+        {
+            "file_name": "_selective_Holiday_EP02_022_Mago_출_E4_std28.6_-17.0dB_2440ms_2680ms_M30ms.ogg",
+            "start_ms": 69195,
+            "duration_ms": 237
+        }
+    ],
+    "충": [
+        {
+            "file_name": "_selective_Holiday_EP03_003_Mago_충_A4_std10.3_-13.2dB_2880ms_3080ms_M30ms.ogg",
+            "start_ms": 69432,
+            "duration_ms": 197
+        }
+    ],
+    "치": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_064_Mago_치_G4_std1.6_-18.8dB_3120ms_3227ms_M30ms.ogg",
+            "start_ms": 69629,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_083_Mago_치_F4_std0.9_-18.9dB_370ms_451ms_M30ms.ogg",
+            "start_ms": 69738,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "Voice_Mago_Affinity6_치_Fsharp4_std11.4_-13.4dB_919ms_1028ms_M30ms.ogg",
+            "start_ms": 69821,
+            "duration_ms": 109
+        }
+    ],
+    "친": [
+        {
+            "file_name": "Voice_Mago_Affinity5_친_Asharp4_std10.9_-12.6dB_1820ms_2020ms_M30ms.ogg",
+            "start_ms": 69930,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Mago_HeroSkill_친_B4_std7.2_-10.5dB_240ms_439ms_M30ms.ogg",
+            "start_ms": 70127,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Mago_Lobby_친_Fsharp4_std17.7_-13.8dB_2920ms_3120ms_M30ms.ogg",
+            "start_ms": 70327,
+            "duration_ms": 197
+        }
+    ],
+    "칠": [
+        {
+            "file_name": "Voice_Mago_Line2_칠_E4_std13.5_-15.3dB_400ms_560ms_M30ms.ogg",
+            "start_ms": 70524,
+            "duration_ms": 157
+        }
+    ],
+    "코": [
+        {
+            "file_name": "_selective_Holiday_EP02_045_Mago_코_B4_std8.1_-11.9dB_80ms_260ms_M30ms.ogg",
+            "start_ms": 70681,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_060_Mago_코_Asharp4_std5.1_-18.1dB_720ms_881ms_M30ms.ogg",
+            "start_ms": 70862,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_코_Asharp4_std37.9_-19.1dB_2300ms_2426ms_M30ms.ogg",
+            "start_ms": 71020,
+            "duration_ms": 128
+        }
+    ],
+    "크": [
+        {
+            "file_name": "_selective_Holiday_EP02_062_Mago_크_G4_std9.4_-14.9dB_40ms_148ms_M30ms.ogg",
+            "start_ms": 71148,
+            "duration_ms": 109
+        }
+    ],
+    "탕": [
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_탕_A4_std19.6_-16.9dB_2200ms_2400ms_M30ms.ogg",
+            "start_ms": 71257,
+            "duration_ms": 197
+        }
+    ],
+    "터": [
+        {
+            "file_name": "_selective_Holiday_EP02_018_Mago_터_A4_std38.8_-9.7dB_3320ms_3446ms_M30ms.ogg",
+            "start_ms": 71454,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_081_Mago_터_F4_std8.9_-15.5dB_330ms_483ms_M30ms.ogg",
+            "start_ms": 71582,
+            "duration_ms": 155
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_081_Mago_터_Fsharp4_std2.0_-14.8dB_1520ms_1628ms_M30ms.ogg",
+            "start_ms": 71737,
+            "duration_ms": 109
+        }
+    ],
+    "테": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_테_F4_std6.3_-20.2dB_3520ms_3646ms_M30ms.ogg",
+            "start_ms": 71846,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Mago_DutchRubEnd2_Skin1_테_A4_std28.8_-14.9dB_640ms_766ms_M30ms.ogg",
+            "start_ms": 71974,
+            "duration_ms": 128
+        }
+    ],
+    "팔": [
+        {
+            "file_name": "_selective_Holiday_EP02_047_Mago_팔_Asharp4_std7.0_-13.0dB_2239ms_2440ms_M30ms.ogg",
+            "start_ms": 72102,
+            "duration_ms": 203
+        }
+    ],
+    "편": [
+        {
+            "file_name": "Voice_Mago_Affinity5_편_Fsharp4_std21.3_-13.0dB_2739ms_2960ms_M30ms.ogg",
+            "start_ms": 72305,
+            "duration_ms": 221
+        }
+    ],
+    "평": [
+        {
+            "file_name": "_selective_Holiday_EP02_048_Mago_평_B4_std8.9_-15.2dB_1599ms_1820ms_M30ms.ogg",
+            "start_ms": 72526,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Mago_Line3_평_Gsharp4_std10.3_-12.1dB_520ms_720ms_M30ms.ogg",
+            "start_ms": 72747,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_평_Asharp4_std15.3_-11.3dB_40ms_300ms_M30ms.ogg",
+            "start_ms": 72944,
+            "duration_ms": 261
+        }
+    ],
+    "피": [
+        {
+            "file_name": "_selective_Holiday_EP02_036_Mago_피_E4_std6.9_-15.8dB_600ms_762ms_M30ms.ogg",
+            "start_ms": 73205,
+            "duration_ms": 163
+        }
+    ],
+    "핀": [
+        {
+            "file_name": "_selective_Holiday_EP02_029_Mago_핀_A4_std16.5_-12.8dB_5220ms_5400ms_M30ms.ogg",
+            "start_ms": 73368,
+            "duration_ms": 181
+        }
+    ],
+    "필": [
+        {
+            "file_name": "Voice_Mago_Affinity7_필_G4_std8.4_-13.5dB_300ms_540ms_M30ms.ogg",
+            "start_ms": 73549,
+            "duration_ms": 237
+        }
+    ],
+    "하": [
+        {
+            "file_name": "_selective_Holiday_EP02_017_Mago_하_B4_std30.4_-12.0dB_2300ms_2444ms_M30ms.ogg",
+            "start_ms": 73786,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_057_Mago_하_F4_std6.2_-15.9dB_1060ms_1204ms_M30ms.ogg",
+            "start_ms": 73927,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_031_Mago_하_A4_std8.1_-12.0dB_4460ms_4604ms_M30ms.ogg",
+            "start_ms": 74091,
+            "duration_ms": 141
+        }
+    ],
+    "한": [
+        {
+            "file_name": "_selective_Holiday_EP02_073_Mago_한_Gsharp4_std17.4_-12.9dB_1160ms_1340ms_M30ms.ogg",
+            "start_ms": 74232,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Holiday_EP02_080_Mago_한_F4_std10.8_-18.8dB_2280ms_2460ms_M30ms.ogg",
+            "start_ms": 74413,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Mago_DutchRubEnd2_Skin1_한_A4_std9.1_-11.9dB_459ms_640ms_M30ms.ogg",
+            "start_ms": 74590,
+            "duration_ms": 178
+        }
+    ],
+    "할": [
+        {
+            "file_name": "_selective_Holiday_EP02_080_Mago_할_Gsharp4_std16.5_-14.2dB_1960ms_2140ms_M30ms.ogg",
+            "start_ms": 74768,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Mago_Affinity5_할_G4_std12.1_-14.1dB_880ms_1120ms_M30ms.ogg",
+            "start_ms": 74949,
+            "duration_ms": 260
+        },
+        {
+            "file_name": "Voice_Mago_Touch1_2_Skin1_할_Gsharp4_std12.3_-16.6dB_1930ms_2170ms_M30ms.ogg",
+            "start_ms": 75209,
+            "duration_ms": 237
+        }
+    ],
+    "함": [
+        {
+            "file_name": "Voice_Mago_Victory2_함_Asharp4_std24.5_-15.5dB_580ms_820ms_M30ms.ogg",
+            "start_ms": 75446,
+            "duration_ms": 237
+        }
+    ],
+    "해": [
+        {
+            "file_name": "_selective_nowhereleft_EP08_067_Mago_해_A4_std10.1_-19.0dB_3260ms_3404ms_M30ms.ogg",
+            "start_ms": 75683,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_HeroSkill_해_A4_std40.5_-10.6dB_1020ms_1164ms_M30ms.ogg",
+            "start_ms": 75824,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Mago_LevelUp_해_Csharp4_std50.9_-10.9dB_919ms_1064ms_M30ms.ogg",
+            "start_ms": 75965,
+            "duration_ms": 147
+        }
+    ],
+    "했": [
+        {
+            "file_name": "_selective_Holiday_EP05_013_Mago_했_Asharp4_std17.2_-17.0dB_4760ms_4979ms_M30ms.ogg",
+            "start_ms": 76112,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_Holiday_EP06_058_Mago_했_B4_std5.8_-15.0dB_4899ms_5060ms_M30ms.ogg",
+            "start_ms": 76333,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "_selective_nowhereleft_EP08_095_Mago_했_G4_std11.2_-21.5dB_4980ms_5140ms_M30ms.ogg",
+            "start_ms": 76491,
+            "duration_ms": 157
+        }
+    ],
+    "호": [
+        {
+            "file_name": "_selective_Holiday_EP02_036_Mago_호_A4_std18.0_-13.4dB_2660ms_2858ms_M30ms.ogg",
+            "start_ms": 76648,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_006_Mago_호_B4_std10.7_-12.4dB_400ms_616ms_M30ms.ogg",
+            "start_ms": 76848,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_Holiday_EP03_027_Mago_호_C5_std17.1_-11.3dB_4560ms_4758ms_M30ms.ogg",
+            "start_ms": 77061,
+            "duration_ms": 200
+        }
+    ],
+    "화": [
+        {
+            "file_name": "Voice_Mago_Line3_화_Gsharp4_std2.9_-8.6dB_720ms_864ms_M30ms.ogg",
+            "start_ms": 77261,
+            "duration_ms": 141
+        }
+    ],
+    "후": [
+        {
+            "file_name": "Voice_Mago_Sorry2_후_Gsharp4_std18.4_-14.6dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 77402,
+            "duration_ms": 141
+        }
+    ],
+    "훼": [
+        {
+            "file_name": "_selective_Holiday_EP03_010_Mago_훼_Asharp4_std44.6_-11.8dB_1180ms_1324ms_M30ms.ogg",
+            "start_ms": 77543,
+            "duration_ms": 141
+        }
+    ],
+    "흑": [
+        {
+            "file_name": "Voice_Mago_Equipment_Skin1_흑_Gsharp4_std20.2_-25.8dB_2000ms_2200ms_M30ms.ogg",
+            "start_ms": 77684,
+            "duration_ms": 197
+        }
+    ],
+    "히": [
+        {
+            "file_name": "_selective_Holiday_EP03_003_Mago_히_G4_std11.9_-15.3dB_3180ms_3324ms_M30ms.ogg",
+            "start_ms": 77881,
+            "duration_ms": 164
+        }
+    ]
+}

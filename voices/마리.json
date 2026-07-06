@@ -1,0 +1,5698 @@
+{
+    "가": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_041_Marie_가_B3_std9.5_-16.3dB_1560ms_1668ms_M30ms.ogg",
+            "start_ms": 0,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_045_Marie_가_G3_std6.9_-20.5dB_1640ms_1748ms_M30ms.ogg",
+            "start_ms": 109,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_013_Marie_가_E5_std9.6_-12.6dB_280ms_388ms_M30ms.ogg",
+            "start_ms": 214,
+            "duration_ms": 109
+        }
+    ],
+    "각": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_047_Marie_각_B4_std15.2_-16.9dB_740ms_899ms_M30ms.ogg",
+            "start_ms": 323,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_083_Marie_각_B3_std4.3_-12.7dB_5680ms_5830ms_M30ms.ogg",
+            "start_ms": 483,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_058_Marie_각_A4_std27.5_-17.0dB_1740ms_1890ms_M30ms.ogg",
+            "start_ms": 635,
+            "duration_ms": 152
+        }
+    ],
+    "간": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_053_Marie_간_D4_std8.0_-17.9dB_679ms_840ms_M30ms.ogg",
+            "start_ms": 787,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_012_Marie_간_E4_std11.1_-18.6dB_1099ms_1260ms_M30ms.ogg",
+            "start_ms": 967,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP02_023_Marie_간_Csharp4_std4.6_-17.2dB_4380ms_4540ms_M30ms.ogg",
+            "start_ms": 1125,
+            "duration_ms": 157
+        }
+    ],
+    "갈": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_갈_Gsharp4_std18.0_-14.2dB_880ms_1020ms_M30ms.ogg",
+            "start_ms": 1282,
+            "duration_ms": 137
+        }
+    ],
+    "감": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_055_Marie_감_Asharp3_std4.2_-17.4dB_3700ms_3889ms_M30ms.ogg",
+            "start_ms": 1419,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "Voice_Letter_Marie_감_Fsharp4_std49.9_-18.2dB_25140ms_25339ms_M30ms.ogg",
+            "start_ms": 1608,
+            "duration_ms": 200
+        }
+    ],
+    "갑": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_060_Marie_갑_F4_std13.0_-13.2dB_1400ms_1550ms_M30ms.ogg",
+            "start_ms": 1808,
+            "duration_ms": 152
+        }
+    ],
+    "갔": [
+        {
+            "file_name": "_selective_raiderscave_EP05_035_Marie_갔_E5_std16.7_-16.3dB_1680ms_1890ms_M30ms.ogg",
+            "start_ms": 1960,
+            "duration_ms": 211
+        }
+    ],
+    "강": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_089_Marie_강_Fsharp3_std8.2_-21.9dB_1160ms_1359ms_M30ms.ogg",
+            "start_ms": 2171,
+            "duration_ms": 196
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_025_Marie_강_B4_std7.0_-15.0dB_199ms_380ms_M30ms.ogg",
+            "start_ms": 2367,
+            "duration_ms": 181
+        }
+    ],
+    "갖": [
+        {
+            "file_name": "_selective_raiderscave_EP06_036_Marie_갖_E4_std28.4_-18.1dB_1240ms_1400ms_M30ms.ogg",
+            "start_ms": 2548,
+            "duration_ms": 157
+        }
+    ],
+    "같": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_같_Csharp4_std18.2_-16.1dB_5579ms_5750ms_M30ms.ogg",
+            "start_ms": 2705,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP06_094_Marie_같_Asharp4_std14.4_-16.1dB_1400ms_1570ms_M30ms.ogg",
+            "start_ms": 2878,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_045_Marie_같_G4_std71.7_-11.5dB_4500ms_4670ms_M30ms.ogg",
+            "start_ms": 3049,
+            "duration_ms": 171
+        }
+    ],
+    "개": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_031_Marie_개_Asharp3_std5.9_-16.1dB_1840ms_2020ms_M30ms.ogg",
+            "start_ms": 3220,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_050_Marie_개_Unvoiced_std0.0_-20.0dB_1640ms_1748ms_M30ms.ogg",
+            "start_ms": 3401,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_059_Marie_개_C4_std6.0_-13.8dB_1160ms_1268ms_M30ms.ogg",
+            "start_ms": 3510,
+            "duration_ms": 109
+        }
+    ],
+    "거": [
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_Marie_거_G4_std13.8_-13.5dB_3560ms_3677ms_M30ms.ogg",
+            "start_ms": 3619,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_거_Gsharp3_std15.6_-22.8dB_2480ms_2597ms_M30ms.ogg",
+            "start_ms": 3736,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_067_Marie_거_Csharp5_std20.4_-12.4dB_2600ms_2717ms_M30ms.ogg",
+            "start_ms": 3853,
+            "duration_ms": 117
+        }
+    ],
+    "걱": [
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_HiddenMarie_걱_Asharp3_std7.9_-25.7dB_2460ms_2660ms_M30ms.ogg",
+            "start_ms": 3970,
+            "duration_ms": 197
+        }
+    ],
+    "건": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_083_HiddenMarie_건_Gsharp3_std26.3_-14.4dB_3460ms_3600ms_M30ms.ogg",
+            "start_ms": 4167,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_048_Marie_건_F4_std6.8_-15.0dB_2060ms_2200ms_M30ms.ogg",
+            "start_ms": 4304,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP02_002_Marie_건_A3_std3.5_-16.4dB_1260ms_1410ms_M30ms.ogg",
+            "start_ms": 4445,
+            "duration_ms": 147
+        }
+    ],
+    "걸": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_072_Marie_걸_D4_std3.6_-17.1dB_1599ms_1750ms_M30ms.ogg",
+            "start_ms": 4592,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_049_Marie_걸_G4_std32.6_-17.0dB_5360ms_5540ms_M30ms.ogg",
+            "start_ms": 4744,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_067_Marie_걸_E4_std7.9_-18.5dB_1800ms_2000ms_M30ms.ogg",
+            "start_ms": 4921,
+            "duration_ms": 197
+        }
+    ],
+    "것": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_038_Marie_것_A3_std9.4_-21.2dB_1599ms_1760ms_M30ms.ogg",
+            "start_ms": 5118,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP03_033_Marie_것_Asharp4_std21.1_-16.0dB_2220ms_2380ms_M30ms.ogg",
+            "start_ms": 5281,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_004_Marie_것_A3_std8.7_-19.9dB_4479ms_4640ms_M30ms.ogg",
+            "start_ms": 5438,
+            "duration_ms": 158
+        }
+    ],
+    "게": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_063_Marie_게_Fsharp4_std7.6_-19.4dB_1240ms_1330ms_M30ms.ogg",
+            "start_ms": 5596,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_pray_EP11_025_Marie_게_C4_std9.2_-11.8dB_2560ms_2650ms_M30ms.ogg",
+            "start_ms": 5687,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Marie_Gacha2_게_Gsharp4_std11.5_-17.5dB_2020ms_2110ms_M30ms.ogg",
+            "start_ms": 5778,
+            "duration_ms": 91
+        }
+    ],
+    "겠": [
+        {
+            "file_name": "_selective_Ontime_EP04_012_Marie_겠_Asharp3_std8.3_-18.8dB_4659ms_4860ms_M30ms.ogg",
+            "start_ms": 5869,
+            "duration_ms": 203
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_077_Marie_겠_G3_std3.9_-20.2dB_1280ms_1480ms_M30ms.ogg",
+            "start_ms": 6072,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_032_Marie_겠_B3_std15.7_-18.6dB_799ms_1000ms_M30ms.ogg",
+            "start_ms": 6269,
+            "duration_ms": 203
+        }
+    ],
+    "겨": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_겨_B3_std14.9_-16.1dB_3440ms_3566ms_M30ms.ogg",
+            "start_ms": 6472,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_겨_F4_std11.6_-9.7dB_919ms_1045ms_M30ms.ogg",
+            "start_ms": 6600,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP07_093_Marie_겨_Csharp5_std18.6_-13.6dB_5200ms_5326ms_M30ms.ogg",
+            "start_ms": 6728,
+            "duration_ms": 128
+        }
+    ],
+    "격": [
+        {
+            "file_name": "Voice_Marie_Affinity4_격_Csharp4_std21.5_-21.4dB_3880ms_4010ms_M30ms.ogg",
+            "start_ms": 6856,
+            "duration_ms": 131
+        }
+    ],
+    "결": [
+        {
+            "file_name": "_selective_Main_Ch04_EP04_041_Marie_결_D4_std43.4_-14.2dB_2420ms_2620ms_M30ms.ogg",
+            "start_ms": 6987,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_046_Marie_결_E4_std10.0_-18.6dB_2520ms_2660ms_M30ms.ogg",
+            "start_ms": 7184,
+            "duration_ms": 141
+        }
+    ],
+    "겼": [
+        {
+            "file_name": "_selective_raiderscave_EP02_056_Marie_겼_B4_std55.4_-17.9dB_2420ms_2650ms_M30ms.ogg",
+            "start_ms": 7325,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_061_Marie_겼_Asharp3_std7.4_-17.5dB_5930ms_6100ms_M30ms.ogg",
+            "start_ms": 7557,
+            "duration_ms": 171
+        }
+    ],
+    "경": [
+        {
+            "file_name": "_selective_Connection_EP05_004_Marie_경_D4_std7.3_-12.9dB_1820ms_1940ms_M30ms.ogg",
+            "start_ms": 7728,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_060_Marie_경_Fsharp4_std3.0_-16.5dB_2140ms_2260ms_M30ms.ogg",
+            "start_ms": 7845,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_010_Marie_경_Fsharp4_std11.6_-17.0dB_1180ms_1320ms_M30ms.ogg",
+            "start_ms": 7962,
+            "duration_ms": 141
+        }
+    ],
+    "계": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_086_Marie_계_Asharp3_std12.8_-14.5dB_2680ms_2752ms_M30ms.ogg",
+            "start_ms": 8103,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_043_Marie_계_G3_std4.7_-13.6dB_2320ms_2482ms_M30ms.ogg",
+            "start_ms": 8172,
+            "duration_ms": 163
+        }
+    ],
+    "고": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_047_Marie_고_F4_std8.2_-18.0dB_1420ms_1510ms_M30ms.ogg",
+            "start_ms": 8335,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Letter_Marie_고_F4_std21.7_-16.2dB_9880ms_9970ms_M30ms.ogg",
+            "start_ms": 8426,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Marie_Lobby_고_G3_std5.5_-24.5dB_1420ms_1510ms_M30ms.ogg",
+            "start_ms": 8517,
+            "duration_ms": 91
+        }
+    ],
+    "골": [
+        {
+            "file_name": "_selective_pray_EP03_061_Marie_골_Gsharp4_std153.3_-15.2dB_2400ms_2580ms_M30ms.ogg",
+            "start_ms": 8608,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_039_Marie_골_D4_std8.5_-18.4dB_4059ms_4200ms_M30ms.ogg",
+            "start_ms": 8789,
+            "duration_ms": 141
+        }
+    ],
+    "곳": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_곳_Csharp4_std15.9_-20.3dB_5860ms_5990ms_M30ms.ogg",
+            "start_ms": 8930,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP03_014_Marie_곳_G4_std9.3_-16.2dB_3060ms_3210ms_M30ms.ogg",
+            "start_ms": 9061,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_013_Marie_곳_A4_std19.7_-16.2dB_4500ms_4630ms_M30ms.ogg",
+            "start_ms": 9213,
+            "duration_ms": 131
+        }
+    ],
+    "공": [
+        {
+            "file_name": "_selective_pray_EP03_059_Marie_공_Csharp5_std56.9_-11.0dB_4019ms_4200ms_M30ms.ogg",
+            "start_ms": 9344,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_082_Marie_공_G3_std11.5_-22.4dB_1900ms_2100ms_M30ms.ogg",
+            "start_ms": 9525,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_002_Marie_공_C4_std16.7_-18.1dB_1060ms_1260ms_M30ms.ogg",
+            "start_ms": 9722,
+            "duration_ms": 197
+        }
+    ],
+    "과": [
+        {
+            "file_name": "_selective_Main_Ch04_EP04_045_Marie_과_D4_std19.9_-12.6dB_1340ms_1448ms_M30ms.ogg",
+            "start_ms": 9919,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_031_Marie_과_Fsharp4_std1.7_-12.1dB_3080ms_3188ms_M30ms.ogg",
+            "start_ms": 10028,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_063_Marie_과_D4_std6.3_-12.1dB_600ms_708ms_M30ms.ogg",
+            "start_ms": 10137,
+            "duration_ms": 109
+        }
+    ],
+    "관": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_093_Marie_관_Gsharp4_std5.5_-13.4dB_2860ms_2990ms_M30ms.ogg",
+            "start_ms": 10246,
+            "duration_ms": 131
+        }
+    ],
+    "교": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_030_Marie_교_F4_std16.2_-16.1dB_20ms_200ms_M30ms.ogg",
+            "start_ms": 10377,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_pray_EP11_025_Marie_교_A3_std15.6_-30.4dB_2080ms_2242ms_M30ms.ogg",
+            "start_ms": 10558,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_092_Marie_교_F4_std8.3_-15.4dB_940ms_1101ms_M30ms.ogg",
+            "start_ms": 10721,
+            "duration_ms": 163
+        }
+    ],
+    "구": [
+        {
+            "file_name": "_selective_Connection_EP05_004_Marie_구_C4_std11.6_-23.1dB_1700ms_1808ms_M30ms.ogg",
+            "start_ms": 10884,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_064_Marie_구_C5_std64.7_-18.7dB_3000ms_3108ms_M30ms.ogg",
+            "start_ms": 10993,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_041_Marie_구_Dsharp4_std8.3_-22.2dB_1080ms_1188ms_M30ms.ogg",
+            "start_ms": 11102,
+            "duration_ms": 109
+        }
+    ],
+    "국": [
+        {
+            "file_name": "_selective_Main_Ch01_EP05_072_Marie_국_Dsharp4_std19.7_-21.4dB_1240ms_1370ms_M30ms.ogg",
+            "start_ms": 11211,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP06_043_Marie_국_B3_std19.5_-23.2dB_3840ms_3969ms_M30ms.ogg",
+            "start_ms": 11342,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP07_031_Marie_국_Gsharp3_std8.5_-24.7dB_1859ms_1990ms_M30ms.ogg",
+            "start_ms": 11473,
+            "duration_ms": 133
+        }
+    ],
+    "군": [
+        {
+            "file_name": "_selective_Main_Ch04_EP06_012_Marie_군_Dsharp4_std6.5_-20.3dB_360ms_559ms_M30ms.ogg",
+            "start_ms": 11606,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_017_Marie_군_E3_std2.2_-24.6dB_2560ms_2760ms_M30ms.ogg",
+            "start_ms": 11806,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_068_Marie_군_Dsharp4_std6.3_-23.9dB_980ms_1119ms_M30ms.ogg",
+            "start_ms": 12003,
+            "duration_ms": 136
+        }
+    ],
+    "굴": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_굴_B4_std10.2_-16.3dB_7659ms_7830ms_M30ms.ogg",
+            "start_ms": 12139,
+            "duration_ms": 173
+        }
+    ],
+    "굶": [
+        {
+            "file_name": "_selective_Main_Ch04_EP04_045_Marie_굶_B3_std10.4_-19.9dB_960ms_1160ms_M30ms.ogg",
+            "start_ms": 12312,
+            "duration_ms": 197
+        }
+    ],
+    "궁": [
+        {
+            "file_name": "_selective_Main_Ch01_EP06_016_Marie_궁_Fsharp4_std15.7_-17.2dB_339ms_440ms_M30ms.ogg",
+            "start_ms": 12509,
+            "duration_ms": 101
+        }
+    ],
+    "귀": [
+        {
+            "file_name": "_selective_raiderscave_EP02_100_Marie_귀_G4_std11.2_-14.9dB_1080ms_1206ms_M30ms.ogg",
+            "start_ms": 12610,
+            "duration_ms": 128
+        }
+    ],
+    "규": [
+        {
+            "file_name": "_selective_raiderscave_EP03_002_Marie_규_A4_std24.9_-15.7dB_2460ms_2586ms_M30ms.ogg",
+            "start_ms": 12738,
+            "duration_ms": 128
+        }
+    ],
+    "그": [
+        {
+            "file_name": "_selective_Connection_EP05_010_Marie_그_Gsharp4_std3.2_-15.1dB_2960ms_3068ms_M30ms.ogg",
+            "start_ms": 12866,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP07_042_Marie_그_Unvoiced_std0.0_-28.7dB_80ms_188ms_M30ms.ogg",
+            "start_ms": 12975,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_004_Marie_그_Dsharp4_std11.0_-20.5dB_480ms_588ms_M30ms.ogg",
+            "start_ms": 13084,
+            "duration_ms": 109
+        }
+    ],
+    "금": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_053_Marie_금_Asharp3_std4.0_-19.8dB_1460ms_1580ms_M30ms.ogg",
+            "start_ms": 13193,
+            "duration_ms": 140
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_082_Marie_금_B4_std29.2_-13.5dB_160ms_290ms_M30ms.ogg",
+            "start_ms": 13333,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_059_Marie_금_E4_std21.5_-17.3dB_400ms_520ms_M30ms.ogg",
+            "start_ms": 13464,
+            "duration_ms": 117
+        }
+    ],
+    "급": [
+        {
+            "file_name": "_selective_Connection_EP05_006_Marie_급_Csharp4_std15.1_-23.4dB_2500ms_2700ms_M30ms.ogg",
+            "start_ms": 13581,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_HiddenMarie_급_Unvoiced_std0.0_-32.9dB_3739ms_3960ms_M30ms.ogg",
+            "start_ms": 13778,
+            "duration_ms": 218
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_024_Marie_급_D4_std9.2_-24.3dB_1099ms_1280ms_M30ms.ogg",
+            "start_ms": 13996,
+            "duration_ms": 178
+        }
+    ],
+    "기": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_063_Marie_기_D4_std14.3_-21.1dB_1740ms_1847ms_M30ms.ogg",
+            "start_ms": 14174,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_기_Asharp3_std18.9_-25.5dB_2610ms_2709ms_M30ms.ogg",
+            "start_ms": 14283,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_016_Marie_기_Fsharp4_std6.4_-20.4dB_1740ms_1847ms_M30ms.ogg",
+            "start_ms": 14384,
+            "duration_ms": 109
+        }
+    ],
+    "긴": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_087_Marie_긴_E4_std14.0_-19.3dB_2520ms_2720ms_M30ms.ogg",
+            "start_ms": 14493,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP05_007_Marie_긴_C4_std3.2_-25.1dB_2640ms_2820ms_M30ms.ogg",
+            "start_ms": 14690,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Marie_Touch1_2_긴_F4_std15.6_-13.4dB_650ms_800ms_M30ms.ogg",
+            "start_ms": 14867,
+            "duration_ms": 152
+        }
+    ],
+    "길": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_090_Marie_길_E4_std13.1_-18.4dB_1820ms_1990ms_M30ms.ogg",
+            "start_ms": 15019,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_길_E4_std34.0_-17.2dB_120ms_290ms_M30ms.ogg",
+            "start_ms": 15190,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_길_Asharp3_std17.9_-20.3dB_3940ms_4109ms_M30ms.ogg",
+            "start_ms": 15361,
+            "duration_ms": 171
+        }
+    ],
+    "까": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_까_G3_std6.6_-20.3dB_439ms_547ms_M30ms.ogg",
+            "start_ms": 15532,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_101_Marie_까_Fsharp4_std27.2_-10.2dB_459ms_568ms_M30ms.ogg",
+            "start_ms": 15641,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Marie_Affinity5_까_Fsharp4_std19.8_-17.5dB_459ms_568ms_M30ms.ogg",
+            "start_ms": 15750,
+            "duration_ms": 109
+        }
+    ],
+    "깐": [
+        {
+            "file_name": "_selective_raiderscave_EP02_003_Marie_깐_Gsharp3_std6.4_-17.0dB_300ms_380ms_M30ms.ogg",
+            "start_ms": 15859,
+            "duration_ms": 77
+        }
+    ],
+    "께": [
+        {
+            "file_name": "_selective_Main_Ch05_EP01_040_Marie_께_G4_std19.1_-15.3dB_2040ms_2148ms_M30ms.ogg",
+            "start_ms": 15936,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_036_Marie_께_Csharp4_std3.1_-19.0dB_559ms_667ms_M30ms.ogg",
+            "start_ms": 16045,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_046_Marie_께_C4_std1.7_-14.6dB_2980ms_3106ms_M30ms.ogg",
+            "start_ms": 16154,
+            "duration_ms": 128
+        }
+    ],
+    "껴": [
+        {
+            "file_name": "_selective_Main_Ch01_EP07_054_HiddenMarie_껴_G4_std39.2_-14.2dB_2340ms_2502ms_M30ms.ogg",
+            "start_ms": 16282,
+            "duration_ms": 159
+        }
+    ],
+    "꼭": [
+        {
+            "file_name": "_selective_Connection_EP05_006_Marie_꼭_D4_std10.6_-17.9dB_4560ms_4700ms_M30ms.ogg",
+            "start_ms": 16441,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "Voice_Letter_Marie_꼭_Dsharp4_std12.8_-18.2dB_26259ms_26480ms_M30ms.ogg",
+            "start_ms": 16578,
+            "duration_ms": 218
+        }
+    ],
+    "꽂": [
+        {
+            "file_name": "_selective_raiderscave_EP02_023_Marie_꽂_Csharp4_std1.2_-23.2dB_2940ms_3100ms_M30ms.ogg",
+            "start_ms": 16796,
+            "duration_ms": 157
+        }
+    ],
+    "뀌": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_065_Marie_뀌_Csharp5_std1.8_-20.3dB_1900ms_1990ms_M30ms.ogg",
+            "start_ms": 16953,
+            "duration_ms": 91
+        }
+    ],
+    "끔": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_054_HiddenMarie_끔_Fsharp3_std11.9_-20.9dB_2540ms_2640ms_M30ms.ogg",
+            "start_ms": 17044,
+            "duration_ms": 97
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_016_Marie_끔_Csharp4_std14.8_-19.7dB_2160ms_2300ms_M30ms.ogg",
+            "start_ms": 17141,
+            "duration_ms": 137
+        }
+    ],
+    "끝": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_048_Marie_끝_Asharp3_std13.0_-21.0dB_3180ms_3360ms_M30ms.ogg",
+            "start_ms": 17278,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_끝_Csharp4_std65.9_-19.7dB_5419ms_5640ms_M30ms.ogg",
+            "start_ms": 17459,
+            "duration_ms": 218
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_091_Marie_끝_A4_std24.4_-19.0dB_3120ms_3300ms_M30ms.ogg",
+            "start_ms": 17677,
+            "duration_ms": 181
+        }
+    ],
+    "나": [
+        {
+            "file_name": "_selective_Main_Ch01_EP06_043_Marie_나_Unvoiced_std0.0_-15.8dB_4059ms_4167ms_M30ms.ogg",
+            "start_ms": 17858,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_010_Marie_나_Csharp4_std10.0_-16.6dB_2920ms_3028ms_M30ms.ogg",
+            "start_ms": 17967,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_012_Marie_나_F3_std1.1_-16.1dB_2520ms_2628ms_M30ms.ogg",
+            "start_ms": 18076,
+            "duration_ms": 109
+        }
+    ],
+    "난": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_034_Marie_난_G3_std4.2_-14.7dB_2020ms_2160ms_M30ms.ogg",
+            "start_ms": 18185,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_Marie_난_F3_std11.5_-13.3dB_1300ms_1460ms_M30ms.ogg",
+            "start_ms": 18326,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP07_029_Marie_난_Asharp3_std3.7_-22.3dB_1500ms_1660ms_M30ms.ogg",
+            "start_ms": 18483,
+            "duration_ms": 157
+        }
+    ],
+    "날": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_012_Marie_날_F4_std5.4_-11.8dB_3220ms_3320ms_M30ms.ogg",
+            "start_ms": 18640,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_022_HiddenMarie_날_Fsharp4_std7.8_-19.1dB_2580ms_2740ms_M30ms.ogg",
+            "start_ms": 18741,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_098_Marie_날_Csharp5_std30.9_-14.2dB_2580ms_2740ms_M30ms.ogg",
+            "start_ms": 18898,
+            "duration_ms": 157
+        }
+    ],
+    "남": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_063_Marie_남_E4_std20.6_-15.3dB_2700ms_2880ms_M30ms.ogg",
+            "start_ms": 19055,
+            "duration_ms": 181
+        }
+    ],
+    "납": [
+        {
+            "file_name": "_selective_Main_Ch01_EP06_043_Marie_납_Csharp4_std2.7_-16.3dB_4340ms_4479ms_M30ms.ogg",
+            "start_ms": 19236,
+            "duration_ms": 136
+        }
+    ],
+    "났": [
+        {
+            "file_name": "_selective_Main_Ch04_EP01_071_Marie_났_E4_std7.0_-15.9dB_4160ms_4370ms_M30ms.ogg",
+            "start_ms": 19372,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_091_Marie_났_Gsharp4_std11.5_-15.4dB_3300ms_3530ms_M30ms.ogg",
+            "start_ms": 19583,
+            "duration_ms": 232
+        }
+    ],
+    "낮": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_낮_Gsharp3_std7.9_-17.2dB_2760ms_2940ms_M30ms.ogg",
+            "start_ms": 19815,
+            "duration_ms": 181
+        }
+    ],
+    "내": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_027_Marie_내_D4_std16.7_-8.8dB_2100ms_2226ms_M30ms.ogg",
+            "start_ms": 19996,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_내_Fsharp3_std5.2_-13.2dB_2660ms_2768ms_M30ms.ogg",
+            "start_ms": 20124,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_063_Marie_내_A3_std8.8_-12.8dB_60ms_167ms_M30ms.ogg",
+            "start_ms": 20233,
+            "duration_ms": 109
+        }
+    ],
+    "냈": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_027_Marie_냈_C4_std9.7_-19.3dB_2190ms_2380ms_M30ms.ogg",
+            "start_ms": 20342,
+            "duration_ms": 192
+        }
+    ],
+    "냉": [
+        {
+            "file_name": "_selective_raiderscave_EP07_048_Marie_냉_Gsharp3_std19.7_-19.3dB_1220ms_1440ms_M30ms.ogg",
+            "start_ms": 20534,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_117_Marie_냉_F4_std10.3_-17.1dB_1900ms_2100ms_M30ms.ogg",
+            "start_ms": 20755,
+            "duration_ms": 220
+        }
+    ],
+    "냥": [
+        {
+            "file_name": "_selective_Main_Ch01_EP06_043_Marie_냥_F4_std2.0_-14.9dB_2760ms_2880ms_M30ms.ogg",
+            "start_ms": 20975,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_067_Marie_냥_A3_std13.7_-16.6dB_2970ms_3080ms_M30ms.ogg",
+            "start_ms": 21092,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_105_Marie_냥_Fsharp4_std13.0_-14.9dB_2100ms_2220ms_M30ms.ogg",
+            "start_ms": 21204,
+            "duration_ms": 117
+        }
+    ],
+    "너": [
+        {
+            "file_name": "_selective_Main_Ch01_EP05_060_Marie_너_Gsharp4_std8.5_-14.1dB_1820ms_1892ms_M30ms.ogg",
+            "start_ms": 21321,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_너_G3_std5.7_-15.7dB_4019ms_4110ms_M30ms.ogg",
+            "start_ms": 21390,
+            "duration_ms": 93
+        }
+    ],
+    "넘": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_027_Marie_넘_Dsharp3_std12.3_-21.8dB_3800ms_3950ms_M30ms.ogg",
+            "start_ms": 21483,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_087_Marie_넘_B3_std12.2_-15.8dB_420ms_590ms_M30ms.ogg",
+            "start_ms": 21635,
+            "duration_ms": 171
+        }
+    ],
+    "네": [
+        {
+            "file_name": "_selective_raiderscave_EP02_023_Marie_네_Asharp3_std4.4_-16.9dB_3300ms_3461ms_M30ms.ogg",
+            "start_ms": 21806,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_095_Marie_네_Gsharp3_std15.0_-16.2dB_20ms_182ms_M30ms.ogg",
+            "start_ms": 21964,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_117_Marie_네_D4_std12.8_-15.2dB_1140ms_1302ms_M30ms.ogg",
+            "start_ms": 22123,
+            "duration_ms": 159
+        }
+    ],
+    "녀": [
+        {
+            "file_name": "_selective_Main_Ch04_EP03_050_Marie_녀_Asharp3_std6.2_-12.7dB_2000ms_2108ms_M30ms.ogg",
+            "start_ms": 22282,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP02_022_Marie_녀_Asharp4_std2.8_-8.9dB_1380ms_1506ms_M30ms.ogg",
+            "start_ms": 22387,
+            "duration_ms": 128
+        }
+    ],
+    "녕": [
+        {
+            "file_name": "Voice_Marie_Greeting_녕_Fsharp4_std12.6_-17.3dB_250ms_360ms_M30ms.ogg",
+            "start_ms": 22515,
+            "duration_ms": 112
+        }
+    ],
+    "놀": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_025_Marie_놀_C4_std7.7_-22.6dB_860ms_1020ms_M30ms.ogg",
+            "start_ms": 22627,
+            "duration_ms": 157
+        }
+    ],
+    "높": [
+        {
+            "file_name": "_selective_Main_Ch02_EP01_003_Marie_높_G3_std32.7_-20.6dB_4739ms_4960ms_M30ms.ogg",
+            "start_ms": 22784,
+            "duration_ms": 218
+        }
+    ],
+    "놓": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_090_Marie_놓_Dsharp4_std24.9_-20.3dB_1420ms_1580ms_M30ms.ogg",
+            "start_ms": 23002,
+            "duration_ms": 157
+        }
+    ],
+    "누": [
+        {
+            "file_name": "_selective_Ontime_EP04_017_Marie_누_Dsharp3_std3.1_-22.0dB_2460ms_2550ms_M30ms.ogg",
+            "start_ms": 23159,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_068_Marie_누_Dsharp4_std21.9_-22.2dB_880ms_970ms_M30ms.ogg",
+            "start_ms": 23250,
+            "duration_ms": 87
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_004_Marie_누_Fsharp3_std7.4_-17.2dB_2220ms_2346ms_M30ms.ogg",
+            "start_ms": 23337,
+            "duration_ms": 128
+        }
+    ],
+    "느": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_051_Marie_느_D4_std2.4_-18.4dB_1119ms_1192ms_M30ms.ogg",
+            "start_ms": 23465,
+            "duration_ms": 70
+        }
+    ],
+    "는": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_032_Marie_는_Dsharp4_std10.0_-18.7dB_5780ms_5900ms_M30ms.ogg",
+            "start_ms": 23535,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP07_042_Marie_는_Csharp4_std7.8_-17.2dB_2800ms_2920ms_M30ms.ogg",
+            "start_ms": 23652,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_027_Marie_는_E4_std19.6_-19.9dB_1660ms_1780ms_M30ms.ogg",
+            "start_ms": 23769,
+            "duration_ms": 117
+        }
+    ],
+    "능": [
+        {
+            "file_name": "_selective_pray_EP03_061_Marie_능_Dsharp4_std10.3_-19.3dB_480ms_659ms_M30ms.ogg",
+            "start_ms": 23886,
+            "duration_ms": 181
+        }
+    ],
+    "니": [
+        {
+            "file_name": "_selective_Connection_EP05_006_Marie_니_Csharp4_std8.4_-21.8dB_4169ms_4287ms_M30ms.ogg",
+            "start_ms": 24067,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_034_Marie_니_E4_std36.7_-25.4dB_3420ms_3537ms_M30ms.ogg",
+            "start_ms": 24204,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_048_Marie_니_E4_std28.3_-26.4dB_2080ms_2197ms_M30ms.ogg",
+            "start_ms": 24318,
+            "duration_ms": 114
+        }
+    ],
+    "닌": [
+        {
+            "file_name": "_selective_raiderscave_EP05_004_Marie_닌_Asharp3_std5.5_-16.8dB_4340ms_4440ms_M30ms.ogg",
+            "start_ms": 24432,
+            "duration_ms": 101
+        }
+    ],
+    "님": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_060_Marie_님_Gsharp3_std9.4_-20.3dB_1710ms_1850ms_M30ms.ogg",
+            "start_ms": 24533,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_032_Marie_님_Csharp4_std27.6_-18.9dB_480ms_620ms_M30ms.ogg",
+            "start_ms": 24674,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_007_Marie_님_B3_std14.7_-14.2dB_1700ms_1840ms_M30ms.ogg",
+            "start_ms": 24811,
+            "duration_ms": 141
+        }
+    ],
+    "다": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_056_Marie_다_Unvoiced_std0.0_-16.8dB_319ms_427ms_M30ms.ogg",
+            "start_ms": 24952,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_006_HiddenMarie_다_Dsharp4_std4.9_-19.6dB_940ms_1048ms_M30ms.ogg",
+            "start_ms": 25061,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP07_031_Marie_다_Unvoiced_std0.0_-27.0dB_1420ms_1528ms_M30ms.ogg",
+            "start_ms": 25170,
+            "duration_ms": 109
+        }
+    ],
+    "단": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_036_Marie_단_D4_std13.6_-10.9dB_1400ms_1540ms_M30ms.ogg",
+            "start_ms": 25279,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_단_D4_std5.0_-12.6dB_2080ms_2200ms_M30ms.ogg",
+            "start_ms": 25420,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_022_Marie_단_A4_std10.1_-13.6dB_2340ms_2469ms_M30ms.ogg",
+            "start_ms": 25537,
+            "duration_ms": 131
+        }
+    ],
+    "달": [
+        {
+            "file_name": "_selective_Main_Ch02_EP03_014_Marie_달_D4_std2.4_-12.7dB_3600ms_3740ms_M30ms.ogg",
+            "start_ms": 25668,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_098_Marie_달_Gsharp4_std10.1_-12.8dB_240ms_360ms_M30ms.ogg",
+            "start_ms": 25805,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Marie_SPSkill3_1-01_달_G5_std4.3_-13.6dB_500ms_630ms_M30ms.ogg",
+            "start_ms": 25922,
+            "duration_ms": 131
+        }
+    ],
+    "담": [
+        {
+            "file_name": "_selective_pray_EP02_085_Marie_담_E4_std8.5_-14.3dB_2739ms_2940ms_M30ms.ogg",
+            "start_ms": 26053,
+            "duration_ms": 198
+        }
+    ],
+    "답": [
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_답_A3_std17.4_-17.5dB_4479ms_4659ms_M30ms.ogg",
+            "start_ms": 26251,
+            "duration_ms": 177
+        }
+    ],
+    "당": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_당_Unvoiced_std0.0_-24.3dB_6620ms_6760ms_M30ms.ogg",
+            "start_ms": 26428,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_당_Dsharp4_std12.3_-17.0dB_2980ms_3120ms_M30ms.ogg",
+            "start_ms": 26565,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_043_Marie_당_Csharp4_std7.7_-17.0dB_1359ms_1500ms_M30ms.ogg",
+            "start_ms": 26702,
+            "duration_ms": 141
+        }
+    ],
+    "대": [
+        {
+            "file_name": "_selective_pray_EP11_025_Marie_대_Gsharp4_std15.3_-11.4dB_659ms_750ms_M30ms.ogg",
+            "start_ms": 26843,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_039_Marie_대_A4_std4.8_-15.6dB_2120ms_2227ms_M30ms.ogg",
+            "start_ms": 26936,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_069_Marie_대_G4_std24.2_-13.8dB_180ms_270ms_M30ms.ogg",
+            "start_ms": 27045,
+            "duration_ms": 91
+        }
+    ],
+    "더": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_033_Marie_더_Fsharp4_std3.0_-16.7dB_7739ms_7830ms_M30ms.ogg",
+            "start_ms": 27136,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_044_Marie_더_Gsharp3_std26.4_-22.7dB_3400ms_3508ms_M30ms.ogg",
+            "start_ms": 27229,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_123_Marie_더_G3_std9.3_-20.5dB_1560ms_1668ms_M30ms.ogg",
+            "start_ms": 27334,
+            "duration_ms": 109
+        }
+    ],
+    "덕": [
+        {
+            "file_name": "_selective_raiderscave_EP08_061_Marie_덕_C4_std12.5_-17.7dB_3040ms_3239ms_M30ms.ogg",
+            "start_ms": 27443,
+            "duration_ms": 196
+        }
+    ],
+    "던": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_038_Marie_던_Dsharp4_std6.5_-11.9dB_3360ms_3460ms_M30ms.ogg",
+            "start_ms": 27639,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_050_Marie_던_Csharp4_std42.6_-16.7dB_4470ms_4600ms_M30ms.ogg",
+            "start_ms": 27740,
+            "duration_ms": 151
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_076_Marie_던_B4_std11.0_-18.3dB_3480ms_3620ms_M30ms.ogg",
+            "start_ms": 27891,
+            "duration_ms": 137
+        }
+    ],
+    "덮": [
+        {
+            "file_name": "_selective_raiderscave_EP05_012_Marie_덮_B3_std13.1_-24.8dB_1920ms_2130ms_M30ms.ogg",
+            "start_ms": 28028,
+            "duration_ms": 211
+        }
+    ],
+    "데": [
+        {
+            "file_name": "_selective_Main_Ch04_EP06_013_Marie_데_Csharp4_std30.5_-18.8dB_1920ms_2028ms_M30ms.ogg",
+            "start_ms": 28239,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP05_007_Marie_데_Fsharp4_std35.6_-15.6dB_4120ms_4228ms_M30ms.ogg",
+            "start_ms": 28348,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Marie_Affinity3_데_C5_std15.0_-9.7dB_2400ms_2508ms_M30ms.ogg",
+            "start_ms": 28457,
+            "duration_ms": 109
+        }
+    ],
+    "도": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_034_Marie_도_Unvoiced_std0.0_-18.3dB_600ms_690ms_M30ms.ogg",
+            "start_ms": 28566,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_051_Marie_도_A4_std18.4_-15.6dB_3100ms_3190ms_M30ms.ogg",
+            "start_ms": 28657,
+            "duration_ms": 87
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_081_Marie_도_B4_std2.9_-13.5dB_2660ms_2750ms_M30ms.ogg",
+            "start_ms": 28744,
+            "duration_ms": 91
+        }
+    ],
+    "돈": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_022_Marie_돈_D4_std5.3_-24.7dB_3260ms_3429ms_M30ms.ogg",
+            "start_ms": 28835,
+            "duration_ms": 166
+        }
+    ],
+    "돌": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_036_Marie_돌_Asharp4_std71.8_-13.0dB_860ms_1020ms_M30ms.ogg",
+            "start_ms": 29001,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_HiddenMarie_돌_G3_std6.6_-23.1dB_4200ms_4350ms_M30ms.ogg",
+            "start_ms": 29158,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_011_Marie_돌_A3_std8.4_-22.3dB_1380ms_1540ms_M30ms.ogg",
+            "start_ms": 29310,
+            "duration_ms": 157
+        }
+    ],
+    "동": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_051_Marie_동_F3_std2.2_-27.4dB_180ms_260ms_M30ms.ogg",
+            "start_ms": 29467,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_004_Marie_동_C4_std2.1_-24.1dB_3480ms_3580ms_M30ms.ogg",
+            "start_ms": 29544,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_032_Marie_동_Csharp4_std9.8_-19.8dB_4120ms_4220ms_M30ms.ogg",
+            "start_ms": 29645,
+            "duration_ms": 101
+        }
+    ],
+    "돼": [
+        {
+            "file_name": "_selective_raiderscave_EP03_011_Marie_돼_Fsharp4_std20.8_-15.9dB_2200ms_2308ms_M30ms.ogg",
+            "start_ms": 29746,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_064_Marie_돼_F4_std5.8_-15.1dB_420ms_564ms_M30ms.ogg",
+            "start_ms": 29855,
+            "duration_ms": 141
+        }
+    ],
+    "됐": [
+        {
+            "file_name": "_selective_Main_Ch09_EP02_002_HiddenMarie_됐_G4_std8.2_-22.7dB_3820ms_4050ms_M30ms.ogg",
+            "start_ms": 29996,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_008_Marie_됐_Csharp4_std1.9_-15.3dB_5409ms_5630ms_M30ms.ogg",
+            "start_ms": 30228,
+            "duration_ms": 221
+        }
+    ],
+    "되": [
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_HiddenMarie_되_Csharp4_std18.7_-22.4dB_2800ms_2908ms_M30ms.ogg",
+            "start_ms": 30449,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP03_087_Marie_되_D4_std27.8_-17.6dB_1920ms_2028ms_M30ms.ogg",
+            "start_ms": 30558,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_007_Marie_되_Csharp4_std9.8_-16.5dB_3460ms_3568ms_M30ms.ogg",
+            "start_ms": 30667,
+            "duration_ms": 109
+        }
+    ],
+    "된": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_087_Marie_된_B3_std6.9_-14.9dB_300ms_440ms_M30ms.ogg",
+            "start_ms": 30776,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP03_014_Marie_된_Dsharp4_std14.0_-22.6dB_3760ms_3900ms_M30ms.ogg",
+            "start_ms": 30917,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_041_Marie_된_E4_std5.7_-19.6dB_1359ms_1500ms_M30ms.ogg",
+            "start_ms": 31054,
+            "duration_ms": 138
+        }
+    ],
+    "될": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_049_Marie_될_B4_std24.2_-15.1dB_6979ms_7140ms_M30ms.ogg",
+            "start_ms": 31192,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_012_Marie_될_Gsharp3_std6.7_-19.4dB_4370ms_4520ms_M30ms.ogg",
+            "start_ms": 31372,
+            "duration_ms": 152
+        }
+    ],
+    "됩": [
+        {
+            "file_name": "_selective_raiderscave_EP07_059_Marie_됩_E4_std12.8_-16.9dB_1880ms_2010ms_M30ms.ogg",
+            "start_ms": 31524,
+            "duration_ms": 131
+        }
+    ],
+    "두": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_060_Marie_두_Fsharp4_std5.6_-18.4dB_1300ms_1390ms_M30ms.ogg",
+            "start_ms": 31655,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP01_040_Marie_두_F4_std11.4_-25.9dB_2900ms_3008ms_M30ms.ogg",
+            "start_ms": 31746,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_032_Marie_두_C4_std5.9_-23.3dB_2860ms_2985ms_M30ms.ogg",
+            "start_ms": 31855,
+            "duration_ms": 125
+        }
+    ],
+    "둔": [
+        {
+            "file_name": "_selective_Main_Ch09_EP07_093_Marie_둔_Csharp5_std35.0_-14.8dB_5340ms_5520ms_M30ms.ogg",
+            "start_ms": 31980,
+            "duration_ms": 177
+        }
+    ],
+    "둘": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_053_Marie_둘_F3_std13.7_-31.2dB_3720ms_3880ms_M30ms.ogg",
+            "start_ms": 32157,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_060_Marie_둘_C4_std17.2_-23.0dB_3940ms_4059ms_M30ms.ogg",
+            "start_ms": 32337,
+            "duration_ms": 120
+        }
+    ],
+    "둥": [
+        {
+            "file_name": "_selective_raiderscave_EP02_046_Marie_둥_D4_std9.6_-17.7dB_2000ms_2160ms_M30ms.ogg",
+            "start_ms": 32457,
+            "duration_ms": 157
+        }
+    ],
+    "드": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_드_D4_std2.3_-16.2dB_6239ms_6311ms_M30ms.ogg",
+            "start_ms": 32614,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_pray_EP01_073_Marie_드_C5_std2.4_-17.7dB_3520ms_3592ms_M30ms.ogg",
+            "start_ms": 32683,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_024_Marie_드_B3_std15.7_-19.0dB_3840ms_3912ms_M30ms.ogg",
+            "start_ms": 32752,
+            "duration_ms": 69
+        }
+    ],
+    "든": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_099_Marie_든_C4_std11.2_-14.2dB_1580ms_1680ms_M30ms.ogg",
+            "start_ms": 32821,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_041_Marie_든_Asharp4_std3.8_-13.2dB_3440ms_3660ms_M30ms.ogg",
+            "start_ms": 32922,
+            "duration_ms": 221
+        }
+    ],
+    "들": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_064_Marie_들_Asharp4_std3.5_-14.8dB_3380ms_3490ms_M30ms.ogg",
+            "start_ms": 33143,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_들_Gsharp3_std4.2_-16.8dB_4040ms_4150ms_M30ms.ogg",
+            "start_ms": 33255,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "Voice_Marie_Affinity3_들_B3_std21.2_-25.3dB_420ms_530ms_M30ms.ogg",
+            "start_ms": 33367,
+            "duration_ms": 112
+        }
+    ],
+    "듬": [
+        {
+            "file_name": "_selective_pray_EP03_014_Marie_듬_A4_std3.0_-14.7dB_2600ms_2720ms_M30ms.ogg",
+            "start_ms": 33479,
+            "duration_ms": 117
+        }
+    ],
+    "디": [
+        {
+            "file_name": "_selective_Connection_EP05_001_Marie_디_C4_std5.5_-19.8dB_1780ms_1852ms_M30ms.ogg",
+            "start_ms": 33596,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "Voice_Letter_Marie_디_Asharp3_std4.3_-23.2dB_18560ms_18650ms_M30ms.ogg",
+            "start_ms": 33665,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Marie_Line1_디_Fsharp3_std2.7_-24.2dB_780ms_870ms_M30ms.ogg",
+            "start_ms": 33756,
+            "duration_ms": 91
+        }
+    ],
+    "따": [
+        {
+            "file_name": "_selective_Main_Ch02_EP02_066_Marie_따_Fsharp4_std7.1_-8.5dB_3239ms_3330ms_M30ms.ogg",
+            "start_ms": 33847,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_따_G4_std2.1_-11.7dB_480ms_570ms_M30ms.ogg",
+            "start_ms": 33940,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP03_087_Marie_따_E4_std8.2_-11.3dB_1359ms_1450ms_M30ms.ogg",
+            "start_ms": 34031,
+            "duration_ms": 93
+        }
+    ],
+    "딴": [
+        {
+            "file_name": "_selective_raiderscave_EP02_056_Marie_딴_Asharp4_std31.4_-16.0dB_1880ms_2080ms_M30ms.ogg",
+            "start_ms": 34124,
+            "duration_ms": 197
+        }
+    ],
+    "땅": [
+        {
+            "file_name": "_selective_raiderscave_EP02_044_Marie_땅_D4_std9.8_-14.0dB_3060ms_3220ms_M30ms.ogg",
+            "start_ms": 34321,
+            "duration_ms": 157
+        }
+    ],
+    "때": [
+        {
+            "file_name": "_selective_Main_Ch02_EP06_052_Marie_때_E4_std21.9_-17.6dB_760ms_903ms_M30ms.ogg",
+            "start_ms": 34478,
+            "duration_ms": 140
+        },
+        {
+            "file_name": "_selective_pray_EP03_014_Marie_때_G4_std17.7_-18.2dB_1180ms_1306ms_M30ms.ogg",
+            "start_ms": 34618,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Marie_Affinity2_때_Fsharp4_std3.4_-16.2dB_1060ms_1186ms_M30ms.ogg",
+            "start_ms": 34746,
+            "duration_ms": 128
+        }
+    ],
+    "떠": [
+        {
+            "file_name": "_selective_raiderscave_EP03_055_Marie_떠_C5_std54.8_-17.5dB_2980ms_3124ms_M30ms.ogg",
+            "start_ms": 34874,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_061_Marie_떠_E4_std5.1_-13.1dB_2520ms_2646ms_M30ms.ogg",
+            "start_ms": 35015,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Marie_Line1_떠_A3_std25.9_-12.3dB_1460ms_1603ms_M30ms.ogg",
+            "start_ms": 35143,
+            "duration_ms": 144
+        }
+    ],
+    "떤": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_064_Marie_떤_Gsharp4_std9.9_-13.4dB_2520ms_2640ms_M30ms.ogg",
+            "start_ms": 35287,
+            "duration_ms": 117
+        }
+    ],
+    "또": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_078_Marie_또_Dsharp4_std13.3_-26.2dB_1140ms_1230ms_M30ms.ogg",
+            "start_ms": 35404,
+            "duration_ms": 87
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_HiddenMarie_또_D4_std19.5_-20.6dB_1260ms_1367ms_M30ms.ogg",
+            "start_ms": 35491,
+            "duration_ms": 104
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_095_Marie_또_B4_std4.8_-12.6dB_980ms_1088ms_M30ms.ogg",
+            "start_ms": 35595,
+            "duration_ms": 109
+        }
+    ],
+    "똑": [
+        {
+            "file_name": "_selective_raiderscave_EP02_074_Marie_똑_G4_std27.1_-18.9dB_1599ms_1780ms_M30ms.ogg",
+            "start_ms": 35704,
+            "duration_ms": 178
+        }
+    ],
+    "뚫": [
+        {
+            "file_name": "_selective_raiderscave_EP02_060_Marie_뚫_G4_std8.0_-19.8dB_2720ms_2830ms_M30ms.ogg",
+            "start_ms": 35882,
+            "duration_ms": 112
+        }
+    ],
+    "뛰": [
+        {
+            "file_name": "_selective_raiderscave_EP03_052_Marie_뛰_B4_std11.4_-15.7dB_1320ms_1410ms_M30ms.ogg",
+            "start_ms": 35994,
+            "duration_ms": 91
+        }
+    ],
+    "라": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_라_F4_std13.1_-12.9dB_4840ms_4948ms_M30ms.ogg",
+            "start_ms": 36085,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_027_Marie_라_Asharp3_std6.9_-11.1dB_1200ms_1308ms_M30ms.ogg",
+            "start_ms": 36190,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_084_Marie_라_Fsharp4_std12.9_-10.7dB_2960ms_3068ms_M30ms.ogg",
+            "start_ms": 36295,
+            "duration_ms": 105
+        }
+    ],
+    "락": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_023_Marie_락_A4_std39.6_-9.9dB_380ms_570ms_M30ms.ogg",
+            "start_ms": 36400,
+            "duration_ms": 192
+        }
+    ],
+    "란": [
+        {
+            "file_name": "_selective_raiderscave_EP08_038_Marie_란_Asharp4_std10.0_-14.2dB_580ms_760ms_M30ms.ogg",
+            "start_ms": 36592,
+            "duration_ms": 181
+        }
+    ],
+    "랐": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_025_Marie_랐_Dsharp4_std17.6_-15.9dB_1020ms_1220ms_M30ms.ogg",
+            "start_ms": 36773,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_032_Marie_랐_B3_std4.9_-16.3dB_640ms_799ms_M30ms.ogg",
+            "start_ms": 36970,
+            "duration_ms": 156
+        },
+        {
+            "file_name": "Voice_Letter_Marie_랐_Csharp5_std74.1_-15.3dB_8440ms_8650ms_M30ms.ogg",
+            "start_ms": 37126,
+            "duration_ms": 211
+        }
+    ],
+    "랑": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_047_Marie_랑_Gsharp3_std4.1_-14.2dB_2960ms_3060ms_M30ms.ogg",
+            "start_ms": 37337,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_083_Marie_랑_D4_std11.9_-10.3dB_3360ms_3500ms_M30ms.ogg",
+            "start_ms": 37438,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_랑_A4_std7.0_-11.7dB_480ms_600ms_M30ms.ogg",
+            "start_ms": 37579,
+            "duration_ms": 117
+        }
+    ],
+    "래": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_087_Marie_래_A3_std7.7_-12.6dB_180ms_288ms_M30ms.ogg",
+            "start_ms": 37696,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_094_Marie_래_A4_std12.5_-15.0dB_100ms_226ms_M30ms.ogg",
+            "start_ms": 37805,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Marie_Yes3_래_A4_std26.0_-10.5dB_169ms_278ms_M30ms.ogg",
+            "start_ms": 37933,
+            "duration_ms": 109
+        }
+    ],
+    "랫": [
+        {
+            "file_name": "_selective_raiderscave_EP03_068_Marie_랫_Fsharp4_std12.1_-17.9dB_1359ms_1500ms_M30ms.ogg",
+            "start_ms": 38042,
+            "duration_ms": 161
+        }
+    ],
+    "랬": [
+        {
+            "file_name": "_selective_Connection_EP05_001_Marie_랬_Gsharp4_std6.0_-15.6dB_169ms_350ms_M30ms.ogg",
+            "start_ms": 38203,
+            "duration_ms": 181
+        }
+    ],
+    "러": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_060_Marie_러_D4_std15.1_-12.0dB_4059ms_4167ms_M30ms.ogg",
+            "start_ms": 38384,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP06_025_Marie_러_D5_std19.0_-13.9dB_760ms_885ms_M30ms.ogg",
+            "start_ms": 38493,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_056_Marie_러_D3_std5.2_-25.3dB_90ms_207ms_M30ms.ogg",
+            "start_ms": 38618,
+            "duration_ms": 117
+        }
+    ],
+    "런": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_런_Asharp3_std4.4_-12.5dB_1180ms_1300ms_M30ms.ogg",
+            "start_ms": 38735,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_028_Marie_런_A4_std7.4_-13.4dB_5720ms_5840ms_M30ms.ogg",
+            "start_ms": 38852,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_016_Marie_런_E4_std15.5_-18.1dB_1300ms_1420ms_M30ms.ogg",
+            "start_ms": 38969,
+            "duration_ms": 117
+        }
+    ],
+    "럴": [
+        {
+            "file_name": "_selective_Main_Ch09_EP02_002_Marie_럴_A4_std56.0_-13.1dB_5180ms_5320ms_M30ms.ogg",
+            "start_ms": 39086,
+            "duration_ms": 137
+        }
+    ],
+    "럼": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_061_Marie_럼_B4_std13.1_-9.0dB_120ms_300ms_M30ms.ogg",
+            "start_ms": 39223,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_007_Marie_럼_Gsharp4_std11.3_-10.7dB_240ms_360ms_M30ms.ogg",
+            "start_ms": 39404,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_럼_A3_std8.1_-13.5dB_899ms_1020ms_M30ms.ogg",
+            "start_ms": 39521,
+            "duration_ms": 123
+        }
+    ],
+    "렇": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_099_Marie_렇_Gsharp3_std7.4_-21.2dB_3960ms_4120ms_M30ms.ogg",
+            "start_ms": 39644,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_016_Marie_렇_G3_std3.8_-23.8dB_1410ms_1580ms_M30ms.ogg",
+            "start_ms": 39801,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_099_Marie_렇_Dsharp5_std50.2_-16.5dB_919ms_1080ms_M30ms.ogg",
+            "start_ms": 39968,
+            "duration_ms": 158
+        }
+    ],
+    "려": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_070_Marie_려_Dsharp4_std2.2_-12.4dB_2700ms_2817ms_M30ms.ogg",
+            "start_ms": 40126,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_017_Marie_려_Dsharp4_std2.9_-16.0dB_5790ms_5907ms_M30ms.ogg",
+            "start_ms": 40243,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "Voice_Marie_DeckSetting1_려_F4_std8.6_-19.0dB_909ms_1027ms_M30ms.ogg",
+            "start_ms": 40357,
+            "duration_ms": 120
+        }
+    ],
+    "력": [
+        {
+            "file_name": "_selective_pray_EP03_061_Marie_력_F4_std19.8_-16.6dB_659ms_830ms_M30ms.ogg",
+            "start_ms": 40477,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_002_Marie_력_Csharp4_std4.2_-15.6dB_2660ms_2860ms_M30ms.ogg",
+            "start_ms": 40650,
+            "duration_ms": 197
+        }
+    ],
+    "련": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_련_E4_std9.9_-18.9dB_4620ms_4770ms_M30ms.ogg",
+            "start_ms": 40847,
+            "duration_ms": 152
+        }
+    ],
+    "렸": [
+        {
+            "file_name": "_selective_raiderscave_EP08_062_Marie_렸_B3_std6.1_-19.6dB_2310ms_2520ms_M30ms.ogg",
+            "start_ms": 40999,
+            "duration_ms": 207
+        }
+    ],
+    "로": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_093_Marie_로_B3_std23.0_-11.7dB_620ms_710ms_M30ms.ogg",
+            "start_ms": 41206,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_로_D4_std2.5_-20.3dB_1560ms_1650ms_M30ms.ogg",
+            "start_ms": 41297,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_037_Marie_로_D4_std4.8_-14.8dB_2260ms_2350ms_M30ms.ogg",
+            "start_ms": 41388,
+            "duration_ms": 91
+        }
+    ],
+    "록": [
+        {
+            "file_name": "Voice_Letter_Marie_록_B4_std19.0_-18.1dB_16590ms_16680ms_M30ms.ogg",
+            "start_ms": 41479,
+            "duration_ms": 91
+        }
+    ],
+    "론": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_027_Marie_론_D4_std26.1_-13.9dB_280ms_440ms_M30ms.ogg",
+            "start_ms": 41570,
+            "duration_ms": 157
+        }
+    ],
+    "롭": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_071_Marie_롭_B4_std34.7_-15.5dB_2500ms_2720ms_M30ms.ogg",
+            "start_ms": 41727,
+            "duration_ms": 217
+        }
+    ],
+    "료": [
+        {
+            "file_name": "_selective_Main_Ch02_EP03_014_HiddenMarie_료_G3_std2.0_-16.4dB_400ms_490ms_M30ms.ogg",
+            "start_ms": 41944,
+            "duration_ms": 91
+        }
+    ],
+    "루": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_047_Marie_루_E4_std5.6_-17.6dB_559ms_632ms_M30ms.ogg",
+            "start_ms": 42035,
+            "duration_ms": 75
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_047_Marie_루_Fsharp4_std12.5_-17.3dB_2140ms_2212ms_M30ms.ogg",
+            "start_ms": 42110,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "Voice_Marie_Affinity7_루_D4_std6.0_-20.0dB_250ms_385ms_M30ms.ogg",
+            "start_ms": 42179,
+            "duration_ms": 132
+        }
+    ],
+    "룩": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_025_Marie_룩_D4_std16.9_-21.1dB_2000ms_2150ms_M30ms.ogg",
+            "start_ms": 42311,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_057_Marie_룩_Gsharp4_std18.6_-17.2dB_360ms_470ms_M30ms.ogg",
+            "start_ms": 42463,
+            "duration_ms": 112
+        }
+    ],
+    "르": [
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_르_Csharp4_std10.9_-19.5dB_6220ms_6327ms_M30ms.ogg",
+            "start_ms": 42575,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_078_Marie_르_Fsharp4_std5.6_-15.6dB_1800ms_1908ms_M30ms.ogg",
+            "start_ms": 42684,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_063_Marie_르_C4_std7.9_-14.1dB_1080ms_1188ms_M30ms.ogg",
+            "start_ms": 42793,
+            "duration_ms": 109
+        }
+    ],
+    "른": [
+        {
+            "file_name": "_selective_Main_Ch02_EP03_014_Marie_른_B3_std13.4_-20.3dB_2860ms_2940ms_M30ms.ogg",
+            "start_ms": 42902,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_013_Marie_른_G4_std4.5_-20.2dB_4920ms_5000ms_M30ms.ogg",
+            "start_ms": 42979,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "Voice_Marie_Defeat2_른_Dsharp4_std6.6_-17.5dB_710ms_780ms_M30ms.ogg",
+            "start_ms": 43056,
+            "duration_ms": 72
+        }
+    ],
+    "를": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_027_Marie_를_Gsharp4_std15.5_-14.6dB_2100ms_2220ms_M30ms.ogg",
+            "start_ms": 43128,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_를_G4_std14.6_-15.5dB_319ms_440ms_M30ms.ogg",
+            "start_ms": 43245,
+            "duration_ms": 118
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_003_Marie_를_A3_std7.9_-14.9dB_3040ms_3160ms_M30ms.ogg",
+            "start_ms": 43363,
+            "duration_ms": 117
+        }
+    ],
+    "름": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_033_Marie_름_D4_std7.4_-24.2dB_6050ms_6170ms_M30ms.ogg",
+            "start_ms": 43480,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Marie_Growth_름_D5_std8.4_-19.1dB_220ms_370ms_M30ms.ogg",
+            "start_ms": 43597,
+            "duration_ms": 152
+        }
+    ],
+    "리": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_047_Marie_리_F4_std1.2_-21.2dB_1060ms_1150ms_M30ms.ogg",
+            "start_ms": 43749,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_076_Marie_리_Dsharp4_std2.9_-20.4dB_4220ms_4310ms_M30ms.ogg",
+            "start_ms": 43840,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_083_HiddenMarie_리_C4_std8.6_-15.8dB_400ms_490ms_M30ms.ogg",
+            "start_ms": 43931,
+            "duration_ms": 91
+        }
+    ],
+    "릭": [
+        {
+            "file_name": "Voice_Marie_Trickcal1_릭_Csharp5_std10.7_-13.6dB_100ms_260ms_M30ms.ogg",
+            "start_ms": 44022,
+            "duration_ms": 157
+        }
+    ],
+    "린": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_038_Marie_린_C4_std11.2_-17.1dB_4280ms_4420ms_M30ms.ogg",
+            "start_ms": 44179,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_084_Marie_린_A4_std4.9_-20.5dB_3550ms_3660ms_M30ms.ogg",
+            "start_ms": 44320,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_098_Marie_린_Asharp4_std32.3_-16.9dB_360ms_480ms_M30ms.ogg",
+            "start_ms": 44432,
+            "duration_ms": 117
+        }
+    ],
+    "릴": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_054_HiddenMarie_릴_Fsharp3_std4.9_-20.6dB_3239ms_3400ms_M30ms.ogg",
+            "start_ms": 44549,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_087_Marie_릴_Asharp4_std9.3_-15.2dB_2050ms_2180ms_M30ms.ogg",
+            "start_ms": 44712,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_011_Marie_릴_E4_std22.2_-17.9dB_1540ms_1700ms_M30ms.ogg",
+            "start_ms": 44843,
+            "duration_ms": 157
+        }
+    ],
+    "림": [
+        {
+            "file_name": "_selective_raiderscave_EP07_107_Marie_림_D4_std7.9_-20.1dB_1780ms_1960ms_M30ms.ogg",
+            "start_ms": 45000,
+            "duration_ms": 177
+        }
+    ],
+    "마": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_마_Csharp4_std10.7_-11.2dB_4460ms_4604ms_M30ms.ogg",
+            "start_ms": 45177,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_038_Marie_마_B3_std7.9_-10.7dB_620ms_764ms_M30ms.ogg",
+            "start_ms": 45318,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_021_Marie_마_Unvoiced_std0.0_-10.4dB_2720ms_2864ms_M30ms.ogg",
+            "start_ms": 45459,
+            "duration_ms": 141
+        }
+    ],
+    "막": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_072_Marie_막_Csharp4_std9.1_-14.2dB_1400ms_1580ms_M30ms.ogg",
+            "start_ms": 45600,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_013_Marie_막_Csharp4_std4.2_-12.9dB_4120ms_4260ms_M30ms.ogg",
+            "start_ms": 45781,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_095_Marie_막_Dsharp4_std6.5_-14.8dB_1119ms_1320ms_M30ms.ogg",
+            "start_ms": 45918,
+            "duration_ms": 198
+        }
+    ],
+    "만": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_099_Marie_만_Asharp3_std5.2_-15.7dB_1420ms_1580ms_M30ms.ogg",
+            "start_ms": 46116,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_만_E4_std24.9_-12.6dB_3420ms_3580ms_M30ms.ogg",
+            "start_ms": 46296,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Marie_Affinity7_만_G4_std14.0_-14.4dB_2600ms_2760ms_M30ms.ogg",
+            "start_ms": 46453,
+            "duration_ms": 157
+        }
+    ],
+    "많": [
+        {
+            "file_name": "_selective_Main_Ch09_EP03_033_Marie_많_C4_std31.7_-13.8dB_1940ms_2130ms_M30ms.ogg",
+            "start_ms": 46610,
+            "duration_ms": 187
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_008_Marie_많_C4_std29.2_-10.6dB_1300ms_1470ms_M30ms.ogg",
+            "start_ms": 46797,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_055_Marie_많_Fsharp4_std22.0_-14.5dB_2320ms_2500ms_M30ms.ogg",
+            "start_ms": 46968,
+            "duration_ms": 177
+        }
+    ],
+    "말": [
+        {
+            "file_name": "_selective_Main_Ch02_EP02_066_Marie_말_D4_std11.6_-9.1dB_2940ms_3090ms_M30ms.ogg",
+            "start_ms": 47145,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_Marie_말_Fsharp4_std6.6_-13.3dB_2120ms_2280ms_M30ms.ogg",
+            "start_ms": 47297,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Marie_Anger2_말_Asharp3_std6.0_-11.1dB_630ms_780ms_M30ms.ogg",
+            "start_ms": 47454,
+            "duration_ms": 152
+        }
+    ],
+    "망": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_망_G4_std22.5_-15.1dB_740ms_880ms_M30ms.ogg",
+            "start_ms": 47606,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP06_067_Marie_망_F4_std23.0_-11.5dB_120ms_260ms_M30ms.ogg",
+            "start_ms": 47747,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_067_Marie_망_Asharp4_std14.8_-15.3dB_1020ms_1200ms_M30ms.ogg",
+            "start_ms": 47884,
+            "duration_ms": 177
+        }
+    ],
+    "맞": [
+        {
+            "file_name": "_selective_Main_Ch01_EP05_012_Marie_맞_F5_std9.5_-13.5dB_1020ms_1230ms_M30ms.ogg",
+            "start_ms": 48061,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_006_HiddenMarie_맞_Asharp3_std8.8_-22.4dB_740ms_940ms_M30ms.ogg",
+            "start_ms": 48272,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_022_Marie_맞_A3_std12.4_-17.8dB_2560ms_2760ms_M30ms.ogg",
+            "start_ms": 48469,
+            "duration_ms": 197
+        }
+    ],
+    "맡": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_090_Marie_맡_F4_std16.1_-14.9dB_2080ms_2280ms_M30ms.ogg",
+            "start_ms": 48666,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_059_Marie_맡_Csharp4_std9.3_-15.3dB_1300ms_1460ms_M30ms.ogg",
+            "start_ms": 48863,
+            "duration_ms": 157
+        }
+    ],
+    "매": [
+        {
+            "file_name": "_selective_Main_Ch04_EP06_010_Marie_매_Dsharp4_std4.4_-18.1dB_3180ms_3288ms_M30ms.ogg",
+            "start_ms": 49020,
+            "duration_ms": 109
+        }
+    ],
+    "맨": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_012_Marie_맨_D4_std19.4_-11.4dB_3080ms_3220ms_M30ms.ogg",
+            "start_ms": 49129,
+            "duration_ms": 141
+        }
+    ],
+    "머": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_머_Dsharp4_std9.8_-14.0dB_5640ms_5747ms_M30ms.ogg",
+            "start_ms": 49270,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_031_Marie_머_A3_std11.3_-12.4dB_780ms_923ms_M30ms.ogg",
+            "start_ms": 49379,
+            "duration_ms": 144
+        }
+    ],
+    "먹": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_070_Marie_먹_Asharp3_std9.0_-15.8dB_1099ms_1280ms_M30ms.ogg",
+            "start_ms": 49523,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP01_003_Marie_먹_A3_std9.2_-14.8dB_3420ms_3590ms_M30ms.ogg",
+            "start_ms": 49701,
+            "duration_ms": 167
+        }
+    ],
+    "먼": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_063_Marie_먼_F3_std11.9_-24.9dB_880ms_1099ms_M30ms.ogg",
+            "start_ms": 49868,
+            "duration_ms": 216
+        }
+    ],
+    "멀": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_013_Marie_멀_B3_std15.4_-13.8dB_1080ms_1260ms_M30ms.ogg",
+            "start_ms": 50084,
+            "duration_ms": 177
+        }
+    ],
+    "멍": [
+        {
+            "file_name": "_selective_Main_Ch04_EP04_045_Marie_멍_F4_std6.7_-12.8dB_2160ms_2260ms_M30ms.ogg",
+            "start_ms": 50261,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_017_Marie_멍_Csharp4_std3.1_-12.9dB_5280ms_5380ms_M30ms.ogg",
+            "start_ms": 50362,
+            "duration_ms": 101
+        }
+    ],
+    "면": [
+        {
+            "file_name": "_selective_Main_Ch01_EP07_042_Marie_면_D3_std29.2_-20.9dB_500ms_640ms_M30ms.ogg",
+            "start_ms": 50463,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP01_050_Marie_면_G4_std7.4_-17.8dB_820ms_960ms_M30ms.ogg",
+            "start_ms": 50604,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_022_Marie_면_E4_std23.1_-20.7dB_2200ms_2340ms_M30ms.ogg",
+            "start_ms": 50745,
+            "duration_ms": 141
+        }
+    ],
+    "명": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_037_Marie_명_Fsharp4_std7.0_-17.4dB_2080ms_2200ms_M30ms.ogg",
+            "start_ms": 50886,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_007_Marie_명_A4_std16.4_-11.1dB_2080ms_2180ms_M30ms.ogg",
+            "start_ms": 51003,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_036_Marie_명_F4_std5.1_-15.9dB_5239ms_5340ms_M30ms.ogg",
+            "start_ms": 51104,
+            "duration_ms": 101
+        }
+    ],
+    "모": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_084_Marie_모_G3_std33.4_-15.1dB_3980ms_4124ms_M30ms.ogg",
+            "start_ms": 51205,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_013_Marie_모_C4_std15.2_-25.4dB_1340ms_1484ms_M30ms.ogg",
+            "start_ms": 51346,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Marie_DeckSetting1_모_A3_std25.8_-15.5dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 51487,
+            "duration_ms": 141
+        }
+    ],
+    "몬": [
+        {
+            "file_name": "_selective_raiderscave_EP04_097_Marie_몬_E4_std10.4_-14.4dB_1859ms_1990ms_M30ms.ogg",
+            "start_ms": 51628,
+            "duration_ms": 133
+        }
+    ],
+    "몰": [
+        {
+            "file_name": "_selective_pray_EP03_061_Marie_몰_A4_std4.9_-13.8dB_2580ms_2769ms_M30ms.ogg",
+            "start_ms": 51761,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_007_Marie_몰_Csharp3_std5.5_-25.2dB_1619ms_1820ms_M30ms.ogg",
+            "start_ms": 51950,
+            "duration_ms": 203
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_032_Marie_몰_Asharp3_std7.4_-14.7dB_459ms_640ms_M30ms.ogg",
+            "start_ms": 52153,
+            "duration_ms": 181
+        }
+    ],
+    "못": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_051_Marie_못_D4_std12.0_-20.6dB_3200ms_3320ms_M30ms.ogg",
+            "start_ms": 52334,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_못_F4_std8.1_-19.7dB_3640ms_3780ms_M30ms.ogg",
+            "start_ms": 52451,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_006_Marie_못_G3_std12.1_-23.7dB_3540ms_3760ms_M30ms.ogg",
+            "start_ms": 52588,
+            "duration_ms": 217
+        }
+    ],
+    "몽": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_025_Marie_몽_Asharp3_std21.3_-17.5dB_1800ms_2000ms_M30ms.ogg",
+            "start_ms": 52805,
+            "duration_ms": 197
+        }
+    ],
+    "무": [
+        {
+            "file_name": "_selective_Main_Ch05_EP01_038_Marie_무_Gsharp4_std13.3_-16.8dB_1820ms_1928ms_M30ms.ogg",
+            "start_ms": 53002,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP02_023_Marie_무_E3_std8.3_-23.4dB_3340ms_3448ms_M30ms.ogg",
+            "start_ms": 53111,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_037_Marie_무_F4_std22.2_-15.8dB_2420ms_2528ms_M30ms.ogg",
+            "start_ms": 53220,
+            "duration_ms": 109
+        }
+    ],
+    "문": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_006_Marie_문_F3_std2.9_-20.4dB_3510ms_3650ms_M30ms.ogg",
+            "start_ms": 53329,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_문_G4_std25.5_-19.1dB_8800ms_8950ms_M30ms.ogg",
+            "start_ms": 53470,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_pray_EP03_014_Marie_문_Fsharp4_std9.4_-19.5dB_1320ms_1470ms_M30ms.ogg",
+            "start_ms": 53622,
+            "duration_ms": 152
+        }
+    ],
+    "물": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_025_Marie_물_D4_std6.4_-17.0dB_280ms_410ms_M30ms.ogg",
+            "start_ms": 53774,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_028_Marie_물_Asharp4_std9.9_-13.9dB_2700ms_2830ms_M30ms.ogg",
+            "start_ms": 53905,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_037_Marie_물_B4_std8.6_-15.1dB_3100ms_3230ms_M30ms.ogg",
+            "start_ms": 54036,
+            "duration_ms": 131
+        }
+    ],
+    "뭉": [
+        {
+            "file_name": "_selective_Main_Ch09_EP05_007_Marie_뭉_G4_std15.6_-16.9dB_960ms_1140ms_M30ms.ogg",
+            "start_ms": 54167,
+            "duration_ms": 181
+        }
+    ],
+    "뭐": [
+        {
+            "file_name": "_selective_raiderscave_EP03_061_Marie_뭐_C4_std8.8_-17.0dB_1060ms_1186ms_M30ms.ogg",
+            "start_ms": 54348,
+            "duration_ms": 128
+        }
+    ],
+    "뭔": [
+        {
+            "file_name": "_selective_Main_Ch01_EP05_060_Marie_뭔_Asharp3_std13.2_-20.6dB_300ms_500ms_M30ms.ogg",
+            "start_ms": 54476,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_008_Marie_뭔_G4_std31.7_-16.1dB_400ms_540ms_M30ms.ogg",
+            "start_ms": 54673,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_pray_EP02_086_Marie_뭔_C4_std16.8_-13.3dB_20ms_199ms_M30ms.ogg",
+            "start_ms": 54814,
+            "duration_ms": 181
+        }
+    ],
+    "미": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_069_Marie_미_Fsharp4_std9.9_-19.9dB_4260ms_4404ms_M30ms.ogg",
+            "start_ms": 54995,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP03_087_Marie_미_Csharp4_std19.1_-14.5dB_3140ms_3284ms_M30ms.ogg",
+            "start_ms": 55136,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_006_Marie_미_A3_std6.8_-18.3dB_3100ms_3226ms_M30ms.ogg",
+            "start_ms": 55277,
+            "duration_ms": 128
+        }
+    ],
+    "민": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_049_Marie_민_D4_std6.3_-24.6dB_1040ms_1160ms_M30ms.ogg",
+            "start_ms": 55405,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_041_Marie_민_Dsharp4_std15.2_-19.6dB_540ms_700ms_M30ms.ogg",
+            "start_ms": 55522,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_024_Marie_민_Asharp4_std8.3_-16.8dB_740ms_919ms_M30ms.ogg",
+            "start_ms": 55679,
+            "duration_ms": 176
+        }
+    ],
+    "믿": [
+        {
+            "file_name": "_selective_raiderscave_EP01_003_Marie_믿_Fsharp3_std10.2_-20.2dB_480ms_630ms_M30ms.ogg",
+            "start_ms": 55855,
+            "duration_ms": 152
+        }
+    ],
+    "밀": [
+        {
+            "file_name": "_selective_Connection_EP05_007_Marie_밀_C4_std2.9_-12.9dB_2060ms_2190ms_M30ms.ogg",
+            "start_ms": 56007,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_013_Marie_밀_G4_std23.6_-17.3dB_740ms_900ms_M30ms.ogg",
+            "start_ms": 56138,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Letter_Marie_밀_E4_std8.1_-18.4dB_21460ms_21620ms_M30ms.ogg",
+            "start_ms": 56295,
+            "duration_ms": 157
+        }
+    ],
+    "밌": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_026_Marie_밌_Fsharp4_std17.8_-21.6dB_3260ms_3410ms_M30ms.ogg",
+            "start_ms": 56452,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_041_Marie_밌_A4_std22.6_-18.7dB_3120ms_3280ms_M30ms.ogg",
+            "start_ms": 56604,
+            "duration_ms": 157
+        }
+    ],
+    "바": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_093_Marie_바_Unvoiced_std0.0_-20.5dB_780ms_887ms_M30ms.ogg",
+            "start_ms": 56761,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP02_002_Marie_바_B3_std1.2_-23.8dB_5680ms_5788ms_M30ms.ogg",
+            "start_ms": 56870,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Marie_DutchRubEnd2_바_E4_std2.4_-13.7dB_1740ms_1865ms_M30ms.ogg",
+            "start_ms": 56979,
+            "duration_ms": 125
+        }
+    ],
+    "박": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_036_Marie_박_C4_std15.8_-20.9dB_4579ms_4760ms_M30ms.ogg",
+            "start_ms": 57104,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_088_Marie_박_Unvoiced_std0.0_-23.4dB_2100ms_2300ms_M30ms.ogg",
+            "start_ms": 57282,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP06_094_Marie_박_C5_std13.6_-14.8dB_290ms_459ms_M30ms.ogg",
+            "start_ms": 57479,
+            "duration_ms": 171
+        }
+    ],
+    "밖": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_041_Marie_밖_A3_std20.9_-20.5dB_2620ms_2830ms_M30ms.ogg",
+            "start_ms": 57650,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP01_003_Marie_밖_A4_std14.2_-14.1dB_4480ms_4650ms_M30ms.ogg",
+            "start_ms": 57861,
+            "duration_ms": 171
+        }
+    ],
+    "반": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_036_Marie_반_Csharp4_std6.2_-15.2dB_5620ms_5780ms_M30ms.ogg",
+            "start_ms": 58032,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_003_Marie_반_B3_std18.9_-18.2dB_2140ms_2340ms_M30ms.ogg",
+            "start_ms": 58189,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_053_Marie_반_Dsharp4_std92.6_-17.0dB_1220ms_1400ms_M30ms.ogg",
+            "start_ms": 58386,
+            "duration_ms": 177
+        }
+    ],
+    "받": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_031_Marie_받_Dsharp4_std8.1_-13.6dB_2160ms_2309ms_M30ms.ogg",
+            "start_ms": 58563,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_008_HiddenMarie_받_G3_std22.8_-19.7dB_3239ms_3410ms_M30ms.ogg",
+            "start_ms": 58712,
+            "duration_ms": 191
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_107_Marie_받_D5_std30.7_-14.2dB_1960ms_2130ms_M30ms.ogg",
+            "start_ms": 58903,
+            "duration_ms": 171
+        }
+    ],
+    "발": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_034_Marie_발_E4_std19.0_-12.5dB_2860ms_3020ms_M30ms.ogg",
+            "start_ms": 59074,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP03_034_Marie_발_Dsharp5_std30.9_-12.0dB_740ms_889ms_M30ms.ogg",
+            "start_ms": 59231,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_039_Marie_발_B3_std19.0_-17.7dB_3880ms_4059ms_M30ms.ogg",
+            "start_ms": 59380,
+            "duration_ms": 176
+        }
+    ],
+    "밥": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_070_Marie_밥_G3_std6.1_-17.1dB_880ms_1020ms_M30ms.ogg",
+            "start_ms": 59556,
+            "duration_ms": 141
+        }
+    ],
+    "방": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_093_Marie_방_D4_std8.8_-20.3dB_2600ms_2739ms_M30ms.ogg",
+            "start_ms": 59697,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_방_Asharp3_std1.9_-20.5dB_2500ms_2620ms_M30ms.ogg",
+            "start_ms": 59838,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_010_Marie_방_Csharp4_std10.6_-17.3dB_680ms_799ms_M30ms.ogg",
+            "start_ms": 59955,
+            "duration_ms": 120
+        }
+    ],
+    "배": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_083_Marie_배_G3_std14.0_-16.0dB_5060ms_5240ms_M30ms.ogg",
+            "start_ms": 60075,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP03_014_Marie_배_B3_std6.8_-17.1dB_3440ms_3584ms_M30ms.ogg",
+            "start_ms": 60256,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_063_Marie_배_G3_std9.1_-19.8dB_2920ms_3100ms_M30ms.ogg",
+            "start_ms": 60397,
+            "duration_ms": 181
+        }
+    ],
+    "버": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_054_HiddenMarie_버_Fsharp3_std3.9_-20.2dB_3140ms_3230ms_M30ms.ogg",
+            "start_ms": 60578,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_043_Marie_버_C4_std11.6_-10.9dB_5100ms_5190ms_M30ms.ogg",
+            "start_ms": 60669,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_064_Marie_버_Unvoiced_std0.0_-20.1dB_3260ms_3386ms_M30ms.ogg",
+            "start_ms": 60760,
+            "duration_ms": 128
+        }
+    ],
+    "번": [
+        {
+            "file_name": "_selective_Ontime_EP04_008_HiddenMarie_번_A3_std1.9_-20.2dB_2700ms_2849ms_M30ms.ogg",
+            "start_ms": 60888,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_023_Marie_번_Asharp3_std8.2_-15.6dB_2400ms_2540ms_M30ms.ogg",
+            "start_ms": 61037,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_번_Asharp3_std8.7_-18.1dB_640ms_799ms_M30ms.ogg",
+            "start_ms": 61178,
+            "duration_ms": 156
+        }
+    ],
+    "벌": [
+        {
+            "file_name": "_selective_raiderscave_EP03_007_Marie_벌_A3_std16.9_-17.0dB_2100ms_2200ms_M30ms.ogg",
+            "start_ms": 61334,
+            "duration_ms": 101
+        }
+    ],
+    "법": [
+        {
+            "file_name": "_selective_Main_Ch04_EP03_050_Marie_법_F4_std24.3_-19.0dB_3000ms_3150ms_M30ms.ogg",
+            "start_ms": 61435,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_011_Marie_법_D4_std15.6_-17.2dB_1880ms_2090ms_M30ms.ogg",
+            "start_ms": 61587,
+            "duration_ms": 211
+        }
+    ],
+    "벽": [
+        {
+            "file_name": "_selective_Main_Ch09_EP03_087_Marie_벽_C4_std14.8_-15.1dB_280ms_450ms_M30ms.ogg",
+            "start_ms": 61798,
+            "duration_ms": 171
+        }
+    ],
+    "별": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_025_Marie_별_G3_std14.4_-16.9dB_2560ms_2769ms_M30ms.ogg",
+            "start_ms": 61969,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_060_Marie_별_F4_std11.0_-16.1dB_1720ms_1820ms_M30ms.ogg",
+            "start_ms": 62180,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_067_Marie_별_Asharp4_std19.3_-13.3dB_980ms_1080ms_M30ms.ogg",
+            "start_ms": 62281,
+            "duration_ms": 101
+        }
+    ],
+    "보": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_032_Marie_보_F4_std13.9_-18.0dB_2620ms_2719ms_M30ms.ogg",
+            "start_ms": 62382,
+            "duration_ms": 96
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_089_Marie_보_Gsharp4_std12.6_-16.3dB_3400ms_3508ms_M30ms.ogg",
+            "start_ms": 62478,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_016_Marie_보_Gsharp4_std6.7_-13.7dB_940ms_1048ms_M30ms.ogg",
+            "start_ms": 62587,
+            "duration_ms": 109
+        }
+    ],
+    "복": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_복_Csharp4_std5.8_-19.5dB_10ms_220ms_M30ms.ogg",
+            "start_ms": 62696,
+            "duration_ms": 207
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP07_031_Marie_복_Gsharp3_std17.5_-31.2dB_2260ms_2480ms_M30ms.ogg",
+            "start_ms": 62903,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_002_Marie_복_Csharp4_std2.1_-22.3dB_600ms_780ms_M30ms.ogg",
+            "start_ms": 63120,
+            "duration_ms": 177
+        }
+    ],
+    "본": [
+        {
+            "file_name": "_selective_Main_Ch02_EP01_050_Marie_본_Fsharp4_std17.3_-19.3dB_1119ms_1300ms_M30ms.ogg",
+            "start_ms": 63297,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_036_Marie_본_E4_std122.7_-17.4dB_5040ms_5239ms_M30ms.ogg",
+            "start_ms": 63478,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Marie_Affinity3_본_Gsharp4_std22.3_-16.1dB_1740ms_1900ms_M30ms.ogg",
+            "start_ms": 63678,
+            "duration_ms": 157
+        }
+    ],
+    "볼": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_026_Marie_볼_A3_std11.7_-16.4dB_780ms_1000ms_M30ms.ogg",
+            "start_ms": 63835,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_041_Marie_볼_Gsharp3_std11.2_-25.9dB_1740ms_1960ms_M30ms.ogg",
+            "start_ms": 64052,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_sunnyside_EP02_087_Marie_볼_B4_std13.1_-12.6dB_1340ms_1560ms_M30ms.ogg",
+            "start_ms": 64269,
+            "duration_ms": 217
+        }
+    ],
+    "봉": [
+        {
+            "file_name": "_selective_raiderscave_EP03_052_Marie_봉_Gsharp4_std7.7_-21.5dB_940ms_1020ms_M30ms.ogg",
+            "start_ms": 64486,
+            "duration_ms": 77
+        }
+    ],
+    "봤": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_봤_C4_std11.6_-17.2dB_2300ms_2510ms_M30ms.ogg",
+            "start_ms": 64563,
+            "duration_ms": 211
+        }
+    ],
+    "부": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_062_Marie_부_Gsharp3_std10.1_-19.4dB_1760ms_1904ms_M30ms.ogg",
+            "start_ms": 64774,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_013_Marie_부_E4_std5.5_-25.2dB_2360ms_2504ms_M30ms.ogg",
+            "start_ms": 64915,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_081_Marie_부_A4_std27.1_-15.7dB_1380ms_1524ms_M30ms.ogg",
+            "start_ms": 65056,
+            "duration_ms": 141
+        }
+    ],
+    "북": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_038_Marie_북_Csharp4_std17.7_-22.4dB_3940ms_4070ms_M30ms.ogg",
+            "start_ms": 65197,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_050_Marie_북_Unvoiced_std0.0_-31.1dB_4760ms_4920ms_M30ms.ogg",
+            "start_ms": 65328,
+            "duration_ms": 157
+        }
+    ],
+    "분": [
+        {
+            "file_name": "_selective_raiderscave_EP02_087_Marie_분_B4_std31.1_-15.9dB_1780ms_1930ms_M30ms.ogg",
+            "start_ms": 65485,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_091_Marie_분_Gsharp4_std7.4_-17.4dB_2680ms_2840ms_M30ms.ogg",
+            "start_ms": 65637,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_061_Marie_분_Csharp4_std16.0_-21.5dB_3239ms_3389ms_M30ms.ogg",
+            "start_ms": 65794,
+            "duration_ms": 152
+        }
+    ],
+    "불": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_047_Marie_불_G4_std2.0_-13.6dB_1160ms_1320ms_M30ms.ogg",
+            "start_ms": 65946,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Marie_Affinity5_불_D4_std5.2_-24.7dB_2600ms_2700ms_M30ms.ogg",
+            "start_ms": 66103,
+            "duration_ms": 101
+        }
+    ],
+    "붙": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_033_Marie_붙_Fsharp4_std12.5_-20.0dB_6260ms_6450ms_M30ms.ogg",
+            "start_ms": 66204,
+            "duration_ms": 192
+        }
+    ],
+    "브": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_051_Marie_브_Asharp3_std3.6_-21.5dB_1859ms_2022ms_M30ms.ogg",
+            "start_ms": 66396,
+            "duration_ms": 160
+        }
+    ],
+    "블": [
+        {
+            "file_name": "_selective_raiderscave_EP08_063_Marie_블_Gsharp3_std4.1_-21.1dB_2620ms_2739ms_M30ms.ogg",
+            "start_ms": 66556,
+            "duration_ms": 120
+        }
+    ],
+    "비": [
+        {
+            "file_name": "_selective_Connection_EP05_007_Marie_비_Asharp3_std4.7_-14.6dB_1900ms_2044ms_M30ms.ogg",
+            "start_ms": 66676,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_비_B3_std16.9_-22.0dB_2540ms_2666ms_M30ms.ogg",
+            "start_ms": 66817,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_013_Marie_비_D4_std3.6_-23.0dB_580ms_724ms_M30ms.ogg",
+            "start_ms": 66945,
+            "duration_ms": 141
+        }
+    ],
+    "빠": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_048_Marie_빠_Dsharp4_std10.2_-8.6dB_2000ms_2162ms_M30ms.ogg",
+            "start_ms": 67086,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_049_Marie_빠_Asharp4_std9.4_-11.8dB_4899ms_5026ms_M30ms.ogg",
+            "start_ms": 67249,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Letter_Marie_빠_F4_std14.7_-14.5dB_2800ms_3025ms_M30ms.ogg",
+            "start_ms": 67377,
+            "duration_ms": 227
+        }
+    ],
+    "빨": [
+        {
+            "file_name": "_selective_Main_Ch05_EP01_040_Marie_빨_Dsharp4_std20.4_-13.0dB_2600ms_2739ms_M30ms.ogg",
+            "start_ms": 67604,
+            "duration_ms": 141
+        }
+    ],
+    "뻔": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_053_Marie_뻔_A4_std5.0_-14.6dB_2800ms_2900ms_M30ms.ogg",
+            "start_ms": 67745,
+            "duration_ms": 101
+        }
+    ],
+    "뿐": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_038_Marie_뿐_Asharp4_std20.4_-15.3dB_2060ms_2230ms_M30ms.ogg",
+            "start_ms": 67846,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Marie_Affinity1_1_뿐_C4_std6.6_-26.8dB_5280ms_5410ms_M30ms.ogg",
+            "start_ms": 68017,
+            "duration_ms": 131
+        }
+    ],
+    "사": [
+        {
+            "file_name": "_selective_Connection_EP05_010_Marie_사_C5_std72.9_-10.6dB_3640ms_3766ms_M30ms.ogg",
+            "start_ms": 68148,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_077_Marie_사_Unvoiced_std0.0_-23.3dB_390ms_507ms_M30ms.ogg",
+            "start_ms": 68276,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_064_Marie_사_A3_std16.6_-15.1dB_4260ms_4385ms_M30ms.ogg",
+            "start_ms": 68393,
+            "duration_ms": 125
+        }
+    ],
+    "산": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_063_Marie_산_Asharp3_std13.5_-19.2dB_220ms_380ms_M30ms.ogg",
+            "start_ms": 68518,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_068_Marie_산_B4_std41.8_-14.3dB_2200ms_2349ms_M30ms.ogg",
+            "start_ms": 68675,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_015_Marie_산_Asharp3_std9.3_-18.1dB_580ms_780ms_M30ms.ogg",
+            "start_ms": 68824,
+            "duration_ms": 197
+        }
+    ],
+    "살": [
+        {
+            "file_name": "_selective_Connection_EP05_006_Marie_살_A3_std5.1_-21.1dB_5100ms_5239ms_M30ms.ogg",
+            "start_ms": 69021,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_088_Marie_살_F4_std6.2_-15.1dB_2300ms_2460ms_M30ms.ogg",
+            "start_ms": 69157,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_048_Marie_살_G4_std5.7_-14.4dB_1680ms_1840ms_M30ms.ogg",
+            "start_ms": 69314,
+            "duration_ms": 157
+        }
+    ],
+    "상": [
+        {
+            "file_name": "_selective_Main_Ch04_EP03_050_Marie_상_E4_std7.9_-19.5dB_2660ms_2820ms_M30ms.ogg",
+            "start_ms": 69471,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_024_Marie_상_A4_std16.0_-14.4dB_2700ms_2860ms_M30ms.ogg",
+            "start_ms": 69628,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_092_Marie_상_E4_std9.1_-18.3dB_559ms_720ms_M30ms.ogg",
+            "start_ms": 69785,
+            "duration_ms": 158
+        }
+    ],
+    "새": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_064_Marie_새_D5_std15.9_-14.7dB_2760ms_2886ms_M30ms.ogg",
+            "start_ms": 69943,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_071_Marie_새_B4_std10.8_-15.0dB_860ms_986ms_M30ms.ogg",
+            "start_ms": 70071,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP03_087_Marie_새_D4_std37.9_-18.7dB_139ms_266ms_M30ms.ogg",
+            "start_ms": 70199,
+            "duration_ms": 128
+        }
+    ],
+    "생": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_037_Marie_생_B4_std40.2_-16.2dB_2540ms_2700ms_M30ms.ogg",
+            "start_ms": 70327,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_083_Marie_생_C4_std22.3_-18.9dB_5520ms_5680ms_M30ms.ogg",
+            "start_ms": 70484,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Marie_Birthday_생_Fsharp4_std151.4_-12.5dB_80ms_240ms_M30ms.ogg",
+            "start_ms": 70641,
+            "duration_ms": 157
+        }
+    ],
+    "서": [
+        {
+            "file_name": "_selective_Connection_EP05_010_Marie_서_Fsharp4_std23.9_-19.4dB_2840ms_2948ms_M30ms.ogg",
+            "start_ms": 70798,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_041_Marie_서_B3_std13.4_-19.3dB_1680ms_1788ms_M30ms.ogg",
+            "start_ms": 70903,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_072_Marie_서_Gsharp4_std24.6_-13.8dB_400ms_508ms_M30ms.ogg",
+            "start_ms": 71008,
+            "duration_ms": 109
+        }
+    ],
+    "석": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_064_Marie_석_F4_std16.7_-23.7dB_520ms_720ms_M30ms.ogg",
+            "start_ms": 71117,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_석_Unvoiced_std0.0_-27.4dB_1440ms_1660ms_M30ms.ogg",
+            "start_ms": 71314,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_081_Marie_석_Dsharp4_std14.1_-18.2dB_270ms_459ms_M30ms.ogg",
+            "start_ms": 71535,
+            "duration_ms": 186
+        }
+    ],
+    "선": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_028_HiddenMarie_선_Fsharp4_std14.6_-14.3dB_1000ms_1190ms_M30ms.ogg",
+            "start_ms": 71721,
+            "duration_ms": 192
+        }
+    ],
+    "설": [
+        {
+            "file_name": "_selective_Main_Ch01_EP07_042_Marie_설_Dsharp4_std8.8_-21.4dB_2500ms_2660ms_M30ms.ogg",
+            "start_ms": 71913,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_015_Marie_설_G3_std22.2_-21.6dB_1060ms_1240ms_M30ms.ogg",
+            "start_ms": 72070,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Marie_Board_설_Dsharp4_std20.0_-15.1dB_1099ms_1260ms_M30ms.ogg",
+            "start_ms": 72251,
+            "duration_ms": 163
+        }
+    ],
+    "섬": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_063_Marie_섬_E4_std36.2_-21.4dB_380ms_550ms_M30ms.ogg",
+            "start_ms": 72414,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_섬_A3_std7.4_-22.2dB_1099ms_1270ms_M30ms.ogg",
+            "start_ms": 72585,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_080_Marie_섬_Dsharp5_std27.0_-11.2dB_1960ms_2110ms_M30ms.ogg",
+            "start_ms": 72758,
+            "duration_ms": 152
+        }
+    ],
+    "섭": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_섭_B4_std20.6_-14.4dB_220ms_390ms_M30ms.ogg",
+            "start_ms": 72910,
+            "duration_ms": 171
+        }
+    ],
+    "성": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_069_Marie_성_A4_std14.4_-12.2dB_1240ms_1400ms_M30ms.ogg",
+            "start_ms": 73081,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_041_Marie_성_E4_std8.7_-19.0dB_1200ms_1359ms_M30ms.ogg",
+            "start_ms": 73238,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "Voice_Marie_Affinity4_성_E4_std27.1_-20.9dB_3700ms_3880ms_M30ms.ogg",
+            "start_ms": 73418,
+            "duration_ms": 177
+        }
+    ],
+    "세": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_086_Marie_세_B3_std12.5_-21.1dB_2520ms_2664ms_M30ms.ogg",
+            "start_ms": 73595,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_006_Marie_세_Gsharp3_std5.9_-17.8dB_2080ms_2223ms_M30ms.ogg",
+            "start_ms": 73759,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "Voice_Marie_Birthday_세_Csharp4_std6.5_-15.7dB_3680ms_3815ms_M30ms.ogg",
+            "start_ms": 73903,
+            "duration_ms": 136
+        }
+    ],
+    "셔": [
+        {
+            "file_name": "_selective_raiderscave_EP08_064_Marie_셔_A3_std11.7_-17.0dB_3620ms_3727ms_M30ms.ogg",
+            "start_ms": 74039,
+            "duration_ms": 109
+        }
+    ],
+    "셨": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_053_Marie_셨_E4_std8.1_-17.3dB_1880ms_2050ms_M30ms.ogg",
+            "start_ms": 74148,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_032_Marie_셨_E4_std22.6_-19.6dB_1220ms_1400ms_M30ms.ogg",
+            "start_ms": 74319,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_069_Marie_셨_Gsharp4_std8.7_-17.9dB_2130ms_2309ms_M30ms.ogg",
+            "start_ms": 74500,
+            "duration_ms": 181
+        }
+    ],
+    "소": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_073_Marie_소_Dsharp5_std24.0_-10.9dB_2180ms_2288ms_M30ms.ogg",
+            "start_ms": 74681,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_087_Marie_소_C5_std37.9_-12.8dB_1200ms_1308ms_M30ms.ogg",
+            "start_ms": 74790,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_098_Marie_소_B4_std17.4_-13.7dB_1300ms_1408ms_M30ms.ogg",
+            "start_ms": 74899,
+            "duration_ms": 109
+        }
+    ],
+    "속": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_013_Marie_속_Gsharp4_std44.1_-17.5dB_1280ms_1450ms_M30ms.ogg",
+            "start_ms": 75008,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP05_007_Marie_속_Asharp4_std58.1_-23.2dB_3200ms_3370ms_M30ms.ogg",
+            "start_ms": 75175,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_속_Unvoiced_std0.0_-24.5dB_3640ms_3800ms_M30ms.ogg",
+            "start_ms": 75346,
+            "duration_ms": 157
+        }
+    ],
+    "손": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_032_Marie_손_E4_std10.3_-24.4dB_1760ms_1900ms_M30ms.ogg",
+            "start_ms": 75503,
+            "duration_ms": 141
+        }
+    ],
+    "송": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_009_Marie_송_Fsharp4_std21.3_-28.3dB_4399ms_4600ms_M30ms.ogg",
+            "start_ms": 75644,
+            "duration_ms": 198
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_036_Marie_송_B4_std10.3_-8.9dB_260ms_380ms_M30ms.ogg",
+            "start_ms": 75842,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_송_F3_std2.8_-20.3dB_1340ms_1480ms_M30ms.ogg",
+            "start_ms": 75959,
+            "duration_ms": 137
+        }
+    ],
+    "수": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_034_Marie_수_Unvoiced_std0.0_-27.3dB_500ms_590ms_M30ms.ogg",
+            "start_ms": 76096,
+            "duration_ms": 87
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP01_050_Marie_수_Gsharp4_std6.6_-18.9dB_1440ms_1530ms_M30ms.ogg",
+            "start_ms": 76183,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP02_008_Marie_수_Fsharp4_std21.2_-16.6dB_1380ms_1470ms_M30ms.ogg",
+            "start_ms": 76274,
+            "duration_ms": 91
+        }
+    ],
+    "숙": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_숙_Asharp4_std25.7_-28.6dB_1260ms_1380ms_M30ms.ogg",
+            "start_ms": 76365,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_숙_Unvoiced_std0.0_-29.9dB_5340ms_5540ms_M30ms.ogg",
+            "start_ms": 76482,
+            "duration_ms": 197
+        }
+    ],
+    "순": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_022_Marie_순_E4_std13.2_-25.5dB_2620ms_2800ms_M30ms.ogg",
+            "start_ms": 76679,
+            "duration_ms": 181
+        }
+    ],
+    "숨": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_064_Marie_숨_A4_std95.1_-21.8dB_3660ms_3860ms_M30ms.ogg",
+            "start_ms": 76860,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_숨_Asharp3_std8.3_-20.4dB_3239ms_3440ms_M30ms.ogg",
+            "start_ms": 77057,
+            "duration_ms": 198
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_071_Marie_숨_B4_std7.8_-27.0dB_5860ms_5999ms_M30ms.ogg",
+            "start_ms": 77255,
+            "duration_ms": 141
+        }
+    ],
+    "스": [
+        {
+            "file_name": "_selective_Main_Ch02_EP03_030_Marie_스_G5_std51.9_-19.2dB_1560ms_1668ms_M30ms.ogg",
+            "start_ms": 77396,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_HiddenMarie_스_Unvoiced_std0.0_-30.3dB_710ms_827ms_M30ms.ogg",
+            "start_ms": 77505,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_097_Marie_스_Unvoiced_std0.0_-21.7dB_2150ms_2267ms_M30ms.ogg",
+            "start_ms": 77619,
+            "duration_ms": 114
+        }
+    ],
+    "슨": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_062_Marie_슨_Fsharp4_std2.0_-14.0dB_1000ms_1080ms_M30ms.ogg",
+            "start_ms": 77733,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_HiddenMarie_슨_Unvoiced_std0.0_-22.9dB_1599ms_1680ms_M30ms.ogg",
+            "start_ms": 77810,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP02_023_Marie_슨_G3_std5.2_-23.0dB_3460ms_3540ms_M30ms.ogg",
+            "start_ms": 77893,
+            "duration_ms": 77
+        }
+    ],
+    "습": [
+        {
+            "file_name": "_selective_raiderscave_EP01_007_Marie_습_G3_std7.1_-20.3dB_990ms_1099ms_M30ms.ogg",
+            "start_ms": 77970,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_145_Marie_습_A4_std0.0_-23.0dB_2160ms_2239ms_M30ms.ogg",
+            "start_ms": 78079,
+            "duration_ms": 80
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_053_Marie_습_E4_std4.0_-17.6dB_1060ms_1190ms_M30ms.ogg",
+            "start_ms": 78159,
+            "duration_ms": 131
+        }
+    ],
+    "슷": [
+        {
+            "file_name": "_selective_Ontime_EP04_008_Marie_슷_Unvoiced_std0.0_-22.8dB_2620ms_2739ms_M30ms.ogg",
+            "start_ms": 78290,
+            "duration_ms": 116
+        }
+    ],
+    "승": [
+        {
+            "file_name": "_selective_Main_Ch04_EP03_050_Marie_승_E4_std27.7_-22.4dB_2820ms_3000ms_M30ms.ogg",
+            "start_ms": 78406,
+            "duration_ms": 177
+        }
+    ],
+    "시": [
+        {
+            "file_name": "_selective_Connection_EP05_006_Marie_시_C4_std9.1_-20.8dB_5460ms_5568ms_M30ms.ogg",
+            "start_ms": 78583,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_050_Marie_시_Asharp4_std7.6_-15.9dB_1480ms_1587ms_M30ms.ogg",
+            "start_ms": 78692,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Marie_Gacha2_시_Unvoiced_std0.0_-21.7dB_2500ms_2599ms_M30ms.ogg",
+            "start_ms": 78801,
+            "duration_ms": 96
+        }
+    ],
+    "식": [
+        {
+            "file_name": "_selective_Main_Ch01_EP06_043_Marie_식_E4_std27.5_-20.6dB_1400ms_1550ms_M30ms.ogg",
+            "start_ms": 78897,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_071_Marie_식_A4_std19.6_-24.1dB_1780ms_1920ms_M30ms.ogg",
+            "start_ms": 79049,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_pray_EP02_085_Marie_식_E4_std8.1_-23.0dB_1040ms_1200ms_M30ms.ogg",
+            "start_ms": 79190,
+            "duration_ms": 180
+        }
+    ],
+    "신": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_032_Marie_신_F4_std18.1_-23.6dB_2200ms_2360ms_M30ms.ogg",
+            "start_ms": 79370,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_060_Marie_신_Fsharp4_std11.2_-22.7dB_1980ms_2140ms_M30ms.ogg",
+            "start_ms": 79527,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_110_Marie_신_D4_std14.6_-20.9dB_2120ms_2280ms_M30ms.ogg",
+            "start_ms": 79684,
+            "duration_ms": 157
+        }
+    ],
+    "실": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_실_Fsharp4_std0.9_-16.6dB_4739ms_4860ms_M30ms.ogg",
+            "start_ms": 79841,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP07_060_Marie_실_A4_std2.2_-17.1dB_4079ms_4200ms_M30ms.ogg",
+            "start_ms": 79964,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_013_Marie_실_E4_std24.8_-19.7dB_580ms_710ms_M30ms.ogg",
+            "start_ms": 80087,
+            "duration_ms": 131
+        }
+    ],
+    "심": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_053_Marie_심_D4_std5.2_-26.3dB_370ms_520ms_M30ms.ogg",
+            "start_ms": 80218,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_094_Marie_심_B4_std18.5_-21.0dB_1210ms_1359ms_M30ms.ogg",
+            "start_ms": 80370,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_059_Marie_심_A3_std5.6_-23.0dB_1700ms_1850ms_M30ms.ogg",
+            "start_ms": 80519,
+            "duration_ms": 152
+        }
+    ],
+    "싶": [
+        {
+            "file_name": "_selective_Connection_EP05_004_Marie_싶_Unvoiced_std0.0_-26.5dB_2120ms_2290ms_M30ms.ogg",
+            "start_ms": 80671,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_081_Marie_싶_Unvoiced_std0.0_-25.0dB_2120ms_2290ms_M30ms.ogg",
+            "start_ms": 80842,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_036_Marie_싶_Unvoiced_std0.0_-22.5dB_1480ms_1650ms_M30ms.ogg",
+            "start_ms": 81013,
+            "duration_ms": 171
+        }
+    ],
+    "싸": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_068_Marie_싸_Fsharp4_std10.3_-13.8dB_1420ms_1492ms_M30ms.ogg",
+            "start_ms": 81184,
+            "duration_ms": 69
+        }
+    ],
+    "써": [
+        {
+            "file_name": "_selective_raiderscave_EP01_076_Marie_써_Fsharp4_std14.9_-15.7dB_2540ms_2702ms_M30ms.ogg",
+            "start_ms": 81253,
+            "duration_ms": 159
+        }
+    ],
+    "쓰": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_054_HiddenMarie_쓰_B3_std11.0_-24.5dB_1390ms_1525ms_M30ms.ogg",
+            "start_ms": 81412,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP06_025_Marie_쓰_D5_std10.6_-17.9dB_679ms_752ms_M30ms.ogg",
+            "start_ms": 81548,
+            "duration_ms": 75
+        }
+    ],
+    "쓴": [
+        {
+            "file_name": "_selective_Connection_EP05_001_Marie_쓴_Dsharp4_std10.4_-19.7dB_2000ms_2190ms_M30ms.ogg",
+            "start_ms": 81623,
+            "duration_ms": 192
+        }
+    ],
+    "씀": [
+        {
+            "file_name": "_selective_raiderscave_EP02_024_Marie_씀_Fsharp4_std18.8_-18.6dB_1280ms_1440ms_M30ms.ogg",
+            "start_ms": 81815,
+            "duration_ms": 157
+        }
+    ],
+    "아": [
+        {
+            "file_name": "_selective_Main_Ch01_EP07_042_Marie_아_Fsharp3_std12.5_-21.6dB_1080ms_1224ms_M30ms.ogg",
+            "start_ms": 81972,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_015_Marie_아_Fsharp3_std2.4_-13.7dB_20ms_164ms_M30ms.ogg",
+            "start_ms": 82113,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_011_Marie_아_D4_std14.3_-14.1dB_2620ms_2764ms_M30ms.ogg",
+            "start_ms": 82254,
+            "duration_ms": 141
+        }
+    ],
+    "안": [
+        {
+            "file_name": "_selective_Main_Ch02_EP02_008_Marie_안_Asharp3_std39.4_-16.2dB_3120ms_3320ms_M30ms.ogg",
+            "start_ms": 82395,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_123_Marie_안_Dsharp3_std11.3_-16.4dB_1700ms_1880ms_M30ms.ogg",
+            "start_ms": 82592,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Marie_Touch1_2_안_Unvoiced_std0.0_-15.6dB_100ms_280ms_M30ms.ogg",
+            "start_ms": 82769,
+            "duration_ms": 181
+        }
+    ],
+    "않": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_091_Marie_않_G4_std14.2_-13.1dB_2380ms_2520ms_M30ms.ogg",
+            "start_ms": 82950,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_013_Marie_않_A3_std20.0_-14.8dB_1360ms_1490ms_M30ms.ogg",
+            "start_ms": 83091,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_않_A3_std11.7_-19.0dB_4499ms_4630ms_M30ms.ogg",
+            "start_ms": 83222,
+            "duration_ms": 133
+        }
+    ],
+    "알": [
+        {
+            "file_name": "_selective_Main_Ch04_EP03_050_Marie_알_Gsharp3_std3.7_-13.2dB_3280ms_3400ms_M30ms.ogg",
+            "start_ms": 83355,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP01_038_HiddenMarie_알_B3_std20.6_-13.4dB_780ms_910ms_M30ms.ogg",
+            "start_ms": 83472,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_082_Marie_알_B3_std7.5_-16.1dB_3390ms_3520ms_M30ms.ogg",
+            "start_ms": 83603,
+            "duration_ms": 127
+        }
+    ],
+    "았": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_048_Marie_았_E4_std3.8_-11.3dB_2630ms_2780ms_M30ms.ogg",
+            "start_ms": 83730,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP01_038_HiddenMarie_았_E4_std10.9_-15.5dB_910ms_1060ms_M30ms.ogg",
+            "start_ms": 83882,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_았_C4_std24.1_-17.7dB_4630ms_4760ms_M30ms.ogg",
+            "start_ms": 84029,
+            "duration_ms": 127
+        }
+    ],
+    "앞": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_055_Marie_앞_Asharp3_std5.1_-15.6dB_1830ms_2009ms_M30ms.ogg",
+            "start_ms": 84156,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_022_HiddenMarie_앞_Csharp4_std11.6_-18.0dB_1720ms_1910ms_M30ms.ogg",
+            "start_ms": 84337,
+            "duration_ms": 192
+        }
+    ],
+    "야": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_054_Marie_야_E4_std7.2_-9.7dB_2410ms_2509ms_M30ms.ogg",
+            "start_ms": 84529,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Marie_Equipment_야_C4_std4.5_-17.0dB_1880ms_2006ms_M30ms.ogg",
+            "start_ms": 84630,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Marie_Touch2_야_Asharp3_std1.5_-12.2dB_2090ms_2225ms_M30ms.ogg",
+            "start_ms": 84758,
+            "duration_ms": 136
+        }
+    ],
+    "양": [
+        {
+            "file_name": "_selective_raiderscave_EP02_077_Marie_양_G3_std3.3_-17.1dB_520ms_620ms_M30ms.ogg",
+            "start_ms": 84894,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Marie_Birthday_양_Asharp3_std23.6_-17.7dB_2360ms_2560ms_M30ms.ogg",
+            "start_ms": 84995,
+            "duration_ms": 197
+        }
+    ],
+    "얗": [
+        {
+            "file_name": "Voice_Marie_Affinity4_얗_F4_std3.7_-10.7dB_240ms_400ms_M30ms.ogg",
+            "start_ms": 85192,
+            "duration_ms": 157
+        }
+    ],
+    "어": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_025_Marie_어_Dsharp4_std8.4_-10.0dB_3290ms_3389ms_M30ms.ogg",
+            "start_ms": 85349,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_027_Marie_어_Asharp4_std20.0_-11.5dB_4330ms_4429ms_M30ms.ogg",
+            "start_ms": 85450,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Marie_Victory2_어_Csharp5_std13.0_-13.4dB_1070ms_1169ms_M30ms.ogg",
+            "start_ms": 85551,
+            "duration_ms": 101
+        }
+    ],
+    "억": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_006_HiddenMarie_억_Csharp4_std8.9_-22.6dB_480ms_630ms_M30ms.ogg",
+            "start_ms": 85652,
+            "duration_ms": 152
+        }
+    ],
+    "언": [
+        {
+            "file_name": "_selective_Connection_EP05_004_Marie_언_Dsharp4_std24.0_-14.0dB_440ms_640ms_M30ms.ogg",
+            "start_ms": 85804,
+            "duration_ms": 197
+        }
+    ],
+    "얼": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_045_Marie_얼_B3_std5.9_-14.8dB_2580ms_2739ms_M30ms.ogg",
+            "start_ms": 86001,
+            "duration_ms": 156
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP03_014_HiddenMarie_얼_Fsharp3_std3.4_-19.1dB_2160ms_2360ms_M30ms.ogg",
+            "start_ms": 86157,
+            "duration_ms": 197
+        }
+    ],
+    "업": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_091_Marie_업_Asharp3_std9.2_-12.4dB_2050ms_2170ms_M30ms.ogg",
+            "start_ms": 86354,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_032_Marie_업_Dsharp4_std5.1_-16.2dB_3260ms_3429ms_M30ms.ogg",
+            "start_ms": 86471,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Marie_Defeat2_업_Dsharp4_std17.7_-14.5dB_1010ms_1130ms_M30ms.ogg",
+            "start_ms": 86642,
+            "duration_ms": 117
+        }
+    ],
+    "없": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_025_Marie_없_A3_std6.8_-14.5dB_2880ms_3090ms_M30ms.ogg",
+            "start_ms": 86759,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_054_HiddenMarie_없_E3_std5.4_-26.5dB_2860ms_3070ms_M30ms.ogg",
+            "start_ms": 86970,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_076_Marie_없_E3_std13.0_-26.4dB_3060ms_3270ms_M30ms.ogg",
+            "start_ms": 87181,
+            "duration_ms": 211
+        }
+    ],
+    "었": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_043_Marie_었_F4_std8.4_-14.8dB_1950ms_2100ms_M30ms.ogg",
+            "start_ms": 87392,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_037_Marie_었_C4_std11.8_-15.9dB_2520ms_2660ms_M30ms.ogg",
+            "start_ms": 87544,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_091_Marie_었_Fsharp4_std21.1_-20.0dB_2120ms_2260ms_M30ms.ogg",
+            "start_ms": 87681,
+            "duration_ms": 137
+        }
+    ],
+    "에": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_에_Gsharp3_std3.7_-13.4dB_4479ms_4570ms_M30ms.ogg",
+            "start_ms": 87818,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_045_Marie_에_Csharp4_std3.8_-15.4dB_3540ms_3630ms_M30ms.ogg",
+            "start_ms": 87911,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_에_D4_std16.2_-18.7dB_5854ms_5949ms_M30ms.ogg",
+            "start_ms": 88002,
+            "duration_ms": 96
+        }
+    ],
+    "엔": [
+        {
+            "file_name": "_selective_Ontime_EP04_008_HiddenMarie_엔_A3_std5.0_-19.4dB_2849ms_2940ms_M30ms.ogg",
+            "start_ms": 88098,
+            "duration_ms": 93
+        }
+    ],
+    "여": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_047_Marie_여_Fsharp3_std15.8_-17.1dB_4660ms_4803ms_M30ms.ogg",
+            "start_ms": 88191,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_063_Marie_여_Asharp3_std74.5_-12.6dB_1580ms_1724ms_M30ms.ogg",
+            "start_ms": 88355,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_006_HiddenMarie_여_Dsharp3_std17.3_-27.3dB_1500ms_1644ms_M30ms.ogg",
+            "start_ms": 88496,
+            "duration_ms": 141
+        }
+    ],
+    "역": [
+        {
+            "file_name": "_selective_Main_Ch01_EP07_042_Marie_역_D3_std3.2_-27.6dB_3040ms_3239ms_M30ms.ogg",
+            "start_ms": 88637,
+            "duration_ms": 200
+        }
+    ],
+    "연": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_064_Marie_연_Dsharp4_std9.1_-15.2dB_2100ms_2280ms_M30ms.ogg",
+            "start_ms": 88837,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_046_Marie_연_Csharp4_std3.8_-15.6dB_2380ms_2520ms_M30ms.ogg",
+            "start_ms": 89018,
+            "duration_ms": 137
+        }
+    ],
+    "열": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_048_Marie_열_Gsharp3_std11.7_-11.8dB_1380ms_1540ms_M30ms.ogg",
+            "start_ms": 89155,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP05_021_Marie_열_E4_std15.2_-14.5dB_1900ms_2050ms_M30ms.ogg",
+            "start_ms": 89312,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP05_023_Marie_열_Gsharp4_std30.8_-14.1dB_3520ms_3690ms_M30ms.ogg",
+            "start_ms": 89464,
+            "duration_ms": 171
+        }
+    ],
+    "였": [
+        {
+            "file_name": "_selective_raiderscave_EP07_095_Marie_였_Dsharp4_std10.4_-27.8dB_2410ms_2620ms_M30ms.ogg",
+            "start_ms": 89635,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "Voice_Marie_Affinity4_였_D4_std11.4_-19.3dB_1140ms_1320ms_M30ms.ogg",
+            "start_ms": 89846,
+            "duration_ms": 177
+        }
+    ],
+    "예": [
+        {
+            "file_name": "_selective_raiderscave_EP04_006_Marie_예_A3_std5.4_-14.8dB_3060ms_3186ms_M30ms.ogg",
+            "start_ms": 90023,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_067_Marie_예_C5_std4.9_-14.6dB_2730ms_2802ms_M30ms.ogg",
+            "start_ms": 90151,
+            "duration_ms": 69
+        }
+    ],
+    "오": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_087_Marie_오_Fsharp3_std15.1_-14.3dB_40ms_166ms_M30ms.ogg",
+            "start_ms": 90220,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_003_Marie_오_B3_std9.7_-14.9dB_3560ms_3686ms_M30ms.ogg",
+            "start_ms": 90348,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_045_Marie_오_Asharp3_std8.2_-15.9dB_1420ms_1546ms_M30ms.ogg",
+            "start_ms": 90476,
+            "duration_ms": 128
+        }
+    ],
+    "온": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_온_G3_std1.9_-19.7dB_899ms_1040ms_M30ms.ogg",
+            "start_ms": 90604,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_007_Marie_온_G4_std36.6_-20.3dB_600ms_760ms_M30ms.ogg",
+            "start_ms": 90745,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_035_Marie_온_D5_std18.8_-17.0dB_1440ms_1580ms_M30ms.ogg",
+            "start_ms": 90902,
+            "duration_ms": 141
+        }
+    ],
+    "올": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_088_Marie_올_A3_std43.1_-14.1dB_4319ms_4440ms_M30ms.ogg",
+            "start_ms": 91043,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_046_Marie_올_Gsharp4_std12.2_-13.5dB_899ms_1099ms_M30ms.ogg",
+            "start_ms": 91166,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Letter_Marie_올_C5_std6.9_-13.9dB_8350ms_8440ms_M30ms.ogg",
+            "start_ms": 91363,
+            "duration_ms": 91
+        }
+    ],
+    "와": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_049_Marie_와_A3_std10.7_-9.6dB_1580ms_1706ms_M30ms.ogg",
+            "start_ms": 91454,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_와_A3_std8.3_-13.2dB_1760ms_1886ms_M30ms.ogg",
+            "start_ms": 91582,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_049_Marie_와_B4_std1.7_-10.2dB_5700ms_5808ms_M30ms.ogg",
+            "start_ms": 91710,
+            "duration_ms": 109
+        }
+    ],
+    "왔": [
+        {
+            "file_name": "_selective_raiderscave_EP03_069_Marie_왔_F4_std9.9_-18.7dB_1000ms_1160ms_M30ms.ogg",
+            "start_ms": 91819,
+            "duration_ms": 157
+        }
+    ],
+    "왕": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_093_Marie_왕_Csharp4_std39.1_-12.2dB_2280ms_2460ms_M30ms.ogg",
+            "start_ms": 91976,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP05_072_Marie_왕_Asharp3_std25.6_-12.5dB_1060ms_1240ms_M30ms.ogg",
+            "start_ms": 92157,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP06_043_Marie_왕_Fsharp3_std11.1_-15.0dB_3660ms_3840ms_M30ms.ogg",
+            "start_ms": 92334,
+            "duration_ms": 177
+        }
+    ],
+    "외": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_외_Gsharp3_std8.1_-18.8dB_1900ms_2062ms_M30ms.ogg",
+            "start_ms": 92511,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP05_060_Marie_외_Dsharp4_std8.3_-14.8dB_1099ms_1226ms_M30ms.ogg",
+            "start_ms": 92670,
+            "duration_ms": 124
+        }
+    ],
+    "왼": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_왼_A3_std11.8_-17.9dB_1180ms_1400ms_M30ms.ogg",
+            "start_ms": 92794,
+            "duration_ms": 221
+        }
+    ],
+    "요": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_060_Marie_요_C4_std9.5_-16.3dB_2700ms_2826ms_M30ms.ogg",
+            "start_ms": 93015,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP05_012_Marie_요_B3_std4.8_-13.6dB_1400ms_1526ms_M30ms.ogg",
+            "start_ms": 93143,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_030_Marie_요_B3_std8.7_-20.9dB_1060ms_1186ms_M30ms.ogg",
+            "start_ms": 93271,
+            "duration_ms": 128
+        }
+    ],
+    "용": [
+        {
+            "file_name": "_selective_raiderscave_EP06_056_Marie_용_Csharp4_std62.1_-13.6dB_1020ms_1200ms_M30ms.ogg",
+            "start_ms": 93399,
+            "duration_ms": 181
+        }
+    ],
+    "우": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_054_Marie_우_F4_std11.1_-15.0dB_3300ms_3408ms_M30ms.ogg",
+            "start_ms": 93580,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_069_Marie_우_E4_std33.0_-18.1dB_559ms_667ms_M30ms.ogg",
+            "start_ms": 93689,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_010_Marie_우_E4_std13.2_-15.7dB_3300ms_3408ms_M30ms.ogg",
+            "start_ms": 93798,
+            "duration_ms": 105
+        }
+    ],
+    "운": [
+        {
+            "file_name": "_selective_raiderscave_EP06_024_Marie_운_B4_std17.4_-16.4dB_2100ms_2260ms_M30ms.ogg",
+            "start_ms": 93903,
+            "duration_ms": 157
+        }
+    ],
+    "울": [
+        {
+            "file_name": "_selective_raiderscave_EP03_049_Marie_울_Dsharp4_std14.7_-15.7dB_3180ms_3330ms_M30ms.ogg",
+            "start_ms": 94060,
+            "duration_ms": 152
+        }
+    ],
+    "움": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_060_Marie_움_B3_std7.4_-20.0dB_2100ms_2230ms_M30ms.ogg",
+            "start_ms": 94212,
+            "duration_ms": 127
+        }
+    ],
+    "원": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_원_Dsharp3_std13.5_-19.1dB_4979ms_5159ms_M30ms.ogg",
+            "start_ms": 94339,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_051_Marie_원_Gsharp3_std8.8_-17.2dB_270ms_459ms_M30ms.ogg",
+            "start_ms": 94520,
+            "duration_ms": 186
+        },
+        {
+            "file_name": "Voice_Marie_Gacha2_원_Csharp4_std21.9_-13.7dB_1740ms_1920ms_M30ms.ogg",
+            "start_ms": 94706,
+            "duration_ms": 181
+        }
+    ],
+    "위": [
+        {
+            "file_name": "_selective_Main_Ch09_EP07_093_Marie_위_Asharp4_std25.9_-21.6dB_4690ms_4771ms_M30ms.ogg",
+            "start_ms": 94887,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_017_Marie_위_C4_std4.7_-19.0dB_4820ms_4910ms_M30ms.ogg",
+            "start_ms": 94970,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_011_Marie_위_Asharp3_std4.2_-14.8dB_160ms_232ms_M30ms.ogg",
+            "start_ms": 95061,
+            "duration_ms": 69
+        }
+    ],
+    "유": [
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_유_C4_std29.9_-22.1dB_1160ms_1268ms_M30ms.ogg",
+            "start_ms": 95130,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_036_Marie_유_E4_std15.7_-15.5dB_3220ms_3328ms_M30ms.ogg",
+            "start_ms": 95239,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_044_Marie_유_Asharp3_std1.2_-13.6dB_319ms_427ms_M30ms.ogg",
+            "start_ms": 95348,
+            "duration_ms": 109
+        }
+    ],
+    "으": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_034_Marie_으_Dsharp4_std1.2_-18.9dB_3330ms_3411ms_M30ms.ogg",
+            "start_ms": 95457,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP02_002_HiddenMarie_으_Dsharp4_std9.0_-28.3dB_2950ms_3031ms_M30ms.ogg",
+            "start_ms": 95540,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_008_HiddenMarie_으_Asharp3_std4.4_-23.7dB_2110ms_2191ms_M30ms.ogg",
+            "start_ms": 95623,
+            "duration_ms": 100
+        }
+    ],
+    "은": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_031_Marie_은_E4_std8.6_-21.5dB_2309ms_2440ms_M30ms.ogg",
+            "start_ms": 95723,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_067_Marie_은_Dsharp4_std20.9_-22.3dB_3730ms_3860ms_M30ms.ogg",
+            "start_ms": 95851,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "Voice_Marie_Touch1_2_은_A3_std12.0_-13.3dB_2180ms_2300ms_M30ms.ogg",
+            "start_ms": 95978,
+            "duration_ms": 117
+        }
+    ],
+    "을": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_054_Marie_을_Csharp4_std25.2_-15.4dB_2130ms_2260ms_M30ms.ogg",
+            "start_ms": 96095,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_096_Marie_을_Csharp4_std19.3_-20.2dB_5310ms_5440ms_M30ms.ogg",
+            "start_ms": 96222,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "Voice_Marie_Touch1_1_을_E4_std22.6_-17.4dB_1910ms_2040ms_M30ms.ogg",
+            "start_ms": 96349,
+            "duration_ms": 127
+        }
+    ],
+    "음": [
+        {
+            "file_name": "_selective_Main_Ch09_EP02_001_Marie_음_G4_std11.6_-15.8dB_1340ms_1490ms_M30ms.ogg",
+            "start_ms": 96476,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_004_Marie_음_D5_std12.7_-14.2dB_2600ms_2750ms_M30ms.ogg",
+            "start_ms": 96628,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_039_Marie_음_Asharp4_std11.9_-14.5dB_2640ms_2790ms_M30ms.ogg",
+            "start_ms": 96780,
+            "duration_ms": 152
+        }
+    ],
+    "의": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_082_Marie_의_Csharp5_std43.2_-17.5dB_1230ms_1329ms_M30ms.ogg",
+            "start_ms": 96932,
+            "duration_ms": 96
+        },
+        {
+            "file_name": "Voice_Marie_Affinity1_1_의_D5_std9.2_-16.4dB_1440ms_1548ms_M30ms.ogg",
+            "start_ms": 97028,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Marie_Affinity3_의_Csharp5_std20.0_-10.5dB_530ms_647ms_M30ms.ogg",
+            "start_ms": 97133,
+            "duration_ms": 117
+        }
+    ],
+    "이": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_이_G3_std10.5_-19.5dB_1060ms_1168ms_M30ms.ogg",
+            "start_ms": 97250,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_071_Marie_이_F4_std5.1_-21.5dB_680ms_788ms_M30ms.ogg",
+            "start_ms": 97359,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Letter_Marie_이_Csharp4_std12.8_-19.1dB_14400ms_14508ms_M30ms.ogg",
+            "start_ms": 97468,
+            "duration_ms": 105
+        }
+    ],
+    "인": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_048_Marie_인_A3_std4.3_-20.6dB_820ms_970ms_M30ms.ogg",
+            "start_ms": 97573,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_049_Marie_인_Csharp4_std7.3_-19.6dB_4280ms_4430ms_M30ms.ogg",
+            "start_ms": 97725,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Marie_Touch2_1_인_G4_std13.9_-16.0dB_1750ms_1900ms_M30ms.ogg",
+            "start_ms": 97877,
+            "duration_ms": 147
+        }
+    ],
+    "일": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_032_Marie_일_Csharp4_std21.9_-24.0dB_2520ms_2660ms_M30ms.ogg",
+            "start_ms": 98024,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_HiddenMarie_일_D4_std11.9_-22.2dB_1060ms_1210ms_M30ms.ogg",
+            "start_ms": 98161,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_107_Marie_일_E4_std8.2_-19.3dB_2980ms_3120ms_M30ms.ogg",
+            "start_ms": 98313,
+            "duration_ms": 137
+        }
+    ],
+    "읽": [
+        {
+            "file_name": "Voice_Letter_Marie_읽_E4_std17.7_-16.0dB_15380ms_15590ms_M30ms.ogg",
+            "start_ms": 98450,
+            "duration_ms": 211
+        }
+    ],
+    "잃": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_043_Marie_잃_Gsharp3_std6.3_-16.5dB_4880ms_5010ms_M30ms.ogg",
+            "start_ms": 98661,
+            "duration_ms": 131
+        }
+    ],
+    "입": [
+        {
+            "file_name": "_selective_Connection_EP05_007_Marie_입_B3_std4.5_-13.4dB_2190ms_2280ms_M30ms.ogg",
+            "start_ms": 98792,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_024_Marie_입_C4_std10.2_-24.5dB_3070ms_3180ms_M30ms.ogg",
+            "start_ms": 98883,
+            "duration_ms": 107
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_037_Marie_입_B4_std5.9_-19.6dB_3230ms_3320ms_M30ms.ogg",
+            "start_ms": 98990,
+            "duration_ms": 91
+        }
+    ],
+    "있": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_041_Marie_있_B4_std10.7_-13.2dB_540ms_710ms_M30ms.ogg",
+            "start_ms": 99081,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_044_Marie_있_A4_std20.9_-15.9dB_1300ms_1470ms_M30ms.ogg",
+            "start_ms": 99252,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_040_Marie_있_C4_std10.7_-21.4dB_1700ms_1870ms_M30ms.ogg",
+            "start_ms": 99423,
+            "duration_ms": 171
+        }
+    ],
+    "자": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_080_Marie_자_Csharp5_std75.7_-9.2dB_780ms_906ms_M30ms.ogg",
+            "start_ms": 99594,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_pray_EP11_025_Marie_자_Gsharp4_std24.7_-10.9dB_980ms_1106ms_M30ms.ogg",
+            "start_ms": 99722,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP03_069_Marie_자_F4_std15.5_-19.2dB_400ms_526ms_M30ms.ogg",
+            "start_ms": 99850,
+            "duration_ms": 145
+        }
+    ],
+    "작": [
+        {
+            "file_name": "_selective_raiderscave_EP02_039_Marie_작_Csharp4_std13.7_-18.3dB_4210ms_4350ms_M30ms.ogg",
+            "start_ms": 99995,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_047_Marie_작_F4_std26.3_-13.7dB_240ms_360ms_M30ms.ogg",
+            "start_ms": 100136,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Marie_DeckSetting1_작_E4_std10.0_-15.1dB_640ms_799ms_M30ms.ogg",
+            "start_ms": 100253,
+            "duration_ms": 156
+        }
+    ],
+    "잖": [
+        {
+            "file_name": "_selective_Main_Ch01_EP07_055_Marie_잖_Fsharp4_std23.8_-15.1dB_4760ms_4939ms_M30ms.ogg",
+            "start_ms": 100409,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_076_Marie_잖_C4_std13.6_-17.4dB_3270ms_3450ms_M30ms.ogg",
+            "start_ms": 100590,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_046_Marie_잖_Asharp4_std7.0_-15.1dB_5100ms_5270ms_M30ms.ogg",
+            "start_ms": 100771,
+            "duration_ms": 171
+        }
+    ],
+    "잘": [
+        {
+            "file_name": "_selective_raiderscave_EP03_007_Marie_잘_Csharp4_std17.6_-18.9dB_3140ms_3280ms_M30ms.ogg",
+            "start_ms": 100942,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_081_Marie_잘_Dsharp4_std8.8_-16.2dB_4800ms_4940ms_M30ms.ogg",
+            "start_ms": 101083,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_076_Marie_잘_G4_std2.0_-13.7dB_1800ms_1920ms_M30ms.ogg",
+            "start_ms": 101224,
+            "duration_ms": 117
+        }
+    ],
+    "잠": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_057_Marie_잠_Unvoiced_std0.0_-21.8dB_1700ms_1820ms_M30ms.ogg",
+            "start_ms": 101341,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_잠_Csharp4_std2.1_-17.3dB_2940ms_3080ms_M30ms.ogg",
+            "start_ms": 101458,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_053_Marie_잠_Csharp4_std3.9_-18.0dB_2320ms_2500ms_M30ms.ogg",
+            "start_ms": 101599,
+            "duration_ms": 177
+        }
+    ],
+    "장": [
+        {
+            "file_name": "_selective_Main_Ch02_EP01_003_Marie_장_Csharp4_std5.1_-15.9dB_3239ms_3380ms_M30ms.ogg",
+            "start_ms": 101776,
+            "duration_ms": 161
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_003_Marie_장_Dsharp4_std9.8_-15.2dB_1979ms_2120ms_M30ms.ogg",
+            "start_ms": 101937,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Marie_Growth1_장_Fsharp4_std11.2_-15.1dB_339ms_480ms_M30ms.ogg",
+            "start_ms": 102078,
+            "duration_ms": 141
+        }
+    ],
+    "재": [
+        {
+            "file_name": "_selective_Main_Ch02_EP06_062_Marie_재_F3_std11.8_-22.1dB_60ms_204ms_M30ms.ogg",
+            "start_ms": 102219,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_004_Marie_재_F4_std11.3_-22.8dB_1480ms_1660ms_M30ms.ogg",
+            "start_ms": 102360,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Marie_Ultimate1_3-01_재_Gsharp4_std5.1_-14.0dB_319ms_463ms_M30ms.ogg",
+            "start_ms": 102537,
+            "duration_ms": 141
+        }
+    ],
+    "저": [
+        {
+            "file_name": "_selective_Main_Ch02_EP01_003_Marie_저_Fsharp3_std2.4_-26.4dB_2600ms_2726ms_M30ms.ogg",
+            "start_ms": 102678,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_004_Marie_저_Unvoiced_std0.0_-27.8dB_80ms_206ms_M30ms.ogg",
+            "start_ms": 102806,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP01_040_Marie_저_Gsharp4_std21.3_-14.6dB_40ms_166ms_M30ms.ogg",
+            "start_ms": 102934,
+            "duration_ms": 128
+        }
+    ],
+    "적": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_057_Marie_적_Gsharp4_std15.1_-15.2dB_2800ms_2940ms_M30ms.ogg",
+            "start_ms": 103062,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_037_Marie_적_Unvoiced_std0.0_-16.9dB_2380ms_2520ms_M30ms.ogg",
+            "start_ms": 103199,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_098_Marie_적_E4_std7.3_-17.6dB_3999ms_4140ms_M30ms.ogg",
+            "start_ms": 103340,
+            "duration_ms": 161
+        }
+    ],
+    "전": [
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_Marie_전_B3_std6.7_-21.5dB_1600ms_1750ms_M30ms.ogg",
+            "start_ms": 103501,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_049_Marie_전_Csharp5_std22.8_-15.2dB_2060ms_2210ms_M30ms.ogg",
+            "start_ms": 103653,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP06_013_Marie_전_F4_std19.5_-19.9dB_280ms_430ms_M30ms.ogg",
+            "start_ms": 103805,
+            "duration_ms": 152
+        }
+    ],
+    "절": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_049_Marie_절_D4_std18.2_-14.9dB_640ms_740ms_M30ms.ogg",
+            "start_ms": 103957,
+            "duration_ms": 101
+        }
+    ],
+    "젊": [
+        {
+            "file_name": "_selective_raiderscave_EP08_037_Marie_젊_A4_std52.2_-15.6dB_380ms_610ms_M30ms.ogg",
+            "start_ms": 104058,
+            "duration_ms": 232
+        }
+    ],
+    "점": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_038_Marie_점_F4_std5.1_-15.3dB_2120ms_2260ms_M30ms.ogg",
+            "start_ms": 104290,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_045_Marie_점_G4_std8.7_-14.9dB_640ms_830ms_M30ms.ogg",
+            "start_ms": 104431,
+            "duration_ms": 192
+        }
+    ],
+    "접": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_032_Marie_접_F4_std21.5_-14.8dB_3520ms_3600ms_M30ms.ogg",
+            "start_ms": 104623,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_046_Marie_접_D4_std1.2_-15.8dB_3360ms_3480ms_M30ms.ogg",
+            "start_ms": 104700,
+            "duration_ms": 117
+        }
+    ],
+    "정": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_082_Marie_정_Csharp4_std5.0_-18.1dB_2040ms_2200ms_M30ms.ogg",
+            "start_ms": 104817,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_067_Marie_정_Dsharp4_std7.5_-21.3dB_3280ms_3440ms_M30ms.ogg",
+            "start_ms": 104997,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Marie_Affinity1_1_정_Dsharp4_std22.2_-18.1dB_820ms_980ms_M30ms.ogg",
+            "start_ms": 105154,
+            "duration_ms": 157
+        }
+    ],
+    "제": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_060_Marie_제_A3_std5.8_-24.9dB_3560ms_3686ms_M30ms.ogg",
+            "start_ms": 105311,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP07_090_Marie_제_Unvoiced_std0.0_-26.3dB_100ms_225ms_M30ms.ogg",
+            "start_ms": 105439,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_002_Marie_제_G3_std12.6_-17.9dB_640ms_766ms_M30ms.ogg",
+            "start_ms": 105564,
+            "duration_ms": 128
+        }
+    ],
+    "져": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_064_Marie_져_Asharp4_std17.3_-12.0dB_3980ms_4088ms_M30ms.ogg",
+            "start_ms": 105692,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_049_Marie_져_B4_std14.2_-19.3dB_5040ms_5121ms_M30ms.ogg",
+            "start_ms": 105801,
+            "duration_ms": 83
+        }
+    ],
+    "졌": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_038_Marie_졌_A4_std24.9_-17.2dB_1720ms_1910ms_M30ms.ogg",
+            "start_ms": 105884,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Letter_Marie_졌_G4_std11.0_-16.2dB_10280ms_10470ms_M30ms.ogg",
+            "start_ms": 106076,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "Voice_Marie_Die2_졌_E4_std41.2_-16.6dB_820ms_1040ms_M30ms.ogg",
+            "start_ms": 106268,
+            "duration_ms": 217
+        }
+    ],
+    "조": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_조_B3_std8.7_-18.2dB_1640ms_1748ms_M30ms.ogg",
+            "start_ms": 106485,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_048_Marie_조_D4_std9.2_-20.8dB_1560ms_1668ms_M30ms.ogg",
+            "start_ms": 106594,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_049_Marie_조_Fsharp4_std36.0_-18.3dB_6580ms_6688ms_M30ms.ogg",
+            "start_ms": 106703,
+            "duration_ms": 109
+        }
+    ],
+    "족": [
+        {
+            "file_name": "Voice_Marie_SPSkill1_5-01_족_Fsharp4_std38.2_-19.0dB_580ms_740ms_M30ms.ogg",
+            "start_ms": 106812,
+            "duration_ms": 157
+        }
+    ],
+    "좀": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_077_Marie_좀_Unvoiced_std0.0_-28.8dB_1920ms_2060ms_M30ms.ogg",
+            "start_ms": 106969,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP05_021_Marie_좀_Fsharp4_std10.1_-14.0dB_1780ms_1900ms_M30ms.ogg",
+            "start_ms": 107106,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_좀_G3_std17.2_-17.8dB_6520ms_6640ms_M30ms.ogg",
+            "start_ms": 107223,
+            "duration_ms": 117
+        }
+    ],
+    "좋": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_033_HiddenMarie_좋_Gsharp3_std9.3_-25.9dB_1500ms_1650ms_M30ms.ogg",
+            "start_ms": 107340,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_003_Marie_좋_F3_std10.5_-21.0dB_1099ms_1260ms_M30ms.ogg",
+            "start_ms": 107492,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Marie_Affinity7_좋_F4_std7.1_-17.3dB_1880ms_2040ms_M30ms.ogg",
+            "start_ms": 107655,
+            "duration_ms": 157
+        }
+    ],
+    "죄": [
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_죄_Unvoiced_std0.0_-25.4dB_1180ms_1324ms_M30ms.ogg",
+            "start_ms": 107812,
+            "duration_ms": 141
+        }
+    ],
+    "주": [
+        {
+            "file_name": "_selective_Connection_EP05_006_Marie_주_Csharp4_std15.2_-20.0dB_2700ms_2808ms_M30ms.ogg",
+            "start_ms": 107953,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_057_Marie_주_C5_std10.9_-13.1dB_840ms_948ms_M30ms.ogg",
+            "start_ms": 108062,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_036_Marie_주_G4_std4.8_-16.5dB_2020ms_2128ms_M30ms.ogg",
+            "start_ms": 108171,
+            "duration_ms": 109
+        }
+    ],
+    "죽": [
+        {
+            "file_name": "_selective_raiderscave_EP05_016_Marie_죽_Unvoiced_std0.0_-26.7dB_640ms_850ms_M30ms.ogg",
+            "start_ms": 108280,
+            "duration_ms": 211
+        }
+    ],
+    "줄": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_038_Marie_줄_E4_std10.7_-18.9dB_4860ms_4940ms_M30ms.ogg",
+            "start_ms": 108491,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP01_038_HiddenMarie_줄_Gsharp4_std11.3_-16.7dB_679ms_760ms_M30ms.ogg",
+            "start_ms": 108568,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_037_Marie_줄_B3_std4.5_-18.5dB_390ms_490ms_M30ms.ogg",
+            "start_ms": 108651,
+            "duration_ms": 101
+        }
+    ],
+    "중": [
+        {
+            "file_name": "_selective_Main_Ch01_EP06_067_Marie_중_C4_std30.8_-21.2dB_1000ms_1140ms_M30ms.ogg",
+            "start_ms": 108752,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_003_Marie_중_Asharp3_std10.7_-19.4dB_3320ms_3460ms_M30ms.ogg",
+            "start_ms": 108889,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_098_Marie_중_C5_std7.5_-17.1dB_799ms_940ms_M30ms.ogg",
+            "start_ms": 109030,
+            "duration_ms": 141
+        }
+    ],
+    "줬": [
+        {
+            "file_name": "_selective_Main_Ch04_EP01_071_Marie_줬_B4_std21.5_-17.5dB_2510ms_2670ms_M30ms.ogg",
+            "start_ms": 109171,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP01_071_Marie_줬_D5_std31.6_-18.9dB_6120ms_6319ms_M30ms.ogg",
+            "start_ms": 109328,
+            "duration_ms": 196
+        }
+    ],
+    "즈": [
+        {
+            "file_name": "Voice_Letter_Marie_즈_Asharp3_std3.7_-22.5dB_13980ms_14124ms_M30ms.ogg",
+            "start_ms": 109524,
+            "duration_ms": 141
+        }
+    ],
+    "증": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_093_Marie_증_Gsharp4_std1.1_-20.5dB_3220ms_3300ms_M30ms.ogg",
+            "start_ms": 109665,
+            "duration_ms": 77
+        }
+    ],
+    "지": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_지_A3_std4.7_-24.2dB_679ms_787ms_M30ms.ogg",
+            "start_ms": 109742,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Letter_Marie_지_Gsharp4_std15.0_-14.8dB_3120ms_3228ms_M30ms.ogg",
+            "start_ms": 109847,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Marie_Touch1_1_지_F4_std10.3_-17.4dB_2040ms_2148ms_M30ms.ogg",
+            "start_ms": 109956,
+            "duration_ms": 109
+        }
+    ],
+    "직": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_084_Marie_직_Asharp4_std14.0_-13.0dB_5220ms_5390ms_M30ms.ogg",
+            "start_ms": 110065,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_046_Marie_직_Dsharp4_std1.9_-20.3dB_3180ms_3360ms_M30ms.ogg",
+            "start_ms": 110236,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_051_Marie_직_Unvoiced_std0.0_-20.0dB_90ms_270ms_M30ms.ogg",
+            "start_ms": 110413,
+            "duration_ms": 181
+        }
+    ],
+    "진": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_094_Marie_진_B3_std8.3_-17.9dB_3580ms_3760ms_M30ms.ogg",
+            "start_ms": 110594,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_077_Marie_진_Fsharp3_std4.0_-19.7dB_799ms_1000ms_M30ms.ogg",
+            "start_ms": 110771,
+            "duration_ms": 203
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_084_Marie_진_E4_std4.9_-19.2dB_2160ms_2380ms_M30ms.ogg",
+            "start_ms": 110974,
+            "duration_ms": 217
+        }
+    ],
+    "질": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_098_Marie_질_B3_std12.0_-13.9dB_540ms_700ms_M30ms.ogg",
+            "start_ms": 111191,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_082_Marie_질_A4_std4.1_-16.6dB_1160ms_1260ms_M30ms.ogg",
+            "start_ms": 111348,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Marie_Spawn2_질_Asharp4_std35.0_-13.6dB_280ms_460ms_M30ms.ogg",
+            "start_ms": 111449,
+            "duration_ms": 177
+        }
+    ],
+    "집": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_038_Marie_집_Unvoiced_std0.0_-22.1dB_520ms_710ms_M30ms.ogg",
+            "start_ms": 111626,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_004_Marie_집_Asharp3_std9.4_-22.9dB_1840ms_2030ms_M30ms.ogg",
+            "start_ms": 111818,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_049_Marie_집_Gsharp4_std22.0_-22.4dB_3960ms_4140ms_M30ms.ogg",
+            "start_ms": 112010,
+            "duration_ms": 177
+        }
+    ],
+    "짜": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_084_Marie_짜_Fsharp4_std5.6_-15.2dB_2380ms_2488ms_M30ms.ogg",
+            "start_ms": 112187,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_032_Marie_짜_D4_std1.6_-13.9dB_1560ms_1650ms_M30ms.ogg",
+            "start_ms": 112296,
+            "duration_ms": 91
+        }
+    ],
+    "짱": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_050_Marie_짱_Gsharp4_std23.4_-14.0dB_3160ms_3300ms_M30ms.ogg",
+            "start_ms": 112387,
+            "duration_ms": 137
+        }
+    ],
+    "쩌": [
+        {
+            "file_name": "_selective_raiderscave_EP02_046_Marie_쩌_Gsharp3_std8.8_-15.8dB_290ms_424ms_M30ms.ogg",
+            "start_ms": 112524,
+            "duration_ms": 153
+        }
+    ],
+    "쪽": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_050_Marie_쪽_Gsharp4_std42.0_-15.6dB_4920ms_5060ms_M30ms.ogg",
+            "start_ms": 112677,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_쪽_D4_std5.3_-24.3dB_1400ms_1530ms_M30ms.ogg",
+            "start_ms": 112814,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_067_Marie_쪽_A4_std41.8_-18.5dB_229ms_340ms_M30ms.ogg",
+            "start_ms": 112945,
+            "duration_ms": 108
+        }
+    ],
+    "착": [
+        {
+            "file_name": "_selective_raiderscave_EP06_045_Marie_착_Unvoiced_std0.0_-20.9dB_1800ms_1940ms_M30ms.ogg",
+            "start_ms": 113053,
+            "duration_ms": 137
+        }
+    ],
+    "찬": [
+        {
+            "file_name": "_selective_raiderscave_EP03_061_Marie_찬_A4_std60.0_-16.1dB_2440ms_2600ms_M30ms.ogg",
+            "start_ms": 113190,
+            "duration_ms": 157
+        }
+    ],
+    "찮": [
+        {
+            "file_name": "_selective_Main_Ch01_EP07_054_HiddenMarie_찮_Asharp3_std27.4_-16.2dB_1720ms_1910ms_M30ms.ogg",
+            "start_ms": 113347,
+            "duration_ms": 192
+        }
+    ],
+    "찰": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_022_Marie_찰_Gsharp4_std11.3_-19.4dB_2800ms_2950ms_M30ms.ogg",
+            "start_ms": 113539,
+            "duration_ms": 152
+        }
+    ],
+    "참": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_072_Marie_참_Fsharp4_std43.0_-14.1dB_2360ms_2530ms_M30ms.ogg",
+            "start_ms": 113691,
+            "duration_ms": 171
+        }
+    ],
+    "창": [
+        {
+            "file_name": "_selective_Ontime_EP04_004_Marie_창_A4_std61.7_-14.6dB_2000ms_2140ms_M30ms.ogg",
+            "start_ms": 113862,
+            "duration_ms": 141
+        }
+    ],
+    "찾": [
+        {
+            "file_name": "_selective_raiderscave_EP07_053_Marie_찾_Unvoiced_std0.0_-17.0dB_540ms_730ms_M30ms.ogg",
+            "start_ms": 114003,
+            "duration_ms": 192
+        }
+    ],
+    "채": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_082_Marie_채_G4_std6.2_-10.4dB_2780ms_2888ms_M30ms.ogg",
+            "start_ms": 114195,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP02_023_Marie_채_F4_std5.9_-18.2dB_1880ms_2060ms_M30ms.ogg",
+            "start_ms": 114304,
+            "duration_ms": 181
+        }
+    ],
+    "처": [
+        {
+            "file_name": "_selective_Main_Ch02_EP06_052_Marie_처_Gsharp4_std3.1_-18.3dB_919ms_1010ms_M30ms.ogg",
+            "start_ms": 114485,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_처_C4_std7.5_-18.6dB_799ms_889ms_M30ms.ogg",
+            "start_ms": 114578,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Marie_Line3_처_Asharp3_std3.1_-17.3dB_1000ms_1126ms_M30ms.ogg",
+            "start_ms": 114669,
+            "duration_ms": 123
+        }
+    ],
+    "청": [
+        {
+            "file_name": "_selective_Main_Ch02_EP07_060_Marie_청_D4_std6.5_-21.4dB_2389ms_2500ms_M30ms.ogg",
+            "start_ms": 114792,
+            "duration_ms": 108
+        }
+    ],
+    "체": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_032_Marie_체_G4_std9.9_-18.0dB_2360ms_2450ms_M30ms.ogg",
+            "start_ms": 114900,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_037_Marie_체_Csharp4_std7.1_-17.2dB_459ms_549ms_M30ms.ogg",
+            "start_ms": 114991,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch09_EP05_007_Marie_체_C5_std4.8_-13.3dB_5260ms_5350ms_M30ms.ogg",
+            "start_ms": 115082,
+            "duration_ms": 91
+        }
+    ],
+    "쳤": [
+        {
+            "file_name": "_selective_Main_Ch09_EP02_002_HiddenMarie_쳤_D4_std20.2_-25.5dB_2720ms_2950ms_M30ms.ogg",
+            "start_ms": 115173,
+            "duration_ms": 232
+        }
+    ],
+    "초": [
+        {
+            "file_name": "_selective_raiderscave_EP03_069_Marie_초_G4_std5.7_-16.2dB_40ms_166ms_M30ms.ogg",
+            "start_ms": 115405,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Marie_Birthday_초_Fsharp4_std5.3_-24.1dB_2560ms_2668ms_M30ms.ogg",
+            "start_ms": 115533,
+            "duration_ms": 109
+        }
+    ],
+    "최": [
+        {
+            "file_name": "_selective_raiderscave_EP02_039_Marie_최_Asharp4_std8.7_-15.6dB_2000ms_2108ms_M30ms.ogg",
+            "start_ms": 115642,
+            "duration_ms": 109
+        }
+    ],
+    "축": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_060_Marie_축_Asharp4_std14.8_-27.4dB_1900ms_2080ms_M30ms.ogg",
+            "start_ms": 115751,
+            "duration_ms": 177
+        }
+    ],
+    "출": [
+        {
+            "file_name": "_selective_Main_Ch04_EP04_049_Marie_출_B4_std5.4_-17.2dB_3640ms_3720ms_M30ms.ogg",
+            "start_ms": 115928,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_017_Marie_출_Unvoiced_std0.0_-17.2dB_4520ms_4620ms_M30ms.ogg",
+            "start_ms": 116005,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_062_Marie_출_E4_std1.6_-20.0dB_2000ms_2100ms_M30ms.ogg",
+            "start_ms": 116106,
+            "duration_ms": 101
+        }
+    ],
+    "춰": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_049_Marie_춰_G4_std6.0_-19.7dB_6350ms_6449ms_M30ms.ogg",
+            "start_ms": 116207,
+            "duration_ms": 101
+        }
+    ],
+    "치": [
+        {
+            "file_name": "_selective_Ontime_EP04_015_Marie_치_Unvoiced_std0.0_-21.5dB_1240ms_1330ms_M30ms.ogg",
+            "start_ms": 116308,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_081_Marie_치_Gsharp4_std6.0_-17.8dB_3300ms_3390ms_M30ms.ogg",
+            "start_ms": 116399,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Marie_Board_치_Unvoiced_std0.0_-12.9dB_1260ms_1341ms_M30ms.ogg",
+            "start_ms": 116490,
+            "duration_ms": 83
+        }
+    ],
+    "친": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_049_Marie_친_D4_std8.3_-24.0dB_460ms_640ms_M30ms.ogg",
+            "start_ms": 116573,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_083_HiddenMarie_친_Fsharp4_std23.0_-18.1dB_2260ms_2440ms_M30ms.ogg",
+            "start_ms": 116750,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_002_Marie_친_Gsharp3_std14.3_-17.2dB_1460ms_1640ms_M30ms.ogg",
+            "start_ms": 116927,
+            "duration_ms": 177
+        }
+    ],
+    "칠": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_064_Marie_칠_Asharp4_std7.7_-15.4dB_2180ms_2340ms_M30ms.ogg",
+            "start_ms": 117104,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_077_Marie_칠_A3_std6.0_-18.3dB_960ms_1099ms_M30ms.ogg",
+            "start_ms": 117261,
+            "duration_ms": 136
+        }
+    ],
+    "침": [
+        {
+            "file_name": "Voice_Marie_Affinity1_2_침_E3_std22.8_-21.7dB_860ms_1080ms_M30ms.ogg",
+            "start_ms": 117397,
+            "duration_ms": 221
+        }
+    ],
+    "카": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_051_Marie_카_A4_std4.8_-17.7dB_2260ms_2350ms_M30ms.ogg",
+            "start_ms": 117618,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_041_Marie_카_F4_std3.5_-9.9dB_2239ms_2402ms_M30ms.ogg",
+            "start_ms": 117709,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_031_Marie_카_Unvoiced_std0.0_-15.4dB_1140ms_1284ms_M30ms.ogg",
+            "start_ms": 117874,
+            "duration_ms": 141
+        }
+    ],
+    "커": [
+        {
+            "file_name": "_selective_Main_Ch01_EP07_055_Marie_커_Csharp4_std1.2_-27.7dB_4420ms_4545ms_M30ms.ogg",
+            "start_ms": 118015,
+            "duration_ms": 125
+        }
+    ],
+    "케": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_047_Marie_케_B3_std0.6_-18.3dB_4319ms_4419ms_M30ms.ogg",
+            "start_ms": 118140,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_097_Marie_케_F5_std86.3_-14.2dB_2280ms_2442ms_M30ms.ogg",
+            "start_ms": 118241,
+            "duration_ms": 163
+        }
+    ],
+    "켜": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_026_Marie_켜_G4_std19.4_-14.1dB_1890ms_1989ms_M30ms.ogg",
+            "start_ms": 118404,
+            "duration_ms": 101
+        }
+    ],
+    "켰": [
+        {
+            "file_name": "_selective_raiderscave_EP08_063_Marie_켰_B3_std21.4_-21.8dB_3880ms_4040ms_M30ms.ogg",
+            "start_ms": 118505,
+            "duration_ms": 157
+        }
+    ],
+    "크": [
+        {
+            "file_name": "_selective_raiderscave_EP05_006_Marie_크_Unvoiced_std0.0_-21.0dB_3640ms_3730ms_M30ms.ogg",
+            "start_ms": 118662,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_036_Marie_크_B4_std10.8_-19.0dB_4360ms_4522ms_M30ms.ogg",
+            "start_ms": 118753,
+            "duration_ms": 163
+        }
+    ],
+    "큰": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_014_Marie_큰_F4_std5.1_-20.8dB_2239ms_2340ms_M30ms.ogg",
+            "start_ms": 118916,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_097_Marie_큰_G4_std35.6_-15.9dB_1900ms_2080ms_M30ms.ogg",
+            "start_ms": 119017,
+            "duration_ms": 181
+        }
+    ],
+    "큼": [
+        {
+            "file_name": "_selective_raiderscave_EP02_087_Marie_큼_Asharp4_std24.2_-16.4dB_2320ms_2400ms_M30ms.ogg",
+            "start_ms": 119198,
+            "duration_ms": 77
+        },
+        {
+            "file_name": "_selective_raiderscave_EP08_046_Marie_큼_B4_std11.4_-18.2dB_2360ms_2540ms_M30ms.ogg",
+            "start_ms": 119275,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Marie_Touch2_2_큼_D4_std34.5_-18.2dB_3140ms_3300ms_M30ms.ogg",
+            "start_ms": 119452,
+            "duration_ms": 157
+        }
+    ],
+    "키": [
+        {
+            "file_name": "_selective_Main_Ch02_EP06_094_Marie_키_A4_std9.6_-15.4dB_1180ms_1270ms_M30ms.ogg",
+            "start_ms": 119609,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_pray_EP11_025_Marie_키_A4_std13.1_-11.7dB_420ms_528ms_M30ms.ogg",
+            "start_ms": 119700,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_076_Marie_키_Unvoiced_std0.0_-15.7dB_1160ms_1250ms_M30ms.ogg",
+            "start_ms": 119809,
+            "duration_ms": 91
+        }
+    ],
+    "킨": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_028_HiddenMarie_킨_Fsharp4_std21.1_-14.6dB_1610ms_1760ms_M30ms.ogg",
+            "start_ms": 119900,
+            "duration_ms": 152
+        }
+    ],
+    "킬": [
+        {
+            "file_name": "_selective_Main_Ch04_EP05_017_Marie_킬_B4_std15.4_-14.5dB_1359ms_1480ms_M30ms.ogg",
+            "start_ms": 120052,
+            "duration_ms": 123
+        }
+    ],
+    "타": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_081_Marie_타_Dsharp5_std6.3_-16.8dB_1599ms_1708ms_M30ms.ogg",
+            "start_ms": 120175,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP04_086_Marie_타_C5_std33.8_-12.3dB_5020ms_5145ms_M30ms.ogg",
+            "start_ms": 120284,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_053_Marie_타_F4_std8.8_-21.7dB_5720ms_5827ms_M30ms.ogg",
+            "start_ms": 120409,
+            "duration_ms": 109
+        }
+    ],
+    "탄": [
+        {
+            "file_name": "Voice_Letter_Marie_탄_Fsharp4_std7.9_-17.0dB_2480ms_2630ms_M30ms.ogg",
+            "start_ms": 120518,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Marie_SPSkill3_1-01_탄_D5_std35.8_-11.5dB_160ms_320ms_M30ms.ogg",
+            "start_ms": 120670,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Marie_SPSkill3_1_탄_Gsharp4_std55.7_-13.8dB_270ms_420ms_M30ms.ogg",
+            "start_ms": 120827,
+            "duration_ms": 147
+        }
+    ],
+    "탈": [
+        {
+            "file_name": "_selective_raiderscave_EP08_062_Marie_탈_Dsharp4_std29.2_-21.0dB_1780ms_2000ms_M30ms.ogg",
+            "start_ms": 120974,
+            "duration_ms": 221
+        }
+    ],
+    "탕": [
+        {
+            "file_name": "_selective_Main_Ch04_EP01_072_HiddenMarie_탕_A3_std27.4_-20.7dB_540ms_710ms_M30ms.ogg",
+            "start_ms": 121195,
+            "duration_ms": 171
+        }
+    ],
+    "태": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_046_Marie_태_A3_std5.9_-26.5dB_1380ms_1452ms_M30ms.ogg",
+            "start_ms": 121366,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_태_C4_std8.6_-20.4dB_2120ms_2210ms_M30ms.ogg",
+            "start_ms": 121435,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sunnyside_EP06_004_Marie_태_Unvoiced_std0.0_-20.1dB_260ms_439ms_M30ms.ogg",
+            "start_ms": 121526,
+            "duration_ms": 176
+        }
+    ],
+    "터": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_038_Marie_터_Fsharp4_std17.2_-17.4dB_1580ms_1706ms_M30ms.ogg",
+            "start_ms": 121702,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_012_Marie_터_Dsharp4_std5.9_-14.7dB_3860ms_3977ms_M30ms.ogg",
+            "start_ms": 121830,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_090_Marie_터_F5_std13.0_-13.6dB_2040ms_2166ms_M30ms.ogg",
+            "start_ms": 121947,
+            "duration_ms": 128
+        }
+    ],
+    "턴": [
+        {
+            "file_name": "_selective_Connection_EP05_003_Marie_턴_F4_std24.2_-13.8dB_2360ms_2520ms_M30ms.ogg",
+            "start_ms": 122075,
+            "duration_ms": 157
+        }
+    ],
+    "테": [
+        {
+            "file_name": "_selective_Connection_EP05_007_Marie_테_Unvoiced_std0.0_-22.5dB_420ms_492ms_M30ms.ogg",
+            "start_ms": 122232,
+            "duration_ms": 69
+        },
+        {
+            "file_name": "_selective_Connection_EP05_010_Marie_테_A4_std44.1_-16.0dB_2700ms_2826ms_M30ms.ogg",
+            "start_ms": 122301,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_029_Marie_테_G3_std37.8_-24.7dB_3000ms_3234ms_M30ms.ogg",
+            "start_ms": 122429,
+            "duration_ms": 231
+        }
+    ],
+    "통": [
+        {
+            "file_name": "_selective_Main_Ch04_EP04_045_Marie_통_Fsharp4_std22.1_-17.2dB_3420ms_3540ms_M30ms.ogg",
+            "start_ms": 122660,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP04_049_Marie_통_B4_std17.4_-17.7dB_4560ms_4680ms_M30ms.ogg",
+            "start_ms": 122777,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP05_022_Marie_통_Fsharp4_std6.5_-17.6dB_1599ms_1700ms_M30ms.ogg",
+            "start_ms": 122894,
+            "duration_ms": 101
+        }
+    ],
+    "투": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_064_Marie_투_Asharp4_std15.6_-17.5dB_980ms_1124ms_M30ms.ogg",
+            "start_ms": 122995,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch04_EP03_050_Marie_투_Csharp4_std5.6_-24.2dB_679ms_770ms_M30ms.ogg",
+            "start_ms": 123136,
+            "duration_ms": 88
+        },
+        {
+            "file_name": "Voice_Marie_Ultimate3_1_1_투_E5_std23.0_-15.5dB_919ms_1028ms_M30ms.ogg",
+            "start_ms": 123224,
+            "duration_ms": 109
+        }
+    ],
+    "트": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_087_Marie_트_Csharp5_std6.9_-14.1dB_3520ms_3592ms_M30ms.ogg",
+            "start_ms": 123333,
+            "duration_ms": 69
+        }
+    ],
+    "특": [
+        {
+            "file_name": "_selective_raiderscave_EP04_067_Marie_특_Unvoiced_std0.0_-28.9dB_840ms_980ms_M30ms.ogg",
+            "start_ms": 123402,
+            "duration_ms": 137
+        }
+    ],
+    "튼": [
+        {
+            "file_name": "_selective_raiderscave_EP05_004_Marie_튼_C4_std12.2_-23.1dB_3960ms_4090ms_M30ms.ogg",
+            "start_ms": 123539,
+            "duration_ms": 131
+        }
+    ],
+    "틀": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_056_Marie_틀_Dsharp4_std30.5_-16.7dB_799ms_980ms_M30ms.ogg",
+            "start_ms": 123670,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch01_EP05_060_Marie_틀_C5_std34.9_-17.3dB_2070ms_2150ms_M30ms.ogg",
+            "start_ms": 123851,
+            "duration_ms": 77
+        }
+    ],
+    "티": [
+        {
+            "file_name": "_selective_raiderscave_EP02_071_Marie_티_A3_std8.2_-21.6dB_2880ms_3006ms_M30ms.ogg",
+            "start_ms": 123928,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_074_Marie_티_Gsharp4_std13.3_-16.5dB_760ms_885ms_M30ms.ogg",
+            "start_ms": 124051,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_033_Marie_티_Dsharp4_std11.5_-18.0dB_210ms_326ms_M30ms.ogg",
+            "start_ms": 124176,
+            "duration_ms": 117
+        }
+    ],
+    "틱": [
+        {
+            "file_name": "_selective_raiderscave_EP05_012_Marie_틱_G4_std14.4_-39.1dB_1070ms_1200ms_M30ms.ogg",
+            "start_ms": 124293,
+            "duration_ms": 131
+        }
+    ],
+    "팅": [
+        {
+            "file_name": "_selective_raiderscave_EP01_082_Marie_팅_A4_std5.0_-15.1dB_139ms_260ms_M30ms.ogg",
+            "start_ms": 124424,
+            "duration_ms": 123
+        }
+    ],
+    "파": [
+        {
+            "file_name": "_selective_raiderscave_EP08_038_Marie_파_A4_std10.9_-15.9dB_439ms_566ms_M30ms.ogg",
+            "start_ms": 124547,
+            "duration_ms": 128
+        }
+    ],
+    "판": [
+        {
+            "file_name": "_selective_Main_Ch05_EP02_023_Marie_판_D4_std10.3_-21.1dB_3940ms_4090ms_M30ms.ogg",
+            "start_ms": 124675,
+            "duration_ms": 152
+        }
+    ],
+    "팔": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_028_Marie_팔_C5_std15.6_-15.6dB_4059ms_4239ms_M30ms.ogg",
+            "start_ms": 124827,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_030_Marie_팔_Asharp4_std9.2_-16.2dB_600ms_780ms_M30ms.ogg",
+            "start_ms": 125004,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_061_Marie_팔_Unvoiced_std0.0_-16.3dB_3300ms_3460ms_M30ms.ogg",
+            "start_ms": 125185,
+            "duration_ms": 157
+        }
+    ],
+    "퍼": [
+        {
+            "file_name": "_selective_raiderscave_EP05_028_Marie_퍼_Asharp4_std17.2_-14.1dB_3460ms_3640ms_M30ms.ogg",
+            "start_ms": 125342,
+            "duration_ms": 181
+        }
+    ],
+    "펴": [
+        {
+            "file_name": "_selective_Connection_EP05_006_Marie_펴_B3_std10.5_-20.0dB_5239ms_5348ms_M30ms.ogg",
+            "start_ms": 125523,
+            "duration_ms": 109
+        }
+    ],
+    "편": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_062_Marie_편_D4_std36.9_-13.1dB_1200ms_1430ms_M30ms.ogg",
+            "start_ms": 125632,
+            "duration_ms": 232
+        }
+    ],
+    "폭": [
+        {
+            "file_name": "Voice_Letter_Marie_폭_A4_std10.1_-17.4dB_29460ms_29640ms_M30ms.ogg",
+            "start_ms": 125864,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Marie_Gacha2_폭_B4_std27.7_-17.4dB_2200ms_2380ms_M30ms.ogg",
+            "start_ms": 126041,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Marie_Stage_폭_Unvoiced_std0.0_-18.6dB_660ms_840ms_M30ms.ogg",
+            "start_ms": 126218,
+            "duration_ms": 177
+        }
+    ],
+    "표": [
+        {
+            "file_name": "_selective_Main_Ch06_EP03_034_Marie_표_Asharp4_std15.6_-17.2dB_2720ms_2828ms_M30ms.ogg",
+            "start_ms": 126395,
+            "duration_ms": 109
+        }
+    ],
+    "푸": [
+        {
+            "file_name": "Voice_Marie_Touch2_1_푸_Unvoiced_std0.0_-22.8dB_1300ms_1390ms_M30ms.ogg",
+            "start_ms": 126504,
+            "duration_ms": 91
+        }
+    ],
+    "풀": [
+        {
+            "file_name": "_selective_Main_Ch02_EP04_027_Marie_풀_A4_std29.3_-14.1dB_2260ms_2380ms_M30ms.ogg",
+            "start_ms": 126595,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_093_Marie_풀_A4_std60.5_-15.6dB_290ms_400ms_M30ms.ogg",
+            "start_ms": 126712,
+            "duration_ms": 112
+        }
+    ],
+    "품": [
+        {
+            "file_name": "_selective_Main_Ch05_EP02_023_Marie_품_E4_std15.8_-23.6dB_1300ms_1430ms_M30ms.ogg",
+            "start_ms": 126824,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_021_Marie_품_A4_std29.4_-13.3dB_3820ms_3969ms_M30ms.ogg",
+            "start_ms": 126955,
+            "duration_ms": 149
+        }
+    ],
+    "프": [
+        {
+            "file_name": "_selective_Connection_EP05_010_Marie_프_G4_std11.8_-18.1dB_2340ms_2430ms_M30ms.ogg",
+            "start_ms": 127104,
+            "duration_ms": 91
+        }
+    ],
+    "플": [
+        {
+            "file_name": "_selective_raiderscave_EP05_012_Marie_플_Gsharp4_std5.9_-20.7dB_620ms_760ms_M30ms.ogg",
+            "start_ms": 127195,
+            "duration_ms": 141
+        }
+    ],
+    "필": [
+        {
+            "file_name": "_selective_Main_Ch02_EP02_008_Marie_필_Gsharp4_std13.3_-17.8dB_3680ms_3830ms_M30ms.ogg",
+            "start_ms": 127336,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_024_Marie_필_G4_std23.0_-21.5dB_1540ms_1670ms_M30ms.ogg",
+            "start_ms": 127488,
+            "duration_ms": 131
+        }
+    ],
+    "하": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_047_Marie_하_F4_std3.8_-12.5dB_1300ms_1408ms_M30ms.ogg",
+            "start_ms": 127619,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_054_HiddenMarie_하_F3_std3.2_-21.3dB_2640ms_2748ms_M30ms.ogg",
+            "start_ms": 127724,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Marie_Affinity7_하_F4_std9.2_-12.4dB_1160ms_1268ms_M30ms.ogg",
+            "start_ms": 127833,
+            "duration_ms": 109
+        }
+    ],
+    "한": [
+        {
+            "file_name": "_selective_Main_Ch09_EP03_033_Marie_한_B4_std29.2_-13.7dB_1420ms_1560ms_M30ms.ogg",
+            "start_ms": 127942,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_077_Marie_한_Gsharp3_std3.8_-17.7dB_620ms_760ms_M30ms.ogg",
+            "start_ms": 128083,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_067_Marie_한_B4_std10.1_-15.9dB_1080ms_1220ms_M30ms.ogg",
+            "start_ms": 128220,
+            "duration_ms": 137
+        }
+    ],
+    "할": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_083_Marie_할_D4_std3.8_-11.7dB_5360ms_5520ms_M30ms.ogg",
+            "start_ms": 128357,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_064_Marie_할_Fsharp4_std28.8_-11.5dB_3120ms_3280ms_M30ms.ogg",
+            "start_ms": 128514,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Marie_Touch2_2_할_Dsharp4_std10.4_-11.6dB_2730ms_2880ms_M30ms.ogg",
+            "start_ms": 128671,
+            "duration_ms": 147
+        }
+    ],
+    "함": [
+        {
+            "file_name": "Voice_Marie_HeroUpgrade_함_A4_std18.1_-11.7dB_2900ms_3070ms_M30ms.ogg",
+            "start_ms": 128818,
+            "duration_ms": 171
+        }
+    ],
+    "합": [
+        {
+            "file_name": "_selective_raiderscave_EP06_036_Marie_합_F4_std3.9_-16.2dB_5340ms_5499ms_M30ms.ogg",
+            "start_ms": 128989,
+            "duration_ms": 160
+        }
+    ],
+    "항": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_058_Marie_항_F4_std11.6_-20.8dB_4220ms_4420ms_M30ms.ogg",
+            "start_ms": 129149,
+            "duration_ms": 197
+        }
+    ],
+    "해": [
+        {
+            "file_name": "_selective_Ontime_EP04_007_Marie_해_Asharp4_std30.6_-11.0dB_1960ms_2068ms_M30ms.ogg",
+            "start_ms": 129346,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_008_Marie_해_Asharp4_std14.4_-18.3dB_4360ms_4468ms_M30ms.ogg",
+            "start_ms": 129455,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Ontime_EP04_012_Marie_해_C4_std5.3_-12.7dB_4260ms_4368ms_M30ms.ogg",
+            "start_ms": 129564,
+            "duration_ms": 109
+        }
+    ],
+    "했": [
+        {
+            "file_name": "_selective_Main_Ch05_EP01_040_Marie_했_B4_std31.8_-17.6dB_3840ms_4029ms_M30ms.ogg",
+            "start_ms": 129673,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "_selective_Main_Ch06_EP03_034_Marie_했_A4_std6.3_-19.6dB_3220ms_3420ms_M30ms.ogg",
+            "start_ms": 129862,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_raiderscave_EP06_045_Marie_했_D4_std11.9_-19.7dB_1940ms_2140ms_M30ms.ogg",
+            "start_ms": 130059,
+            "duration_ms": 197
+        }
+    ],
+    "행": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP11_027_Marie_행_G3_std12.4_-20.3dB_4520ms_4640ms_M30ms.ogg",
+            "start_ms": 130256,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP01_050_Marie_행_G4_std30.7_-17.4dB_580ms_700ms_M30ms.ogg",
+            "start_ms": 130373,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_039_Marie_행_B3_std3.6_-17.7dB_4700ms_4829ms_M30ms.ogg",
+            "start_ms": 130490,
+            "duration_ms": 131
+        }
+    ],
+    "향": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_086_Marie_향_Unvoiced_std0.0_-16.0dB_2920ms_3060ms_M30ms.ogg",
+            "start_ms": 130621,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_010_Marie_향_Csharp4_std8.6_-14.1dB_799ms_899ms_M30ms.ogg",
+            "start_ms": 130762,
+            "duration_ms": 101
+        }
+    ],
+    "허": [
+        {
+            "file_name": "_selective_raiderscave_EP07_067_Marie_허_E5_std104.7_-12.7dB_880ms_1006ms_M30ms.ogg",
+            "start_ms": 130863,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_107_Marie_허_Csharp4_std91.0_-15.4dB_1619ms_1764ms_M30ms.ogg",
+            "start_ms": 130991,
+            "duration_ms": 147
+        }
+    ],
+    "험": [
+        {
+            "file_name": "_selective_Main_Ch01_EP05_027_Marie_험_F5_std42.7_-9.1dB_3000ms_3100ms_M30ms.ogg",
+            "start_ms": 131138,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Marie_Affinity1_2_험_E4_std6.3_-13.9dB_540ms_679ms_M30ms.ogg",
+            "start_ms": 131239,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Marie_DeckSetting1_험_B3_std3.9_-15.7dB_199ms_350ms_M30ms.ogg",
+            "start_ms": 131380,
+            "duration_ms": 152
+        }
+    ],
+    "헤": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_048_Marie_헤_Gsharp4_std20.7_-20.5dB_100ms_226ms_M30ms.ogg",
+            "start_ms": 131532,
+            "duration_ms": 145
+        }
+    ],
+    "혀": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_036_Marie_혀_D4_std4.6_-20.7dB_4760ms_4886ms_M30ms.ogg",
+            "start_ms": 131677,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_095_Marie_혀_A4_std1.7_-13.7dB_1320ms_1410ms_M30ms.ogg",
+            "start_ms": 131805,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_006_Marie_혀_Dsharp4_std7.8_-16.3dB_2860ms_3004ms_M30ms.ogg",
+            "start_ms": 131896,
+            "duration_ms": 141
+        }
+    ],
+    "현": [
+        {
+            "file_name": "_selective_raiderscave_EP02_002_Marie_현_Dsharp4_std8.3_-15.9dB_1380ms_1520ms_M30ms.ogg",
+            "start_ms": 132037,
+            "duration_ms": 141
+        }
+    ],
+    "호": [
+        {
+            "file_name": "_selective_Main_Ch01_EP04_060_Marie_호_E4_std13.6_-21.2dB_1140ms_1284ms_M30ms.ogg",
+            "start_ms": 132178,
+            "duration_ms": 164
+        }
+    ],
+    "혼": [
+        {
+            "file_name": "_selective_Ontime_EP04_022_HiddenMarie_혼_Fsharp4_std28.9_-21.7dB_2360ms_2580ms_M30ms.ogg",
+            "start_ms": 132342,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_raiderscave_EP02_014_Marie_혼_A4_std15.6_-15.2dB_1040ms_1240ms_M30ms.ogg",
+            "start_ms": 132563,
+            "duration_ms": 197
+        }
+    ],
+    "화": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP10_037_Marie_화_C5_std16.6_-12.4dB_2040ms_2166ms_M30ms.ogg",
+            "start_ms": 132760,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Marie_Equipment_화_B3_std3.9_-22.5dB_1740ms_1865ms_M30ms.ogg",
+            "start_ms": 132888,
+            "duration_ms": 125
+        }
+    ],
+    "확": [
+        {
+            "file_name": "_selective_Main3_Ch01_EP09_100_Marie_확_Unvoiced_std0.0_-23.1dB_4509ms_4739ms_M30ms.ogg",
+            "start_ms": 133013,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP07_060_Marie_확_Unvoiced_std0.0_-23.6dB_3900ms_4079ms_M30ms.ogg",
+            "start_ms": 133245,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_raiderscave_EP01_002_Marie_확_Unvoiced_std0.0_-21.2dB_3680ms_3900ms_M30ms.ogg",
+            "start_ms": 133426,
+            "duration_ms": 221
+        }
+    ],
+    "활": [
+        {
+            "file_name": "_selective_raiderscave_EP07_096_Marie_활_Gsharp4_std8.0_-13.9dB_3260ms_3429ms_M30ms.ogg",
+            "start_ms": 133647,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_097_Marie_활_Csharp5_std94.5_-13.5dB_3660ms_3830ms_M30ms.ogg",
+            "start_ms": 133818,
+            "duration_ms": 171
+        }
+    ],
+    "회": [
+        {
+            "file_name": "_selective_raiderscave_EP01_076_Marie_회_B3_std18.5_-16.8dB_840ms_966ms_M30ms.ogg",
+            "start_ms": 133989,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_raiderscave_EP05_029_Marie_회_Csharp4_std16.6_-23.8dB_1740ms_1865ms_M30ms.ogg",
+            "start_ms": 134117,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_raiderscave_EP07_052_Marie_회_D4_std1.9_-22.6dB_2320ms_2437ms_M30ms.ogg",
+            "start_ms": 134242,
+            "duration_ms": 117
+        }
+    ],
+    "획": [
+        {
+            "file_name": "Voice_Letter_Marie_획_E4_std5.7_-20.1dB_19380ms_19490ms_M30ms.ogg",
+            "start_ms": 134359,
+            "duration_ms": 112
+        }
+    ],
+    "후": [
+        {
+            "file_name": "Voice_Letter_Marie_후_Gsharp4_std8.8_-13.4dB_15760ms_15886ms_M30ms.ogg",
+            "start_ms": 134471,
+            "duration_ms": 128
+        }
+    ],
+    "흔": [
+        {
+            "file_name": "_selective_Ontime_EP04_016_Marie_흔_E4_std15.6_-18.3dB_600ms_820ms_M30ms.ogg",
+            "start_ms": 134599,
+            "duration_ms": 221
+        }
+    ],
+    "희": [
+        {
+            "file_name": "_selective_Main_Ch02_EP01_003_Marie_희_Gsharp3_std5.6_-13.0dB_2739ms_2830ms_M30ms.ogg",
+            "start_ms": 134820,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP04_027_Marie_희_D4_std24.4_-18.6dB_1560ms_1650ms_M30ms.ogg",
+            "start_ms": 134913,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main_Ch02_EP05_004_Marie_희_E4_std43.3_-17.9dB_220ms_327ms_M30ms.ogg",
+            "start_ms": 135004,
+            "duration_ms": 109
+        }
+    ],
+    "히": [
+        {
+            "file_name": "_selective_raiderscave_EP02_074_Marie_히_Gsharp4_std11.9_-12.2dB_2940ms_3030ms_M30ms.ogg",
+            "start_ms": 135113,
+            "duration_ms": 91
+        }
+    ],
+    "힌": [
+        {
+            "file_name": "_selective_Main_Ch02_EP05_063_Marie_힌_Fsharp4_std8.6_-16.5dB_1599ms_1780ms_M30ms.ogg",
+            "start_ms": 135204,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_raiderscave_EP04_098_Marie_힌_Fsharp4_std50.0_-18.8dB_4140ms_4320ms_M30ms.ogg",
+            "start_ms": 135382,
+            "duration_ms": 177
+        }
+    ],
+    "힘": [
+        {
+            "file_name": "_selective_raiderscave_EP02_023_Marie_힘_Csharp4_std18.1_-22.9dB_5100ms_5239ms_M30ms.ogg",
+            "start_ms": 135559,
+            "duration_ms": 136
+        }
+    ]
+}
