@@ -1,0 +1,4114 @@
+{
+    "가": [
+        {
+            "file_name": "_selective_Dew_EP01_039_Ui_가_Dsharp4_std11.7_-16.4dB_339ms_465ms_M30ms.ogg",
+            "start_ms": 0,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Dew_EP01_079_Ui_가_G4_std11.1_-14.7dB_1880ms_2006ms_M30ms.ogg",
+            "start_ms": 123,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Dew_EP01_083_Ui_가_Csharp4_std8.6_-18.7dB_2280ms_2406ms_M30ms.ogg",
+            "start_ms": 246,
+            "duration_ms": 123
+        }
+    ],
+    "각": [
+        {
+            "file_name": "_selective_Dew_EP04_006_Ui_각_B4_std29.3_-16.8dB_860ms_1030ms_M30ms.ogg",
+            "start_ms": 369,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_frozen_EP06_070_Ui_각_D5_std40.2_-13.4dB_3160ms_3330ms_M30ms.ogg",
+            "start_ms": 536,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "Voice_Ui_Affinity6_각_Asharp4_std11.5_-14.5dB_700ms_870ms_M30ms.ogg",
+            "start_ms": 703,
+            "duration_ms": 171
+        }
+    ],
+    "간": [
+        {
+            "file_name": "_selective_T_XMas_EP06_023_Ui_간_A4_std6.0_-10.5dB_1700ms_1870ms_M30ms.ogg",
+            "start_ms": 874,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_025_Ui_간_Asharp4_std11.8_-11.8dB_1810ms_1990ms_M30ms.ogg",
+            "start_ms": 1045,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Ui_Line1_간_Dsharp5_std29.8_-12.2dB_1080ms_1270ms_M30ms.ogg",
+            "start_ms": 1226,
+            "duration_ms": 192
+        }
+    ],
+    "갈": [
+        {
+            "file_name": "_selective_frozen_EP10_043_Ui_갈_Unvoiced_std0.0_-14.7dB_1020ms_1220ms_M30ms.ogg",
+            "start_ms": 1418,
+            "duration_ms": 197
+        }
+    ],
+    "갑": [
+        {
+            "file_name": "_selective_T_XMas_EP06_026_Ui_갑_D4_std28.6_-20.6dB_3700ms_3900ms_M30ms.ogg",
+            "start_ms": 1615,
+            "duration_ms": 197
+        }
+    ],
+    "갔": [
+        {
+            "file_name": "_selective_Dew_EP01_013_Ui_갔_B4_std29.4_-18.2dB_1900ms_2100ms_M30ms.ogg",
+            "start_ms": 1812,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Dew_EP02_036_Ui_갔_Dsharp5_std4.7_-18.3dB_3000ms_3220ms_M30ms.ogg",
+            "start_ms": 2009,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_Dew_EP04_096_Ui_갔_Csharp5_std13.6_-16.5dB_1800ms_2000ms_M30ms.ogg",
+            "start_ms": 2226,
+            "duration_ms": 197
+        }
+    ],
+    "강": [
+        {
+            "file_name": "_selective_Dew_EP02_086_Ui_강_E4_std77.3_-14.3dB_1119ms_1300ms_M30ms.ogg",
+            "start_ms": 2423,
+            "duration_ms": 181
+        }
+    ],
+    "갖": [
+        {
+            "file_name": "_selective_Dew_EP02_036_Ui_갖_Asharp4_std35.4_-20.4dB_2280ms_2500ms_M30ms.ogg",
+            "start_ms": 2604,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_frozen_EP07_065_Ui_갖_Unvoiced_std0.0_-16.4dB_2160ms_2360ms_M30ms.ogg",
+            "start_ms": 2821,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_frozen_EP07_068_Ui_갖_Unvoiced_std0.0_-16.8dB_3000ms_3220ms_M30ms.ogg",
+            "start_ms": 3018,
+            "duration_ms": 221
+        }
+    ],
+    "같": [
+        {
+            "file_name": "_selective_Dew_EP01_079_Ui_같_Gsharp4_std3.5_-19.0dB_2740ms_2929ms_M30ms.ogg",
+            "start_ms": 3239,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "_selective_Glove_EP05_066_Ui_같_G5_std11.2_-15.3dB_2860ms_3030ms_M30ms.ogg",
+            "start_ms": 3428,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_077_Ui_같_E5_std7.4_-16.0dB_1220ms_1410ms_M30ms.ogg",
+            "start_ms": 3595,
+            "duration_ms": 192
+        }
+    ],
+    "개": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_027_Ui_개_G4_std14.9_-17.4dB_4760ms_4885ms_M30ms.ogg",
+            "start_ms": 3787,
+            "duration_ms": 125
+        }
+    ],
+    "거": [
+        {
+            "file_name": "_selective_Dew_EP04_082_Ui_거_D5_std5.7_-11.9dB_4319ms_4463ms_M30ms.ogg",
+            "start_ms": 3912,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_010_Ui_거_F4_std9.8_-13.1dB_3680ms_3824ms_M30ms.ogg",
+            "start_ms": 4053,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_013_Ui_거_Fsharp4_std24.4_-9.3dB_3600ms_3744ms_M30ms.ogg",
+            "start_ms": 4194,
+            "duration_ms": 141
+        }
+    ],
+    "걱": [
+        {
+            "file_name": "_selective_Dew_EP02_024_Ui_걱_Dsharp4_std7.1_-17.2dB_100ms_300ms_M30ms.ogg",
+            "start_ms": 4335,
+            "duration_ms": 197
+        }
+    ],
+    "건": [
+        {
+            "file_name": "_selective_Dew_EP01_082_Ui_건_A4_std31.0_-16.6dB_4380ms_4540ms_M30ms.ogg",
+            "start_ms": 4532,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_004_Ui_건_G4_std15.6_-13.7dB_6720ms_6880ms_M30ms.ogg",
+            "start_ms": 4689,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP06_066_Ui_건_Csharp5_std32.6_-11.4dB_3340ms_3500ms_M30ms.ogg",
+            "start_ms": 4846,
+            "duration_ms": 157
+        }
+    ],
+    "걸": [
+        {
+            "file_name": "_selective_Dew_EP04_059_Ui_걸_C5_std26.7_-15.7dB_1940ms_2120ms_M30ms.ogg",
+            "start_ms": 5003,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Dew_EP05_015_Ui_걸_Asharp4_std2.0_-15.0dB_220ms_360ms_M30ms.ogg",
+            "start_ms": 5180,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Dew_EP07_007_Ui_걸_A4_std14.0_-16.2dB_1180ms_1340ms_M30ms.ogg",
+            "start_ms": 5321,
+            "duration_ms": 157
+        }
+    ],
+    "것": [
+        {
+            "file_name": "_selective_Dew_EP01_014_Ui_것_A4_std16.1_-22.7dB_8960ms_9140ms_M30ms.ogg",
+            "start_ms": 5478,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Ui_Affinity7_것_E4_std9.5_-17.1dB_3540ms_3720ms_M30ms.ogg",
+            "start_ms": 5655,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_Skin4_것_D5_std23.4_-17.6dB_3680ms_3860ms_M30ms.ogg",
+            "start_ms": 5832,
+            "duration_ms": 177
+        }
+    ],
+    "게": [
+        {
+            "file_name": "_selective_Dew_EP01_083_Ui_게_A4_std3.2_-21.8dB_2580ms_2688ms_M30ms.ogg",
+            "start_ms": 6009,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Ui_Board_게_F4_std39.0_-15.2dB_1440ms_1548ms_M30ms.ogg",
+            "start_ms": 6114,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Ui_Line2_게_Fsharp4_std17.0_-24.6dB_640ms_748ms_M30ms.ogg",
+            "start_ms": 6223,
+            "duration_ms": 109
+        }
+    ],
+    "겠": [
+        {
+            "file_name": "_selective_Dew_EP04_073_Ui_겠_D5_std23.1_-18.1dB_6020ms_6220ms_M30ms.ogg",
+            "start_ms": 6332,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Dew_EP07_087_Ui_겠_Asharp4_std11.5_-20.3dB_2840ms_3040ms_M30ms.ogg",
+            "start_ms": 6529,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_frozen_EP07_097_Ui_겠_Csharp5_std14.6_-19.2dB_2660ms_2860ms_M30ms.ogg",
+            "start_ms": 6726,
+            "duration_ms": 197
+        }
+    ],
+    "겨": [
+        {
+            "file_name": "_selective_Dew_EP04_003_Ui_겨_Asharp4_std16.0_-22.0dB_2700ms_2844ms_M30ms.ogg",
+            "start_ms": 6923,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_025_Ui_겨_Fsharp4_std22.1_-12.5dB_1380ms_1506ms_M30ms.ogg",
+            "start_ms": 7064,
+            "duration_ms": 128
+        }
+    ],
+    "결": [
+        {
+            "file_name": "_selective_Dew_EP02_025_Ui_결_Csharp5_std32.3_-15.6dB_1979ms_2100ms_M30ms.ogg",
+            "start_ms": 7192,
+            "duration_ms": 123
+        }
+    ],
+    "경": [
+        {
+            "file_name": "_selective_Dew_EP04_012_Ui_경_D5_std23.1_-15.6dB_3260ms_3440ms_M30ms.ogg",
+            "start_ms": 7315,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_1_Skin3_경_D4_std4.0_-14.1dB_840ms_1000ms_M30ms.ogg",
+            "start_ms": 7496,
+            "duration_ms": 157
+        }
+    ],
+    "고": [
+        {
+            "file_name": "_selective_Dew_EP02_074_Ui_고_D5_std10.9_-14.8dB_1500ms_1626ms_M30ms.ogg",
+            "start_ms": 7653,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Dew_EP05_023_Ui_고_C5_std33.2_-13.6dB_20ms_146ms_M30ms.ogg",
+            "start_ms": 7776,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP07_005_Ui_고_Asharp4_std19.2_-17.8dB_1540ms_1666ms_M30ms.ogg",
+            "start_ms": 7904,
+            "duration_ms": 128
+        }
+    ],
+    "곡": [
+        {
+            "file_name": "_selective_frozen_EP06_085_Ui_곡_D5_std16.3_-15.6dB_559ms_700ms_M30ms.ogg",
+            "start_ms": 8032,
+            "duration_ms": 138
+        }
+    ],
+    "곳": [
+        {
+            "file_name": "_selective_Dew_EP02_014_Ui_곳_Gsharp4_std19.4_-19.1dB_1420ms_1610ms_M30ms.ogg",
+            "start_ms": 8170,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Glove_EP05_066_Ui_곳_C5_std27.7_-14.7dB_1099ms_1310ms_M30ms.ogg",
+            "start_ms": 8362,
+            "duration_ms": 213
+        }
+    ],
+    "과": [
+        {
+            "file_name": "_selective_Dew_EP01_019_Ui_과_F4_std9.8_-17.7dB_980ms_1142ms_M30ms.ogg",
+            "start_ms": 8575,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Dew_EP02_001_Ui_과_Gsharp4_std11.3_-17.2dB_2680ms_2824ms_M30ms.ogg",
+            "start_ms": 8738,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Ui_HeroSkill_Skin4_과_F4_std10.3_-11.2dB_720ms_900ms_M30ms.ogg",
+            "start_ms": 8879,
+            "duration_ms": 181
+        }
+    ],
+    "교": [
+        {
+            "file_name": "_selective_Dew_EP02_036_Ui_교_B4_std58.3_-13.9dB_1760ms_1957ms_M30ms.ogg",
+            "start_ms": 9060,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Dew_EP07_014_Ui_교_Dsharp4_std19.1_-17.6dB_2040ms_2219ms_M30ms.ogg",
+            "start_ms": 9257,
+            "duration_ms": 176
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_032_Ui_교_Dsharp4_std11.1_-23.4dB_139ms_319ms_M30ms.ogg",
+            "start_ms": 9433,
+            "duration_ms": 177
+        }
+    ],
+    "구": [
+        {
+            "file_name": "_selective_Dew_EP01_003_Ui_구_G4_std24.9_-24.3dB_5880ms_5988ms_M30ms.ogg",
+            "start_ms": 9610,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Dew_EP04_056_Ui_구_Asharp4_std18.7_-15.2dB_1060ms_1168ms_M30ms.ogg",
+            "start_ms": 9719,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Dew_EP05_008_Ui_구_Dsharp5_std25.1_-12.1dB_1220ms_1328ms_M30ms.ogg",
+            "start_ms": 9828,
+            "duration_ms": 109
+        }
+    ],
+    "국": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_045_Ui_국_Fsharp4_std20.0_-23.4dB_3440ms_3590ms_M30ms.ogg",
+            "start_ms": 9937,
+            "duration_ms": 152
+        }
+    ],
+    "군": [
+        {
+            "file_name": "_selective_T_XMas_EP05_083_Ui_군_B3_std2.5_-8.7dB_1359ms_1540ms_M30ms.ogg",
+            "start_ms": 10089,
+            "duration_ms": 181
+        }
+    ],
+    "굿": [
+        {
+            "file_name": "_selective_Dew_EP05_071_Ui_굿_Asharp4_std30.4_-19.6dB_640ms_799ms_M30ms.ogg",
+            "start_ms": 10270,
+            "duration_ms": 156
+        }
+    ],
+    "그": [
+        {
+            "file_name": "_selective_Dew_EP01_004_Ui_그_G4_std10.4_-22.4dB_5880ms_6005ms_M30ms.ogg",
+            "start_ms": 10426,
+            "duration_ms": 145
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_058_Ui_그_D4_std15.2_-21.8dB_540ms_665ms_M30ms.ogg",
+            "start_ms": 10571,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_Skin4_그_B4_std26.2_-19.2dB_3860ms_3985ms_M30ms.ogg",
+            "start_ms": 10696,
+            "duration_ms": 125
+        }
+    ],
+    "금": [
+        {
+            "file_name": "_selective_Dew_EP02_086_Ui_금_Gsharp4_std4.3_-23.2dB_700ms_840ms_M30ms.ogg",
+            "start_ms": 10821,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_024_Ui_금_Gsharp4_std8.0_-17.6dB_2840ms_3010ms_M30ms.ogg",
+            "start_ms": 10958,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Ui_HeroSkill_금_Fsharp4_std12.2_-23.2dB_980ms_1160ms_M30ms.ogg",
+            "start_ms": 11129,
+            "duration_ms": 177
+        }
+    ],
+    "기": [
+        {
+            "file_name": "_selective_Dew_EP07_006_Ui_기_Gsharp4_std11.7_-20.8dB_3540ms_3666ms_M30ms.ogg",
+            "start_ms": 11306,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_011_Ui_기_Asharp4_std16.6_-17.0dB_4800ms_4926ms_M30ms.ogg",
+            "start_ms": 11434,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin4_기_F4_std1.0_-19.7dB_3380ms_3488ms_M30ms.ogg",
+            "start_ms": 11562,
+            "duration_ms": 109
+        }
+    ],
+    "긴": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_007_Ui_긴_C5_std12.9_-22.9dB_3800ms_3980ms_M30ms.ogg",
+            "start_ms": 11671,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_078_HiddenUi_긴_B4_std9.7_-22.8dB_820ms_960ms_M30ms.ogg",
+            "start_ms": 11852,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_056_Ui_긴_Asharp4_std3.0_-19.2dB_3420ms_3560ms_M30ms.ogg",
+            "start_ms": 11993,
+            "duration_ms": 141
+        }
+    ],
+    "길": [
+        {
+            "file_name": "_selective_Dew_EP01_083_Ui_길_A4_std16.4_-17.7dB_2920ms_3060ms_M30ms.ogg",
+            "start_ms": 12134,
+            "duration_ms": 141
+        }
+    ],
+    "까": [
+        {
+            "file_name": "_selective_Dew_EP01_019_Ui_까_Asharp4_std3.2_-17.5dB_4430ms_4565ms_M30ms.ogg",
+            "start_ms": 12275,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_Dew_EP04_005_Ui_까_B4_std23.4_-19.0dB_5409ms_5545ms_M30ms.ogg",
+            "start_ms": 12411,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_frozen_EP07_071_Ui_까_C5_std4.2_-13.2dB_2340ms_2466ms_M30ms.ogg",
+            "start_ms": 12544,
+            "duration_ms": 123
+        }
+    ],
+    "께": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_010_Ui_께_Asharp4_std9.3_-15.6dB_3700ms_3826ms_M30ms.ogg",
+            "start_ms": 12667,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_040_Ui_께_Gsharp4_std31.0_-17.6dB_1820ms_2000ms_M30ms.ogg",
+            "start_ms": 12795,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_076_Ui_께_A4_std63.2_-12.6dB_1460ms_1622ms_M30ms.ogg",
+            "start_ms": 12976,
+            "duration_ms": 163
+        }
+    ],
+    "꿈": [
+        {
+            "file_name": "_selective_Dew_EP07_007_Ui_꿈_C5_std13.4_-21.2dB_3480ms_3690ms_M30ms.ogg",
+            "start_ms": 13139,
+            "duration_ms": 211
+        }
+    ],
+    "끔": [
+        {
+            "file_name": "_selective_Dew_EP01_001_Ui_끔_E4_std4.5_-19.4dB_1940ms_2100ms_M30ms.ogg",
+            "start_ms": 13350,
+            "duration_ms": 180
+        }
+    ],
+    "나": [
+        {
+            "file_name": "_selective_Dew_EP02_014_Ui_나_Asharp4_std12.3_-14.2dB_2739ms_2866ms_M30ms.ogg",
+            "start_ms": 13530,
+            "duration_ms": 148
+        },
+        {
+            "file_name": "_selective_Dew_EP04_011_Ui_나_Gsharp4_std23.0_-11.9dB_1520ms_1646ms_M30ms.ogg",
+            "start_ms": 13678,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_frozen_EP06_036_Ui_나_D4_std20.8_-9.0dB_139ms_266ms_M30ms.ogg",
+            "start_ms": 13806,
+            "duration_ms": 128
+        }
+    ],
+    "난": [
+        {
+            "file_name": "_selective_Dew_EP03_005_Ui_난_Asharp4_std13.3_-13.2dB_1240ms_1420ms_M30ms.ogg",
+            "start_ms": 13934,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Dew_EP04_097_Ui_난_Asharp4_std13.8_-12.4dB_1979ms_2140ms_M30ms.ogg",
+            "start_ms": 14111,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_012_Ui_난_A4_std6.2_-15.0dB_5120ms_5260ms_M30ms.ogg",
+            "start_ms": 14274,
+            "duration_ms": 141
+        }
+    ],
+    "날": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_022_Ui_날_Asharp4_std31.3_-15.9dB_1619ms_1800ms_M30ms.ogg",
+            "start_ms": 14415,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_024_Ui_날_A4_std26.7_-14.8dB_3739ms_3920ms_M30ms.ogg",
+            "start_ms": 14593,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_036_Ui_날_Asharp4_std31.2_-15.3dB_2640ms_2820ms_M30ms.ogg",
+            "start_ms": 14774,
+            "duration_ms": 181
+        }
+    ],
+    "내": [
+        {
+            "file_name": "_selective_Dew_EP04_059_Ui_내_A4_std8.4_-15.0dB_1080ms_1206ms_M30ms.ogg",
+            "start_ms": 14955,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_T_XMas_EP05_083_Ui_내_A3_std3.5_-13.6dB_2980ms_3106ms_M30ms.ogg",
+            "start_ms": 15083,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_1_Skin3_내_E4_std6.4_-12.2dB_1400ms_1526ms_M30ms.ogg",
+            "start_ms": 15211,
+            "duration_ms": 123
+        }
+    ],
+    "낼": [
+        {
+            "file_name": "_selective_T_XMas_EP06_055_Ui_낼_G5_std12.1_-6.9dB_1300ms_1500ms_M30ms.ogg",
+            "start_ms": 15334,
+            "duration_ms": 197
+        }
+    ],
+    "냈": [
+        {
+            "file_name": "_selective_Main_Ch05_EP05_061_Ui_냈_B4_std35.8_-18.5dB_2080ms_2269ms_M30ms.ogg",
+            "start_ms": 15531,
+            "duration_ms": 189
+        }
+    ],
+    "냥": [
+        {
+            "file_name": "_selective_Dew_EP02_112_Ui_냥_F4_std17.0_-13.9dB_1660ms_1780ms_M30ms.ogg",
+            "start_ms": 15720,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Dew_EP07_095_Ui_냥_Gsharp4_std14.9_-12.4dB_1060ms_1180ms_M30ms.ogg",
+            "start_ms": 15837,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_056_Ui_냥_G4_std16.0_-9.1dB_1720ms_1940ms_M30ms.ogg",
+            "start_ms": 15954,
+            "duration_ms": 221
+        }
+    ],
+    "너": [
+        {
+            "file_name": "_selective_Dew_EP01_008_Ui_너_E4_std8.9_-14.9dB_2580ms_2742ms_M30ms.ogg",
+            "start_ms": 16175,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_frozen_EP10_043_Ui_너_D4_std25.7_-12.2dB_60ms_204ms_M30ms.ogg",
+            "start_ms": 16334,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_pray_EP11_042_Ui_너_Asharp4_std26.5_-8.6dB_4520ms_4645ms_M30ms.ogg",
+            "start_ms": 16475,
+            "duration_ms": 125
+        }
+    ],
+    "넘": [
+        {
+            "file_name": "_selective_Dew_EP01_083_Ui_넘_Csharp4_std11.9_-16.7dB_2700ms_2920ms_M30ms.ogg",
+            "start_ms": 16600,
+            "duration_ms": 217
+        }
+    ],
+    "네": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_037_Ui_네_D4_std6.2_-13.9dB_1640ms_1730ms_M30ms.ogg",
+            "start_ms": 16817,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_004_Ui_네_D4_std26.5_-12.7dB_3389ms_3543ms_M30ms.ogg",
+            "start_ms": 16908,
+            "duration_ms": 155
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin2_네_Csharp4_std30.5_-18.9dB_2385ms_2542ms_M30ms.ogg",
+            "start_ms": 17063,
+            "duration_ms": 154
+        }
+    ],
+    "녀": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_045_Ui_녀_E4_std21.3_-15.3dB_3140ms_3266ms_M30ms.ogg",
+            "start_ms": 17217,
+            "duration_ms": 128
+        }
+    ],
+    "년": [
+        {
+            "file_name": "_selective_T_XMas_EP06_020_Ui_년_Csharp4_std117.5_-10.1dB_1240ms_1460ms_M30ms.ogg",
+            "start_ms": 17345,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin3_년_Dsharp4_std7.0_-13.9dB_510ms_710ms_M30ms.ogg",
+            "start_ms": 17562,
+            "duration_ms": 197
+        }
+    ],
+    "노": [
+        {
+            "file_name": "_selective_Dew_EP02_032_Ui_노_B4_std24.9_-13.6dB_2620ms_2746ms_M30ms.ogg",
+            "start_ms": 17759,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP02_034_Ui_노_G4_std19.8_-14.7dB_60ms_186ms_M30ms.ogg",
+            "start_ms": 17887,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP07_008_Ui_노_F4_std7.6_-23.0dB_1240ms_1384ms_M30ms.ogg",
+            "start_ms": 18015,
+            "duration_ms": 141
+        }
+    ],
+    "놀": [
+        {
+            "file_name": "Voice_Ui_Affinity3_놀_G4_std10.0_-20.3dB_400ms_559ms_M30ms.ogg",
+            "start_ms": 18156,
+            "duration_ms": 156
+        }
+    ],
+    "누": [
+        {
+            "file_name": "_selective_frozen_EP07_068_Ui_누_Gsharp4_std4.2_-21.8dB_2760ms_2850ms_M30ms.ogg",
+            "start_ms": 18312,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_003_Ui_누_Gsharp4_std22.5_-14.2dB_600ms_690ms_M30ms.ogg",
+            "start_ms": 18403,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_033_Ui_누_D4_std12.8_-20.4dB_400ms_526ms_M30ms.ogg",
+            "start_ms": 18494,
+            "duration_ms": 123
+        }
+    ],
+    "눈": [
+        {
+            "file_name": "_selective_frozen_EP06_066_Ui_눈_F4_std28.1_-19.7dB_480ms_650ms_M30ms.ogg",
+            "start_ms": 18617,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_frozen_EP10_043_Ui_눈_Gsharp4_std18.0_-18.6dB_2480ms_2660ms_M30ms.ogg",
+            "start_ms": 18788,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_061_Ui_눈_Dsharp4_std18.9_-15.0dB_1220ms_1390ms_M30ms.ogg",
+            "start_ms": 18965,
+            "duration_ms": 171
+        }
+    ],
+    "는": [
+        {
+            "file_name": "_selective_Dew_EP01_084_Ui_는_Asharp4_std25.6_-20.9dB_1940ms_2080ms_M30ms.ogg",
+            "start_ms": 19136,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Dew_EP02_036_Ui_는_C5_std29.1_-26.8dB_3480ms_3620ms_M30ms.ogg",
+            "start_ms": 19273,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Ui_HeroSkill_Skin1_는_B4_std17.2_-24.2dB_840ms_980ms_M30ms.ogg",
+            "start_ms": 19414,
+            "duration_ms": 137
+        }
+    ],
+    "늘": [
+        {
+            "file_name": "_selective_Dew_EP07_100_Ui_늘_Gsharp4_std26.3_-18.2dB_2100ms_2200ms_M30ms.ogg",
+            "start_ms": 19551,
+            "duration_ms": 101
+        }
+    ],
+    "능": [
+        {
+            "file_name": "_selective_Dew_EP06_087_Ui_능_Fsharp4_std19.7_-23.0dB_2080ms_2280ms_M30ms.ogg",
+            "start_ms": 19652,
+            "duration_ms": 197
+        }
+    ],
+    "니": [
+        {
+            "file_name": "_selective_Dew_EP06_033_Ui_니_C5_std35.5_-28.3dB_1770ms_1941ms_M30ms.ogg",
+            "start_ms": 19849,
+            "duration_ms": 191
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_131_Ui_니_Dsharp5_std60.5_-17.6dB_5159ms_5322ms_M30ms.ogg",
+            "start_ms": 20040,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "_selective_Glove_EP05_056_Ui_니_Asharp4_std26.9_-28.0dB_480ms_641ms_M30ms.ogg",
+            "start_ms": 20205,
+            "duration_ms": 172
+        }
+    ],
+    "닌": [
+        {
+            "file_name": "_selective_Dew_EP01_082_Ui_닌_B4_std61.5_-25.3dB_4700ms_4800ms_M30ms.ogg",
+            "start_ms": 20377,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Dew_EP07_087_Ui_닌_E4_std35.7_-17.6dB_8200ms_8300ms_M30ms.ogg",
+            "start_ms": 20478,
+            "duration_ms": 101
+        }
+    ],
+    "닐": [
+        {
+            "file_name": "_selective_T_XMas_EP06_061_Ui_닐_Dsharp5_std16.5_-20.8dB_3440ms_3600ms_M30ms.ogg",
+            "start_ms": 20579,
+            "duration_ms": 157
+        }
+    ],
+    "님": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_010_Ui_님_B4_std27.1_-22.9dB_3540ms_3700ms_M30ms.ogg",
+            "start_ms": 20736,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_040_Ui_님_Asharp4_std23.3_-22.6dB_1640ms_1820ms_M30ms.ogg",
+            "start_ms": 20893,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_051_Ui_님_G4_std17.7_-23.0dB_2400ms_2560ms_M30ms.ogg",
+            "start_ms": 21070,
+            "duration_ms": 157
+        }
+    ],
+    "다": [
+        {
+            "file_name": "_selective_Dew_EP01_038_Ui_다_Gsharp4_std3.6_-15.9dB_1700ms_1826ms_M30ms.ogg",
+            "start_ms": 21227,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP02_016_Ui_다_D5_std41.2_-11.7dB_1260ms_1386ms_M30ms.ogg",
+            "start_ms": 21355,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP04_090_Ui_다_Csharp5_std14.0_-12.4dB_3020ms_3146ms_M30ms.ogg",
+            "start_ms": 21483,
+            "duration_ms": 145
+        }
+    ],
+    "단": [
+        {
+            "file_name": "_selective_Dew_EP02_036_Ui_단_C5_std7.0_-14.4dB_1979ms_2150ms_M30ms.ogg",
+            "start_ms": 21628,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_032_Ui_단_Fsharp4_std8.1_-13.8dB_339ms_510ms_M30ms.ogg",
+            "start_ms": 21801,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP06_137_Ui_단_Gsharp4_std11.0_-14.8dB_1740ms_1920ms_M30ms.ogg",
+            "start_ms": 21974,
+            "duration_ms": 177
+        }
+    ],
+    "달": [
+        {
+            "file_name": "_selective_fantasyadventure_EP04_102_Ui_달_C5_std20.6_-11.7dB_820ms_960ms_M30ms.ogg",
+            "start_ms": 22151,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_012_Ui_달_C5_std5.2_-13.2dB_6319ms_6499ms_M30ms.ogg",
+            "start_ms": 22292,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_040_Ui_달_Asharp4_std13.6_-12.4dB_3999ms_4140ms_M30ms.ogg",
+            "start_ms": 22473,
+            "duration_ms": 141
+        }
+    ],
+    "담": [
+        {
+            "file_name": "_selective_Dew_EP02_116_Ui_담_G4_std10.9_-14.6dB_600ms_740ms_M30ms.ogg",
+            "start_ms": 22614,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_030_Ui_담_B4_std24.9_-13.1dB_3580ms_3750ms_M30ms.ogg",
+            "start_ms": 22751,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_026_Ui_담_A4_std30.2_-10.1dB_4239ms_4380ms_M30ms.ogg",
+            "start_ms": 22918,
+            "duration_ms": 141
+        }
+    ],
+    "대": [
+        {
+            "file_name": "_selective_frozen_EP06_048_Ui_대_D5_std21.1_-13.4dB_760ms_903ms_M30ms.ogg",
+            "start_ms": 23059,
+            "duration_ms": 140
+        },
+        {
+            "file_name": "_selective_frozen_EP06_079_Ui_대_Csharp5_std24.5_-15.7dB_2600ms_2726ms_M30ms.ogg",
+            "start_ms": 23199,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Glove_EP05_047_Ui_대_A4_std15.7_-19.2dB_1700ms_1790ms_M30ms.ogg",
+            "start_ms": 23322,
+            "duration_ms": 91
+        }
+    ],
+    "더": [
+        {
+            "file_name": "_selective_Dew_EP02_086_Ui_더_A4_std3.6_-16.0dB_880ms_988ms_M30ms.ogg",
+            "start_ms": 23413,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Dew_EP07_020_Ui_더_F4_std75.4_-14.4dB_2460ms_2604ms_M30ms.ogg",
+            "start_ms": 23518,
+            "duration_ms": 141
+        }
+    ],
+    "던": [
+        {
+            "file_name": "_selective_Dew_EP02_003_Ui_던_Gsharp4_std6.8_-20.9dB_3920ms_4080ms_M30ms.ogg",
+            "start_ms": 23659,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Dew_EP04_003_Ui_던_Asharp4_std11.9_-22.1dB_3080ms_3260ms_M30ms.ogg",
+            "start_ms": 23816,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Dew_EP06_045_Ui_던_C5_std26.5_-18.9dB_799ms_960ms_M30ms.ogg",
+            "start_ms": 23993,
+            "duration_ms": 158
+        }
+    ],
+    "데": [
+        {
+            "file_name": "_selective_Dew_EP04_004_Ui_데_F5_std17.4_-15.3dB_2720ms_2864ms_M30ms.ogg",
+            "start_ms": 24151,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_frozen_EP07_071_Ui_데_Asharp4_std13.6_-15.3dB_3680ms_3806ms_M30ms.ogg",
+            "start_ms": 24292,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_008_Ui_데_A4_std62.1_-13.5dB_1060ms_1186ms_M30ms.ogg",
+            "start_ms": 24420,
+            "duration_ms": 128
+        }
+    ],
+    "도": [
+        {
+            "file_name": "_selective_Dew_EP01_007_Ui_도_A4_std11.1_-17.4dB_3420ms_3528ms_M30ms.ogg",
+            "start_ms": 24548,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Dew_EP01_053_Ui_도_Asharp4_std21.7_-15.1dB_3300ms_3408ms_M30ms.ogg",
+            "start_ms": 24657,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Ui_HeroSkill_Skin2_도_C5_std8.2_-15.2dB_400ms_508ms_M30ms.ogg",
+            "start_ms": 24766,
+            "duration_ms": 109
+        }
+    ],
+    "돌": [
+        {
+            "file_name": "_selective_Dew_EP04_005_Ui_돌_Fsharp4_std28.8_-20.6dB_3620ms_3809ms_M30ms.ogg",
+            "start_ms": 24875,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_028_Ui_돌_Dsharp4_std31.3_-20.3dB_2850ms_3070ms_M30ms.ogg",
+            "start_ms": 25064,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_027_Ui_돌_E4_std25.2_-17.5dB_5079ms_5300ms_M30ms.ogg",
+            "start_ms": 25285,
+            "duration_ms": 221
+        }
+    ],
+    "동": [
+        {
+            "file_name": "_selective_Dew_EP02_001_Ui_동_Dsharp4_std60.9_-18.8dB_2320ms_2520ms_M30ms.ogg",
+            "start_ms": 25506,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_020_Ui_동_F4_std50.8_-17.5dB_3560ms_3780ms_M30ms.ogg",
+            "start_ms": 25703,
+            "duration_ms": 217
+        }
+    ],
+    "되": [
+        {
+            "file_name": "_selective_Dew_EP06_043_Ui_되_Dsharp5_std7.1_-15.5dB_1300ms_1426ms_M30ms.ogg",
+            "start_ms": 25920,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_004_Ui_되_E4_std57.6_-13.2dB_6440ms_6565ms_M30ms.ogg",
+            "start_ms": 26048,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_026_Ui_되_F4_std7.8_-19.5dB_1260ms_1386ms_M30ms.ogg",
+            "start_ms": 26173,
+            "duration_ms": 128
+        }
+    ],
+    "된": [
+        {
+            "file_name": "_selective_Dew_EP04_090_Ui_된_C5_std10.0_-20.3dB_2840ms_3020ms_M30ms.ogg",
+            "start_ms": 26301,
+            "duration_ms": 177
+        }
+    ],
+    "될": [
+        {
+            "file_name": "_selective_Dew_EP01_040_Ui_될_Asharp4_std31.1_-19.2dB_1440ms_1540ms_M30ms.ogg",
+            "start_ms": 26478,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_frozen_EP11_074_Ui_될_Asharp4_std14.7_-16.6dB_4040ms_4180ms_M30ms.ogg",
+            "start_ms": 26579,
+            "duration_ms": 137
+        }
+    ],
+    "두": [
+        {
+            "file_name": "_selective_Dew_EP01_003_Ui_두_E4_std19.2_-22.8dB_260ms_368ms_M30ms.ogg",
+            "start_ms": 26716,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Dew_EP07_087_Ui_두_A4_std14.0_-18.8dB_1480ms_1587ms_M30ms.ogg",
+            "start_ms": 26821,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Ui_Growth1_Skin4_두_A4_std19.3_-17.1dB_1440ms_1548ms_M30ms.ogg",
+            "start_ms": 26930,
+            "duration_ms": 105
+        }
+    ],
+    "둑": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_045_Ui_둑_Gsharp4_std10.7_-24.0dB_6479ms_6659ms_M30ms.ogg",
+            "start_ms": 27035,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_045_Ui_둑_Gsharp4_std17.3_-23.7dB_600ms_780ms_M30ms.ogg",
+            "start_ms": 27212,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_131_Ui_둑_G4_std16.9_-21.8dB_3860ms_4050ms_M30ms.ogg",
+            "start_ms": 27393,
+            "duration_ms": 187
+        }
+    ],
+    "둘": [
+        {
+            "file_name": "_selective_Dew_EP07_081_Ui_둘_Dsharp4_std17.2_-17.4dB_1460ms_1620ms_M30ms.ogg",
+            "start_ms": 27580,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP06_048_Ui_둘_Fsharp4_std62.6_-14.1dB_2360ms_2520ms_M30ms.ogg",
+            "start_ms": 27737,
+            "duration_ms": 157
+        }
+    ],
+    "드": [
+        {
+            "file_name": "_selective_Dew_EP06_046_Ui_드_C5_std36.9_-16.8dB_1300ms_1426ms_M30ms.ogg",
+            "start_ms": 27894,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP07_055_Ui_드_B4_std3.9_-16.3dB_1040ms_1166ms_M30ms.ogg",
+            "start_ms": 28022,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Ui_Growth2_Skin3_드_Fsharp4_std12.1_-18.1dB_1560ms_1668ms_M30ms.ogg",
+            "start_ms": 28145,
+            "duration_ms": 105
+        }
+    ],
+    "들": [
+        {
+            "file_name": "_selective_Dew_EP01_050_Ui_들_B4_std13.3_-18.4dB_1619ms_1730ms_M30ms.ogg",
+            "start_ms": 28250,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_Dew_EP04_096_Ui_들_C5_std26.4_-16.0dB_1099ms_1210ms_M30ms.ogg",
+            "start_ms": 28362,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_frozen_EP06_045_Ui_들_A4_std6.3_-14.0dB_439ms_550ms_M30ms.ogg",
+            "start_ms": 28474,
+            "duration_ms": 112
+        }
+    ],
+    "디": [
+        {
+            "file_name": "_selective_Dew_EP01_062_Ui_디_Gsharp4_std10.0_-21.9dB_1280ms_1397ms_M30ms.ogg",
+            "start_ms": 28586,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_frozen_EP07_071_Ui_디_B4_std2.9_-16.1dB_5399ms_5507ms_M30ms.ogg",
+            "start_ms": 28703,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Glove_EP05_088_Ui_디_B4_std13.0_-18.3dB_1670ms_1769ms_M30ms.ogg",
+            "start_ms": 28812,
+            "duration_ms": 101
+        }
+    ],
+    "따": [
+        {
+            "file_name": "_selective_frozen_EP06_045_Ui_따_B4_std15.3_-10.3dB_2080ms_2188ms_M30ms.ogg",
+            "start_ms": 28913,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_frozen_EP06_057_Ui_따_B4_std9.3_-10.2dB_1099ms_1208ms_M30ms.ogg",
+            "start_ms": 29022,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_pray_EP11_042_Ui_따_E5_std27.0_-8.6dB_5100ms_5208ms_M30ms.ogg",
+            "start_ms": 29131,
+            "duration_ms": 109
+        }
+    ],
+    "땅": [
+        {
+            "file_name": "_selective_Dew_EP02_030_Ui_땅_Csharp5_std41.9_-16.5dB_1119ms_1320ms_M30ms.ogg",
+            "start_ms": 29240,
+            "duration_ms": 203
+        }
+    ],
+    "때": [
+        {
+            "file_name": "_selective_Dew_EP02_001_Ui_때_Fsharp4_std9.1_-18.7dB_4019ms_4146ms_M30ms.ogg",
+            "start_ms": 29443,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_022_Ui_때_B4_std6.7_-13.0dB_1840ms_1965ms_M30ms.ogg",
+            "start_ms": 29571,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_027_Ui_때_C5_std15.5_-14.0dB_2520ms_2646ms_M30ms.ogg",
+            "start_ms": 29696,
+            "duration_ms": 128
+        }
+    ],
+    "떠": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_023_Ui_떠_C5_std26.6_-14.2dB_5399ms_5544ms_M30ms.ogg",
+            "start_ms": 29824,
+            "duration_ms": 142
+        }
+    ],
+    "떤": [
+        {
+            "file_name": "_selective_Dew_EP01_019_Ui_떤_B4_std17.2_-20.0dB_3230ms_3440ms_M30ms.ogg",
+            "start_ms": 29966,
+            "duration_ms": 207
+        }
+    ],
+    "떻": [
+        {
+            "file_name": "_selective_Glove_EP05_059_Ui_떻_E5_std9.4_-15.3dB_1370ms_1480ms_M30ms.ogg",
+            "start_ms": 30173,
+            "duration_ms": 107
+        }
+    ],
+    "또": [
+        {
+            "file_name": "_selective_Main_Ch05_EP05_078_Ui_또_C5_std22.7_-12.6dB_4360ms_4486ms_M30ms.ogg",
+            "start_ms": 30280,
+            "duration_ms": 123
+        }
+    ],
+    "똑": [
+        {
+            "file_name": "_selective_Glove_EP05_066_Ui_똑_Dsharp5_std10.1_-15.8dB_2739ms_2860ms_M30ms.ogg",
+            "start_ms": 30403,
+            "duration_ms": 118
+        }
+    ],
+    "뛰": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_006_Ui_뛰_B4_std34.3_-14.5dB_3180ms_3324ms_M30ms.ogg",
+            "start_ms": 30521,
+            "duration_ms": 141
+        }
+    ],
+    "뜻": [
+        {
+            "file_name": "_selective_frozen_EP06_045_Ui_뜻_Csharp5_std26.9_-17.8dB_2200ms_2360ms_M30ms.ogg",
+            "start_ms": 30662,
+            "duration_ms": 157
+        }
+    ],
+    "라": [
+        {
+            "file_name": "_selective_Dew_EP01_008_Ui_라_Gsharp4_std18.0_-15.2dB_4620ms_4782ms_M30ms.ogg",
+            "start_ms": 30819,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_Dew_EP01_062_Ui_라_C5_std12.9_-16.3dB_1940ms_2102ms_M30ms.ogg",
+            "start_ms": 30978,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_Dew_EP02_010_Ui_라_Csharp5_std23.6_-13.6dB_880ms_1042ms_M30ms.ogg",
+            "start_ms": 31137,
+            "duration_ms": 159
+        }
+    ],
+    "락": [
+        {
+            "file_name": "_selective_frozen_EP07_072_Ui_락_B4_std26.7_-9.8dB_620ms_760ms_M30ms.ogg",
+            "start_ms": 31296,
+            "duration_ms": 137
+        }
+    ],
+    "란": [
+        {
+            "file_name": "_selective_Dew_EP04_059_Ui_란_C5_std32.5_-16.0dB_2300ms_2520ms_M30ms.ogg",
+            "start_ms": 31433,
+            "duration_ms": 217
+        }
+    ],
+    "람": [
+        {
+            "file_name": "_selective_Dew_EP07_072_Ui_람_C5_std44.4_-15.3dB_3080ms_3239ms_M30ms.ogg",
+            "start_ms": 31650,
+            "duration_ms": 160
+        },
+        {
+            "file_name": "_selective_frozen_EP06_050_Ui_람_Fsharp4_std18.1_-15.4dB_169ms_320ms_M30ms.ogg",
+            "start_ms": 31810,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_frozen_EP06_079_Ui_람_Asharp4_std34.7_-13.6dB_820ms_1000ms_M30ms.ogg",
+            "start_ms": 31962,
+            "duration_ms": 181
+        }
+    ],
+    "랑": [
+        {
+            "file_name": "_selective_Dew_EP07_100_Ui_랑_Gsharp4_std13.8_-16.6dB_3250ms_3400ms_M30ms.ogg",
+            "start_ms": 32143,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_023_Ui_랑_E4_std5.6_-16.1dB_339ms_520ms_M30ms.ogg",
+            "start_ms": 32295,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_003_Ui_랑_Fsharp4_std25.4_-18.6dB_1400ms_1580ms_M30ms.ogg",
+            "start_ms": 32473,
+            "duration_ms": 177
+        }
+    ],
+    "래": [
+        {
+            "file_name": "_selective_Dew_EP07_009_Ui_래_Gsharp4_std8.7_-18.8dB_3040ms_3166ms_M30ms.ogg",
+            "start_ms": 32650,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP02_031_Ui_래_Fsharp4_std12.7_-11.2dB_3080ms_3206ms_M30ms.ogg",
+            "start_ms": 32778,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_037_Ui_래_C5_std48.4_-14.1dB_1310ms_1463ms_M30ms.ogg",
+            "start_ms": 32906,
+            "duration_ms": 155
+        }
+    ],
+    "량": [
+        {
+            "file_name": "_selective_fantasyadventure_EP06_137_Ui_량_Asharp4_std25.6_-16.8dB_2700ms_2860ms_M30ms.ogg",
+            "start_ms": 33061,
+            "duration_ms": 157
+        }
+    ],
+    "러": [
+        {
+            "file_name": "_selective_Dew_EP01_007_Ui_러_G4_std27.4_-17.2dB_199ms_344ms_M30ms.ogg",
+            "start_ms": 33218,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_Dew_EP07_100_Ui_러_Dsharp4_std6.6_-14.3dB_1260ms_1422ms_M30ms.ogg",
+            "start_ms": 33365,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_Skin4_러_Asharp4_std30.8_-15.6dB_3999ms_4143ms_M30ms.ogg",
+            "start_ms": 33524,
+            "duration_ms": 141
+        }
+    ],
+    "런": [
+        {
+            "file_name": "_selective_Dew_EP06_083_Ui_런_G4_std29.4_-14.4dB_720ms_840ms_M30ms.ogg",
+            "start_ms": 33665,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_022_Ui_런_A4_std25.8_-12.5dB_3380ms_3500ms_M30ms.ogg",
+            "start_ms": 33782,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Ui_Affinity7_런_Dsharp4_std21.8_-13.1dB_5140ms_5240ms_M30ms.ogg",
+            "start_ms": 33899,
+            "duration_ms": 101
+        }
+    ],
+    "럴": [
+        {
+            "file_name": "_selective_fantasyadventure_EP04_077_Ui_럴_Gsharp4_std73.3_-11.7dB_2800ms_2920ms_M30ms.ogg",
+            "start_ms": 34000,
+            "duration_ms": 117
+        }
+    ],
+    "럼": [
+        {
+            "file_name": "_selective_T_XMas_EP06_062_Ui_럼_E4_std10.9_-14.5dB_459ms_580ms_M30ms.ogg",
+            "start_ms": 34117,
+            "duration_ms": 123
+        }
+    ],
+    "렇": [
+        {
+            "file_name": "_selective_frozen_EP06_033_Ui_렇_A4_std13.1_-15.2dB_2160ms_2300ms_M30ms.ogg",
+            "start_ms": 34240,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Glove_EP05_048_Ui_렇_G4_std11.1_-16.1dB_2980ms_3120ms_M30ms.ogg",
+            "start_ms": 34377,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "Voice_Ui_Gacha3_렇_C5_std32.5_-19.5dB_270ms_420ms_M30ms.ogg",
+            "start_ms": 34514,
+            "duration_ms": 147
+        }
+    ],
+    "려": [
+        {
+            "file_name": "_selective_Dew_EP07_008_Ui_려_C5_std19.3_-16.1dB_940ms_1083ms_M30ms.ogg",
+            "start_ms": 34661,
+            "duration_ms": 140
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_076_Ui_려_Csharp5_std62.6_-15.3dB_2739ms_2884ms_M30ms.ogg",
+            "start_ms": 34801,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "Voice_Ui_Affinity4_려_Fsharp4_std36.6_-16.8dB_1380ms_1506ms_M30ms.ogg",
+            "start_ms": 34948,
+            "duration_ms": 128
+        }
+    ],
+    "력": [
+        {
+            "file_name": "_selective_Dew_EP01_003_Ui_력_Fsharp4_std17.9_-20.5dB_1700ms_1910ms_M30ms.ogg",
+            "start_ms": 35076,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_Dew_EP07_008_Ui_력_A4_std15.6_-20.7dB_1400ms_1599ms_M30ms.ogg",
+            "start_ms": 35287,
+            "duration_ms": 220
+        },
+        {
+            "file_name": "_selective_frozen_EP08_084_Ui_력_B4_std11.3_-16.8dB_1560ms_1730ms_M30ms.ogg",
+            "start_ms": 35507,
+            "duration_ms": 171
+        }
+    ],
+    "렬": [
+        {
+            "file_name": "_selective_Dew_EP06_033_Ui_렬_Asharp4_std35.2_-19.4dB_260ms_459ms_M30ms.ogg",
+            "start_ms": 35678,
+            "duration_ms": 196
+        }
+    ],
+    "령": [
+        {
+            "file_name": "_selective_Dew_EP05_076_Ui_령_F5_std44.6_-14.8dB_2640ms_2840ms_M30ms.ogg",
+            "start_ms": 35874,
+            "duration_ms": 197
+        }
+    ],
+    "로": [
+        {
+            "file_name": "_selective_Dew_EP02_034_Ui_로_D5_std6.3_-15.2dB_1040ms_1148ms_M30ms.ogg",
+            "start_ms": 36071,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Dew_EP06_084_Ui_로_Asharp4_std12.4_-14.1dB_1060ms_1168ms_M30ms.ogg",
+            "start_ms": 36176,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_1_Skin3_로_D4_std6.6_-16.7dB_1080ms_1188ms_M30ms.ogg",
+            "start_ms": 36285,
+            "duration_ms": 105
+        }
+    ],
+    "록": [
+        {
+            "file_name": "_selective_Dew_EP01_007_Ui_록_A4_std9.1_-18.0dB_3540ms_3680ms_M30ms.ogg",
+            "start_ms": 36390,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_frozen_EP06_033_Ui_록_B4_std11.0_-13.9dB_2680ms_2820ms_M30ms.ogg",
+            "start_ms": 36527,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_pray_EP11_052_Ui_록_Dsharp5_std45.5_-11.8dB_1080ms_1240ms_M30ms.ogg",
+            "start_ms": 36668,
+            "duration_ms": 157
+        }
+    ],
+    "롭": [
+        {
+            "file_name": "_selective_Main_Ch05_EP05_045_Ui_롭_Asharp4_std48.0_-18.3dB_720ms_899ms_M30ms.ogg",
+            "start_ms": 36825,
+            "duration_ms": 176
+        }
+    ],
+    "롱": [
+        {
+            "file_name": "_selective_T_XMas_EP06_059_Ui_롱_Csharp5_std21.5_-9.6dB_530ms_640ms_M30ms.ogg",
+            "start_ms": 37001,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_080_Ui_롱_G4_std34.6_-20.1dB_2560ms_2720ms_M30ms.ogg",
+            "start_ms": 37113,
+            "duration_ms": 157
+        }
+    ],
+    "루": [
+        {
+            "file_name": "_selective_fantasyadventure_EP01_057_Ui_루_Csharp5_std44.4_-13.3dB_4380ms_4560ms_M30ms.ogg",
+            "start_ms": 37270,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP02_056_Ui_루_Asharp4_std22.8_-17.6dB_319ms_500ms_M30ms.ogg",
+            "start_ms": 37451,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_1_Skin1_루_E4_std9.2_-18.2dB_199ms_362ms_M30ms.ogg",
+            "start_ms": 37629,
+            "duration_ms": 160
+        }
+    ],
+    "르": [
+        {
+            "file_name": "_selective_Dew_EP02_022_Ui_르_Csharp5_std19.3_-16.8dB_1780ms_1888ms_M30ms.ogg",
+            "start_ms": 37789,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Dew_EP07_079_Ui_르_B4_std36.8_-17.7dB_1619ms_1728ms_M30ms.ogg",
+            "start_ms": 37898,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Ui_Birthday_르_Dsharp4_std16.1_-25.3dB_1640ms_1748ms_M30ms.ogg",
+            "start_ms": 38007,
+            "duration_ms": 105
+        }
+    ],
+    "른": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_036_Ui_른_Asharp4_std22.6_-18.4dB_3739ms_3940ms_M30ms.ogg",
+            "start_ms": 38112,
+            "duration_ms": 198
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_039_Ui_른_B4_std14.1_-17.8dB_1720ms_1860ms_M30ms.ogg",
+            "start_ms": 38310,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin4_른_Dsharp4_std15.5_-20.7dB_2320ms_2520ms_M30ms.ogg",
+            "start_ms": 38451,
+            "duration_ms": 197
+        }
+    ],
+    "를": [
+        {
+            "file_name": "_selective_Dew_EP04_100_Ui_를_Dsharp5_std27.8_-15.8dB_4680ms_4820ms_M30ms.ogg",
+            "start_ms": 38648,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_023_Ui_를_G4_std15.2_-20.8dB_5200ms_5340ms_M30ms.ogg",
+            "start_ms": 38785,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_045_Ui_를_B4_std12.6_-15.7dB_6920ms_7060ms_M30ms.ogg",
+            "start_ms": 38922,
+            "duration_ms": 137
+        }
+    ],
+    "름": [
+        {
+            "file_name": "_selective_Glove_EP05_051_Ui_름_B4_std36.7_-13.8dB_4100ms_4250ms_M30ms.ogg",
+            "start_ms": 39059,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Ui_HeroSkill_Skin4_름_F5_std46.6_-13.4dB_2820ms_2969ms_M30ms.ogg",
+            "start_ms": 39211,
+            "duration_ms": 149
+        }
+    ],
+    "리": [
+        {
+            "file_name": "_selective_Dew_EP02_114_Ui_리_A4_std20.7_-21.5dB_2190ms_2307ms_M30ms.ogg",
+            "start_ms": 39360,
+            "duration_ms": 114
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP04_102_Ui_리_B4_std14.1_-16.7dB_960ms_1085ms_M30ms.ogg",
+            "start_ms": 39474,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_frozen_EP06_036_Ui_리_Gsharp4_std19.7_-15.6dB_760ms_885ms_M30ms.ogg",
+            "start_ms": 39599,
+            "duration_ms": 145
+        }
+    ],
+    "린": [
+        {
+            "file_name": "_selective_Dew_EP06_033_Ui_린_Asharp4_std32.1_-26.3dB_3080ms_3240ms_M30ms.ogg",
+            "start_ms": 39744,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP01_067_Ui_린_Csharp5_std11.5_-19.1dB_2239ms_2380ms_M30ms.ogg",
+            "start_ms": 39901,
+            "duration_ms": 138
+        },
+        {
+            "file_name": "_selective_frozen_EP06_066_Ui_린_G4_std31.0_-23.1dB_1560ms_1720ms_M30ms.ogg",
+            "start_ms": 40039,
+            "duration_ms": 157
+        }
+    ],
+    "릴": [
+        {
+            "file_name": "Voice_Ui_DutchRubEnd2_Skin4_릴_Unvoiced_std0.0_-30.0dB_3770ms_3940ms_M30ms.ogg",
+            "start_ms": 40196,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_1_Skin2_릴_Csharp5_std7.5_-19.5dB_2070ms_2240ms_M30ms.ogg",
+            "start_ms": 40367,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_1_Skin3_릴_Dsharp4_std13.6_-19.7dB_1780ms_1940ms_M30ms.ogg",
+            "start_ms": 40534,
+            "duration_ms": 157
+        }
+    ],
+    "마": [
+        {
+            "file_name": "_selective_Dew_EP02_033_Ui_마_F4_std9.2_-15.9dB_4380ms_4524ms_M30ms.ogg",
+            "start_ms": 40691,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Dew_EP02_062_Ui_마_D4_std12.9_-12.4dB_0ms_144ms_M30ms.ogg",
+            "start_ms": 40832,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Ui_Affinity7_마_B3_std13.8_-13.6dB_2340ms_2484ms_M30ms.ogg",
+            "start_ms": 40973,
+            "duration_ms": 141
+        }
+    ],
+    "막": [
+        {
+            "file_name": "_selective_Dew_EP04_090_Ui_막_Gsharp4_std12.2_-16.2dB_1940ms_2100ms_M30ms.ogg",
+            "start_ms": 41114,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP11_069_Ui_막_Gsharp4_std11.8_-12.5dB_1640ms_1810ms_M30ms.ogg",
+            "start_ms": 41271,
+            "duration_ms": 171
+        }
+    ],
+    "만": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_002_Ui_만_D5_std13.1_-12.9dB_2320ms_2510ms_M30ms.ogg",
+            "start_ms": 41442,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_086_Ui_만_Asharp4_std19.0_-14.0dB_899ms_1090ms_M30ms.ogg",
+            "start_ms": 41634,
+            "duration_ms": 212
+        },
+        {
+            "file_name": "Voice_Ui_Victory1_만_Dsharp4_std36.0_-15.1dB_1000ms_1200ms_M30ms.ogg",
+            "start_ms": 41846,
+            "duration_ms": 197
+        }
+    ],
+    "많": [
+        {
+            "file_name": "_selective_frozen_EP11_066_Ui_많_B3_std17.0_-15.8dB_2220ms_2410ms_M30ms.ogg",
+            "start_ms": 42043,
+            "duration_ms": 187
+        },
+        {
+            "file_name": "Voice_Ui_LevelUp_Skin4_많_D4_std8.8_-12.0dB_3100ms_3290ms_M30ms.ogg",
+            "start_ms": 42230,
+            "duration_ms": 192
+        }
+    ],
+    "말": [
+        {
+            "file_name": "_selective_Dew_EP07_045_Ui_말_C4_std6.0_-15.8dB_1460ms_1630ms_M30ms.ogg",
+            "start_ms": 42422,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_045_Ui_말_D5_std15.3_-10.3dB_2580ms_2750ms_M30ms.ogg",
+            "start_ms": 42589,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_066_Ui_말_Dsharp5_std10.0_-10.2dB_2920ms_3090ms_M30ms.ogg",
+            "start_ms": 42760,
+            "duration_ms": 171
+        }
+    ],
+    "망": [
+        {
+            "file_name": "_selective_Dew_EP05_086_Ui_망_F5_std56.6_-13.3dB_2680ms_2840ms_M30ms.ogg",
+            "start_ms": 42931,
+            "duration_ms": 157
+        }
+    ],
+    "맞": [
+        {
+            "file_name": "_selective_frozen_EP10_053_Ui_맞_Unvoiced_std0.0_-15.1dB_3120ms_3320ms_M30ms.ogg",
+            "start_ms": 43088,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_055_Ui_맞_Asharp4_std23.7_-15.3dB_799ms_990ms_M30ms.ogg",
+            "start_ms": 43285,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_006_Ui_맞_D4_std22.3_-13.3dB_2100ms_2309ms_M30ms.ogg",
+            "start_ms": 43477,
+            "duration_ms": 211
+        }
+    ],
+    "먹": [
+        {
+            "file_name": "_selective_fantasyadventure_EP02_056_Ui_먹_F4_std24.9_-17.2dB_3360ms_3540ms_M30ms.ogg",
+            "start_ms": 43688,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_frozen_EP07_097_Ui_먹_E4_std7.0_-16.4dB_2460ms_2660ms_M30ms.ogg",
+            "start_ms": 43865,
+            "duration_ms": 197
+        }
+    ],
+    "먼": [
+        {
+            "file_name": "_selective_Dew_EP06_035_Ui_먼_G4_std27.9_-14.6dB_2180ms_2380ms_M30ms.ogg",
+            "start_ms": 44062,
+            "duration_ms": 197
+        }
+    ],
+    "멀": [
+        {
+            "file_name": "_selective_frozen_EP06_036_Ui_멀_F4_std19.8_-10.1dB_2060ms_2239ms_M30ms.ogg",
+            "start_ms": 44259,
+            "duration_ms": 181
+        }
+    ],
+    "멈": [
+        {
+            "file_name": "_selective_frozen_EP10_043_Ui_멈_G4_std60.1_-13.2dB_3020ms_3220ms_M30ms.ogg",
+            "start_ms": 44440,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_077_Ui_멈_Dsharp4_std14.6_-14.7dB_2280ms_2480ms_M30ms.ogg",
+            "start_ms": 44637,
+            "duration_ms": 197
+        }
+    ],
+    "면": [
+        {
+            "file_name": "_selective_Dew_EP07_007_Ui_면_G4_std5.8_-22.0dB_1580ms_1740ms_M30ms.ogg",
+            "start_ms": 44834,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP02_056_Ui_면_D4_std5.7_-17.7dB_2940ms_3100ms_M30ms.ogg",
+            "start_ms": 44991,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_1_Skin2_면_Csharp5_std89.8_-19.8dB_760ms_920ms_M30ms.ogg",
+            "start_ms": 45148,
+            "duration_ms": 157
+        }
+    ],
+    "명": [
+        {
+            "file_name": "_selective_Dew_EP04_026_Ui_명_Csharp5_std30.7_-19.2dB_3780ms_3999ms_M30ms.ogg",
+            "start_ms": 45305,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_2_Skin3_명_Fsharp4_std12.1_-12.8dB_2560ms_2700ms_M30ms.ogg",
+            "start_ms": 45526,
+            "duration_ms": 141
+        }
+    ],
+    "모": [
+        {
+            "file_name": "_selective_Dew_EP01_014_Ui_모_E4_std16.9_-23.1dB_7040ms_7202ms_M30ms.ogg",
+            "start_ms": 45667,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_Dew_EP02_030_Ui_모_E4_std6.3_-14.0dB_2900ms_3062ms_M30ms.ogg",
+            "start_ms": 45826,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Dew_EP02_061_Ui_모_F4_std9.3_-14.5dB_1480ms_1642ms_M30ms.ogg",
+            "start_ms": 45989,
+            "duration_ms": 183
+        }
+    ],
+    "못": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_023_Ui_못_Dsharp4_std10.9_-24.6dB_3470ms_3680ms_M30ms.ogg",
+            "start_ms": 46172,
+            "duration_ms": 207
+        },
+        {
+            "file_name": "_selective_frozen_EP10_053_Ui_못_G4_std17.5_-18.6dB_3420ms_3580ms_M30ms.ogg",
+            "start_ms": 46379,
+            "duration_ms": 180
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_074_Ui_못_D4_std12.9_-21.9dB_889ms_1060ms_M30ms.ogg",
+            "start_ms": 46559,
+            "duration_ms": 191
+        }
+    ],
+    "무": [
+        {
+            "file_name": "_selective_Dew_EP04_008_Ui_무_Asharp4_std24.7_-18.7dB_740ms_884ms_M30ms.ogg",
+            "start_ms": 46750,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Dew_EP04_012_Ui_무_Asharp4_std30.5_-20.7dB_2160ms_2304ms_M30ms.ogg",
+            "start_ms": 46891,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Dew_EP06_035_Ui_무_G4_std8.5_-16.9dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 47032,
+            "duration_ms": 141
+        }
+    ],
+    "물": [
+        {
+            "file_name": "_selective_Dew_EP02_093_Ui_물_B4_std9.3_-16.6dB_3160ms_3290ms_M30ms.ogg",
+            "start_ms": 47173,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_Dew_EP07_019_Ui_물_C5_std33.7_-13.4dB_2120ms_2260ms_M30ms.ogg",
+            "start_ms": 47304,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Ui_Board_Skin1_물_C5_std27.0_-20.6dB_459ms_640ms_M30ms.ogg",
+            "start_ms": 47445,
+            "duration_ms": 178
+        }
+    ],
+    "뭐": [
+        {
+            "file_name": "_selective_Glove_EP05_051_Ui_뭐_Csharp4_std10.7_-12.1dB_4380ms_4515ms_M30ms.ogg",
+            "start_ms": 47623,
+            "duration_ms": 136
+        }
+    ],
+    "뭔": [
+        {
+            "file_name": "_selective_frozen_EP06_050_Ui_뭔_Fsharp4_std24.7_-14.5dB_4140ms_4360ms_M30ms.ogg",
+            "start_ms": 47759,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_frozen_EP06_070_Ui_뭔_C4_std13.5_-14.7dB_420ms_640ms_M30ms.ogg",
+            "start_ms": 47976,
+            "duration_ms": 217
+        }
+    ],
+    "미": [
+        {
+            "file_name": "_selective_Dew_EP04_007_Ui_미_Fsharp4_std20.5_-24.1dB_1560ms_1704ms_M30ms.ogg",
+            "start_ms": 48193,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Dew_EP04_097_Ui_미_A4_std17.6_-14.3dB_960ms_1122ms_M30ms.ogg",
+            "start_ms": 48334,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin2_미_F4_std1.0_-22.2dB_80ms_278ms_M30ms.ogg",
+            "start_ms": 48497,
+            "duration_ms": 195
+        }
+    ],
+    "민": [
+        {
+            "file_name": "_selective_T_XMas_EP06_013_Ui_민_Csharp5_std66.5_-18.9dB_3080ms_3230ms_M30ms.ogg",
+            "start_ms": 48692,
+            "duration_ms": 152
+        }
+    ],
+    "믿": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_047_Ui_믿_E4_std9.0_-21.4dB_2040ms_2220ms_M30ms.ogg",
+            "start_ms": 48844,
+            "duration_ms": 177
+        }
+    ],
+    "밀": [
+        {
+            "file_name": "_selective_frozen_EP06_067_Ui_밀_Fsharp4_std57.5_-13.4dB_679ms_850ms_M30ms.ogg",
+            "start_ms": 49021,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_012_Ui_밀_Asharp4_std12.8_-21.7dB_5880ms_6060ms_M30ms.ogg",
+            "start_ms": 49194,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_074_Ui_밀_Gsharp4_std81.7_-12.8dB_740ms_935ms_M30ms.ogg",
+            "start_ms": 49375,
+            "duration_ms": 197
+        }
+    ],
+    "밌": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_004_Ui_밌_Fsharp4_std26.9_-24.1dB_2620ms_2800ms_M30ms.ogg",
+            "start_ms": 49572,
+            "duration_ms": 177
+        }
+    ],
+    "밑": [
+        {
+            "file_name": "_selective_Dew_EP02_030_Ui_밑_Csharp5_std19.7_-25.7dB_1320ms_1490ms_M30ms.ogg",
+            "start_ms": 49749,
+            "duration_ms": 171
+        }
+    ],
+    "바": [
+        {
+            "file_name": "_selective_fantasyadventure_EP02_056_Ui_바_Fsharp4_std10.7_-12.4dB_2480ms_2624ms_M30ms.ogg",
+            "start_ms": 49920,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_032_Ui_바_Unvoiced_std0.0_-12.9dB_2260ms_2386ms_M30ms.ogg",
+            "start_ms": 50061,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_044_Ui_바_Dsharp4_std2.2_-15.0dB_4520ms_4682ms_M30ms.ogg",
+            "start_ms": 50189,
+            "duration_ms": 159
+        }
+    ],
+    "받": [
+        {
+            "file_name": "_selective_frozen_EP06_029_Ui_받_C5_std27.8_-12.9dB_3620ms_3780ms_M30ms.ogg",
+            "start_ms": 50348,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP06_046_Ui_받_Csharp5_std21.4_-16.4dB_1840ms_2020ms_M30ms.ogg",
+            "start_ms": 50505,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_040_Ui_받_Asharp4_std7.1_-13.3dB_4780ms_4930ms_M30ms.ogg",
+            "start_ms": 50682,
+            "duration_ms": 152
+        }
+    ],
+    "밤": [
+        {
+            "file_name": "_selective_T_XMas_EP06_076_Ui_밤_E4_std20.1_-12.7dB_360ms_530ms_M30ms.ogg",
+            "start_ms": 50834,
+            "duration_ms": 171
+        }
+    ],
+    "방": [
+        {
+            "file_name": "Voice_Ui_Affinity5_방_Asharp4_std30.8_-12.0dB_2580ms_2760ms_M30ms.ogg",
+            "start_ms": 51005,
+            "duration_ms": 181
+        }
+    ],
+    "배": [
+        {
+            "file_name": "Voice_Ui_Line1_배_Fsharp4_std33.5_-14.9dB_420ms_582ms_M30ms.ogg",
+            "start_ms": 51186,
+            "duration_ms": 163
+        }
+    ],
+    "번": [
+        {
+            "file_name": "_selective_Dew_EP02_064_Ui_번_Gsharp4_std12.9_-16.0dB_240ms_360ms_M30ms.ogg",
+            "start_ms": 51349,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_frozen_EP06_069_Ui_번_A4_std18.7_-13.6dB_2060ms_2250ms_M30ms.ogg",
+            "start_ms": 51466,
+            "duration_ms": 192
+        }
+    ],
+    "벌": [
+        {
+            "file_name": "_selective_Dew_EP01_039_Ui_벌_Dsharp4_std46.8_-15.0dB_1540ms_1730ms_M30ms.ogg",
+            "start_ms": 51658,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_037_Ui_벌_G4_std25.7_-13.5dB_2200ms_2370ms_M30ms.ogg",
+            "start_ms": 51850,
+            "duration_ms": 171
+        }
+    ],
+    "베": [
+        {
+            "file_name": "_selective_Glove_EP05_038_Ui_베_B4_std12.3_-14.2dB_2080ms_2224ms_M30ms.ogg",
+            "start_ms": 52021,
+            "duration_ms": 141
+        }
+    ],
+    "벨": [
+        {
+            "file_name": "Voice_Ui_PowerAttack2_3_벨_D3_std3.3_-12.8dB_20ms_180ms_M30ms.ogg",
+            "start_ms": 52162,
+            "duration_ms": 157
+        }
+    ],
+    "볍": [
+        {
+            "file_name": "_selective_Dew_EP01_083_Ui_볍_G4_std20.0_-21.9dB_2420ms_2580ms_M30ms.ogg",
+            "start_ms": 52319,
+            "duration_ms": 157
+        }
+    ],
+    "병": [
+        {
+            "file_name": "_selective_Dew_EP02_011_Ui_병_A4_std66.9_-15.2dB_840ms_1040ms_M30ms.ogg",
+            "start_ms": 52476,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Dew_EP02_037_Ui_병_Asharp4_std6.7_-15.1dB_430ms_580ms_M30ms.ogg",
+            "start_ms": 52673,
+            "duration_ms": 147
+        }
+    ],
+    "보": [
+        {
+            "file_name": "_selective_Dew_EP02_034_Ui_보_Dsharp5_std45.7_-16.8dB_1400ms_1526ms_M30ms.ogg",
+            "start_ms": 52820,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Dew_EP05_013_Ui_보_Dsharp5_std17.9_-13.5dB_1000ms_1126ms_M30ms.ogg",
+            "start_ms": 52943,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP06_108_Ui_보_D5_std17.0_-12.5dB_3040ms_3166ms_M30ms.ogg",
+            "start_ms": 53071,
+            "duration_ms": 128
+        }
+    ],
+    "복": [
+        {
+            "file_name": "_selective_Dew_EP07_045_Ui_복_Csharp4_std24.5_-25.5dB_1780ms_1940ms_M30ms.ogg",
+            "start_ms": 53199,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP02_091_Ui_복_F5_std7.0_-14.4dB_2960ms_3140ms_M30ms.ogg",
+            "start_ms": 53356,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_frozen_EP06_029_Ui_복_Dsharp4_std29.9_-17.7dB_600ms_750ms_M30ms.ogg",
+            "start_ms": 53533,
+            "duration_ms": 152
+        }
+    ],
+    "볼": [
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin4_볼_Dsharp4_std11.4_-16.9dB_2720ms_2870ms_M30ms.ogg",
+            "start_ms": 53685,
+            "duration_ms": 152
+        }
+    ],
+    "부": [
+        {
+            "file_name": "_selective_fantasyadventure_EP01_098_Ui_부_G4_std38.1_-22.9dB_2100ms_2244ms_M30ms.ogg",
+            "start_ms": 53837,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP02_031_Ui_부_Asharp4_std10.4_-22.6dB_2420ms_2564ms_M30ms.ogg",
+            "start_ms": 53978,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_040_Ui_부_Dsharp4_std22.3_-27.8dB_4420ms_4563ms_M30ms.ogg",
+            "start_ms": 54119,
+            "duration_ms": 140
+        }
+    ],
+    "분": [
+        {
+            "file_name": "_selective_Dew_EP02_001_Ui_분_A4_std21.6_-20.5dB_4520ms_4670ms_M30ms.ogg",
+            "start_ms": 54259,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Dew_EP02_025_Ui_분_Gsharp4_std10.2_-20.2dB_1619ms_1740ms_M30ms.ogg",
+            "start_ms": 54411,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Dew_EP04_072_Ui_분_C5_std20.9_-16.1dB_2080ms_2210ms_M30ms.ogg",
+            "start_ms": 54534,
+            "duration_ms": 131
+        }
+    ],
+    "불": [
+        {
+            "file_name": "_selective_fantasyadventure_EP01_074_Ui_불_B4_std10.2_-14.9dB_100ms_270ms_M30ms.ogg",
+            "start_ms": 54665,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_011_Ui_불_Asharp4_std37.0_-16.0dB_4300ms_4420ms_M30ms.ogg",
+            "start_ms": 54836,
+            "duration_ms": 117
+        }
+    ],
+    "비": [
+        {
+            "file_name": "_selective_frozen_EP06_053_Ui_비_B4_std8.0_-16.1dB_3760ms_3904ms_M30ms.ogg",
+            "start_ms": 54953,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_Glove_EP05_045_Ui_비_Dsharp4_std13.2_-17.9dB_2720ms_2864ms_M30ms.ogg",
+            "start_ms": 55117,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_033_Ui_비_E4_std30.7_-16.8dB_3400ms_3544ms_M30ms.ogg",
+            "start_ms": 55258,
+            "duration_ms": 141
+        }
+    ],
+    "빌": [
+        {
+            "file_name": "_selective_Dew_EP04_081_Ui_빌_B4_std17.9_-18.6dB_3220ms_3420ms_M30ms.ogg",
+            "start_ms": 55399,
+            "duration_ms": 197
+        }
+    ],
+    "빙": [
+        {
+            "file_name": "_selective_Dew_EP01_079_Ui_빙_B4_std13.8_-24.0dB_4899ms_4999ms_M30ms.ogg",
+            "start_ms": 55596,
+            "duration_ms": 101
+        }
+    ],
+    "빠": [
+        {
+            "file_name": "_selective_Dew_EP05_046_Ui_빠_G5_std41.6_-12.7dB_2340ms_2484ms_M30ms.ogg",
+            "start_ms": 55697,
+            "duration_ms": 141
+        }
+    ],
+    "빼": [
+        {
+            "file_name": "_selective_Dew_EP01_082_Ui_빼_C5_std28.8_-16.6dB_3680ms_3860ms_M30ms.ogg",
+            "start_ms": 55838,
+            "duration_ms": 181
+        }
+    ],
+    "뿐": [
+        {
+            "file_name": "_selective_Dew_EP02_112_Ui_뿐_D5_std13.3_-17.5dB_4669ms_4830ms_M30ms.ogg",
+            "start_ms": 56019,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Dew_EP04_073_Ui_뿐_E5_std33.5_-15.2dB_7040ms_7230ms_M30ms.ogg",
+            "start_ms": 56182,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Glove_EP05_072_Ui_뿐_F5_std15.4_-14.6dB_5600ms_5790ms_M30ms.ogg",
+            "start_ms": 56374,
+            "duration_ms": 192
+        }
+    ],
+    "뿔": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_004_Ui_뿔_Csharp5_std26.9_-12.2dB_559ms_679ms_M30ms.ogg",
+            "start_ms": 56566,
+            "duration_ms": 117
+        }
+    ],
+    "사": [
+        {
+            "file_name": "_selective_Dew_EP04_072_Ui_사_E5_std13.9_-13.0dB_840ms_984ms_M30ms.ogg",
+            "start_ms": 56683,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Dew_EP06_035_Ui_사_F5_std44.6_-13.5dB_2540ms_2702ms_M30ms.ogg",
+            "start_ms": 56824,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin4_사_Gsharp4_std20.6_-17.9dB_1340ms_1484ms_M30ms.ogg",
+            "start_ms": 56983,
+            "duration_ms": 141
+        }
+    ],
+    "산": [
+        {
+            "file_name": "_selective_Dew_EP02_001_Ui_산_A4_std29.8_-18.1dB_2120ms_2280ms_M30ms.ogg",
+            "start_ms": 57124,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP06_032_Ui_산_D5_std20.6_-13.8dB_1359ms_1490ms_M30ms.ogg",
+            "start_ms": 57281,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_020_Ui_산_Asharp4_std18.7_-14.7dB_3380ms_3520ms_M30ms.ogg",
+            "start_ms": 57414,
+            "duration_ms": 141
+        }
+    ],
+    "살": [
+        {
+            "file_name": "_selective_Dew_EP02_037_Ui_살_C5_std39.3_-14.0dB_1220ms_1410ms_M30ms.ogg",
+            "start_ms": 57555,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_frozen_EP06_075_Ui_살_D5_std14.0_-14.4dB_2160ms_2380ms_M30ms.ogg",
+            "start_ms": 57747,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_frozen_EP06_079_Ui_살_C5_std43.7_-12.6dB_3560ms_3730ms_M30ms.ogg",
+            "start_ms": 57964,
+            "duration_ms": 171
+        }
+    ],
+    "상": [
+        {
+            "file_name": "_selective_Dew_EP01_038_Ui_상_A4_std19.5_-18.5dB_1400ms_1520ms_M30ms.ogg",
+            "start_ms": 58135,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Dew_EP04_026_Ui_상_G5_std10.9_-12.6dB_3280ms_3400ms_M30ms.ogg",
+            "start_ms": 58252,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Dew_EP07_008_Ui_상_B4_std15.4_-21.2dB_280ms_400ms_M30ms.ogg",
+            "start_ms": 58369,
+            "duration_ms": 117
+        }
+    ],
+    "새": [
+        {
+            "file_name": "_selective_fantasyadventure_EP02_077_Ui_새_Dsharp5_std28.1_-12.8dB_520ms_645ms_M30ms.ogg",
+            "start_ms": 58486,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_041_Ui_새_Dsharp5_std5.1_-12.1dB_1859ms_1950ms_M30ms.ogg",
+            "start_ms": 58611,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_076_Ui_새_D5_std13.5_-10.2dB_2200ms_2344ms_M30ms.ogg",
+            "start_ms": 58704,
+            "duration_ms": 141
+        }
+    ],
+    "색": [
+        {
+            "file_name": "_selective_Dew_EP07_049_Ui_색_Asharp4_std42.0_-15.7dB_730ms_860ms_M30ms.ogg",
+            "start_ms": 58845,
+            "duration_ms": 131
+        }
+    ],
+    "생": [
+        {
+            "file_name": "_selective_Dew_EP07_079_Ui_생_C5_std16.2_-17.5dB_2280ms_2440ms_M30ms.ogg",
+            "start_ms": 58976,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP02_093_Ui_생_D5_std20.4_-16.7dB_1600ms_1760ms_M30ms.ogg",
+            "start_ms": 59133,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP06_047_Ui_생_Csharp5_std32.2_-17.4dB_1040ms_1200ms_M30ms.ogg",
+            "start_ms": 59290,
+            "duration_ms": 157
+        }
+    ],
+    "서": [
+        {
+            "file_name": "_selective_Dew_EP01_039_Ui_서_Gsharp4_std31.6_-16.4dB_720ms_828ms_M30ms.ogg",
+            "start_ms": 59447,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Dew_EP04_082_Ui_서_D5_std20.8_-13.4dB_380ms_488ms_M30ms.ogg",
+            "start_ms": 59556,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Dew_EP04_101_Ui_서_Csharp5_std28.6_-11.9dB_1320ms_1428ms_M30ms.ogg",
+            "start_ms": 59665,
+            "duration_ms": 109
+        }
+    ],
+    "선": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_038_Ui_선_Fsharp5_std36.3_-13.7dB_1859ms_2040ms_M30ms.ogg",
+            "start_ms": 59774,
+            "duration_ms": 181
+        }
+    ],
+    "설": [
+        {
+            "file_name": "_selective_frozen_EP06_050_Ui_설_Dsharp5_std41.8_-14.4dB_1840ms_2000ms_M30ms.ogg",
+            "start_ms": 59955,
+            "duration_ms": 180
+        }
+    ],
+    "섭": [
+        {
+            "file_name": "_selective_Glove_EP05_060_Ui_섭_E5_std27.9_-15.6dB_1359ms_1520ms_M30ms.ogg",
+            "start_ms": 60135,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_Glove_EP05_060_Ui_섭_F5_std15.1_-15.4dB_1520ms_1700ms_M30ms.ogg",
+            "start_ms": 60298,
+            "duration_ms": 177
+        }
+    ],
+    "세": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_030_Ui_세_C5_std8.7_-16.1dB_980ms_1142ms_M30ms.ogg",
+            "start_ms": 60475,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_026_Ui_세_Asharp4_std37.5_-14.5dB_100ms_262ms_M30ms.ogg",
+            "start_ms": 60634,
+            "duration_ms": 163
+        }
+    ],
+    "소": [
+        {
+            "file_name": "_selective_Dew_EP07_008_Ui_소_C5_std18.6_-13.4dB_4780ms_4888ms_M30ms.ogg",
+            "start_ms": 60797,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Glove_EP05_048_Ui_소_D5_std7.7_-16.4dB_3300ms_3408ms_M30ms.ogg",
+            "start_ms": 60906,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Glove_EP05_060_Ui_소_Csharp5_std12.6_-12.5dB_1960ms_2050ms_M30ms.ogg",
+            "start_ms": 61015,
+            "duration_ms": 91
+        }
+    ],
+    "속": [
+        {
+            "file_name": "_selective_Dew_EP07_035_Ui_속_E4_std81.4_-15.2dB_1260ms_1460ms_M30ms.ogg",
+            "start_ms": 61106,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_frozen_EP08_084_Ui_속_B4_std11.5_-20.7dB_3239ms_3420ms_M30ms.ogg",
+            "start_ms": 61303,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_018_Ui_속_A4_std9.1_-21.8dB_339ms_540ms_M30ms.ogg",
+            "start_ms": 61481,
+            "duration_ms": 198
+        }
+    ],
+    "수": [
+        {
+            "file_name": "_selective_Dew_EP01_004_Ui_수_Asharp4_std3.4_-20.1dB_2480ms_2570ms_M30ms.ogg",
+            "start_ms": 61679,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_Dew_EP04_013_Ui_수_Dsharp5_std32.4_-17.6dB_4019ms_4110ms_M30ms.ogg",
+            "start_ms": 61770,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_033_Ui_수_Asharp4_std10.9_-18.8dB_919ms_1010ms_M30ms.ogg",
+            "start_ms": 61863,
+            "duration_ms": 93
+        }
+    ],
+    "숙": [
+        {
+            "file_name": "_selective_Dew_EP01_008_Ui_숙_Asharp4_std14.0_-25.4dB_3800ms_3950ms_M30ms.ogg",
+            "start_ms": 61956,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_Dew_EP02_033_Ui_숙_C5_std10.7_-21.8dB_2260ms_2400ms_M30ms.ogg",
+            "start_ms": 62103,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "Voice_Ui_LevelUp_Skin1_숙_G5_std16.5_-17.9dB_1580ms_1780ms_M30ms.ogg",
+            "start_ms": 62240,
+            "duration_ms": 197
+        }
+    ],
+    "스": [
+        {
+            "file_name": "_selective_frozen_EP06_010_Ui_스_Unvoiced_std0.0_-22.9dB_1800ms_1908ms_M30ms.ogg",
+            "start_ms": 62437,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_frozen_EP06_045_Ui_스_A4_std8.0_-15.1dB_1119ms_1210ms_M30ms.ogg",
+            "start_ms": 62542,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_1_Skin1_스_C5_std17.5_-19.2dB_1440ms_1548ms_M30ms.ogg",
+            "start_ms": 62635,
+            "duration_ms": 109
+        }
+    ],
+    "슨": [
+        {
+            "file_name": "_selective_Dew_EP04_026_Ui_슨_B4_std13.7_-21.3dB_1099ms_1200ms_M30ms.ogg",
+            "start_ms": 62744,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Dew_EP07_020_Ui_슨_Gsharp4_std6.2_-19.4dB_240ms_360ms_M30ms.ogg",
+            "start_ms": 62845,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_007_Ui_슨_Asharp4_std6.5_-23.6dB_180ms_280ms_M30ms.ogg",
+            "start_ms": 62962,
+            "duration_ms": 101
+        }
+    ],
+    "슬": [
+        {
+            "file_name": "_selective_T_XMas_EP06_001_Ui_슬_C5_std33.2_-9.8dB_1020ms_1200ms_M30ms.ogg",
+            "start_ms": 63063,
+            "duration_ms": 177
+        }
+    ],
+    "슷": [
+        {
+            "file_name": "_selective_Dew_EP07_098_Ui_슷_Unvoiced_std0.0_-27.4dB_1170ms_1280ms_M30ms.ogg",
+            "start_ms": 63240,
+            "duration_ms": 107
+        },
+        {
+            "file_name": "_selective_frozen_EP06_066_Ui_슷_Unvoiced_std0.0_-27.9dB_1040ms_1140ms_M30ms.ogg",
+            "start_ms": 63347,
+            "duration_ms": 97
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_020_Ui_슷_Unvoiced_std0.0_-27.9dB_2720ms_2820ms_M30ms.ogg",
+            "start_ms": 63444,
+            "duration_ms": 97
+        }
+    ],
+    "시": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_041_Ui_시_Unvoiced_std0.0_-24.2dB_2280ms_2388ms_M30ms.ogg",
+            "start_ms": 63541,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Ui_Affinity3_시_G5_std7.7_-23.1dB_1220ms_1328ms_M30ms.ogg",
+            "start_ms": 63650,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Ui_Line1_시_Csharp5_std5.1_-15.7dB_960ms_1068ms_M30ms.ogg",
+            "start_ms": 63759,
+            "duration_ms": 109
+        }
+    ],
+    "신": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_040_Ui_신_B4_std4.0_-23.7dB_1500ms_1640ms_M30ms.ogg",
+            "start_ms": 63868,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_051_Ui_신_Fsharp4_std8.4_-24.4dB_2260ms_2400ms_M30ms.ogg",
+            "start_ms": 64009,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_031_Ui_신_B4_std6.4_-24.4dB_1180ms_1330ms_M30ms.ogg",
+            "start_ms": 64150,
+            "duration_ms": 152
+        }
+    ],
+    "싫": [
+        {
+            "file_name": "_selective_Dew_EP04_012_Ui_싫_F5_std12.8_-16.6dB_4420ms_4609ms_M30ms.ogg",
+            "start_ms": 64302,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_015_Ui_싫_C5_std23.0_-21.3dB_4960ms_5130ms_M30ms.ogg",
+            "start_ms": 64491,
+            "duration_ms": 171
+        }
+    ],
+    "심": [
+        {
+            "file_name": "_selective_Dew_EP07_045_Ui_심_C5_std7.8_-18.4dB_3920ms_4070ms_M30ms.ogg",
+            "start_ms": 64662,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Dew_EP07_085_Ui_심_Asharp4_std5.6_-22.4dB_600ms_740ms_M30ms.ogg",
+            "start_ms": 64814,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Dew_EP07_097_Ui_심_Fsharp4_std25.1_-17.4dB_899ms_1050ms_M30ms.ogg",
+            "start_ms": 64955,
+            "duration_ms": 152
+        }
+    ],
+    "싶": [
+        {
+            "file_name": "_selective_Dew_EP04_006_Ui_싶_Asharp4_std20.2_-26.9dB_3700ms_3910ms_M30ms.ogg",
+            "start_ms": 65107,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_Glove_EP05_066_Ui_싶_Unvoiced_std0.0_-24.3dB_760ms_970ms_M30ms.ogg",
+            "start_ms": 65318,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "Voice_Ui_AsideGet_싶_Unvoiced_std0.0_-22.3dB_4860ms_5090ms_M30ms.ogg",
+            "start_ms": 65529,
+            "duration_ms": 232
+        }
+    ],
+    "싸": [
+        {
+            "file_name": "_selective_Dew_EP06_048_Ui_싸_B4_std18.5_-11.4dB_1380ms_1488ms_M30ms.ogg",
+            "start_ms": 65761,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_073_Ui_싸_A4_std14.0_-10.8dB_180ms_323ms_M30ms.ogg",
+            "start_ms": 65870,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_077_Ui_싸_Csharp5_std14.9_-11.3dB_1880ms_1988ms_M30ms.ogg",
+            "start_ms": 66014,
+            "duration_ms": 109
+        }
+    ],
+    "써": [
+        {
+            "file_name": "_selective_Dew_EP02_100_Ui_써_B4_std10.0_-17.7dB_2420ms_2600ms_M30ms.ogg",
+            "start_ms": 66123,
+            "duration_ms": 181
+        }
+    ],
+    "쓰": [
+        {
+            "file_name": "_selective_Dew_EP02_007_Ui_쓰_F5_std10.1_-12.4dB_2200ms_2308ms_M30ms.ogg",
+            "start_ms": 66304,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_frozen_EP08_084_Ui_쓰_B4_std10.1_-24.4dB_2640ms_2748ms_M30ms.ogg",
+            "start_ms": 66413,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Ui_Line3_쓰_A4_std7.8_-19.7dB_2180ms_2288ms_M30ms.ogg",
+            "start_ms": 66518,
+            "duration_ms": 105
+        }
+    ],
+    "아": [
+        {
+            "file_name": "_selective_Dew_EP02_030_Ui_아_F4_std13.5_-16.6dB_2520ms_2682ms_M30ms.ogg",
+            "start_ms": 66623,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_Dew_EP05_046_Ui_아_G4_std16.1_-14.4dB_60ms_222ms_M30ms.ogg",
+            "start_ms": 66782,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_frozen_EP06_046_Ui_아_E5_std58.9_-14.5dB_420ms_582ms_M30ms.ogg",
+            "start_ms": 66945,
+            "duration_ms": 163
+        }
+    ],
+    "안": [
+        {
+            "file_name": "_selective_Dew_EP06_034_Ui_안_F4_std24.5_-18.8dB_780ms_940ms_M30ms.ogg",
+            "start_ms": 67108,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Dew_EP07_076_Ui_안_C4_std12.6_-20.8dB_3840ms_4000ms_M30ms.ogg",
+            "start_ms": 67265,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_026_Ui_안_Csharp4_std9.0_-13.2dB_1070ms_1240ms_M30ms.ogg",
+            "start_ms": 67422,
+            "duration_ms": 167
+        }
+    ],
+    "않": [
+        {
+            "file_name": "_selective_Dew_EP01_050_Ui_않_Fsharp4_std18.5_-17.6dB_2860ms_3050ms_M30ms.ogg",
+            "start_ms": 67589,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Dew_EP05_068_Ui_않_F4_std59.5_-15.7dB_1680ms_1850ms_M30ms.ogg",
+            "start_ms": 67781,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Dew_EP06_047_Ui_않_E4_std45.4_-15.6dB_2880ms_3060ms_M30ms.ogg",
+            "start_ms": 67952,
+            "duration_ms": 181
+        }
+    ],
+    "알": [
+        {
+            "file_name": "_selective_Dew_EP01_079_Ui_알_F4_std38.4_-14.7dB_420ms_620ms_M30ms.ogg",
+            "start_ms": 68133,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_053_Ui_알_Asharp4_std54.8_-15.7dB_100ms_300ms_M30ms.ogg",
+            "start_ms": 68330,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_frozen_EP11_073_Ui_알_B3_std18.8_-19.8dB_60ms_260ms_M30ms.ogg",
+            "start_ms": 68527,
+            "duration_ms": 197
+        }
+    ],
+    "았": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_064_Ui_았_G5_std16.7_-14.4dB_4230ms_4399ms_M30ms.ogg",
+            "start_ms": 68724,
+            "duration_ms": 166
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_040_Ui_았_A4_std5.2_-13.7dB_4930ms_5079ms_M30ms.ogg",
+            "start_ms": 68890,
+            "duration_ms": 149
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_050_HiddenUi_았_A4_std13.7_-18.4dB_1530ms_1720ms_M30ms.ogg",
+            "start_ms": 69039,
+            "duration_ms": 187
+        }
+    ],
+    "애": [
+        {
+            "file_name": "_selective_T_XMas_EP06_066_Ui_애_G5_std58.7_-13.1dB_2360ms_2468ms_M30ms.ogg",
+            "start_ms": 69226,
+            "duration_ms": 109
+        }
+    ],
+    "액": [
+        {
+            "file_name": "_selective_frozen_EP11_069_Ui_액_A4_std18.2_-16.5dB_3300ms_3469ms_M30ms.ogg",
+            "start_ms": 69335,
+            "duration_ms": 171
+        }
+    ],
+    "야": [
+        {
+            "file_name": "_selective_Dew_EP01_039_Ui_야_F4_std2.4_-13.6dB_840ms_948ms_M30ms.ogg",
+            "start_ms": 69506,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Dew_EP02_008_Ui_야_Csharp5_std73.3_-13.2dB_3440ms_3548ms_M30ms.ogg",
+            "start_ms": 69615,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_131_Ui_야_E5_std81.6_-11.3dB_2400ms_2508ms_M30ms.ogg",
+            "start_ms": 69724,
+            "duration_ms": 109
+        }
+    ],
+    "얀": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_020_Ui_얀_C5_std33.8_-17.6dB_339ms_540ms_M30ms.ogg",
+            "start_ms": 69833,
+            "duration_ms": 203
+        }
+    ],
+    "어": [
+        {
+            "file_name": "_selective_Dew_EP01_007_Ui_어_A4_std26.4_-16.0dB_4689ms_4825ms_M30ms.ogg",
+            "start_ms": 70036,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_Dew_EP06_084_Ui_어_B4_std17.3_-14.8dB_3769ms_3905ms_M30ms.ogg",
+            "start_ms": 70169,
+            "duration_ms": 133
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_026_Ui_어_F4_std12.4_-14.3dB_3110ms_3245ms_M30ms.ogg",
+            "start_ms": 70302,
+            "duration_ms": 136
+        }
+    ],
+    "억": [
+        {
+            "file_name": "_selective_Dew_EP07_006_Ui_억_C5_std44.8_-17.8dB_3680ms_3900ms_M30ms.ogg",
+            "start_ms": 70438,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_011_Ui_억_Asharp4_std10.6_-15.2dB_4940ms_5130ms_M30ms.ogg",
+            "start_ms": 70659,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_041_Ui_억_F4_std12.7_-14.6dB_760ms_929ms_M30ms.ogg",
+            "start_ms": 70851,
+            "duration_ms": 171
+        }
+    ],
+    "언": [
+        {
+            "file_name": "_selective_fantasyadventure_EP02_077_Ui_언_Dsharp4_std27.5_-15.0dB_1880ms_2100ms_M30ms.ogg",
+            "start_ms": 71022,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_frozen_EP10_043_Ui_언_D4_std34.8_-14.7dB_559ms_720ms_M30ms.ogg",
+            "start_ms": 71239,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "Voice_Ui_LevelUp_Skin3_언_F4_std13.5_-14.6dB_1359ms_1520ms_M30ms.ogg",
+            "start_ms": 71397,
+            "duration_ms": 158
+        }
+    ],
+    "얼": [
+        {
+            "file_name": "_selective_Dew_EP03_004_Ui_얼_Dsharp4_std27.3_-14.5dB_459ms_679ms_M30ms.ogg",
+            "start_ms": 71555,
+            "duration_ms": 217
+        }
+    ],
+    "없": [
+        {
+            "file_name": "_selective_Dew_EP01_004_Ui_없_E4_std7.7_-18.0dB_3400ms_3600ms_M30ms.ogg",
+            "start_ms": 71772,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_036_Ui_없_D4_std11.3_-17.5dB_2970ms_3170ms_M30ms.ogg",
+            "start_ms": 71969,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_047_Ui_없_Fsharp4_std13.2_-17.8dB_720ms_929ms_M30ms.ogg",
+            "start_ms": 72166,
+            "duration_ms": 211
+        }
+    ],
+    "었": [
+        {
+            "file_name": "_selective_Dew_EP04_006_Ui_었_Csharp5_std18.1_-18.1dB_3910ms_4079ms_M30ms.ogg",
+            "start_ms": 72377,
+            "duration_ms": 166
+        },
+        {
+            "file_name": "_selective_Dew_EP05_022_Ui_었_C5_std7.9_-14.6dB_3690ms_3860ms_M30ms.ogg",
+            "start_ms": 72543,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_frozen_EP07_071_Ui_었_C5_std17.6_-15.6dB_3250ms_3420ms_M30ms.ogg",
+            "start_ms": 72714,
+            "duration_ms": 171
+        }
+    ],
+    "에": [
+        {
+            "file_name": "_selective_Dew_EP01_086_Ui_에_Dsharp4_std1.1_-13.1dB_40ms_184ms_M30ms.ogg",
+            "start_ms": 72885,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Ui_Birthday_에_D4_std9.0_-17.9dB_1480ms_1624ms_M30ms.ogg",
+            "start_ms": 73026,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_2_Skin2_에_Gsharp4_std30.3_-18.0dB_720ms_864ms_M30ms.ogg",
+            "start_ms": 73167,
+            "duration_ms": 164
+        }
+    ],
+    "엔": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_024_Ui_엔_B4_std19.4_-17.0dB_490ms_600ms_M30ms.ogg",
+            "start_ms": 73331,
+            "duration_ms": 107
+        }
+    ],
+    "엘": [
+        {
+            "file_name": "_selective_frozen_EP06_045_Ui_엘_Dsharp4_std16.9_-14.1dB_649ms_820ms_M30ms.ogg",
+            "start_ms": 73438,
+            "duration_ms": 173
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_034_Ui_엘_Dsharp4_std7.3_-18.4dB_40ms_240ms_M30ms.ogg",
+            "start_ms": 73611,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_007_Ui_엘_C4_std11.0_-14.2dB_659ms_820ms_M30ms.ogg",
+            "start_ms": 73808,
+            "duration_ms": 163
+        }
+    ],
+    "여": [
+        {
+            "file_name": "_selective_fantasyadventure_EP06_076_Ui_여_Fsharp4_std30.4_-10.7dB_2600ms_2744ms_M30ms.ogg",
+            "start_ms": 73971,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_frozen_EP06_048_Ui_여_C5_std9.6_-13.3dB_2820ms_2946ms_M30ms.ogg",
+            "start_ms": 74112,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Ui_Line3_여_E4_std16.4_-13.2dB_340ms_502ms_M30ms.ogg",
+            "start_ms": 74240,
+            "duration_ms": 159
+        }
+    ],
+    "역": [
+        {
+            "file_name": "_selective_Dew_EP01_038_Ui_역_Dsharp4_std14.9_-16.8dB_3180ms_3400ms_M30ms.ogg",
+            "start_ms": 74399,
+            "duration_ms": 221
+        }
+    ],
+    "연": [
+        {
+            "file_name": "_selective_T_XMas_EP06_020_Ui_연_D4_std16.4_-12.5dB_3840ms_4029ms_M30ms.ogg",
+            "start_ms": 74620,
+            "duration_ms": 189
+        }
+    ],
+    "열": [
+        {
+            "file_name": "_selective_T_XMas_EP06_025_Ui_열_Dsharp4_std21.8_-13.0dB_3520ms_3720ms_M30ms.ogg",
+            "start_ms": 74809,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_026_Ui_열_F4_std36.4_-11.6dB_2940ms_3110ms_M30ms.ogg",
+            "start_ms": 75006,
+            "duration_ms": 171
+        }
+    ],
+    "염": [
+        {
+            "file_name": "_selective_Dew_EP07_045_Ui_염_D4_std5.5_-13.9dB_120ms_280ms_M30ms.ogg",
+            "start_ms": 75177,
+            "duration_ms": 157
+        }
+    ],
+    "였": [
+        {
+            "file_name": "_selective_Dew_EP04_004_Ui_였_C5_std11.3_-15.6dB_2220ms_2420ms_M30ms.ogg",
+            "start_ms": 75334,
+            "duration_ms": 197
+        }
+    ],
+    "영": [
+        {
+            "file_name": "_selective_frozen_EP06_029_Ui_영_E4_std41.1_-12.6dB_3280ms_3440ms_M30ms.ogg",
+            "start_ms": 75531,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP06_046_Ui_영_D4_std13.3_-13.2dB_1520ms_1640ms_M30ms.ogg",
+            "start_ms": 75688,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_frozen_EP11_066_Ui_영_C4_std10.5_-14.3dB_280ms_500ms_M30ms.ogg",
+            "start_ms": 75805,
+            "duration_ms": 217
+        }
+    ],
+    "옆": [
+        {
+            "file_name": "_selective_Main_Ch05_EP05_078_Ui_옆_Dsharp4_std17.5_-16.4dB_5989ms_6159ms_M30ms.ogg",
+            "start_ms": 76022,
+            "duration_ms": 167
+        }
+    ],
+    "오": [
+        {
+            "file_name": "_selective_Dew_EP01_010_Ui_오_Dsharp4_std10.8_-22.4dB_40ms_166ms_M30ms.ogg",
+            "start_ms": 76189,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Ui_Die1_오_Dsharp4_std15.2_-13.0dB_40ms_166ms_M30ms.ogg",
+            "start_ms": 76317,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin4_오_Csharp4_std2.5_-16.4dB_2180ms_2306ms_M30ms.ogg",
+            "start_ms": 76445,
+            "duration_ms": 128
+        }
+    ],
+    "온": [
+        {
+            "file_name": "_selective_Dew_EP04_096_Ui_온_G4_std19.7_-20.2dB_2120ms_2280ms_M30ms.ogg",
+            "start_ms": 76573,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP06_057_Ui_온_A4_std44.1_-15.8dB_2220ms_2440ms_M30ms.ogg",
+            "start_ms": 76730,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_frozen_EP10_047_Ui_온_Asharp4_std58.1_-14.5dB_3560ms_3700ms_M30ms.ogg",
+            "start_ms": 76947,
+            "duration_ms": 137
+        }
+    ],
+    "올": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_033_Ui_올_Asharp4_std16.4_-15.9dB_5120ms_5260ms_M30ms.ogg",
+            "start_ms": 77084,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_frozen_EP06_049_Ui_올_Dsharp4_std32.1_-15.5dB_1080ms_1220ms_M30ms.ogg",
+            "start_ms": 77225,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Ui_HeroUpgrade_Skin1_올_Dsharp4_std14.5_-17.6dB_580ms_720ms_M30ms.ogg",
+            "start_ms": 77366,
+            "duration_ms": 141
+        }
+    ],
+    "와": [
+        {
+            "file_name": "_selective_Dew_EP01_040_Ui_와_D5_std50.7_-12.3dB_1040ms_1166ms_M30ms.ogg",
+            "start_ms": 77507,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_Dew_EP01_064_Ui_와_G4_std34.1_-12.4dB_1840ms_1965ms_M30ms.ogg",
+            "start_ms": 77630,
+            "duration_ms": 122
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_033_Ui_와_A4_std7.9_-9.6dB_2180ms_2306ms_M30ms.ogg",
+            "start_ms": 77752,
+            "duration_ms": 128
+        }
+    ],
+    "왕": [
+        {
+            "file_name": "Voice_Ui_Touch2_Skin3_왕_Dsharp4_std15.1_-13.0dB_799ms_1000ms_M30ms.ogg",
+            "start_ms": 77880,
+            "duration_ms": 220
+        }
+    ],
+    "왜": [
+        {
+            "file_name": "_selective_fantasyadventure_EP02_031_Ui_왜_Dsharp4_std1.1_-14.0dB_2770ms_2869ms_M30ms.ogg",
+            "start_ms": 78100,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Ui_Affinity4_왜_B3_std4.6_-15.1dB_3820ms_3910ms_M30ms.ogg",
+            "start_ms": 78201,
+            "duration_ms": 91
+        }
+    ],
+    "용": [
+        {
+            "file_name": "_selective_Dew_EP02_061_Ui_용_D4_std11.4_-16.2dB_100ms_300ms_M30ms.ogg",
+            "start_ms": 78292,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_Dew_EP04_069_Ui_용_B4_std22.4_-23.8dB_4180ms_4399ms_M30ms.ogg",
+            "start_ms": 78489,
+            "duration_ms": 216
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_040_Ui_용_F4_std49.7_-15.7dB_2420ms_2620ms_M30ms.ogg",
+            "start_ms": 78705,
+            "duration_ms": 197
+        }
+    ],
+    "우": [
+        {
+            "file_name": "_selective_Dew_EP01_039_Ui_우_D4_std14.3_-21.4dB_40ms_166ms_M30ms.ogg",
+            "start_ms": 78902,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP04_006_Ui_우_E4_std2.8_-21.2dB_240ms_366ms_M30ms.ogg",
+            "start_ms": 79030,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP07_086_Ui_우_Dsharp4_std25.1_-21.1dB_459ms_586ms_M30ms.ogg",
+            "start_ms": 79158,
+            "duration_ms": 128
+        }
+    ],
+    "운": [
+        {
+            "file_name": "_selective_fantasyadventure_EP02_077_Ui_운_D5_std8.1_-12.3dB_730ms_820ms_M30ms.ogg",
+            "start_ms": 79286,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Ui_Affinity4_운_B4_std21.9_-16.5dB_1520ms_1700ms_M30ms.ogg",
+            "start_ms": 79377,
+            "duration_ms": 177
+        }
+    ],
+    "울": [
+        {
+            "file_name": "_selective_T_XMas_EP06_025_Ui_울_A4_std45.6_-12.2dB_1520ms_1680ms_M30ms.ogg",
+            "start_ms": 79554,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Ui_Gacha3_울_Fsharp4_std10.5_-22.2dB_559ms_780ms_M30ms.ogg",
+            "start_ms": 79711,
+            "duration_ms": 221
+        }
+    ],
+    "움": [
+        {
+            "file_name": "_selective_Main_Ch05_EP05_049_Ui_움_A4_std54.1_-17.8dB_500ms_650ms_M30ms.ogg",
+            "start_ms": 79932,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_077_Ui_움_E5_std23.1_-17.5dB_2000ms_2150ms_M30ms.ogg",
+            "start_ms": 80084,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_078_Ui_움_D4_std12.0_-17.9dB_4040ms_4189ms_M30ms.ogg",
+            "start_ms": 80236,
+            "duration_ms": 149
+        }
+    ],
+    "워": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_011_Ui_워_Csharp5_std39.9_-12.1dB_5540ms_5702ms_M30ms.ogg",
+            "start_ms": 80385,
+            "duration_ms": 159
+        }
+    ],
+    "원": [
+        {
+            "file_name": "_selective_Dew_EP01_013_Ui_원_Dsharp4_std7.4_-16.1dB_880ms_1040ms_M30ms.ogg",
+            "start_ms": 80544,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Dew_EP06_084_Ui_원_F4_std10.2_-16.0dB_1220ms_1380ms_M30ms.ogg",
+            "start_ms": 80701,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_044_Ui_원_Asharp4_std30.0_-14.4dB_3640ms_3800ms_M30ms.ogg",
+            "start_ms": 80858,
+            "duration_ms": 157
+        }
+    ],
+    "위": [
+        {
+            "file_name": "_selective_Dew_EP04_060_Ui_위_A4_std14.1_-20.6dB_5060ms_5177ms_M30ms.ogg",
+            "start_ms": 81015,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Dew_EP07_017_Ui_위_F4_std6.9_-21.5dB_3040ms_3148ms_M30ms.ogg",
+            "start_ms": 81132,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Ui_Equipment_Skin1_위_G4_std12.2_-16.7dB_459ms_568ms_M30ms.ogg",
+            "start_ms": 81241,
+            "duration_ms": 109
+        }
+    ],
+    "유": [
+        {
+            "file_name": "_selective_Dew_EP01_006_Ui_유_A4_std5.1_-19.3dB_3950ms_4048ms_M30ms.ogg",
+            "start_ms": 81350,
+            "duration_ms": 95
+        },
+        {
+            "file_name": "_selective_Dew_EP04_081_Ui_유_Dsharp5_std29.8_-12.4dB_3640ms_3748ms_M30ms.ogg",
+            "start_ms": 81445,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_074_Ui_유_B4_std42.5_-13.3dB_1400ms_1517ms_M30ms.ogg",
+            "start_ms": 81554,
+            "duration_ms": 117
+        }
+    ],
+    "으": [
+        {
+            "file_name": "_selective_Glove_EP05_066_Ui_으_B4_std5.9_-17.6dB_1650ms_1749ms_M30ms.ogg",
+            "start_ms": 81671,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_055_Ui_으_Gsharp4_std10.7_-26.5dB_990ms_1089ms_M30ms.ogg",
+            "start_ms": 81772,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Ui_HeroSkill_Skin4_으_F5_std18.2_-11.8dB_2969ms_3069ms_M30ms.ogg",
+            "start_ms": 81873,
+            "duration_ms": 101
+        }
+    ],
+    "은": [
+        {
+            "file_name": "_selective_Dew_EP02_011_Ui_은_C5_std16.3_-24.1dB_590ms_720ms_M30ms.ogg",
+            "start_ms": 81974,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP01_057_Ui_은_A4_std6.8_-18.5dB_3469ms_3600ms_M30ms.ogg",
+            "start_ms": 82101,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Ui_Affinity4_은_A4_std13.5_-19.1dB_710ms_840ms_M30ms.ogg",
+            "start_ms": 82229,
+            "duration_ms": 127
+        }
+    ],
+    "을": [
+        {
+            "file_name": "Voice_Ui_Affinity2_을_G5_std16.1_-8.2dB_1850ms_1960ms_M30ms.ogg",
+            "start_ms": 82356,
+            "duration_ms": 107
+        },
+        {
+            "file_name": "Voice_Ui_Equipment_Skin4_을_G5_std27.8_-11.2dB_470ms_580ms_M30ms.ogg",
+            "start_ms": 82463,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_2_Skin4_을_G5_std47.0_-11.0dB_2670ms_2780ms_M30ms.ogg",
+            "start_ms": 82575,
+            "duration_ms": 112
+        }
+    ],
+    "음": [
+        {
+            "file_name": "_selective_Dew_EP04_017_Ui_음_Asharp4_std30.4_-14.1dB_1640ms_1810ms_M30ms.ogg",
+            "start_ms": 82687,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Dew_EP06_034_Ui_음_G4_std48.7_-14.3dB_520ms_690ms_M30ms.ogg",
+            "start_ms": 82858,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "Voice_Ui_Affinity7_음_E4_std32.4_-17.0dB_2500ms_2670ms_M30ms.ogg",
+            "start_ms": 83029,
+            "duration_ms": 171
+        }
+    ],
+    "응": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_044_Ui_응_E4_std6.3_-14.0dB_3520ms_3640ms_M30ms.ogg",
+            "start_ms": 83200,
+            "duration_ms": 117
+        }
+    ],
+    "의": [
+        {
+            "file_name": "_selective_Dew_EP06_078_Ui_의_B4_std10.4_-17.4dB_310ms_445ms_M30ms.ogg",
+            "start_ms": 83317,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_030_Ui_의_B4_std15.8_-11.5dB_2960ms_3086ms_M30ms.ogg",
+            "start_ms": 83453,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_054_Ui_의_E5_std32.4_-11.1dB_1370ms_1505ms_M30ms.ogg",
+            "start_ms": 83581,
+            "duration_ms": 132
+        }
+    ],
+    "이": [
+        {
+            "file_name": "Voice_Ui_HeroUpgrade_이_F5_std23.9_-19.8dB_400ms_526ms_M30ms.ogg",
+            "start_ms": 83713,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_1_이_G4_std17.8_-13.8dB_1020ms_1146ms_M30ms.ogg",
+            "start_ms": 83836,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Ui_Trickcal1_이_Dsharp5_std27.4_-16.6dB_820ms_946ms_M30ms.ogg",
+            "start_ms": 83964,
+            "duration_ms": 123
+        }
+    ],
+    "익": [
+        {
+            "file_name": "_selective_Dew_EP01_008_Ui_익_Dsharp4_std8.9_-29.4dB_3580ms_3800ms_M30ms.ogg",
+            "start_ms": 84087,
+            "duration_ms": 221
+        }
+    ],
+    "인": [
+        {
+            "file_name": "_selective_fantasyadventure_EP01_074_Ui_인_C5_std15.3_-23.5dB_530ms_680ms_M30ms.ogg",
+            "start_ms": 84308,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_004_Ui_인_B4_std13.0_-20.7dB_6180ms_6330ms_M30ms.ogg",
+            "start_ms": 84455,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_frozen_EP06_004_Ui_인_D5_std29.3_-24.7dB_3710ms_3840ms_M30ms.ogg",
+            "start_ms": 84607,
+            "duration_ms": 151
+        }
+    ],
+    "일": [
+        {
+            "file_name": "_selective_Dew_EP01_039_Ui_일_Fsharp4_std13.0_-22.7dB_1240ms_1390ms_M30ms.ogg",
+            "start_ms": 84758,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Dew_EP01_050_Ui_일_C5_std17.0_-23.3dB_5060ms_5203ms_M30ms.ogg",
+            "start_ms": 84910,
+            "duration_ms": 144
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_007_Ui_일_E4_std17.3_-18.7dB_3160ms_3309ms_M30ms.ogg",
+            "start_ms": 85054,
+            "duration_ms": 149
+        }
+    ],
+    "임": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_031_Ui_임_Asharp4_std5.0_-20.4dB_1330ms_1470ms_M30ms.ogg",
+            "start_ms": 85203,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_054_Ui_임_B4_std14.5_-17.8dB_210ms_370ms_M30ms.ogg",
+            "start_ms": 85344,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_2_Skin3_임_Dsharp4_std19.7_-14.8dB_2340ms_2560ms_M30ms.ogg",
+            "start_ms": 85501,
+            "duration_ms": 221
+        }
+    ],
+    "입": [
+        {
+            "file_name": "_selective_Dew_EP05_012_Ui_입_C5_std23.4_-19.1dB_2380ms_2580ms_M30ms.ogg",
+            "start_ms": 85722,
+            "duration_ms": 197
+        }
+    ],
+    "있": [
+        {
+            "file_name": "_selective_Dew_EP02_002_Ui_있_E4_std41.7_-25.6dB_1960ms_2120ms_M30ms.ogg",
+            "start_ms": 85919,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_frozen_EP06_050_Ui_있_C5_std29.5_-20.2dB_4739ms_4900ms_M30ms.ogg",
+            "start_ms": 86076,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_061_Ui_있_F4_std23.8_-25.7dB_3740ms_3900ms_M30ms.ogg",
+            "start_ms": 86239,
+            "duration_ms": 157
+        }
+    ],
+    "잊": [
+        {
+            "file_name": "Voice_Ui_Affinity5_잊_Dsharp4_std20.8_-24.6dB_2760ms_2929ms_M30ms.ogg",
+            "start_ms": 86396,
+            "duration_ms": 171
+        }
+    ],
+    "자": [
+        {
+            "file_name": "_selective_Dew_EP01_084_Ui_자_G4_std12.4_-16.7dB_540ms_720ms_M30ms.ogg",
+            "start_ms": 86567,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Dew_EP02_003_Ui_자_E4_std10.5_-20.4dB_1380ms_1560ms_M30ms.ogg",
+            "start_ms": 86748,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP02_056_Ui_자_C4_std6.6_-17.5dB_1420ms_1599ms_M30ms.ogg",
+            "start_ms": 86929,
+            "duration_ms": 176
+        }
+    ],
+    "작": [
+        {
+            "file_name": "_selective_Dew_EP06_043_Ui_작_G5_std24.1_-15.3dB_1140ms_1300ms_M30ms.ogg",
+            "start_ms": 87105,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_041_Ui_작_G5_std21.5_-13.9dB_2400ms_2540ms_M30ms.ogg",
+            "start_ms": 87262,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "Voice_Ui_Affinity6_작_Fsharp5_std29.4_-14.1dB_1119ms_1260ms_M30ms.ogg",
+            "start_ms": 87399,
+            "duration_ms": 138
+        }
+    ],
+    "잖": [
+        {
+            "file_name": "_selective_Dew_EP06_033_Ui_잖_C5_std47.3_-15.0dB_3400ms_3610ms_M30ms.ogg",
+            "start_ms": 87537,
+            "duration_ms": 211
+        },
+        {
+            "file_name": "_selective_frozen_EP11_073_Ui_잖_G4_std26.3_-14.8dB_2969ms_3170ms_M30ms.ogg",
+            "start_ms": 87748,
+            "duration_ms": 203
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_061_Ui_잖_Fsharp5_std47.2_-10.8dB_3900ms_4109ms_M30ms.ogg",
+            "start_ms": 87951,
+            "duration_ms": 211
+        }
+    ],
+    "잘": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_045_Ui_잘_F5_std22.7_-11.2dB_1540ms_1680ms_M30ms.ogg",
+            "start_ms": 88162,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_074_Ui_잘_A4_std102.2_-12.7dB_100ms_260ms_M30ms.ogg",
+            "start_ms": 88303,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Ui_LevelUp_Skin1_잘_Gsharp4_std88.9_-11.7dB_1780ms_1940ms_M30ms.ogg",
+            "start_ms": 88460,
+            "duration_ms": 157
+        }
+    ],
+    "장": [
+        {
+            "file_name": "_selective_Dew_EP04_104_Ui_장_Csharp5_std17.9_-15.4dB_220ms_400ms_M30ms.ogg",
+            "start_ms": 88617,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_frozen_EP07_065_Ui_장_G4_std127.7_-11.9dB_1119ms_1300ms_M30ms.ogg",
+            "start_ms": 88794,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_frozen_EP09_028_Ui_장_Csharp5_std15.3_-12.8dB_679ms_820ms_M30ms.ogg",
+            "start_ms": 88975,
+            "duration_ms": 141
+        }
+    ],
+    "재": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_004_Ui_재_Asharp4_std70.3_-17.8dB_2460ms_2604ms_M30ms.ogg",
+            "start_ms": 89116,
+            "duration_ms": 141
+        }
+    ],
+    "저": [
+        {
+            "file_name": "_selective_frozen_EP06_070_Ui_저_Dsharp4_std25.9_-13.7dB_1760ms_1904ms_M30ms.ogg",
+            "start_ms": 89257,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_frozen_EP07_043_Ui_저_Dsharp5_std76.4_-10.4dB_600ms_797ms_M30ms.ogg",
+            "start_ms": 89398,
+            "duration_ms": 194
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_022_Ui_저_A4_std14.9_-11.4dB_3620ms_3727ms_M30ms.ogg",
+            "start_ms": 89592,
+            "duration_ms": 109
+        }
+    ],
+    "적": [
+        {
+            "file_name": "_selective_Dew_EP02_060_Ui_적_Asharp4_std15.3_-22.8dB_500ms_680ms_M30ms.ogg",
+            "start_ms": 89701,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Dew_EP02_061_Ui_적_A4_std6.6_-20.9dB_300ms_480ms_M30ms.ogg",
+            "start_ms": 89878,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Dew_EP06_082_Ui_적_Asharp4_std6.6_-22.2dB_400ms_580ms_M30ms.ogg",
+            "start_ms": 90055,
+            "duration_ms": 177
+        }
+    ],
+    "전": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_020_Ui_전_Gsharp4_std7.3_-14.7dB_2600ms_2790ms_M30ms.ogg",
+            "start_ms": 90232,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_024_Ui_전_C5_std11.9_-14.2dB_290ms_490ms_M30ms.ogg",
+            "start_ms": 90424,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Ui_Board_Skin4_전_Gsharp4_std83.3_-15.3dB_1099ms_1280ms_M30ms.ogg",
+            "start_ms": 90621,
+            "duration_ms": 178
+        }
+    ],
+    "정": [
+        {
+            "file_name": "_selective_frozen_EP06_032_Ui_정_Asharp4_std53.0_-14.5dB_980ms_1160ms_M30ms.ogg",
+            "start_ms": 90799,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_frozen_EP06_079_Ui_정_E4_std64.7_-13.5dB_1000ms_1180ms_M30ms.ogg",
+            "start_ms": 90980,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_025_Ui_정_B4_std10.0_-15.7dB_4239ms_4420ms_M30ms.ogg",
+            "start_ms": 91161,
+            "duration_ms": 181
+        }
+    ],
+    "제": [
+        {
+            "file_name": "_selective_fantasyadventure_EP01_057_Ui_제_A4_std55.5_-12.7dB_1260ms_1422ms_M30ms.ogg",
+            "start_ms": 91342,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP02_077_Ui_제_A4_std15.1_-16.3dB_2100ms_2244ms_M30ms.ogg",
+            "start_ms": 91505,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_038_Ui_제_Gsharp4_std16.1_-15.1dB_180ms_288ms_M30ms.ogg",
+            "start_ms": 91646,
+            "duration_ms": 109
+        }
+    ],
+    "졌": [
+        {
+            "file_name": "_selective_Dew_EP07_087_Ui_졌_C5_std8.4_-19.1dB_2180ms_2389ms_M30ms.ogg",
+            "start_ms": 91755,
+            "duration_ms": 211
+        }
+    ],
+    "조": [
+        {
+            "file_name": "_selective_Dew_EP01_004_Ui_조_Dsharp4_std53.5_-20.5dB_5640ms_5856ms_M30ms.ogg",
+            "start_ms": 91966,
+            "duration_ms": 213
+        },
+        {
+            "file_name": "_selective_Dew_EP02_086_Ui_조_E4_std50.7_-19.6dB_540ms_683ms_M30ms.ogg",
+            "start_ms": 92179,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "Voice_Ui_HeroSkill_조_Fsharp4_std7.6_-22.4dB_840ms_966ms_M30ms.ogg",
+            "start_ms": 92343,
+            "duration_ms": 123
+        }
+    ],
+    "좀": [
+        {
+            "file_name": "_selective_Dew_EP06_053_Ui_좀_F4_std10.1_-20.9dB_2060ms_2220ms_M30ms.ogg",
+            "start_ms": 92466,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_078_Ui_좀_E4_std27.8_-17.4dB_1960ms_2120ms_M30ms.ogg",
+            "start_ms": 92623,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_058_Ui_좀_Fsharp4_std9.2_-16.5dB_899ms_1060ms_M30ms.ogg",
+            "start_ms": 92780,
+            "duration_ms": 163
+        }
+    ],
+    "좋": [
+        {
+            "file_name": "_selective_Dew_EP02_061_Ui_좋_G4_std56.5_-18.3dB_3640ms_3820ms_M30ms.ogg",
+            "start_ms": 92943,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Dew_EP07_087_Ui_좋_Dsharp4_std37.9_-24.3dB_2660ms_2840ms_M30ms.ogg",
+            "start_ms": 93124,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_018_Ui_좋_G4_std25.9_-22.8dB_5700ms_5899ms_M30ms.ogg",
+            "start_ms": 93301,
+            "duration_ms": 196
+        }
+    ],
+    "주": [
+        {
+            "file_name": "_selective_Dew_EP02_074_Ui_주_C5_std3.7_-19.9dB_1200ms_1308ms_M30ms.ogg",
+            "start_ms": 93497,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_frozen_EP06_045_Ui_주_A4_std4.8_-27.5dB_3080ms_3188ms_M30ms.ogg",
+            "start_ms": 93606,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Glove_EP05_072_Ui_주_Dsharp5_std5.9_-16.3dB_5120ms_5228ms_M30ms.ogg",
+            "start_ms": 93715,
+            "duration_ms": 109
+        }
+    ],
+    "줄": [
+        {
+            "file_name": "_selective_Dew_EP01_064_Ui_줄_B4_std12.4_-21.8dB_1979ms_2140ms_M30ms.ogg",
+            "start_ms": 93824,
+            "duration_ms": 158
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_007_Ui_줄_Gsharp4_std15.7_-19.3dB_3040ms_3160ms_M30ms.ogg",
+            "start_ms": 93982,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_040_Ui_줄_Csharp5_std35.5_-14.2dB_6700ms_6830ms_M30ms.ogg",
+            "start_ms": 94099,
+            "duration_ms": 131
+        }
+    ],
+    "중": [
+        {
+            "file_name": "_selective_Glove_EP05_065_Ui_중_Csharp5_std9.6_-15.5dB_3000ms_3120ms_M30ms.ogg",
+            "start_ms": 94230,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_046_Ui_중_Dsharp5_std10.3_-19.0dB_1340ms_1460ms_M30ms.ogg",
+            "start_ms": 94347,
+            "duration_ms": 117
+        }
+    ],
+    "줬": [
+        {
+            "file_name": "_selective_Dew_EP04_003_Ui_줬_C5_std12.0_-22.8dB_2860ms_3080ms_M30ms.ogg",
+            "start_ms": 94464,
+            "duration_ms": 217
+        }
+    ],
+    "지": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_023_Ui_지_A4_std6.5_-20.9dB_3280ms_3405ms_M30ms.ogg",
+            "start_ms": 94681,
+            "duration_ms": 122
+        },
+        {
+            "file_name": "_selective_Main_Ch05_EP05_050_HiddenUi_지_Gsharp4_std11.0_-24.5dB_1720ms_1845ms_M30ms.ogg",
+            "start_ms": 94803,
+            "duration_ms": 122
+        },
+        {
+            "file_name": "Voice_Ui_Victory1_지_F5_std41.2_-12.8dB_1740ms_1865ms_M30ms.ogg",
+            "start_ms": 94925,
+            "duration_ms": 125
+        }
+    ],
+    "직": [
+        {
+            "file_name": "_selective_Dew_EP02_030_Ui_직_A4_std1.2_-28.4dB_2700ms_2800ms_M30ms.ogg",
+            "start_ms": 95050,
+            "duration_ms": 101
+        }
+    ],
+    "진": [
+        {
+            "file_name": "_selective_Dew_EP07_097_Ui_진_D4_std9.3_-16.6dB_679ms_899ms_M30ms.ogg",
+            "start_ms": 95151,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Ui_LevelUp_Skin3_진_A4_std26.6_-19.7dB_2480ms_2680ms_M30ms.ogg",
+            "start_ms": 95372,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Ui_Touch1_2_Skin4_진_G4_std30.7_-19.5dB_1500ms_1710ms_M30ms.ogg",
+            "start_ms": 95569,
+            "duration_ms": 211
+        }
+    ],
+    "질": [
+        {
+            "file_name": "_selective_Glove_EP05_048_Ui_질_Gsharp4_std16.0_-17.0dB_3680ms_3809ms_M30ms.ogg",
+            "start_ms": 95780,
+            "duration_ms": 131
+        }
+    ],
+    "집": [
+        {
+            "file_name": "_selective_frozen_EP06_079_Ui_집_Fsharp4_std24.4_-20.0dB_2960ms_3150ms_M30ms.ogg",
+            "start_ms": 95911,
+            "duration_ms": 192
+        }
+    ],
+    "짜": [
+        {
+            "file_name": "_selective_frozen_EP06_002_Ui_짜_F5_std18.4_-10.5dB_3300ms_3390ms_M30ms.ogg",
+            "start_ms": 96103,
+            "duration_ms": 91
+        }
+    ],
+    "짝": [
+        {
+            "file_name": "Voice_Ui_Growth1_짝_Dsharp5_std29.2_-14.8dB_780ms_960ms_M30ms.ogg",
+            "start_ms": 96194,
+            "duration_ms": 177
+        }
+    ],
+    "쩔": [
+        {
+            "file_name": "_selective_fantasyadventure_EP02_059_Ui_쩔_A4_std14.5_-18.1dB_1220ms_1420ms_M30ms.ogg",
+            "start_ms": 96371,
+            "duration_ms": 197
+        }
+    ],
+    "찮": [
+        {
+            "file_name": "_selective_Dew_EP03_006_Ui_찮_Csharp5_std30.8_-14.0dB_339ms_530ms_M30ms.ogg",
+            "start_ms": 96568,
+            "duration_ms": 192
+        }
+    ],
+    "찾": [
+        {
+            "file_name": "_selective_Dew_EP01_079_Ui_찾_E5_std12.0_-18.3dB_4019ms_4189ms_M30ms.ogg",
+            "start_ms": 96760,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_Dew_EP05_046_Ui_찾_F5_std19.9_-17.9dB_4280ms_4460ms_M30ms.ogg",
+            "start_ms": 96931,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP03_064_Ui_찾_F5_std21.0_-14.2dB_4059ms_4230ms_M30ms.ogg",
+            "start_ms": 97108,
+            "duration_ms": 173
+        }
+    ],
+    "채": [
+        {
+            "file_name": "_selective_Dew_EP02_039_Ui_채_C5_std6.0_-15.8dB_720ms_846ms_M30ms.ogg",
+            "start_ms": 97281,
+            "duration_ms": 128
+        }
+    ],
+    "처": [
+        {
+            "file_name": "_selective_Dew_EP04_003_Ui_처_Csharp5_std15.3_-18.4dB_60ms_222ms_M30ms.ogg",
+            "start_ms": 97409,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_frozen_EP06_031_Ui_처_C5_std9.8_-11.4dB_919ms_1010ms_M30ms.ogg",
+            "start_ms": 97572,
+            "duration_ms": 93
+        }
+    ],
+    "쳐": [
+        {
+            "file_name": "_selective_Dew_EP02_062_Ui_쳐_C5_std17.6_-13.1dB_679ms_805ms_M30ms.ogg",
+            "start_ms": 97665,
+            "duration_ms": 128
+        }
+    ],
+    "춰": [
+        {
+            "file_name": "_selective_Main_Ch05_EP05_077_Ui_춰_Csharp5_std21.8_-14.7dB_2480ms_2606ms_M30ms.ogg",
+            "start_ms": 97793,
+            "duration_ms": 128
+        }
+    ],
+    "치": [
+        {
+            "file_name": "_selective_fantasyadventure_EP06_048_Ui_치_Gsharp4_std7.1_-22.8dB_1119ms_1300ms_M30ms.ogg",
+            "start_ms": 97921,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP07_077_Ui_치_Fsharp4_std24.0_-18.6dB_3999ms_4125ms_M30ms.ogg",
+            "start_ms": 98102,
+            "duration_ms": 128
+        }
+    ],
+    "친": [
+        {
+            "file_name": "_selective_fantasyadventure_EP01_056_Ui_친_Csharp5_std23.1_-21.9dB_659ms_840ms_M30ms.ogg",
+            "start_ms": 98230,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_045_Ui_친_B4_std15.0_-22.3dB_1979ms_2160ms_M30ms.ogg",
+            "start_ms": 98411,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_045_Ui_친_C5_std9.6_-24.5dB_6659ms_6840ms_M30ms.ogg",
+            "start_ms": 98592,
+            "duration_ms": 181
+        }
+    ],
+    "크": [
+        {
+            "file_name": "_selective_Dew_EP04_009_Ui_크_C5_std49.5_-18.4dB_580ms_706ms_M30ms.ogg",
+            "start_ms": 98773,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP04_060_Ui_크_Csharp5_std95.9_-13.8dB_2040ms_2166ms_M30ms.ogg",
+            "start_ms": 98901,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP07_093_Ui_크_E4_std5.2_-20.8dB_160ms_286ms_M30ms.ogg",
+            "start_ms": 99029,
+            "duration_ms": 128
+        }
+    ],
+    "클": [
+        {
+            "file_name": "_selective_Dew_EP05_012_Ui_클_Fsharp5_std59.4_-12.6dB_2580ms_2720ms_M30ms.ogg",
+            "start_ms": 99157,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_030_Ui_클_C5_std24.0_-13.0dB_4380ms_4520ms_M30ms.ogg",
+            "start_ms": 99298,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_037_Ui_클_A4_std27.1_-14.4dB_1920ms_2060ms_M30ms.ogg",
+            "start_ms": 99439,
+            "duration_ms": 141
+        }
+    ],
+    "타": [
+        {
+            "file_name": "_selective_frozen_EP11_066_Ui_타_B4_std29.8_-12.6dB_2560ms_2686ms_M30ms.ogg",
+            "start_ms": 99580,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_frozen_EP11_069_Ui_타_Gsharp4_std7.0_-15.8dB_2120ms_2246ms_M30ms.ogg",
+            "start_ms": 99708,
+            "duration_ms": 128
+        }
+    ],
+    "탁": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_040_Ui_탁_Asharp4_std6.1_-17.2dB_4579ms_4780ms_M30ms.ogg",
+            "start_ms": 99836,
+            "duration_ms": 198
+        }
+    ],
+    "트": [
+        {
+            "file_name": "_selective_Dew_EP01_038_Ui_트_Gsharp4_std31.3_-21.4dB_520ms_628ms_M30ms.ogg",
+            "start_ms": 100034,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_Dew_EP01_082_Ui_트_Gsharp4_std20.2_-21.1dB_2980ms_3070ms_M30ms.ogg",
+            "start_ms": 100139,
+            "duration_ms": 91
+        }
+    ],
+    "파": [
+        {
+            "file_name": "_selective_T_XMas_EP06_020_Ui_파_E5_std39.4_-15.0dB_3400ms_3580ms_M30ms.ogg",
+            "start_ms": 100230,
+            "duration_ms": 177
+        }
+    ],
+    "편": [
+        {
+            "file_name": "_selective_Dew_EP01_008_Ui_편_C5_std12.0_-18.8dB_2960ms_3140ms_M30ms.ogg",
+            "start_ms": 100407,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Dew_EP02_033_Ui_편_Csharp5_std6.5_-21.6dB_4880ms_5090ms_M30ms.ogg",
+            "start_ms": 100588,
+            "duration_ms": 231
+        },
+        {
+            "file_name": "_selective_Dew_EP04_073_Ui_편_G5_std15.7_-16.6dB_3640ms_3820ms_M30ms.ogg",
+            "start_ms": 100819,
+            "duration_ms": 181
+        }
+    ],
+    "표": [
+        {
+            "file_name": "_selective_Dew_EP01_023_Ui_표_D5_std16.7_-18.3dB_280ms_423ms_M30ms.ogg",
+            "start_ms": 101000,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_027_Ui_표_Csharp5_std23.3_-14.0dB_5680ms_5824ms_M30ms.ogg",
+            "start_ms": 101164,
+            "duration_ms": 141
+        }
+    ],
+    "프": [
+        {
+            "file_name": "_selective_Dew_EP02_117_Ui_프_C5_std47.0_-18.6dB_679ms_824ms_M30ms.ogg",
+            "start_ms": 101305,
+            "duration_ms": 164
+        },
+        {
+            "file_name": "_selective_Glove_EP05_051_Ui_프_A4_std20.0_-20.3dB_3420ms_3564ms_M30ms.ogg",
+            "start_ms": 101469,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_034_Ui_프_Csharp5_std14.5_-14.2dB_240ms_366ms_M30ms.ogg",
+            "start_ms": 101610,
+            "duration_ms": 123
+        }
+    ],
+    "픔": [
+        {
+            "file_name": "_selective_Dew_EP07_006_Ui_픔_Csharp5_std37.3_-19.9dB_420ms_640ms_M30ms.ogg",
+            "start_ms": 101733,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Ui_AsideUpgrade_픔_D4_std17.5_-16.2dB_550ms_770ms_M30ms.ogg",
+            "start_ms": 101950,
+            "duration_ms": 221
+        }
+    ],
+    "피": [
+        {
+            "file_name": "_selective_Glove_EP05_088_Ui_피_G4_std8.1_-26.7dB_7579ms_7795ms_M30ms.ogg",
+            "start_ms": 102171,
+            "duration_ms": 236
+        },
+        {
+            "file_name": "Voice_Ui_Die1_피_E4_std28.9_-16.6dB_880ms_1042ms_M30ms.ogg",
+            "start_ms": 102407,
+            "duration_ms": 159
+        }
+    ],
+    "핀": [
+        {
+            "file_name": "_selective_fantasyadventure_EP05_033_Ui_핀_A4_std23.6_-13.4dB_4499ms_4630ms_M30ms.ogg",
+            "start_ms": 102566,
+            "duration_ms": 133
+        }
+    ],
+    "필": [
+        {
+            "file_name": "_selective_fantasyadventure_EP03_064_Ui_필_Csharp5_std37.8_-16.8dB_540ms_690ms_M30ms.ogg",
+            "start_ms": 102699,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_023_Ui_필_A4_std10.0_-15.0dB_2540ms_2690ms_M30ms.ogg",
+            "start_ms": 102851,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_fantasyadventure_EP05_028_Ui_필_B4_std9.9_-14.7dB_2260ms_2429ms_M30ms.ogg",
+            "start_ms": 103003,
+            "duration_ms": 171
+        }
+    ],
+    "하": [
+        {
+            "file_name": "Voice_Ui_Affinity5_하_Fsharp5_std14.5_-13.1dB_1380ms_1506ms_M30ms.ogg",
+            "start_ms": 103174,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Ui_Line2_하_Fsharp4_std5.3_-14.4dB_500ms_626ms_M30ms.ogg",
+            "start_ms": 103297,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Ui_Spawn2_하_G5_std22.1_-12.0dB_380ms_506ms_M30ms.ogg",
+            "start_ms": 103425,
+            "duration_ms": 128
+        }
+    ],
+    "한": [
+        {
+            "file_name": "_selective_Dew_EP01_003_Ui_한_Asharp4_std11.4_-15.8dB_1320ms_1480ms_M30ms.ogg",
+            "start_ms": 103553,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_T_XMas_EP06_003_Ui_한_G5_std28.7_-12.4dB_1859ms_2020ms_M30ms.ogg",
+            "start_ms": 103710,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_Skin4_한_E5_std6.9_-14.9dB_3500ms_3660ms_M30ms.ogg",
+            "start_ms": 103873,
+            "duration_ms": 157
+        }
+    ],
+    "할": [
+        {
+            "file_name": "_selective_Dew_EP01_010_Ui_할_C5_std9.3_-17.0dB_480ms_660ms_M30ms.ogg",
+            "start_ms": 104030,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Dew_EP02_025_Ui_할_F5_std16.4_-14.7dB_2100ms_2280ms_M30ms.ogg",
+            "start_ms": 104211,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Dew_EP07_097_Ui_할_Csharp5_std16.1_-13.2dB_3300ms_3480ms_M30ms.ogg",
+            "start_ms": 104392,
+            "duration_ms": 181
+        }
+    ],
+    "함": [
+        {
+            "file_name": "_selective_frozen_EP11_096_Ui_함_E5_std42.0_-15.9dB_600ms_820ms_M30ms.ogg",
+            "start_ms": 104573,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Ui_Touch2_2_함_B4_std18.9_-19.9dB_1720ms_1940ms_M30ms.ogg",
+            "start_ms": 104790,
+            "duration_ms": 217
+        }
+    ],
+    "항": [
+        {
+            "file_name": "_selective_Dew_EP01_014_Ui_항_Dsharp5_std23.7_-24.3dB_6579ms_6800ms_M30ms.ogg",
+            "start_ms": 105007,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_Dew_EP04_026_Ui_항_F5_std67.0_-16.4dB_3060ms_3280ms_M30ms.ogg",
+            "start_ms": 105228,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "_selective_Dew_EP07_087_Ui_항_D5_std5.0_-23.2dB_6100ms_6319ms_M30ms.ogg",
+            "start_ms": 105449,
+            "duration_ms": 221
+        }
+    ],
+    "해": [
+        {
+            "file_name": "_selective_Dew_EP07_017_Ui_해_Fsharp4_std28.4_-18.7dB_3160ms_3286ms_M30ms.ogg",
+            "start_ms": 105670,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Dew_EP07_081_Ui_해_Csharp5_std14.1_-16.4dB_2360ms_2486ms_M30ms.ogg",
+            "start_ms": 105798,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Ui_Affinity7_해_E5_std28.9_-11.7dB_3160ms_3286ms_M30ms.ogg",
+            "start_ms": 105921,
+            "duration_ms": 128
+        }
+    ],
+    "했": [
+        {
+            "file_name": "_selective_Main2_Ch07_EP02_023_Ui_했_Asharp4_std13.1_-17.6dB_700ms_899ms_M30ms.ogg",
+            "start_ms": 106049,
+            "duration_ms": 196
+        }
+    ],
+    "행": [
+        {
+            "file_name": "_selective_Dew_EP01_038_Ui_행_D5_std21.5_-28.2dB_3580ms_3720ms_M30ms.ogg",
+            "start_ms": 106245,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_Dew_EP04_060_Ui_행_Dsharp5_std34.3_-18.0dB_4620ms_4780ms_M30ms.ogg",
+            "start_ms": 106382,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_Dew_EP07_008_Ui_행_C5_std11.5_-27.3dB_480ms_659ms_M30ms.ogg",
+            "start_ms": 106539,
+            "duration_ms": 176
+        }
+    ],
+    "혼": [
+        {
+            "file_name": "_selective_Dew_EP01_084_Ui_혼_Fsharp4_std21.9_-18.0dB_360ms_540ms_M30ms.ogg",
+            "start_ms": 106715,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Dew_EP02_025_Ui_혼_Gsharp4_std40.8_-17.6dB_300ms_480ms_M30ms.ogg",
+            "start_ms": 106892,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_Dew_EP04_005_Ui_혼_B4_std39.1_-21.9dB_2880ms_3080ms_M30ms.ogg",
+            "start_ms": 107069,
+            "duration_ms": 197
+        }
+    ],
+    "화": [
+        {
+            "file_name": "_selective_Dew_EP04_070_Ui_화_G5_std0.0_-13.7dB_4399ms_4561ms_M30ms.ogg",
+            "start_ms": 107266,
+            "duration_ms": 163
+        }
+    ],
+    "흐": [
+        {
+            "file_name": "Voice_Ui_Lobby_흐_E5_std18.1_-13.4dB_1300ms_1390ms_M30ms.ogg",
+            "start_ms": 107429,
+            "duration_ms": 91
+        }
+    ],
+    "히": [
+        {
+            "file_name": "_selective_frozen_EP06_046_Ui_히_Fsharp4_std2.2_-19.5dB_740ms_830ms_M30ms.ogg",
+            "start_ms": 107520,
+            "duration_ms": 91
+        }
+    ]
+}

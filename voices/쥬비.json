@@ -1,0 +1,2561 @@
+{
+    "가": [
+        {
+            "file_name": "_selective_sameplace_EP03_037_Jubee_가_G4_std15.2_-13.5dB_2980ms_3106ms_M30ms.ogg",
+            "start_ms": 0,
+            "duration_ms": 145
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_026_LeaderJubee_가_C4_std14.3_-12.2dB_2760ms_2886ms_M30ms.ogg",
+            "start_ms": 145,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Gacha2_가_C4_std18.9_-17.4dB_500ms_626ms_M30ms.ogg",
+            "start_ms": 273,
+            "duration_ms": 128
+        }
+    ],
+    "각": [
+        {
+            "file_name": "_selective_sameplace_EP05_068_LeaderJubee_각_Fsharp4_std36.0_-14.0dB_4490ms_4680ms_M30ms.ogg",
+            "start_ms": 401,
+            "duration_ms": 201
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity6_각_E4_std1.2_-15.8dB_3460ms_3540ms_M30ms.ogg",
+            "start_ms": 602,
+            "duration_ms": 77
+        }
+    ],
+    "간": [
+        {
+            "file_name": "_selective_sameplace_EP05_071_LeaderJubee_간_C4_std2.3_-13.6dB_2000ms_2120ms_M30ms.ogg",
+            "start_ms": 679,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Jubee_Die1_간_A3_std4.2_-16.4dB_1080ms_1240ms_M30ms.ogg",
+            "start_ms": 796,
+            "duration_ms": 157
+        }
+    ],
+    "갈": [
+        {
+            "file_name": "_selective_sameplace_EP06_030_LeaderJubee_갈_Unvoiced_std0.0_-15.8dB_3400ms_3560ms_M30ms.ogg",
+            "start_ms": 953,
+            "duration_ms": 157
+        }
+    ],
+    "같": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_057_Jubee_같_Dsharp4_std2.9_-17.0dB_1900ms_2100ms_M30ms.ogg",
+            "start_ms": 1110,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Jubee_Victory2_같_Fsharp4_std6.7_-16.9dB_300ms_530ms_M30ms.ogg",
+            "start_ms": 1307,
+            "duration_ms": 232
+        }
+    ],
+    "객": [
+        {
+            "file_name": "_selective_Gangster_EP02_031_Jubee_객_Gsharp4_std13.1_-18.4dB_2300ms_2450ms_M30ms.ogg",
+            "start_ms": 1539,
+            "duration_ms": 152
+        }
+    ],
+    "거": [
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_거_G4_std4.4_-12.5dB_3180ms_3306ms_M30ms.ogg",
+            "start_ms": 1691,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_021_LeaderJubee_거_G4_std5.7_-9.6dB_2040ms_2166ms_M30ms.ogg",
+            "start_ms": 1819,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Equipment_Skin1_거_C4_std8.8_-14.5dB_1340ms_1466ms_M30ms.ogg",
+            "start_ms": 1947,
+            "duration_ms": 128
+        }
+    ],
+    "건": [
+        {
+            "file_name": "_selective_sameplace_EP03_028_LeaderJubee_건_E4_std19.1_-13.9dB_3000ms_3200ms_M30ms.ogg",
+            "start_ms": 2075,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity1_2_건_Gsharp3_std8.4_-23.6dB_400ms_600ms_M30ms.ogg",
+            "start_ms": 2272,
+            "duration_ms": 197
+        }
+    ],
+    "걸": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_055_Jubee_걸_B3_std4.9_-14.1dB_780ms_880ms_M30ms.ogg",
+            "start_ms": 2469,
+            "duration_ms": 101
+        }
+    ],
+    "것": [
+        {
+            "file_name": "_selective_sameplace_EP03_033_Jubee_것_Fsharp4_std5.2_-17.5dB_1880ms_2040ms_M30ms.ogg",
+            "start_ms": 2570,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_070_LeaderJubee_것_G3_std7.6_-20.6dB_400ms_560ms_M30ms.ogg",
+            "start_ms": 2727,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_것_D4_std16.4_-13.9dB_1550ms_1720ms_M30ms.ogg",
+            "start_ms": 2884,
+            "duration_ms": 167
+        }
+    ],
+    "게": [
+        {
+            "file_name": "_selective_sameplace_EP03_025_Jubee_게_B4_std29.7_-7.5dB_1130ms_1247ms_M30ms.ogg",
+            "start_ms": 3051,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP04_039_Juros_게_Gsharp4_std0.0_-13.3dB_3420ms_3528ms_M30ms.ogg",
+            "start_ms": 3168,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_게_E4_std14.5_-14.2dB_6020ms_6146ms_M30ms.ogg",
+            "start_ms": 3277,
+            "duration_ms": 128
+        }
+    ],
+    "겠": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_058_Jubee_겠_Unvoiced_std0.0_-23.9dB_2300ms_2460ms_M30ms.ogg",
+            "start_ms": 3405,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_054_LeaderJubee_겠_Dsharp4_std14.2_-14.1dB_3560ms_3739ms_M30ms.ogg",
+            "start_ms": 3562,
+            "duration_ms": 176
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_056_Jubee_겠_B3_std7.9_-25.4dB_1440ms_1599ms_M30ms.ogg",
+            "start_ms": 3738,
+            "duration_ms": 156
+        }
+    ],
+    "격": [
+        {
+            "file_name": "_selective_Gangster_EP02_049_Jubee_격_E4_std26.6_-19.2dB_1099ms_1250ms_M30ms.ogg",
+            "start_ms": 3894,
+            "duration_ms": 152
+        }
+    ],
+    "겸": [
+        {
+            "file_name": "_selective_Gangster_EP02_034_Jubee_겸_F4_std16.1_-17.4dB_1400ms_1610ms_M30ms.ogg",
+            "start_ms": 4046,
+            "duration_ms": 211
+        }
+    ],
+    "고": [
+        {
+            "file_name": "_selective_Gangster_EP02_064_Jubee_고_D4_std9.2_-18.5dB_439ms_548ms_M30ms.ogg",
+            "start_ms": 4257,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_SPSkill1-01_고_Gsharp4_std34.2_-15.6dB_20ms_146ms_M30ms.ogg",
+            "start_ms": 4366,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_1_Skin1_고_A4_std13.7_-17.4dB_1700ms_1808ms_M30ms.ogg",
+            "start_ms": 4494,
+            "duration_ms": 109
+        }
+    ],
+    "골": [
+        {
+            "file_name": "Voice_Jubee_HeroUpgrade_골_Fsharp4_std5.7_-16.0dB_1660ms_1810ms_M30ms.ogg",
+            "start_ms": 4603,
+            "duration_ms": 152
+        }
+    ],
+    "공": [
+        {
+            "file_name": "_selective_sameplace_EP03_042_LeaderJubee_공_Gsharp4_std17.2_-13.9dB_6460ms_6680ms_M30ms.ogg",
+            "start_ms": 4755,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_001_LeaderJubee_공_Csharp4_std12.4_-17.5dB_3480ms_3680ms_M30ms.ogg",
+            "start_ms": 4972,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_002_Jubee_공_Dsharp4_std23.4_-22.2dB_1580ms_1820ms_M30ms.ogg",
+            "start_ms": 5169,
+            "duration_ms": 237
+        }
+    ],
+    "교": [
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_교_Fsharp4_std4.2_-14.8dB_1800ms_1926ms_M30ms.ogg",
+            "start_ms": 5406,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_015_LeaderJubee_교_Dsharp4_std2.5_-14.2dB_659ms_822ms_M30ms.ogg",
+            "start_ms": 5534,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "Voice_Jubee_CallPlayer4_교_Asharp4_std70.7_-11.4dB_60ms_222ms_M30ms.ogg",
+            "start_ms": 5699,
+            "duration_ms": 163
+        }
+    ],
+    "구": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_048_Jubee_구_Fsharp4_std14.9_-15.4dB_300ms_408ms_M30ms.ogg",
+            "start_ms": 5862,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_034_LeaderJubee_구_Dsharp4_std2.1_-15.4dB_1320ms_1455ms_M30ms.ogg",
+            "start_ms": 5971,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "Voice_Jubee_Stage_구_F4_std18.9_-28.9dB_300ms_408ms_M30ms.ogg",
+            "start_ms": 6107,
+            "duration_ms": 105
+        }
+    ],
+    "국": [
+        {
+            "file_name": "Voice_Jubee_Touch2_국_Fsharp4_std9.4_-21.7dB_0ms_240ms_M30ms.ogg",
+            "start_ms": 6212,
+            "duration_ms": 260
+        }
+    ],
+    "굴": [
+        {
+            "file_name": "_selective_sameplace_EP04_040_Juros_굴_C4_std3.6_-13.7dB_620ms_860ms_M30ms.ogg",
+            "start_ms": 6472,
+            "duration_ms": 237
+        }
+    ],
+    "그": [
+        {
+            "file_name": "_selective_sameplace_EP03_034_LeaderJubee_그_C4_std3.5_-13.9dB_860ms_986ms_M30ms.ogg",
+            "start_ms": 6709,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_037_Jubee_그_E4_std2.5_-18.3dB_1400ms_1526ms_M30ms.ogg",
+            "start_ms": 6837,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity1_1_그_D4_std7.3_-14.9dB_0ms_126ms_M30ms.ogg",
+            "start_ms": 6965,
+            "duration_ms": 128
+        }
+    ],
+    "근": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_054_Jubee_근_E5_std24.6_-14.0dB_220ms_340ms_M30ms.ogg",
+            "start_ms": 7093,
+            "duration_ms": 117
+        }
+    ],
+    "금": [
+        {
+            "file_name": "_selective_sameplace_EP03_024_LeaderJubee_금_Dsharp4_std12.6_-13.5dB_1340ms_1460ms_M30ms.ogg",
+            "start_ms": 7210,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_030_LeaderJubee_금_Dsharp4_std8.7_-13.1dB_2700ms_2800ms_M30ms.ogg",
+            "start_ms": 7327,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_057_LeaderJubee_금_A4_std14.2_-10.5dB_3160ms_3260ms_M30ms.ogg",
+            "start_ms": 7428,
+            "duration_ms": 101
+        }
+    ],
+    "기": [
+        {
+            "file_name": "_selective_sameplace_EP03_075_LeaderJubee_기_D4_std17.8_-19.9dB_4800ms_4926ms_M30ms.ogg",
+            "start_ms": 7529,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_기_Fsharp4_std22.5_-16.0dB_820ms_946ms_M30ms.ogg",
+            "start_ms": 7657,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_Skin1_기_Unvoiced_std0.0_-18.3dB_480ms_606ms_M30ms.ogg",
+            "start_ms": 7785,
+            "duration_ms": 128
+        }
+    ],
+    "길": [
+        {
+            "file_name": "_selective_sameplace_EP03_057_LeaderJubee_길_E4_std4.5_-12.2dB_3750ms_3840ms_M30ms.ogg",
+            "start_ms": 7913,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_082_LeaderJubee_길_C4_std10.6_-16.4dB_5990ms_6100ms_M30ms.ogg",
+            "start_ms": 8004,
+            "duration_ms": 112
+        }
+    ],
+    "까": [
+        {
+            "file_name": "_selective_sameplace_EP03_011_Jubee_까_Unvoiced_std0.0_-14.5dB_2739ms_2866ms_M30ms.ogg",
+            "start_ms": 8116,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP04_038_Juros_까_Fsharp4_std40.5_-14.0dB_6079ms_6314ms_M30ms.ogg",
+            "start_ms": 8244,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_021_LeaderJubee_까_Dsharp4_std7.3_-10.9dB_1220ms_1310ms_M30ms.ogg",
+            "start_ms": 8476,
+            "duration_ms": 91
+        }
+    ],
+    "끌": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_050_Jubee_끌_Csharp5_std62.0_-13.7dB_1680ms_1880ms_M30ms.ogg",
+            "start_ms": 8567,
+            "duration_ms": 197
+        }
+    ],
+    "끝": [
+        {
+            "file_name": "_selective_sameplace_EP05_001_LeaderJubee_끝_D4_std3.1_-15.7dB_4040ms_4260ms_M30ms.ogg",
+            "start_ms": 8764,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Jubee_Touch1_2_끝_Dsharp4_std17.9_-17.9dB_439ms_640ms_M30ms.ogg",
+            "start_ms": 8985,
+            "duration_ms": 198
+        }
+    ],
+    "끼": [
+        {
+            "file_name": "Voice_Jubee_Equipment_끼_Fsharp4_std2.7_-15.3dB_620ms_746ms_M30ms.ogg",
+            "start_ms": 9183,
+            "duration_ms": 123
+        }
+    ],
+    "나": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_056_Jubee_나_E4_std28.7_-12.3dB_100ms_208ms_M30ms.ogg",
+            "start_ms": 9306,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_085_LeaderJubee_나_B3_std7.2_-12.6dB_1300ms_1408ms_M30ms.ogg",
+            "start_ms": 9415,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Line3_나_Csharp4_std3.2_-13.7dB_1180ms_1288ms_M30ms.ogg",
+            "start_ms": 9524,
+            "duration_ms": 109
+        }
+    ],
+    "난": [
+        {
+            "file_name": "_selective_sameplace_EP07_046_Jubee_난_D4_std19.0_-18.8dB_3840ms_4019ms_M30ms.ogg",
+            "start_ms": 9633,
+            "duration_ms": 199
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity6_난_C5_std12.9_-13.5dB_80ms_220ms_M30ms.ogg",
+            "start_ms": 9832,
+            "duration_ms": 141
+        }
+    ],
+    "날": [
+        {
+            "file_name": "_selective_sameplace_EP03_050_LeaderJubee_날_C4_std5.3_-13.4dB_1540ms_1640ms_M30ms.ogg",
+            "start_ms": 9973,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Jubee_LevelUp_Skin1_날_Gsharp4_std10.7_-12.2dB_280ms_500ms_M30ms.ogg",
+            "start_ms": 10074,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_1_날_G4_std4.4_-10.3dB_680ms_860ms_M30ms.ogg",
+            "start_ms": 10295,
+            "duration_ms": 181
+        }
+    ],
+    "남": [
+        {
+            "file_name": "_selective_sameplace_EP05_031_LeaderJubee_남_Csharp4_std5.2_-16.4dB_5380ms_5609ms_M30ms.ogg",
+            "start_ms": 10476,
+            "duration_ms": 229
+        }
+    ],
+    "내": [
+        {
+            "file_name": "_selective_sameplace_EP03_055_LeaderJubee_내_Dsharp4_std20.3_-16.2dB_1380ms_1542ms_M30ms.ogg",
+            "start_ms": 10705,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity7_내_D4_std5.0_-14.0dB_60ms_204ms_M30ms.ogg",
+            "start_ms": 10868,
+            "duration_ms": 141
+        }
+    ],
+    "냐": [
+        {
+            "file_name": "_selective_sameplace_EP05_033_LeaderJubee_냐_Asharp4_std30.4_-12.2dB_720ms_881ms_M30ms.ogg",
+            "start_ms": 11009,
+            "duration_ms": 163
+        }
+    ],
+    "냥": [
+        {
+            "file_name": "_selective_sameplace_EP05_033_LeaderJubee_냥_Asharp4_std11.9_-12.8dB_1840ms_1960ms_M30ms.ogg",
+            "start_ms": 11172,
+            "duration_ms": 117
+        }
+    ],
+    "넘": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_059_Jubee_넘_Csharp4_std19.6_-14.5dB_1380ms_1599ms_M30ms.ogg",
+            "start_ms": 11289,
+            "duration_ms": 216
+        }
+    ],
+    "네": [
+        {
+            "file_name": "Voice_Jubee_Growth_네_D4_std10.0_-14.2dB_60ms_186ms_M30ms.ogg",
+            "start_ms": 11505,
+            "duration_ms": 128
+        }
+    ],
+    "녀": [
+        {
+            "file_name": "_selective_sameplace_EP03_035_Jubee_녀_E4_std11.9_-16.7dB_2280ms_2514ms_M30ms.ogg",
+            "start_ms": 11633,
+            "duration_ms": 231
+        }
+    ],
+    "녕": [
+        {
+            "file_name": "Voice_Jubee_Greeting_녕_D4_std7.0_-20.3dB_339ms_460ms_M30ms.ogg",
+            "start_ms": 11864,
+            "duration_ms": 123
+        }
+    ],
+    "는": [
+        {
+            "file_name": "_selective_Gangster_EP02_054_Jubee_는_F4_std21.2_-22.5dB_180ms_280ms_M30ms.ogg",
+            "start_ms": 11987,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity2_는_C4_std3.1_-22.9dB_5440ms_5540ms_M30ms.ogg",
+            "start_ms": 12088,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_는_D4_std4.8_-18.6dB_1020ms_1120ms_M30ms.ogg",
+            "start_ms": 12189,
+            "duration_ms": 101
+        }
+    ],
+    "니": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_니_E4_std26.7_-23.4dB_2200ms_2362ms_M30ms.ogg",
+            "start_ms": 12290,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_016_LeaderJubee_니_F4_std5.3_-13.9dB_2739ms_2884ms_M30ms.ogg",
+            "start_ms": 12453,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_021_LeaderJubee_니_Csharp4_std24.4_-18.8dB_1020ms_1200ms_M30ms.ogg",
+            "start_ms": 12600,
+            "duration_ms": 177
+        }
+    ],
+    "닛": [
+        {
+            "file_name": "Voice_Jubee_Gacha2_닛_C4_std25.7_-27.2dB_950ms_1090ms_M30ms.ogg",
+            "start_ms": 12777,
+            "duration_ms": 141
+        }
+    ],
+    "다": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_050_Jubee_다_F5_std10.9_-13.3dB_2160ms_2286ms_M30ms.ogg",
+            "start_ms": 12918,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Board_Skin1_다_E4_std23.9_-13.9dB_1220ms_1346ms_M30ms.ogg",
+            "start_ms": 13046,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Jubee_Stage_다_Fsharp4_std3.5_-17.4dB_1000ms_1126ms_M30ms.ogg",
+            "start_ms": 13169,
+            "duration_ms": 123
+        }
+    ],
+    "단": [
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_단_Fsharp4_std2.9_-11.3dB_1940ms_2070ms_M30ms.ogg",
+            "start_ms": 13292,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_035_Jubee_단_D4_std4.2_-16.1dB_2140ms_2280ms_M30ms.ogg",
+            "start_ms": 13423,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_014_LeaderJubee_단_Csharp4_std5.2_-13.2dB_1099ms_1240ms_M30ms.ogg",
+            "start_ms": 13564,
+            "duration_ms": 141
+        }
+    ],
+    "답": [
+        {
+            "file_name": "_selective_Gangster_EP02_049_Jubee_답_B4_std21.9_-14.1dB_3820ms_4050ms_M30ms.ogg",
+            "start_ms": 13705,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_Gangster_EP02_054_Jubee_답_Dsharp5_std16.0_-15.2dB_3260ms_3490ms_M30ms.ogg",
+            "start_ms": 13937,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity1_1_답_Gsharp4_std19.8_-14.7dB_2260ms_2490ms_M30ms.ogg",
+            "start_ms": 14169,
+            "duration_ms": 232
+        }
+    ],
+    "당": [
+        {
+            "file_name": "_selective_Gangster_EP02_034_Jubee_당_E4_std24.1_-22.6dB_940ms_1160ms_M30ms.ogg",
+            "start_ms": 14401,
+            "duration_ms": 217
+        }
+    ],
+    "대": [
+        {
+            "file_name": "_selective_sameplace_EP03_012_Jubee_대_Fsharp4_std55.4_-13.6dB_4229ms_4455ms_M30ms.ogg",
+            "start_ms": 14618,
+            "duration_ms": 227
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_014_LeaderJubee_대_D4_std7.6_-11.0dB_3480ms_3606ms_M30ms.ogg",
+            "start_ms": 14845,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_056_Jubee_대_C4_std5.9_-23.9dB_2360ms_2522ms_M30ms.ogg",
+            "start_ms": 14973,
+            "duration_ms": 163
+        }
+    ],
+    "더": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_더_G4_std7.7_-15.4dB_2080ms_2188ms_M30ms.ogg",
+            "start_ms": 15136,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Growth2_더_D4_std11.0_-16.1dB_339ms_465ms_M30ms.ogg",
+            "start_ms": 15245,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_1_Skin1_더_Dsharp4_std19.5_-15.6dB_899ms_1026ms_M30ms.ogg",
+            "start_ms": 15373,
+            "duration_ms": 128
+        }
+    ],
+    "던": [
+        {
+            "file_name": "_selective_sameplace_EP03_057_LeaderJubee_던_B3_std13.8_-17.2dB_4040ms_4140ms_M30ms.ogg",
+            "start_ms": 15501,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_073_LeaderJubee_던_Dsharp4_std0.8_-12.1dB_5729ms_5820ms_M30ms.ogg",
+            "start_ms": 15602,
+            "duration_ms": 93
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_002_Jubee_던_Dsharp4_std1.8_-11.4dB_2309ms_2400ms_M30ms.ogg",
+            "start_ms": 15695,
+            "duration_ms": 93
+        }
+    ],
+    "데": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_071_Jubee_데_Unvoiced_std0.0_-13.2dB_240ms_348ms_M30ms.ogg",
+            "start_ms": 15788,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_046_Jubee_데_Unvoiced_std0.0_-10.7dB_1599ms_1708ms_M30ms.ogg",
+            "start_ms": 15897,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_HeroSkill_Skin1_데_E3_std9.3_-28.3dB_1700ms_1934ms_M30ms.ogg",
+            "start_ms": 16006,
+            "duration_ms": 231
+        }
+    ],
+    "도": [
+        {
+            "file_name": "_selective_Gangster_EP02_065_Jubee_도_D4_std15.5_-18.2dB_3000ms_3108ms_M30ms.ogg",
+            "start_ms": 16237,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_012_Jubee_도_Fsharp4_std6.2_-14.4dB_2300ms_2408ms_M30ms.ogg",
+            "start_ms": 16346,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Equipment_Skin1_도_Gsharp3_std6.8_-20.8dB_860ms_968ms_M30ms.ogg",
+            "start_ms": 16455,
+            "duration_ms": 105
+        }
+    ],
+    "돌": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_049_Jubee_돌_G5_std7.3_-12.5dB_3160ms_3269ms_M30ms.ogg",
+            "start_ms": 16560,
+            "duration_ms": 109
+        }
+    ],
+    "동": [
+        {
+            "file_name": "_selective_sameplace_EP05_014_LeaderJubee_동_A3_std5.5_-18.9dB_2920ms_3000ms_M30ms.ogg",
+            "start_ms": 16669,
+            "duration_ms": 77
+        }
+    ],
+    "되": [
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_되_F4_std4.4_-13.6dB_1280ms_1379ms_M30ms.ogg",
+            "start_ms": 16746,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_021_LeaderJubee_되_Fsharp4_std8.5_-12.4dB_1760ms_1849ms_M30ms.ogg",
+            "start_ms": 16847,
+            "duration_ms": 91
+        }
+    ],
+    "두": [
+        {
+            "file_name": "_selective_Gangster_EP02_053_Jubee_두_Fsharp4_std22.0_-26.0dB_3540ms_3648ms_M30ms.ogg",
+            "start_ms": 16938,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_026_LeaderJubee_두_C4_std17.5_-16.4dB_2580ms_2670ms_M30ms.ogg",
+            "start_ms": 17043,
+            "duration_ms": 91
+        }
+    ],
+    "둘": [
+        {
+            "file_name": "_selective_sameplace_EP05_029_LeaderJubee_둘_Asharp3_std6.3_-13.1dB_1060ms_1260ms_M30ms.ogg",
+            "start_ms": 17134,
+            "duration_ms": 197
+        }
+    ],
+    "드": [
+        {
+            "file_name": "_selective_sameplace_EP03_038_LeaderJubee_드_C4_std18.7_-16.7dB_3280ms_3388ms_M30ms.ogg",
+            "start_ms": 17331,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_029_LeaderJubee_드_G3_std8.0_-20.4dB_2200ms_2344ms_M30ms.ogg",
+            "start_ms": 17436,
+            "duration_ms": 141
+        }
+    ],
+    "득": [
+        {
+            "file_name": "_selective_sameplace_EP05_072_LeaderJubee_득_A4_std16.7_-14.2dB_4920ms_5050ms_M30ms.ogg",
+            "start_ms": 17577,
+            "duration_ms": 131
+        }
+    ],
+    "든": [
+        {
+            "file_name": "_selective_sameplace_EP05_028_LeaderJubee_든_Csharp4_std22.0_-16.7dB_3180ms_3380ms_M30ms.ogg",
+            "start_ms": 17708,
+            "duration_ms": 220
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_061_LeaderJubee_든_Fsharp4_std10.0_-13.7dB_3720ms_3920ms_M30ms.ogg",
+            "start_ms": 17928,
+            "duration_ms": 197
+        }
+    ],
+    "듣": [
+        {
+            "file_name": "_selective_sameplace_EP03_011_Jubee_듣_Csharp4_std17.9_-20.4dB_6460ms_6640ms_M30ms.ogg",
+            "start_ms": 18125,
+            "duration_ms": 181
+        }
+    ],
+    "들": [
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_들_B3_std10.6_-16.3dB_889ms_1010ms_M30ms.ogg",
+            "start_ms": 18306,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_028_LeaderJubee_들_D4_std6.8_-13.3dB_5399ms_5510ms_M30ms.ogg",
+            "start_ms": 18429,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_082_LeaderJubee_들_D4_std6.0_-15.4dB_5020ms_5140ms_M30ms.ogg",
+            "start_ms": 18541,
+            "duration_ms": 117
+        }
+    ],
+    "디": [
+        {
+            "file_name": "_selective_sameplace_EP03_073_LeaderJubee_디_Fsharp4_std19.5_-18.0dB_5149ms_5249ms_M30ms.ogg",
+            "start_ms": 18658,
+            "duration_ms": 101
+        }
+    ],
+    "때": [
+        {
+            "file_name": "_selective_sameplace_EP05_012_LeaderJubee_때_E4_std16.3_-10.7dB_3830ms_3947ms_M30ms.ogg",
+            "start_ms": 18759,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_061_Jubee_때_Unvoiced_std0.0_-12.3dB_1280ms_1388ms_M30ms.ogg",
+            "start_ms": 18876,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_057_Jubee_때_Asharp3_std2.0_-19.0dB_2800ms_2908ms_M30ms.ogg",
+            "start_ms": 18985,
+            "duration_ms": 109
+        }
+    ],
+    "라": [
+        {
+            "file_name": "_selective_sameplace_EP03_024_LeaderJubee_라_F4_std5.4_-10.6dB_3739ms_3866ms_M30ms.ogg",
+            "start_ms": 19094,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Gacha3_라_G4_std22.6_-15.7dB_2290ms_2425ms_M30ms.ogg",
+            "start_ms": 19222,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "Voice_Jubee_HeroUpgrade_Skin1_라_Fsharp4_std19.9_-11.9dB_1440ms_1566ms_M30ms.ogg",
+            "start_ms": 19354,
+            "duration_ms": 128
+        }
+    ],
+    "란": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_071_Jubee_란_A4_std9.4_-12.4dB_60ms_240ms_M30ms.ogg",
+            "start_ms": 19482,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_031_Jubee_란_Unvoiced_std0.0_-12.7dB_380ms_580ms_M30ms.ogg",
+            "start_ms": 19663,
+            "duration_ms": 197
+        }
+    ],
+    "랑": [
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_랑_E4_std28.0_-12.5dB_4640ms_4820ms_M30ms.ogg",
+            "start_ms": 19860,
+            "duration_ms": 177
+        }
+    ],
+    "랗": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_051_Jubee_랗_E5_std42.7_-17.4dB_3460ms_3680ms_M30ms.ogg",
+            "start_ms": 20037,
+            "duration_ms": 221
+        }
+    ],
+    "래": [
+        {
+            "file_name": "_selective_sameplace_EP03_071_LeaderJubee_래_G5_std26.2_-12.8dB_1060ms_1186ms_M30ms.ogg",
+            "start_ms": 20258,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_1_Skin1_래_Unvoiced_std0.0_-13.4dB_160ms_304ms_M30ms.ogg",
+            "start_ms": 20386,
+            "duration_ms": 141
+        }
+    ],
+    "량": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_048_Jubee_량_E3_std33.0_-28.4dB_1480ms_1680ms_M30ms.ogg",
+            "start_ms": 20527,
+            "duration_ms": 197
+        }
+    ],
+    "러": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_058_Jubee_러_D5_std13.7_-12.0dB_60ms_168ms_M30ms.ogg",
+            "start_ms": 20724,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_012_Jubee_러_F4_std9.0_-11.3dB_1520ms_1646ms_M30ms.ogg",
+            "start_ms": 20833,
+            "duration_ms": 128
+        }
+    ],
+    "런": [
+        {
+            "file_name": "_selective_sameplace_EP03_030_LeaderJubee_런_G4_std7.4_-10.1dB_1780ms_1920ms_M30ms.ogg",
+            "start_ms": 20961,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_070_LeaderJubee_런_Unvoiced_std0.0_-20.2dB_199ms_300ms_M30ms.ogg",
+            "start_ms": 21102,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_007_Jubee_런_Fsharp4_std8.1_-11.3dB_199ms_360ms_M30ms.ogg",
+            "start_ms": 21203,
+            "duration_ms": 163
+        }
+    ],
+    "럼": [
+        {
+            "file_name": "_selective_sameplace_EP03_042_LeaderJubee_럼_F4_std10.9_-10.1dB_1119ms_1200ms_M30ms.ogg",
+            "start_ms": 21366,
+            "duration_ms": 83
+        }
+    ],
+    "럽": [
+        {
+            "file_name": "_selective_sameplace_EP05_023_LeaderJubee_럽_Dsharp4_std32.2_-12.7dB_760ms_880ms_M30ms.ogg",
+            "start_ms": 21449,
+            "duration_ms": 117
+        }
+    ],
+    "렇": [
+        {
+            "file_name": "_selective_sameplace_EP03_034_LeaderJubee_렇_Asharp4_std44.1_-11.6dB_3400ms_3540ms_M30ms.ogg",
+            "start_ms": 21566,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_021_LeaderJubee_렇_Dsharp4_std5.1_-13.1dB_1460ms_1619ms_M30ms.ogg",
+            "start_ms": 21703,
+            "duration_ms": 156
+        }
+    ],
+    "레": [
+        {
+            "file_name": "Voice_Jubee_Affinity1_1_레_B3_std7.9_-17.3dB_180ms_360ms_M30ms.ogg",
+            "start_ms": 21859,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "Voice_Jubee_Gacha2_레_C4_std5.1_-18.0dB_360ms_486ms_M30ms.ogg",
+            "start_ms": 22040,
+            "duration_ms": 123
+        }
+    ],
+    "려": [
+        {
+            "file_name": "_selective_sameplace_EP05_071_LeaderJubee_려_C4_std1.7_-12.7dB_3920ms_4045ms_M30ms.ogg",
+            "start_ms": 22163,
+            "duration_ms": 125
+        }
+    ],
+    "력": [
+        {
+            "file_name": "_selective_sameplace_EP03_038_LeaderJubee_력_Csharp4_std16.2_-16.6dB_1859ms_2080ms_M30ms.ogg",
+            "start_ms": 22288,
+            "duration_ms": 218
+        }
+    ],
+    "로": [
+        {
+            "file_name": "_selective_Gangster_EP02_049_Jubee_로_G4_std9.0_-17.3dB_3000ms_3090ms_M30ms.ogg",
+            "start_ms": 22506,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_014_LeaderJubee_로_D4_std4.2_-12.7dB_3980ms_4088ms_M30ms.ogg",
+            "start_ms": 22597,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity4_로_Dsharp4_std15.9_-15.8dB_2040ms_2130ms_M30ms.ogg",
+            "start_ms": 22706,
+            "duration_ms": 91
+        }
+    ],
+    "루": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_051_Jubee_루_E4_std13.5_-11.9dB_40ms_202ms_M30ms.ogg",
+            "start_ms": 22797,
+            "duration_ms": 163
+        }
+    ],
+    "르": [
+        {
+            "file_name": "_selective_sameplace_EP06_085_LeaderJubee_르_Csharp5_std14.6_-12.7dB_3000ms_3144ms_M30ms.ogg",
+            "start_ms": 22960,
+            "duration_ms": 141
+        }
+    ],
+    "른": [
+        {
+            "file_name": "_selective_Gangster_EP02_053_Jubee_른_Gsharp4_std40.0_-22.4dB_4180ms_4319ms_M30ms.ogg",
+            "start_ms": 23101,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_Picnicdate_EP02_056_Jubee_른_Csharp4_std1.8_-19.8dB_2320ms_2440ms_M30ms.ogg",
+            "start_ms": 23237,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_042_LeaderJubee_른_Dsharp4_std2.7_-11.5dB_4340ms_4460ms_M30ms.ogg",
+            "start_ms": 23354,
+            "duration_ms": 117
+        }
+    ],
+    "를": [
+        {
+            "file_name": "_selective_sameplace_EP05_029_LeaderJubee_를_A4_std2.5_-11.3dB_3780ms_3880ms_M30ms.ogg",
+            "start_ms": 23471,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Jubee_Gacha3_를_Gsharp4_std4.0_-16.0dB_720ms_820ms_M30ms.ogg",
+            "start_ms": 23572,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Jubee_Growth2_를_C4_std7.2_-14.4dB_190ms_320ms_M30ms.ogg",
+            "start_ms": 23673,
+            "duration_ms": 131
+        }
+    ],
+    "리": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_051_Jubee_리_Dsharp4_std7.6_-17.1dB_600ms_708ms_M30ms.ogg",
+            "start_ms": 23804,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_061_Jubee_리_Unvoiced_std0.0_-19.5dB_1400ms_1508ms_M30ms.ogg",
+            "start_ms": 23913,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity6_리_F4_std3.3_-18.9dB_2720ms_2828ms_M30ms.ogg",
+            "start_ms": 24018,
+            "duration_ms": 109
+        }
+    ],
+    "린": [
+        {
+            "file_name": "_selective_Gangster_EP02_058_Jubee_린_D4_std7.0_-25.6dB_720ms_880ms_M30ms.ogg",
+            "start_ms": 24127,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_016_LeaderJubee_린_Csharp5_std43.7_-12.1dB_4260ms_4460ms_M30ms.ogg",
+            "start_ms": 24284,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Jubee_Line2_린_Csharp4_std4.1_-15.4dB_690ms_820ms_M30ms.ogg",
+            "start_ms": 24481,
+            "duration_ms": 131
+        }
+    ],
+    "마": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_076_Jubee_마_Fsharp4_std23.1_-14.1dB_2120ms_2264ms_M30ms.ogg",
+            "start_ms": 24612,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity1_1_마_A4_std9.6_-12.5dB_1720ms_1882ms_M30ms.ogg",
+            "start_ms": 24753,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Jubee_DeckSetting1_마_D4_std7.3_-13.0dB_700ms_826ms_M30ms.ogg",
+            "start_ms": 24916,
+            "duration_ms": 128
+        }
+    ],
+    "막": [
+        {
+            "file_name": "_selective_sameplace_EP05_003_Jubee_막_A4_std19.0_-13.7dB_2640ms_2830ms_M30ms.ogg",
+            "start_ms": 25044,
+            "duration_ms": 192
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_054_LeaderJubee_막_E4_std24.8_-11.8dB_3160ms_3349ms_M30ms.ogg",
+            "start_ms": 25236,
+            "duration_ms": 189
+        }
+    ],
+    "만": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_057_Jubee_만_Dsharp4_std7.3_-16.7dB_1200ms_1380ms_M30ms.ogg",
+            "start_ms": 25425,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_015_LeaderJubee_만_E4_std23.4_-13.0dB_1619ms_1800ms_M30ms.ogg",
+            "start_ms": 25606,
+            "duration_ms": 178
+        },
+        {
+            "file_name": "Voice_Jubee_Board_Skin1_만_Dsharp4_std26.7_-13.6dB_899ms_1099ms_M30ms.ogg",
+            "start_ms": 25784,
+            "duration_ms": 197
+        }
+    ],
+    "많": [
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_많_Csharp4_std4.1_-12.9dB_560ms_770ms_M30ms.ogg",
+            "start_ms": 25981,
+            "duration_ms": 211
+        }
+    ],
+    "말": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_057_Jubee_말_E4_std5.1_-15.3dB_1520ms_1670ms_M30ms.ogg",
+            "start_ms": 26192,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_023_LeaderJubee_말_Csharp5_std34.8_-10.2dB_2040ms_2260ms_M30ms.ogg",
+            "start_ms": 26344,
+            "duration_ms": 221
+        },
+        {
+            "file_name": "Voice_Jubee_Gacha4_말_G4_std11.8_-10.9dB_420ms_590ms_M30ms.ogg",
+            "start_ms": 26565,
+            "duration_ms": 171
+        }
+    ],
+    "맙": [
+        {
+            "file_name": "Voice_Jubee_SPSkill1-02_맙_B3_std26.3_-19.9dB_280ms_520ms_M30ms.ogg",
+            "start_ms": 26736,
+            "duration_ms": 237
+        }
+    ],
+    "맛": [
+        {
+            "file_name": "_selective_sameplace_EP03_073_LeaderJubee_맛_E4_std6.0_-14.2dB_1540ms_1770ms_M30ms.ogg",
+            "start_ms": 26973,
+            "duration_ms": 232
+        }
+    ],
+    "맞": [
+        {
+            "file_name": "_selective_sameplace_EP03_025_Jubee_맞_Fsharp4_std4.8_-14.4dB_4159ms_4310ms_M30ms.ogg",
+            "start_ms": 27205,
+            "duration_ms": 152
+        }
+    ],
+    "매": [
+        {
+            "file_name": "_selective_sameplace_EP03_015_Jubee_매_C4_std9.4_-19.3dB_1979ms_2178ms_M30ms.ogg",
+            "start_ms": 27357,
+            "duration_ms": 196
+        }
+    ],
+    "맹": [
+        {
+            "file_name": "_selective_sameplace_EP03_039_Jubee_맹_F4_std3.0_-12.0dB_4930ms_5040ms_M30ms.ogg",
+            "start_ms": 27553,
+            "duration_ms": 112
+        }
+    ],
+    "멈": [
+        {
+            "file_name": "_selective_sameplace_EP03_011_Jubee_멈_E4_std29.9_-14.0dB_3680ms_3900ms_M30ms.ogg",
+            "start_ms": 27665,
+            "duration_ms": 221
+        }
+    ],
+    "면": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_058_Jubee_면_D5_std26.1_-12.9dB_180ms_320ms_M30ms.ogg",
+            "start_ms": 27886,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_034_LeaderJubee_면_G4_std64.5_-13.5dB_3680ms_3840ms_M30ms.ogg",
+            "start_ms": 28027,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity3_면_F4_std17.0_-16.6dB_540ms_720ms_M30ms.ogg",
+            "start_ms": 28184,
+            "duration_ms": 177
+        }
+    ],
+    "명": [
+        {
+            "file_name": "_selective_sameplace_EP03_039_Jubee_명_Asharp4_std16.9_-16.1dB_3460ms_3660ms_M30ms.ogg",
+            "start_ms": 28361,
+            "duration_ms": 197
+        }
+    ],
+    "모": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_056_Jubee_모_B3_std7.5_-13.1dB_2160ms_2304ms_M30ms.ogg",
+            "start_ms": 28558,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP04_065_LeaderJubee_모_Fsharp4_std10.7_-10.0dB_1160ms_1304ms_M30ms.ogg",
+            "start_ms": 28699,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_082_LeaderJubee_모_B3_std3.2_-12.5dB_2840ms_2984ms_M30ms.ogg",
+            "start_ms": 28840,
+            "duration_ms": 141
+        }
+    ],
+    "목": [
+        {
+            "file_name": "_selective_sameplace_EP05_033_LeaderJubee_목_D4_std14.9_-13.2dB_199ms_370ms_M30ms.ogg",
+            "start_ms": 28981,
+            "duration_ms": 173
+        }
+    ],
+    "못": [
+        {
+            "file_name": "_selective_sameplace_EP05_012_LeaderJubee_못_E4_std10.6_-17.4dB_3640ms_3740ms_M30ms.ogg",
+            "start_ms": 29154,
+            "duration_ms": 97
+        }
+    ],
+    "무": [
+        {
+            "file_name": "_selective_sameplace_EP03_024_LeaderJubee_무_Dsharp4_std19.8_-17.7dB_3200ms_3362ms_M30ms.ogg",
+            "start_ms": 29251,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_029_Jubee_무_D5_std17.7_-20.1dB_1320ms_1464ms_M30ms.ogg",
+            "start_ms": 29414,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_045_Jubee_무_Unvoiced_std0.0_-21.1dB_1420ms_1599ms_M30ms.ogg",
+            "start_ms": 29555,
+            "duration_ms": 181
+        }
+    ],
+    "문": [
+        {
+            "file_name": "_selective_sameplace_EP05_012_LeaderJubee_문_C4_std10.9_-16.5dB_3960ms_4090ms_M30ms.ogg",
+            "start_ms": 29736,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "Voice_Jubee_Line3_문_F4_std22.3_-15.8dB_80ms_220ms_M30ms.ogg",
+            "start_ms": 29867,
+            "duration_ms": 141
+        }
+    ],
+    "뭐": [
+        {
+            "file_name": "_selective_sameplace_EP05_033_LeaderJubee_뭐_B4_std73.6_-9.6dB_540ms_702ms_M30ms.ogg",
+            "start_ms": 30008,
+            "duration_ms": 163
+        }
+    ],
+    "미": [
+        {
+            "file_name": "Voice_Jubee_Sorry1_미_Csharp4_std5.7_-11.8dB_80ms_260ms_M30ms.ogg",
+            "start_ms": 30171,
+            "duration_ms": 181
+        }
+    ],
+    "밍": [
+        {
+            "file_name": "_selective_sameplace_EP06_088_LeaderJubee_밍_C5_std25.9_-18.3dB_1460ms_1540ms_M30ms.ogg",
+            "start_ms": 30352,
+            "duration_ms": 77
+        }
+    ],
+    "번": [
+        {
+            "file_name": "_selective_sameplace_EP05_031_LeaderJubee_번_G4_std28.6_-13.6dB_4079ms_4319ms_M30ms.ogg",
+            "start_ms": 30429,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "Voice_Jubee_HeroSkill_번_G4_std6.9_-12.1dB_659ms_780ms_M30ms.ogg",
+            "start_ms": 30666,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_2_Skin1_번_B3_std4.5_-15.6dB_540ms_620ms_M30ms.ogg",
+            "start_ms": 30789,
+            "duration_ms": 77
+        }
+    ],
+    "보": [
+        {
+            "file_name": "_selective_sameplace_EP06_079_Jubee_보_Csharp4_std8.0_-15.9dB_3640ms_3748ms_M30ms.ogg",
+            "start_ms": 30866,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_082_LeaderJubee_보_B3_std5.0_-14.4dB_2480ms_2588ms_M30ms.ogg",
+            "start_ms": 30975,
+            "duration_ms": 105
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity6_보_G4_std5.8_-16.8dB_620ms_710ms_M30ms.ogg",
+            "start_ms": 31080,
+            "duration_ms": 91
+        }
+    ],
+    "부": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_부_Gsharp4_std12.8_-13.1dB_1619ms_1710ms_M30ms.ogg",
+            "start_ms": 31171,
+            "duration_ms": 93
+        }
+    ],
+    "비": [
+        {
+            "file_name": "_selective_Gangster_EP02_058_Jubee_비_C4_std14.6_-28.2dB_2540ms_2684ms_M30ms.ogg",
+            "start_ms": 31264,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_Picnicdate_EP02_057_Jubee_비_Fsharp4_std4.2_-19.4dB_2260ms_2404ms_M30ms.ogg",
+            "start_ms": 31405,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Jubee_Gacha2_비_B3_std6.8_-23.6dB_1260ms_1404ms_M30ms.ogg",
+            "start_ms": 31546,
+            "duration_ms": 141
+        }
+    ],
+    "뿐": [
+        {
+            "file_name": "_selective_Gangster_EP02_058_Jubee_뿐_Csharp4_std10.9_-20.6dB_1920ms_2070ms_M30ms.ogg",
+            "start_ms": 31687,
+            "duration_ms": 152
+        }
+    ],
+    "사": [
+        {
+            "file_name": "_selective_sameplace_EP03_034_LeaderJubee_사_C4_std4.2_-14.1dB_4340ms_4430ms_M30ms.ogg",
+            "start_ms": 31839,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_002_Jubee_사_G4_std10.9_-20.1dB_1820ms_1928ms_M30ms.ogg",
+            "start_ms": 31930,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Touch1_1_사_Fsharp4_std9.9_-12.8dB_1060ms_1150ms_M30ms.ogg",
+            "start_ms": 32039,
+            "duration_ms": 91
+        }
+    ],
+    "삶": [
+        {
+            "file_name": "_selective_sameplace_EP05_068_LeaderJubee_삶_Fsharp4_std5.9_-12.0dB_1099ms_1300ms_M30ms.ogg",
+            "start_ms": 32130,
+            "duration_ms": 203
+        }
+    ],
+    "상": [
+        {
+            "file_name": "_selective_sameplace_EP04_037_Juros_상_A4_std40.2_-15.9dB_2100ms_2239ms_M30ms.ogg",
+            "start_ms": 32333,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_046_Jubee_상_Unvoiced_std0.0_-12.3dB_420ms_540ms_M30ms.ogg",
+            "start_ms": 32474,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity1_2_상_Gsharp4_std73.3_-16.1dB_2340ms_2520ms_M30ms.ogg",
+            "start_ms": 32591,
+            "duration_ms": 177
+        }
+    ],
+    "새": [
+        {
+            "file_name": "_selective_sameplace_EP05_014_LeaderJubee_새_Unvoiced_std0.0_-12.9dB_3700ms_3790ms_M30ms.ogg",
+            "start_ms": 32768,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_046_Jubee_새_D4_std5.4_-20.0dB_3480ms_3606ms_M30ms.ogg",
+            "start_ms": 32859,
+            "duration_ms": 123
+        }
+    ],
+    "생": [
+        {
+            "file_name": "Voice_Jubee_Affinity6_생_E4_std10.4_-21.6dB_3300ms_3460ms_M30ms.ogg",
+            "start_ms": 32982,
+            "duration_ms": 157
+        }
+    ],
+    "서": [
+        {
+            "file_name": "_selective_Gangster_EP02_065_Jubee_서_Unvoiced_std0.0_-30.0dB_1480ms_1570ms_M30ms.ogg",
+            "start_ms": 33139,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "Voice_Jubee_Line2_서_B3_std15.8_-20.5dB_1200ms_1326ms_M30ms.ogg",
+            "start_ms": 33230,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_Skin1_서_C4_std11.0_-13.4dB_960ms_1068ms_M30ms.ogg",
+            "start_ms": 33353,
+            "duration_ms": 109
+        }
+    ],
+    "석": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_석_B3_std17.2_-28.8dB_3420ms_3590ms_M30ms.ogg",
+            "start_ms": 33462,
+            "duration_ms": 167
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_069_Jubee_석_Unvoiced_std0.0_-23.4dB_1280ms_1460ms_M30ms.ogg",
+            "start_ms": 33629,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_석_B3_std10.4_-23.0dB_3400ms_3580ms_M30ms.ogg",
+            "start_ms": 33806,
+            "duration_ms": 177
+        }
+    ],
+    "선": [
+        {
+            "file_name": "_selective_Gangster_EP02_034_Jubee_선_B4_std11.6_-15.9dB_2000ms_2160ms_M30ms.ogg",
+            "start_ms": 33983,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_031_LeaderJubee_선_E4_std29.5_-16.4dB_4560ms_4800ms_M30ms.ogg",
+            "start_ms": 34140,
+            "duration_ms": 237
+        }
+    ],
+    "설": [
+        {
+            "file_name": "_selective_sameplace_EP03_033_Jubee_설_F5_std63.0_-10.1dB_3830ms_3940ms_M30ms.ogg",
+            "start_ms": 34377,
+            "duration_ms": 112
+        }
+    ],
+    "성": [
+        {
+            "file_name": "_selective_Gangster_EP02_048_Jubee_성_F4_std14.0_-14.3dB_3100ms_3260ms_M30ms.ogg",
+            "start_ms": 34489,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_001_LeaderJubee_성_C4_std6.9_-16.1dB_3239ms_3480ms_M30ms.ogg",
+            "start_ms": 34646,
+            "duration_ms": 238
+        }
+    ],
+    "소": [
+        {
+            "file_name": "_selective_sameplace_EP03_029_Jubee_소_E5_std12.7_-11.0dB_1680ms_1770ms_M30ms.ogg",
+            "start_ms": 34884,
+            "duration_ms": 91
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_050_LeaderJubee_소_Gsharp4_std11.6_-15.8dB_1220ms_1310ms_M30ms.ogg",
+            "start_ms": 34975,
+            "duration_ms": 91
+        }
+    ],
+    "수": [
+        {
+            "file_name": "_selective_sameplace_EP05_061_Jubee_수_B4_std25.2_-14.0dB_3880ms_3988ms_M30ms.ogg",
+            "start_ms": 35066,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_072_LeaderJubee_수_B4_std27.3_-16.2dB_2680ms_2788ms_M30ms.ogg",
+            "start_ms": 35175,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Growth2_수_F4_std21.0_-23.1dB_1140ms_1248ms_M30ms.ogg",
+            "start_ms": 35284,
+            "duration_ms": 109
+        }
+    ],
+    "숙": [
+        {
+            "file_name": "_selective_sameplace_EP03_037_Jubee_숙_E4_std55.2_-19.3dB_2140ms_2380ms_M30ms.ogg",
+            "start_ms": 35393,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity2_숙_B3_std10.6_-21.6dB_1700ms_1900ms_M30ms.ogg",
+            "start_ms": 35630,
+            "duration_ms": 197
+        }
+    ],
+    "순": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_059_Jubee_순_B3_std8.5_-17.2dB_420ms_540ms_M30ms.ogg",
+            "start_ms": 35827,
+            "duration_ms": 117
+        }
+    ],
+    "스": [
+        {
+            "file_name": "_selective_sameplace_EP05_029_LeaderJubee_스_Gsharp3_std9.7_-16.8dB_1680ms_1824ms_M30ms.ogg",
+            "start_ms": 35944,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_074_LeaderJubee_스_D4_std1.2_-20.0dB_6810ms_6909ms_M30ms.ogg",
+            "start_ms": 36085,
+            "duration_ms": 101
+        }
+    ],
+    "슨": [
+        {
+            "file_name": "_selective_sameplace_EP07_045_Jubee_슨_Unvoiced_std0.0_-19.7dB_1619ms_1700ms_M30ms.ogg",
+            "start_ms": 36186,
+            "duration_ms": 83
+        }
+    ],
+    "슴": [
+        {
+            "file_name": "_selective_Gangster_EP02_065_Jubee_슴_D4_std9.0_-26.5dB_3460ms_3680ms_M30ms.ogg",
+            "start_ms": 36269,
+            "duration_ms": 221
+        }
+    ],
+    "시": [
+        {
+            "file_name": "_selective_sameplace_EP03_070_LeaderJubee_시_Unvoiced_std0.0_-16.6dB_1920ms_2064ms_M30ms.ogg",
+            "start_ms": 36490,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Jubee_DutchRubEnd2_시_F4_std7.2_-17.4dB_1160ms_1304ms_M30ms.ogg",
+            "start_ms": 36631,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_2_시_A4_std37.8_-30.0dB_1220ms_1363ms_M30ms.ogg",
+            "start_ms": 36772,
+            "duration_ms": 164
+        }
+    ],
+    "식": [
+        {
+            "file_name": "_selective_sameplace_EP05_020_LeaderJubee_식_Unvoiced_std0.0_-16.9dB_220ms_400ms_M30ms.ogg",
+            "start_ms": 36936,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_072_LeaderJubee_식_Dsharp4_std26.4_-18.0dB_620ms_790ms_M30ms.ogg",
+            "start_ms": 37113,
+            "duration_ms": 171
+        }
+    ],
+    "신": [
+        {
+            "file_name": "Voice_Jubee_Ultimate1-01_신_C5_std20.3_-20.9dB_1920ms_2080ms_M30ms.ogg",
+            "start_ms": 37284,
+            "duration_ms": 157
+        }
+    ],
+    "싫": [
+        {
+            "file_name": "Voice_Jubee_Touch2_Skin1_싫_Unvoiced_std0.0_-16.1dB_640ms_810ms_M30ms.ogg",
+            "start_ms": 37441,
+            "duration_ms": 171
+        }
+    ],
+    "심": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_050_Jubee_심_E5_std54.6_-14.7dB_139ms_339ms_M30ms.ogg",
+            "start_ms": 37612,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_014_LeaderJubee_심_Fsharp4_std5.6_-20.5dB_6280ms_6450ms_M30ms.ogg",
+            "start_ms": 37809,
+            "duration_ms": 171
+        }
+    ],
+    "싸": [
+        {
+            "file_name": "_selective_sameplace_EP06_082_LeaderJubee_싸_Asharp3_std9.7_-14.4dB_2200ms_2326ms_M30ms.ogg",
+            "start_ms": 37980,
+            "duration_ms": 128
+        }
+    ],
+    "아": [
+        {
+            "file_name": "_selective_Gangster_EP02_021_Jubee_아_A3_std7.1_-21.3dB_620ms_728ms_M30ms.ogg",
+            "start_ms": 38108,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_031_LeaderJubee_아_Csharp4_std1.6_-14.4dB_5609ms_5718ms_M30ms.ogg",
+            "start_ms": 38217,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity6_아_Fsharp4_std8.7_-12.7dB_860ms_968ms_M30ms.ogg",
+            "start_ms": 38326,
+            "duration_ms": 109
+        }
+    ],
+    "안": [
+        {
+            "file_name": "_selective_sameplace_EP05_014_LeaderJubee_안_Asharp3_std2.7_-17.4dB_3000ms_3120ms_M30ms.ogg",
+            "start_ms": 38435,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_안_F4_std3.6_-11.7dB_1140ms_1260ms_M30ms.ogg",
+            "start_ms": 38552,
+            "duration_ms": 117
+        }
+    ],
+    "않": [
+        {
+            "file_name": "_selective_Gangster_EP02_065_Jubee_않_Fsharp4_std9.0_-10.7dB_3840ms_4029ms_M30ms.ogg",
+            "start_ms": 38669,
+            "duration_ms": 189
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_011_Jubee_않_C4_std12.8_-14.0dB_6840ms_6990ms_M30ms.ogg",
+            "start_ms": 38858,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_071_LeaderJubee_않_C4_std1.4_-13.3dB_3660ms_3830ms_M30ms.ogg",
+            "start_ms": 39010,
+            "duration_ms": 171
+        }
+    ],
+    "알": [
+        {
+            "file_name": "Voice_Jubee_Touch2_알_Dsharp4_std5.0_-14.1dB_559ms_720ms_M30ms.ogg",
+            "start_ms": 39181,
+            "duration_ms": 163
+        }
+    ],
+    "야": [
+        {
+            "file_name": "_selective_sameplace_EP03_035_Jubee_야_Gsharp4_std6.6_-11.4dB_4290ms_4407ms_M30ms.ogg",
+            "start_ms": 39344,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_074_LeaderJubee_야_Asharp3_std3.9_-13.7dB_7360ms_7522ms_M30ms.ogg",
+            "start_ms": 39461,
+            "duration_ms": 163
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity1_2_야_G4_std6.4_-9.3dB_3230ms_3311ms_M30ms.ogg",
+            "start_ms": 39624,
+            "duration_ms": 83
+        }
+    ],
+    "얀": [
+        {
+            "file_name": "Voice_Jubee_Gacha3_얀_A4_std18.7_-15.2dB_240ms_439ms_M30ms.ogg",
+            "start_ms": 39707,
+            "duration_ms": 200
+        }
+    ],
+    "얘": [
+        {
+            "file_name": "_selective_sameplace_EP03_030_LeaderJubee_얘_F4_std8.9_-12.5dB_2000ms_2144ms_M30ms.ogg",
+            "start_ms": 39907,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_057_LeaderJubee_얘_G3_std14.9_-27.6dB_4200ms_4344ms_M30ms.ogg",
+            "start_ms": 40048,
+            "duration_ms": 141
+        }
+    ],
+    "어": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_050_Jubee_어_Unvoiced_std0.0_-12.8dB_480ms_660ms_M30ms.ogg",
+            "start_ms": 40189,
+            "duration_ms": 181
+        },
+        {
+            "file_name": "_selective_Picnicdate_EP02_057_Jubee_어_B3_std12.1_-20.2dB_860ms_1022ms_M30ms.ogg",
+            "start_ms": 40370,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_015_LeaderJubee_어_Unvoiced_std0.0_-15.5dB_2000ms_2144ms_M30ms.ogg",
+            "start_ms": 40529,
+            "duration_ms": 141
+        }
+    ],
+    "없": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_058_Jubee_없_Gsharp4_std9.5_-14.9dB_1260ms_1420ms_M30ms.ogg",
+            "start_ms": 40670,
+            "duration_ms": 157
+        }
+    ],
+    "었": [
+        {
+            "file_name": "_selective_sameplace_EP03_026_LeaderJubee_었_Fsharp4_std2.6_-14.4dB_4140ms_4280ms_M30ms.ogg",
+            "start_ms": 40827,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_073_LeaderJubee_었_C4_std26.3_-13.8dB_5550ms_5729ms_M30ms.ogg",
+            "start_ms": 40968,
+            "duration_ms": 176
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_015_LeaderJubee_었_Dsharp4_std8.5_-13.5dB_1910ms_2000ms_M30ms.ogg",
+            "start_ms": 41144,
+            "duration_ms": 91
+        }
+    ],
+    "에": [
+        {
+            "file_name": "_selective_Gangster_EP02_049_Jubee_에_D5_std32.4_-14.8dB_480ms_606ms_M30ms.ogg",
+            "start_ms": 41235,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_036_LeaderJubee_에_Asharp4_std5.6_-12.2dB_3920ms_4045ms_M30ms.ogg",
+            "start_ms": 41363,
+            "duration_ms": 125
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_039_Jubee_에_Dsharp4_std25.1_-10.6dB_1329ms_1447ms_M30ms.ogg",
+            "start_ms": 41488,
+            "duration_ms": 115
+        }
+    ],
+    "여": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_여_Csharp4_std10.7_-22.2dB_3300ms_3408ms_M30ms.ogg",
+            "start_ms": 41603,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_035_Jubee_여_G4_std3.0_-13.6dB_4040ms_4184ms_M30ms.ogg",
+            "start_ms": 41712,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Jubee_Board_Skin1_여_C4_std8.7_-13.7dB_20ms_136ms_M30ms.ogg",
+            "start_ms": 41853,
+            "duration_ms": 117
+        }
+    ],
+    "역": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_048_Jubee_역_F4_std24.5_-13.2dB_420ms_570ms_M30ms.ogg",
+            "start_ms": 41970,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_Picnicdate_EP02_054_Jubee_역_Gsharp4_std25.6_-15.8dB_630ms_750ms_M30ms.ogg",
+            "start_ms": 42122,
+            "duration_ms": 117
+        }
+    ],
+    "연": [
+        {
+            "file_name": "_selective_sameplace_EP03_011_Jubee_연_C4_std2.9_-14.0dB_670ms_820ms_M30ms.ogg",
+            "start_ms": 42239,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "Voice_Jubee_Equipment_Skin1_연_B3_std2.7_-15.5dB_1480ms_1670ms_M30ms.ogg",
+            "start_ms": 42391,
+            "duration_ms": 192
+        }
+    ],
+    "열": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_051_Jubee_열_D4_std9.7_-14.5dB_220ms_420ms_M30ms.ogg",
+            "start_ms": 42583,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_037_Jubee_열_Fsharp4_std19.3_-13.5dB_2660ms_2900ms_M30ms.ogg",
+            "start_ms": 42780,
+            "duration_ms": 237
+        }
+    ],
+    "영": [
+        {
+            "file_name": "Voice_Jubee_HeroUpgrade_영_F4_std19.3_-11.9dB_1340ms_1480ms_M30ms.ogg",
+            "start_ms": 43017,
+            "duration_ms": 141
+        }
+    ],
+    "오": [
+        {
+            "file_name": "Voice_Jubee_HeroUpgrade_Skin1_오_Gsharp4_std8.2_-14.2dB_1580ms_1670ms_M30ms.ogg",
+            "start_ms": 43158,
+            "duration_ms": 91
+        }
+    ],
+    "온": [
+        {
+            "file_name": "Voice_Jubee_Touch2_1_온_G4_std8.1_-13.5dB_220ms_380ms_M30ms.ogg",
+            "start_ms": 43249,
+            "duration_ms": 157
+        }
+    ],
+    "와": [
+        {
+            "file_name": "_selective_sameplace_EP04_038_Juros_와_G3_std13.7_-20.4dB_1530ms_1773ms_M30ms.ogg",
+            "start_ms": 43406,
+            "duration_ms": 245
+        },
+        {
+            "file_name": "Voice_Jubee_Spawn2_와_E4_std1.7_-17.9dB_169ms_269ms_M30ms.ogg",
+            "start_ms": 43651,
+            "duration_ms": 97
+        }
+    ],
+    "왔": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_왔_G4_std8.6_-14.2dB_1900ms_2080ms_M30ms.ogg",
+            "start_ms": 43748,
+            "duration_ms": 177
+        }
+    ],
+    "요": [
+        {
+            "file_name": "_selective_sameplace_EP03_026_LeaderJubee_요_D4_std19.1_-16.3dB_2480ms_2624ms_M30ms.ogg",
+            "start_ms": 43925,
+            "duration_ms": 141
+        }
+    ],
+    "우": [
+        {
+            "file_name": "_selective_sameplace_EP03_039_Jubee_우_F4_std14.8_-17.5dB_1140ms_1248ms_M30ms.ogg",
+            "start_ms": 44066,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_055_LeaderJubee_우_E4_std3.3_-13.1dB_1720ms_1828ms_M30ms.ogg",
+            "start_ms": 44175,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_우_Dsharp4_std21.4_-16.2dB_4420ms_4528ms_M30ms.ogg",
+            "start_ms": 44284,
+            "duration_ms": 109
+        }
+    ],
+    "움": [
+        {
+            "file_name": "_selective_sameplace_EP06_082_LeaderJubee_움_B3_std3.3_-15.6dB_2340ms_2480ms_M30ms.ogg",
+            "start_ms": 44393,
+            "duration_ms": 137
+        }
+    ],
+    "위": [
+        {
+            "file_name": "_selective_Gangster_EP02_065_Jubee_위_Csharp4_std3.7_-20.7dB_1140ms_1248ms_M30ms.ogg",
+            "start_ms": 44530,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity3_위_Csharp4_std22.0_-21.3dB_750ms_893ms_M30ms.ogg",
+            "start_ms": 44639,
+            "duration_ms": 144
+        }
+    ],
+    "으": [
+        {
+            "file_name": "_selective_sameplace_EP03_038_LeaderJubee_으_A3_std2.8_-22.5dB_3830ms_3920ms_M30ms.ogg",
+            "start_ms": 44783,
+            "duration_ms": 87
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_071_LeaderJubee_으_C4_std7.1_-14.4dB_3830ms_3911ms_M30ms.ogg",
+            "start_ms": 44870,
+            "duration_ms": 83
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_074_LeaderJubee_으_G4_std5.5_-29.3dB_3370ms_3469ms_M30ms.ogg",
+            "start_ms": 44953,
+            "duration_ms": 96
+        }
+    ],
+    "은": [
+        {
+            "file_name": "_selective_Gangster_EP02_049_Jubee_은_Gsharp3_std33.8_-30.7dB_1250ms_1400ms_M30ms.ogg",
+            "start_ms": 45049,
+            "duration_ms": 147
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_은_Gsharp3_std15.3_-20.9dB_1010ms_1140ms_M30ms.ogg",
+            "start_ms": 45196,
+            "duration_ms": 127
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_055_Jubee_은_C5_std23.8_-14.9dB_2110ms_2260ms_M30ms.ogg",
+            "start_ms": 45323,
+            "duration_ms": 152
+        }
+    ],
+    "을": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_049_Jubee_을_Gsharp4_std3.5_-14.8dB_1670ms_1800ms_M30ms.ogg",
+            "start_ms": 45475,
+            "duration_ms": 131
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity1_1_을_Csharp4_std1.8_-19.6dB_780ms_920ms_M30ms.ogg",
+            "start_ms": 45606,
+            "duration_ms": 137
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity7_을_G4_std4.0_-19.7dB_910ms_1040ms_M30ms.ogg",
+            "start_ms": 45743,
+            "duration_ms": 127
+        }
+    ],
+    "의": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_048_Jubee_의_Unvoiced_std0.0_-16.5dB_570ms_705ms_M30ms.ogg",
+            "start_ms": 45870,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_011_Jubee_의_Fsharp4_std1.5_-12.2dB_5760ms_5886ms_M30ms.ogg",
+            "start_ms": 46002,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_012_LeaderJubee_의_Unvoiced_std0.0_-14.7dB_2269ms_2405ms_M30ms.ogg",
+            "start_ms": 46130,
+            "duration_ms": 133
+        }
+    ],
+    "이": [
+        {
+            "file_name": "_selective_sameplace_EP03_077_Jubee_이_B3_std12.4_-28.5dB_450ms_585ms_M30ms.ogg",
+            "start_ms": 46263,
+            "duration_ms": 132
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_007_LeaderJubee_이_Unvoiced_std0.0_-16.1dB_2770ms_2905ms_M30ms.ogg",
+            "start_ms": 46395,
+            "duration_ms": 136
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_014_LeaderJubee_이_Unvoiced_std0.0_-17.0dB_7029ms_7165ms_M30ms.ogg",
+            "start_ms": 46531,
+            "duration_ms": 133
+        }
+    ],
+    "인": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_057_Jubee_인_F4_std3.6_-24.3dB_1670ms_1780ms_M30ms.ogg",
+            "start_ms": 46664,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_034_LeaderJubee_인_C4_std6.5_-16.0dB_4440ms_4550ms_M30ms.ogg",
+            "start_ms": 46776,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_003_LeaderJubee_인_Csharp5_std1.6_-12.8dB_2960ms_3080ms_M30ms.ogg",
+            "start_ms": 46888,
+            "duration_ms": 117
+        }
+    ],
+    "일": [
+        {
+            "file_name": "_selective_sameplace_EP03_024_LeaderJubee_일_F4_std3.6_-16.5dB_3540ms_3670ms_M30ms.ogg",
+            "start_ms": 47005,
+            "duration_ms": 131
+        }
+    ],
+    "임": [
+        {
+            "file_name": "_selective_sameplace_EP03_075_LeaderJubee_임_Fsharp4_std17.8_-15.8dB_2220ms_2340ms_M30ms.ogg",
+            "start_ms": 47136,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_071_LeaderJubee_임_D4_std10.7_-16.5dB_2620ms_2770ms_M30ms.ogg",
+            "start_ms": 47253,
+            "duration_ms": 147
+        }
+    ],
+    "입": [
+        {
+            "file_name": "_selective_sameplace_EP03_025_Jubee_입_E4_std45.5_-28.1dB_2320ms_2560ms_M30ms.ogg",
+            "start_ms": 47400,
+            "duration_ms": 237
+        }
+    ],
+    "있": [
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_있_G4_std5.1_-17.3dB_2840ms_3000ms_M30ms.ogg",
+            "start_ms": 47637,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_073_LeaderJubee_있_E4_std8.2_-22.5dB_1770ms_1910ms_M30ms.ogg",
+            "start_ms": 47794,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity2_있_B3_std7.3_-20.1dB_5300ms_5440ms_M30ms.ogg",
+            "start_ms": 47935,
+            "duration_ms": 141
+        }
+    ],
+    "자": [
+        {
+            "file_name": "_selective_sameplace_EP07_055_Jubee_자_Fsharp5_std36.8_-11.7dB_2540ms_2702ms_M30ms.ogg",
+            "start_ms": 48076,
+            "duration_ms": 163
+        }
+    ],
+    "잘": [
+        {
+            "file_name": "Voice_Jubee_Affinity7_잘_Unvoiced_std0.0_-15.5dB_4620ms_4780ms_M30ms.ogg",
+            "start_ms": 48239,
+            "duration_ms": 157
+        }
+    ],
+    "장": [
+        {
+            "file_name": "_selective_sameplace_EP03_023_Jubee_장_E5_std8.1_-11.9dB_250ms_400ms_M30ms.ogg",
+            "start_ms": 48396,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_002_Jubee_장_Dsharp4_std13.2_-16.3dB_1940ms_2110ms_M30ms.ogg",
+            "start_ms": 48548,
+            "duration_ms": 171
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_056_Jubee_장_A3_std23.0_-28.4dB_2540ms_2680ms_M30ms.ogg",
+            "start_ms": 48719,
+            "duration_ms": 137
+        }
+    ],
+    "저": [
+        {
+            "file_name": "_selective_sameplace_EP03_077_Jubee_저_F4_std3.1_-15.6dB_80ms_278ms_M30ms.ogg",
+            "start_ms": 48856,
+            "duration_ms": 195
+        },
+        {
+            "file_name": "Voice_Jubee_Equipment_Skin1_저_D4_std32.0_-17.1dB_740ms_848ms_M30ms.ogg",
+            "start_ms": 49051,
+            "duration_ms": 109
+        }
+    ],
+    "적": [
+        {
+            "file_name": "_selective_sameplace_EP05_001_LeaderJubee_적_D4_std12.0_-14.1dB_3680ms_3800ms_M30ms.ogg",
+            "start_ms": 49160,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity2_적_Asharp3_std5.1_-23.0dB_5979ms_6170ms_M30ms.ogg",
+            "start_ms": 49277,
+            "duration_ms": 192
+        }
+    ],
+    "전": [
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_전_C4_std3.3_-13.6dB_280ms_380ms_M30ms.ogg",
+            "start_ms": 49469,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "Voice_Jubee_Touch2_2_전_B3_std13.4_-17.4dB_380ms_520ms_M30ms.ogg",
+            "start_ms": 49570,
+            "duration_ms": 141
+        }
+    ],
+    "정": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_048_Jubee_정_G4_std54.7_-16.5dB_1240ms_1480ms_M30ms.ogg",
+            "start_ms": 49711,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_031_LeaderJubee_정_D4_std8.5_-12.4dB_2200ms_2280ms_M30ms.ogg",
+            "start_ms": 49948,
+            "duration_ms": 77
+        }
+    ],
+    "제": [
+        {
+            "file_name": "_selective_sameplace_EP05_003_Jubee_제_G3_std20.7_-21.1dB_300ms_498ms_M30ms.ogg",
+            "start_ms": 50025,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "Voice_Jubee_LevelUp_제_Csharp4_std10.7_-18.2dB_1040ms_1148ms_M30ms.ogg",
+            "start_ms": 50225,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "Voice_Jubee_Touch1_2_제_B3_std11.3_-16.8dB_180ms_288ms_M30ms.ogg",
+            "start_ms": 50334,
+            "duration_ms": 109
+        }
+    ],
+    "젤": [
+        {
+            "file_name": "Voice_Jubee_Gacha3_젤_Gsharp4_std17.0_-18.3dB_439ms_580ms_M30ms.ogg",
+            "start_ms": 50443,
+            "duration_ms": 141
+        }
+    ],
+    "좀": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_좀_Asharp4_std6.6_-16.9dB_1160ms_1320ms_M30ms.ogg",
+            "start_ms": 50584,
+            "duration_ms": 157
+        }
+    ],
+    "주": [
+        {
+            "file_name": "_selective_Gangster_EP02_053_Jubee_주_Csharp4_std14.4_-17.9dB_200ms_380ms_M30ms.ogg",
+            "start_ms": 50741,
+            "duration_ms": 177
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_034_LeaderJubee_주_C4_std16.8_-21.5dB_4159ms_4322ms_M30ms.ogg",
+            "start_ms": 50918,
+            "duration_ms": 165
+        },
+        {
+            "file_name": "Voice_Jubee_HeroUpgrade_주_D4_std32.7_-20.0dB_60ms_222ms_M30ms.ogg",
+            "start_ms": 51083,
+            "duration_ms": 159
+        }
+    ],
+    "준": [
+        {
+            "file_name": "_selective_sameplace_EP03_042_LeaderJubee_준_Gsharp4_std6.8_-14.9dB_6720ms_6920ms_M30ms.ogg",
+            "start_ms": 51242,
+            "duration_ms": 197
+        }
+    ],
+    "중": [
+        {
+            "file_name": "_selective_sameplace_EP03_033_Jubee_중_C5_std17.2_-20.4dB_3960ms_4059ms_M30ms.ogg",
+            "start_ms": 51439,
+            "duration_ms": 101
+        }
+    ],
+    "즈": [
+        {
+            "file_name": "_selective_sameplace_EP05_074_LeaderJubee_즈_Gsharp4_std17.9_-15.9dB_6239ms_6348ms_M30ms.ogg",
+            "start_ms": 51540,
+            "duration_ms": 109
+        }
+    ],
+    "즘": [
+        {
+            "file_name": "_selective_sameplace_EP03_026_LeaderJubee_즘_G4_std2.3_-17.2dB_2640ms_2740ms_M30ms.ogg",
+            "start_ms": 51649,
+            "duration_ms": 101
+        }
+    ],
+    "지": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_050_Jubee_지_D5_std3.2_-15.6dB_339ms_465ms_M30ms.ogg",
+            "start_ms": 51750,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_Picnicdate_EP02_051_Jubee_지_Unvoiced_std0.0_-13.1dB_1380ms_1506ms_M30ms.ogg",
+            "start_ms": 51878,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_026_LeaderJubee_지_Unvoiced_std0.0_-16.6dB_2900ms_3026ms_M30ms.ogg",
+            "start_ms": 52006,
+            "duration_ms": 128
+        }
+    ],
+    "직": [
+        {
+            "file_name": "_selective_sameplace_EP05_012_LeaderJubee_직_Unvoiced_std0.0_-18.0dB_5159ms_5270ms_M30ms.ogg",
+            "start_ms": 52134,
+            "duration_ms": 112
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_022_LeaderJubee_직_Unvoiced_std0.0_-18.5dB_3860ms_4010ms_M30ms.ogg",
+            "start_ms": 52246,
+            "duration_ms": 152
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_031_LeaderJubee_직_Asharp4_std27.6_-13.9dB_3600ms_3700ms_M30ms.ogg",
+            "start_ms": 52398,
+            "duration_ms": 101
+        }
+    ],
+    "진": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_077_Jubee_진_G4_std39.3_-16.2dB_1820ms_2020ms_M30ms.ogg",
+            "start_ms": 52499,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity5_진_A4_std6.4_-28.1dB_1280ms_1500ms_M30ms.ogg",
+            "start_ms": 52696,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "Voice_Jubee_Growth2_Skin1_진_Asharp3_std3.6_-18.5dB_950ms_1160ms_M30ms.ogg",
+            "start_ms": 52913,
+            "duration_ms": 211
+        }
+    ],
+    "집": [
+        {
+            "file_name": "_selective_sameplace_EP05_015_LeaderJubee_집_E4_std20.3_-15.3dB_1020ms_1194ms_M30ms.ogg",
+            "start_ms": 53124,
+            "duration_ms": 176
+        }
+    ],
+    "징": [
+        {
+            "file_name": "_selective_sameplace_EP05_007_LeaderJubee_징_Gsharp4_std37.6_-14.9dB_1800ms_1940ms_M30ms.ogg",
+            "start_ms": 53300,
+            "duration_ms": 141
+        }
+    ],
+    "째": [
+        {
+            "file_name": "_selective_sameplace_EP05_028_LeaderJubee_째_Unvoiced_std0.0_-13.3dB_540ms_648ms_M30ms.ogg",
+            "start_ms": 53441,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_031_LeaderJubee_째_Unvoiced_std0.0_-16.7dB_4319ms_4410ms_M30ms.ogg",
+            "start_ms": 53550,
+            "duration_ms": 93
+        }
+    ],
+    "차": [
+        {
+            "file_name": "_selective_sameplace_EP05_072_LeaderJubee_차_Unvoiced_std0.0_-11.9dB_4780ms_4906ms_M30ms.ogg",
+            "start_ms": 53643,
+            "duration_ms": 128
+        }
+    ],
+    "채": [
+        {
+            "file_name": "_selective_sameplace_EP03_036_LeaderJubee_채_Fsharp4_std54.0_-13.6dB_1000ms_1216ms_M30ms.ogg",
+            "start_ms": 53771,
+            "duration_ms": 213
+        }
+    ],
+    "체": [
+        {
+            "file_name": "_selective_sameplace_EP03_031_LeaderJubee_체_Dsharp4_std11.8_-10.7dB_640ms_838ms_M30ms.ogg",
+            "start_ms": 53984,
+            "duration_ms": 195
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_002_Jubee_체_G4_std14.4_-16.3dB_3700ms_3844ms_M30ms.ogg",
+            "start_ms": 54179,
+            "duration_ms": 141
+        }
+    ],
+    "최": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_054_Jubee_최_Asharp4_std23.0_-13.0dB_80ms_206ms_M30ms.ogg",
+            "start_ms": 54320,
+            "duration_ms": 128
+        }
+    ],
+    "치": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_치_Unvoiced_std0.0_-24.8dB_4440ms_4548ms_M30ms.ogg",
+            "start_ms": 54448,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Picnicdate_EP02_076_Jubee_치_F5_std31.5_-16.9dB_1000ms_1107ms_M30ms.ogg",
+            "start_ms": 54557,
+            "duration_ms": 109
+        },
+        {
+            "file_name": "_selective_Picnicdate_EP02_077_Jubee_치_Unvoiced_std0.0_-17.4dB_1680ms_1806ms_M30ms.ogg",
+            "start_ms": 54666,
+            "duration_ms": 128
+        }
+    ],
+    "친": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_059_Jubee_친_Csharp4_std9.2_-16.2dB_940ms_1140ms_M30ms.ogg",
+            "start_ms": 54794,
+            "duration_ms": 197
+        }
+    ],
+    "침": [
+        {
+            "file_name": "Voice_Jubee_Equipment_Skin1_침_Gsharp4_std58.1_-16.7dB_360ms_580ms_M30ms.ogg",
+            "start_ms": 54991,
+            "duration_ms": 217
+        }
+    ],
+    "카": [
+        {
+            "file_name": "_selective_sameplace_EP03_038_LeaderJubee_카_Csharp4_std12.4_-13.4dB_3100ms_3262ms_M30ms.ogg",
+            "start_ms": 55208,
+            "duration_ms": 159
+        },
+        {
+            "file_name": "Voice_Jubee_HeroSkill_Skin1_카_Csharp4_std9.8_-17.3dB_3040ms_3166ms_M30ms.ogg",
+            "start_ms": 55367,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_LevelUp_Skin1_카_Unvoiced_std0.0_-14.3dB_500ms_608ms_M30ms.ogg",
+            "start_ms": 55495,
+            "duration_ms": 109
+        }
+    ],
+    "크": [
+        {
+            "file_name": "_selective_sameplace_EP05_054_LeaderJubee_크_G4_std2.8_-10.7dB_139ms_266ms_M30ms.ogg",
+            "start_ms": 55604,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_074_LeaderJubee_크_D5_std2.5_-11.1dB_670ms_769ms_M30ms.ogg",
+            "start_ms": 55732,
+            "duration_ms": 101
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_007_Jubee_크_Csharp5_std11.9_-15.9dB_3360ms_3450ms_M30ms.ogg",
+            "start_ms": 55833,
+            "duration_ms": 91
+        }
+    ],
+    "타": [
+        {
+            "file_name": "Voice_Jubee_DutchRubEnd2_타_Unvoiced_std0.0_-11.7dB_1320ms_1428ms_M30ms.ogg",
+            "start_ms": 55924,
+            "duration_ms": 109
+        }
+    ],
+    "탑": [
+        {
+            "file_name": "_selective_sameplace_EP05_002_Jubee_탑_Fsharp4_std33.1_-16.1dB_400ms_570ms_M30ms.ogg",
+            "start_ms": 56033,
+            "duration_ms": 171
+        }
+    ],
+    "탕": [
+        {
+            "file_name": "Voice_Jubee_Affinity1_1_탕_Dsharp4_std12.5_-13.7dB_690ms_780ms_M30ms.ogg",
+            "start_ms": 56204,
+            "duration_ms": 91
+        }
+    ],
+    "태": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_059_Jubee_태_E4_std3.0_-17.3dB_2700ms_2790ms_M30ms.ogg",
+            "start_ms": 56295,
+            "duration_ms": 91
+        }
+    ],
+    "택": [
+        {
+            "file_name": "_selective_sameplace_EP05_026_LeaderJubee_택_Asharp3_std9.2_-25.8dB_3389ms_3560ms_M30ms.ogg",
+            "start_ms": 56386,
+            "duration_ms": 168
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_028_LeaderJubee_택_Unvoiced_std0.0_-27.9dB_1010ms_1240ms_M30ms.ogg",
+            "start_ms": 56554,
+            "duration_ms": 232
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_031_LeaderJubee_택_Dsharp4_std27.8_-19.6dB_4800ms_5020ms_M30ms.ogg",
+            "start_ms": 56786,
+            "duration_ms": 221
+        }
+    ],
+    "탭": [
+        {
+            "file_name": "_selective_sameplace_EP03_033_Jubee_탭_Fsharp4_std23.5_-15.3dB_319ms_530ms_M30ms.ogg",
+            "start_ms": 57007,
+            "duration_ms": 213
+        }
+    ],
+    "털": [
+        {
+            "file_name": "_selective_sameplace_EP03_028_LeaderJubee_털_E4_std14.0_-12.6dB_2380ms_2590ms_M30ms.ogg",
+            "start_ms": 57220,
+            "duration_ms": 211
+        }
+    ],
+    "테": [
+        {
+            "file_name": "Voice_Jubee_DeckSetting1_테_B3_std10.6_-25.9dB_540ms_683ms_M30ms.ogg",
+            "start_ms": 57431,
+            "duration_ms": 144
+        }
+    ],
+    "트": [
+        {
+            "file_name": "_selective_sameplace_EP03_015_Jubee_트_Unvoiced_std0.0_-17.5dB_2660ms_2750ms_M30ms.ogg",
+            "start_ms": 57575,
+            "duration_ms": 91
+        }
+    ],
+    "패": [
+        {
+            "file_name": "_selective_sameplace_EP07_056_Jubee_패_Unvoiced_std0.0_-13.1dB_5070ms_5151ms_M30ms.ogg",
+            "start_ms": 57666,
+            "duration_ms": 83
+        }
+    ],
+    "편": [
+        {
+            "file_name": "_selective_Gangster_EP02_022_Jubee_편_D4_std24.3_-26.8dB_3120ms_3300ms_M30ms.ogg",
+            "start_ms": 57749,
+            "duration_ms": 181
+        }
+    ],
+    "푸": [
+        {
+            "file_name": "_selective_sameplace_EP06_029_LeaderJubee_푸_Csharp5_std27.4_-11.8dB_3580ms_3688ms_M30ms.ogg",
+            "start_ms": 57930,
+            "duration_ms": 109
+        }
+    ],
+    "피": [
+        {
+            "file_name": "_selective_sameplace_EP03_017_Jubee_피_G4_std15.2_-19.0dB_2980ms_3124ms_M30ms.ogg",
+            "start_ms": 58039,
+            "duration_ms": 141
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_030_LeaderJubee_피_Fsharp4_std17.3_-14.4dB_4390ms_4507ms_M30ms.ogg",
+            "start_ms": 58180,
+            "duration_ms": 117
+        },
+        {
+            "file_name": "_selective_sameplace_EP06_048_Jubee_피_Unvoiced_std0.0_-15.2dB_559ms_722ms_M30ms.ogg",
+            "start_ms": 58297,
+            "duration_ms": 165
+        }
+    ],
+    "필": [
+        {
+            "file_name": "_selective_sameplace_EP03_030_LeaderJubee_필_Csharp4_std12.6_-12.8dB_2940ms_3140ms_M30ms.ogg",
+            "start_ms": 58462,
+            "duration_ms": 197
+        }
+    ],
+    "하": [
+        {
+            "file_name": "_selective_sameplace_EP03_035_Jubee_하_D4_std14.5_-12.2dB_1900ms_2026ms_M30ms.ogg",
+            "start_ms": 58659,
+            "duration_ms": 123
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_068_LeaderJubee_하_E4_std17.5_-11.0dB_1940ms_2066ms_M30ms.ogg",
+            "start_ms": 58782,
+            "duration_ms": 128
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity2_하_Asharp3_std7.2_-20.2dB_5089ms_5207ms_M30ms.ogg",
+            "start_ms": 58910,
+            "duration_ms": 120
+        }
+    ],
+    "한": [
+        {
+            "file_name": "_selective_sameplace_EP03_035_Jubee_한_Asharp4_std28.3_-18.2dB_4420ms_4579ms_M30ms.ogg",
+            "start_ms": 59030,
+            "duration_ms": 156
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_016_LeaderJubee_한_C5_std10.5_-11.8dB_4560ms_4720ms_M30ms.ogg",
+            "start_ms": 59186,
+            "duration_ms": 157
+        },
+        {
+            "file_name": "Voice_Jubee_HeroSkill_한_F4_std19.5_-17.5dB_480ms_640ms_M30ms.ogg",
+            "start_ms": 59343,
+            "duration_ms": 157
+        }
+    ],
+    "해": [
+        {
+            "file_name": "_selective_sameplace_EP03_025_Jubee_해_Unvoiced_std0.0_-32.7dB_4975ms_5195ms_M30ms.ogg",
+            "start_ms": 59500,
+            "duration_ms": 217
+        },
+        {
+            "file_name": "_selective_sameplace_EP03_031_LeaderJubee_해_Dsharp4_std36.0_-10.5dB_1200ms_1398ms_M30ms.ogg",
+            "start_ms": 59717,
+            "duration_ms": 200
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_057_Jubee_해_Unvoiced_std0.0_-13.2dB_4050ms_4257ms_M30ms.ogg",
+            "start_ms": 59917,
+            "duration_ms": 208
+        }
+    ],
+    "했": [
+        {
+            "file_name": "_selective_sameplace_EP05_071_LeaderJubee_했_B3_std1.9_-19.1dB_4200ms_4399ms_M30ms.ogg",
+            "start_ms": 60125,
+            "duration_ms": 196
+        },
+        {
+            "file_name": "_selective_sameplace_EP07_007_Jubee_했_G4_std11.5_-22.0dB_3960ms_4159ms_M30ms.ogg",
+            "start_ms": 60321,
+            "duration_ms": 196
+        },
+        {
+            "file_name": "Voice_Jubee_Affinity2_했_Gsharp3_std7.2_-21.6dB_2440ms_2620ms_M30ms.ogg",
+            "start_ms": 60517,
+            "duration_ms": 177
+        }
+    ],
+    "험": [
+        {
+            "file_name": "Voice_Jubee_Affinity3_험_G4_std7.5_-12.9dB_909ms_1040ms_M30ms.ogg",
+            "start_ms": 60694,
+            "duration_ms": 133
+        }
+    ],
+    "현": [
+        {
+            "file_name": "_selective_sameplace_EP03_036_LeaderJubee_현_D4_std18.5_-14.1dB_540ms_740ms_M30ms.ogg",
+            "start_ms": 60827,
+            "duration_ms": 197
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_001_LeaderJubee_현_C4_std14.4_-15.4dB_2120ms_2360ms_M30ms.ogg",
+            "start_ms": 61024,
+            "duration_ms": 237
+        },
+        {
+            "file_name": "_selective_sameplace_EP05_003_Jubee_현_E4_std20.2_-14.2dB_1660ms_1840ms_M30ms.ogg",
+            "start_ms": 61261,
+            "duration_ms": 181
+        }
+    ],
+    "확": [
+        {
+            "file_name": "_selective_Picnicdate_EP02_054_Jubee_확_Unvoiced_std0.0_-17.7dB_880ms_1060ms_M30ms.ogg",
+            "start_ms": 61442,
+            "duration_ms": 177
+        }
+    ],
+    "후": [
+        {
+            "file_name": "_selective_sameplace_EP07_057_Jubee_후_Unvoiced_std0.0_-21.4dB_3360ms_3504ms_M30ms.ogg",
+            "start_ms": 61619,
+            "duration_ms": 164
+        }
+    ],
+    "히": [
+        {
+            "file_name": "_selective_sameplace_EP03_032_LeaderJubee_히_D4_std8.5_-17.3dB_380ms_542ms_M30ms.ogg",
+            "start_ms": 61783,
+            "duration_ms": 163
+        }
+    ]
+}
