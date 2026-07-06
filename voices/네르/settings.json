@@ -1,0 +1,10 @@
+{
+  "하": {
+    "mode": "fixed",
+    "default": "D:\\movies\\좍컬로이드\\음절\\네르\\하\\Intro_007_Ner_하_Unvoiced_std0.0_-22.7dB_5860ms_6004ms_M30ms.wav"
+  },
+  "세": {
+    "mode": "fixed",
+    "default": "D:\\movies\\좍컬로이드\\음절\\네르\\세\\Intro_017_Ner_세_F4_std39.8_-15.2dB_2300ms_2426ms_M30ms.wav"
+  }
+}

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>리온과 시온의 역전재판</title>
+    <link rel="icon" href="images/icon.png" type="image/png">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -28,7 +29,7 @@
     </div>
 
     <div id="config-panel">
-        <h1>법정 상세 설정</h1>
+        <h1>재판 상세 설정</h1>
         
         <div class="settings-grid">
             <div class="form-group"><label>판사 담당:</label><select id="select-judge"></select></div>
@@ -44,7 +45,7 @@
         
         <button id="start-btn" style="margin-top: 15px;">재판 개정 (시작)</button>
     </div>
-
+    <div id="game-viewport">
     <div id="court-panel" style="display: none;">
         <div id="bg1" class="bg-layer" style="z-index: 1; background-image: url('images/bg1.png');"></div>
         
@@ -75,8 +76,9 @@
 
         <button id="end-btn" style="display: none;">재판 종료</button>
     </div>
-
+    </div>
     <script src="assets.js"></script>
     <script src="main.js"></script>
+    <script src="resize.js"></script>
 </body>
 </html>

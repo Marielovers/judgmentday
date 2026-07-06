@@ -40,6 +40,55 @@ const ENCODED_KEYS = [
 ];
 let currentKeyIndex = 0;
 
+const CHOSEONG_LIST = ['ㄱ', 'ㄲ', 'ㄴ', 'ㄷ', 'ㄸ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅃ', 'ㅅ', 'ㅆ', 'ㅇ', 'ㅈ', 'ㅉ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ'];
+const CHO_SIMILARITY = {
+    'ㄱ': ['ㄱ', 'ㄲ', 'ㅋ'], 'ㄴ': ['ㄴ'], 'ㄷ': ['ㄷ', 'ㄸ', 'ㅌ'],
+    'ㄹ': ['ㄹ'], 'ㅁ': ['ㅁ'], 'ㅂ': ['ㅂ', 'ㅃ', 'ㅍ'],
+    'ㅅ': ['ㅅ', 'ㅆ'], 'ㅇ': ['ㅇ'], 'ㅈ': ['ㅈ', 'ㅉ', 'ㅊ'], 'ㅎ': ['ㅎ']
+};
+const JUNG_SIMILARITY = {
+    'ㅏ': ['ㅏ', 'ㅑ'], 'ㅓ': ['ㅓ', 'ㅕ'], 'ㅗ': ['ㅗ', 'ㅛ'],
+    'ㅜ': ['ㅜ', 'ㅠ'], 'ㅣ': ['ㅣ', 'ㅐ', 'ㅔ', 'ㅒ', 'ㅖ'], 'ㅡ': ['ㅡ']
+};
+
+const CHO_LIST = ['ㄱ','ㄲ','ㄴ','ㄷ','ㄸ','ㄹ','ㅁ','ㅂ','ㅃ','ㅅ','ㅆ','ㅇ','ㅈ','ㅉ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ'];
+const JUNG_LIST = ['ㅏ','ㅐ','ㅑ','ㅒ','ㅓ','ㅔ','ㅕ','ㅖ','ㅗ','ㅘ','ㅙ','ㅚ','ㅛ','ㅜ','ㅝ','ㅞ','ㅟ','ㅠ','ㅡ','ㅢ','ㅣ'];
+const JONG_LIST = ['','ㄱ','ㄲ','ㄳ','ㄴ','ㄵ','ㄶ','ㄷ','ㄹ','ㄺ','ㄻ','ㄼ','ㄽ','ㄾ','ㄿ','ㅀ','ㅁ','ㅂ','ㅄ','ㅅ','ㅆ','ㅇ','ㅈ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ'];
+
+function getChoseong(char) {
+    const code = char.charCodeAt(0) - 0xAC00;
+    if (code < 0 || code > 11171) return null; 
+    return CHOSEONG_LIST[Math.floor(code / 588)];
+}
+
+function decompose(char) {
+    const code = char.charCodeAt(0) - 0xAC00;
+    if (code < 0 || code > 11171) return null;
+    return {
+        cho: Math.floor(code / 588),
+        jung: Math.floor((code % 588) / 28),
+        jong: code % 28
+    };
+}
+
+function getSimilarityScore(target, candidate) {
+    const t = decompose(target);
+    const c = decompose(candidate);
+    if (!t || !c) return -1;
+
+    let score = 0;
+    
+    if (t.cho === c.cho) score += 100;
+    else if (CHO_SIMILARITY[CHO_LIST[t.cho]]?.includes(CHO_LIST[c.cho])) score += 50; // 초성 유사그룹
+
+    if (t.jung === c.jung) score += 30;
+    else if (JUNG_SIMILARITY[JUNG_LIST[t.jung]]?.includes(JUNG_LIST[c.jung])) score += 15; // 중성 유사그룹
+
+    if (t.jong === c.jong) score += 5;
+
+    return score;
+}
+
 class VoiceEngine {
     constructor() { 
         this.ctx = null; 
@@ -75,6 +124,45 @@ class VoiceEngine {
         return text.split('').map(c => numMap[c] || c).join('');
     }
     
+    findBestMatch(targetChar, availableSyllables) {
+        const candidates = Object.keys(availableSyllables);
+        if (candidates.length === 0) return null;
+
+        let bestScore = -1;
+        let bestMatch = null;
+
+        for (const char of candidates) {
+            const score = getSimilarityScore(targetChar, char);
+
+            if (score > bestScore) {
+                bestScore = score;
+                bestMatch = char;
+            } else if (score === bestScore && score > 0) {
+                if (Math.random() > 0.5) bestMatch = char;
+            }
+        }
+
+        return bestScore >= 50 ? bestMatch : null;
+    }
+
+    findSimilarSyllable(targetChar, availableSyllables) {
+        const targetCho = getChoseong(targetChar);
+        if (!targetCho) return null;
+
+        const similarChos = CHO_SIMILARITY[targetCho] || [targetCho];
+        const availableKeys = Object.keys(availableSyllables);
+    
+        const candidates = availableKeys.filter(key => 
+            similarChos.includes(getChoseong(key))
+        );
+
+        if (candidates.length > 0) {
+            return candidates[Math.floor(Math.random() * candidates.length)];
+        }
+        return null;
+    }
+
+
     async playSpeech(charName, text, speedOption) {
         await this.init(); 
         const syllables = this.voiceDB[charName] || {};
@@ -84,8 +172,10 @@ class VoiceEngine {
             if ([' ', '\n', '.', ',', '!', '?', '~'].includes(char)) return null;
             let wavs = syllables[char];
             if (!wavs || wavs.length === 0) {
-                const keys = Object.keys(syllables);
-                if (keys.length > 0) wavs = syllables[keys[Math.floor(Math.random() * Math.min(keys.length, 5))]];
+                const bestMatch = this.findBestMatch(char, syllables);
+                if (bestMatch) {
+                    wavs = syllables[bestMatch];
+                }
             }
             if (wavs && wavs.length > 0) {
                 return await this.getAudioBuffer(wavs[Math.floor(Math.random() * wavs.length)].replace(/\\/g, '/'));
@@ -306,6 +396,9 @@ function playGavel(times = 1) {
 }
 
 async function startCourt() {
+    if (window.innerWidth <= 768) {
+        document.getElementById('top-bar').style.display = 'none';
+    }
     const topic = ui.inputs.topic.value.trim();
     if (!topic) return alert("쟁점을 입력하세요!");
 
