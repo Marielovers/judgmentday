@@ -220,6 +220,11 @@ function stopBGM() {
 let appSettings = {}; 
 
 document.addEventListener("DOMContentLoaded", () => {
+    ui.img.judge.style.translate = "0 -10%";
+    ui.img.pros.style.translate = "0 -15%";
+    ui.img.law.style.translate = "0 -15%";
+    ui.img.wit.style.translate = "0 10%";
+
     setTimeout(() => {
         const loadingScreen = document.getElementById('loading-screen');
         if (loadingScreen) {
@@ -289,11 +294,7 @@ async function callGemini(sys, usr) {
     }
 
     const customKey = ui.inputs.api.value.trim();
-    const emotionInstruction = `
-\n[중요 표정 지시] JSON의 'emotions' 객체에는 현재 발언과 상황에 맞는 '모든 등장인물'의 표정/감정을 지정하세요.
-- 허용되는 값: Idle, Dance, Panic, Sad, Angry, Happy
-- 예시: 누군가 논파당해 당황(Panic)하거나 슬퍼하면(Sad), 반대편은 비웃거나 기뻐하는(Happy) 등 법정 전체의 상호작용이 실시간으로 맞물리게 연출하세요. 
-- 각 필드: judge(판사), pros(검사), law(변호사), wit(증인/피고인)`;
+    const emotionInstruction = `\n[중요 표정 지시] JSON의 'emotions' 객체에는 현재 발언과 상황에 맞는 '모든 등장인물'의 표정/감정을 지정하세요.\n- 허용되는 값: Idle, Dance, Panic, Sad, Angry, Happy\n- 예시: 누군가 논파당해 당황(Panic)하거나 슬퍼하면(Sad), 반대편은 비웃거나 기뻐하는(Happy) 등 법정 전체의 상호작용이 실시간으로 맞물리게 연출하세요. \n- 각 필드: judge(판사), pros(검사), law(변호사), wit(증인/피고인/형사)`;
     const finalSys = sys + emotionInstruction;
     
     const requestBody = { 
@@ -468,7 +469,17 @@ function playGavel(times = 1) {
 function playVerdictText(txt) {
     return new Promise(res => {
         ui.obj.text.innerText = txt;
-        ui.obj.text.style.color = "#FFFFFF"; 
+        
+        if (txt === "유죄") {
+            ui.obj.text.style.color = "#5064FF"; 
+        } else if (txt === "무죄") {
+            ui.obj.text.style.color = "#E74C3C"; 
+        } else if (txt === "판결") {
+            ui.obj.text.style.color = "#FFD700"; 
+        } else {
+            ui.obj.text.style.color = "#FFFFFF"; 
+        }
+
         ui.obj.popup.style.display = "block"; 
         ui.obj.flash.style.opacity = 1;
         if (sfx.thump) { sfx.thump.currentTime = 0; sfx.thump.play().catch(()=>{}); }
@@ -553,6 +564,15 @@ async function runTrial() {
     await playSpeech("판사", r.judge, jRes.text, jRes.emotions);
     trialHistory.push(`판사(${r.judge}): ${jRes.text}`);
 
+    if (caseType === "유무죄") {
+        ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `담당 형사 (${r.det}) 브리핑 중...`;
+        const dReq = `쟁점: "${topic}"\n상황: 재판 시작 직후, 담당 형사로서 증인석에 서서 사건의 개요(발생 시각, 장소, 피해 상황, 1차 조사 결과 등)를 브리핑하세요. 길이: ${length}.`;
+        const dRes = await callGemini(getP(r.det), dReq);
+        await playSpeech("형사", r.det, dRes.text, dRes.emotions);
+        trialHistory.push(`형사(${r.det}): ${dRes.text}`);
+        hideWitness();
+    }
+
     for (let i = 0; i < turns; i++) {
         if (i >= 1 && turns > 2 && i < turns - 1) playBGM('Allegro');
         else if (i === turns - 1 && turns > 2) playBGM('Objection');
@@ -616,7 +636,8 @@ async function runTrial() {
     if (Math.random() < revProb) {
         stopBGM(); 
 
-        ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "대역전 이벤트 발동!";
+        ui.sub.name.innerText = "시스템"; 
+        ui.sub.text.innerHTML = "<span style='color: #E74C3C; font-weight: bold;'>잠깐!</span>";
         await playObj("변호사", "잠깐!!");
         
         playBGM('Pursuit'); 
