@@ -518,7 +518,6 @@ async function runTrial() {
         
         const revPros = await callGemini(getP(r.pros), `상황: 믿었던 증인이 거짓말을 자백하며 완벽하게 무너졌습니다. 재판이 뒤집힌 것에 절망하며 윽박지르거나 무너지세요.`);
         await playSpeech("검사", r.pros, revPros.text, revPros.emotion);
-        hideWitness();
         
         const revTarget = caseType === "유무죄" ? "무죄" : lawPos;
         const revJudgeReq = `상황: 증인의 자백으로 법정이 술렁이고 있습니다! 이전에 내린 판결을 번복할지 결정해야 합니다.\n[판결 지시] 변호사의 역전 주장이 타당하다면 'is_reversed'를 true로 하고 대역전('${revTarget}' 승리) 선고를 내리세요. 만약 변호사의 주장이 억지라고 판단되면 'is_reversed'를 false로 하고 이의를 기각하여 기존 선고를 유지하세요. 길이는 ${length}.\n[특수 지시] 판결을 받고 반응할 당사자를 'summoned_character'에 적으세요. 없으면 '없음'. 목록: [${allChars}]`;
@@ -540,7 +539,6 @@ async function runTrial() {
                 const defRes = await callGemini(getP(defName), defPrompt);
                 await playSpeech("당사자", defName, defRes.text, defRes.emotion);
                 trialHistory.push(`당사자(${defName}): ${defRes.text}`);
-                hideWitness();
             }
         } else {
             await playSpeech("판사", r.judge, judgeLines.fail, "Angry");
@@ -554,10 +552,8 @@ async function runTrial() {
                 const defRes = await callGemini(getP(defName), defPrompt);
                 await playSpeech("당사자", defName, defRes.text, defRes.emotion);
                 trialHistory.push(`당사자(${defName}): ${defRes.text}`);
-                hideWitness();
             }
         }
     }
     
-    stopBGM();
 }
