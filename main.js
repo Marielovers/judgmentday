@@ -43,8 +43,8 @@ class VoiceEngine {
     constructor() { 
         this.ctx = null; 
         this.masterGain = null;
-        this.audioBuffers = {}; // { "네르": AudioBuffer, "리온": AudioBuffer ... }
-        this.spriteData = {};   // { "네르": { "가": [{start_ms: 0, duration_ms: 128}, ...], ... } }
+        this.audioBuffers = {}; 
+        this.spriteData = {};   
     }
 
     async init() {
@@ -56,28 +56,22 @@ class VoiceEngine {
         }
     }
 
-    // 캐릭터별 마스터믹스(.ogg)와 타이밍 데이터(.json)를 미리 로드합니다.
     async preloadVoices(charName) {
         await this.init();
-        if (this.audioBuffers[charName]) return; // 이미 로드된 경우 스킵
+        if (this.audioBuffers[charName]) return; 
 
         try {
-            // 1. JSON 타이밍 데이터 로드
             const jsonRes = await fetch(`voices/${charName}.json`);
             if (jsonRes.ok) {
                 this.spriteData[charName] = await jsonRes.json();
             }
 
-            // 2. OGG 마스터믹스 로드 및 디코딩
             const audioRes = await fetch(`voices/${charName}.ogg`);
             if (audioRes.ok) {
                 const arrayBuffer = await audioRes.arrayBuffer();
                 this.audioBuffers[charName] = await this.ctx.decodeAudioData(arrayBuffer);
             }
-            console.log(`${charName} 마스터믹스 및 타이밍 데이터 로딩 완료`);
-        } catch (e) {
-            console.error(`${charName} 로딩 실패:`, e);
-        }
+        } catch (e) {}
     }
     
     convertNumbersToHangul(text) {
@@ -96,7 +90,6 @@ class VoiceEngine {
                 bestScore = score;
                 bestMatch = char;
             } else if (score === bestScore && score > 0) {
-                // 동점일 경우 기존 로직처럼 랜덤 분기
                 if (Math.random() > 0.5) bestMatch = char;
             }
         }
@@ -115,8 +108,7 @@ class VoiceEngine {
         
         text = this.convertNumbersToHangul(text);
         
-        // 자연스러운 템포를 위해 덧붙이는 여백 세팅
-        let delayMs = 0; // 타이트하게 잘려나간 여백을 보정 (10ms 추가)
+        let delayMs = 0; 
         let spaceMs = 80; 
         
         let relativeTime = 0.05;
@@ -132,7 +124,6 @@ class VoiceEngine {
 
             let spriteArray = sprites[char];
             
-            // 해당 음절이 JSON에 없으면 가장 비슷한 음절 찾기
             if (!spriteArray || spriteArray.length === 0) {
                 const bestMatch = this.findBestMatch(char, sprites);
                 if (bestMatch) spriteArray = sprites[bestMatch];
@@ -144,33 +135,27 @@ class VoiceEngine {
                 const startTime = variant.start_ms / 1000;
                 let duration = variant.duration_ms / 1000;
                 
-                // 너무 짧은 파편화 오류를 막기 위한 최소 길이 보장
                 if (duration < 0.05) duration = 0.05; 
 
                 const src = this.ctx.createBufferSource();
                 src.buffer = buffer; 
                 
-                // 🔥 핵심 해결책: 팝핑(Clicking) 노이즈를 막기 위한 개별 볼륨 제어 노드 생성
                 const fadeNode = this.ctx.createGain();
                 fadeNode.connect(this.masterGain);
                 src.connect(fadeNode);
                 
                 const playTime = this.ctx.currentTime + relativeTime;
                 
-                // 소리 앞뒤로 10ms(0.01초) 동안 볼륨을 부드럽게 올리고 내림 (Envelope)
-                const fadeTime = 0.01; 
-                fadeNode.gain.setValueAtTime(0, playTime); // 시작 볼륨 0
-                fadeNode.gain.linearRampToValueAtTime(1, playTime + fadeTime); // 10ms 동안 볼륨 100%로 상승
+                const fadeTime = 0; 
+                fadeNode.gain.setValueAtTime(0, playTime); 
+                fadeNode.gain.linearRampToValueAtTime(1, playTime + fadeTime); 
                 
-                // 끝나는 시점 10ms 전부터 볼륨을 다시 0으로 깎아 파열음 제거
                 const fadeOutStart = Math.max(playTime + fadeTime, playTime + duration - fadeTime);
                 fadeNode.gain.setValueAtTime(1, fadeOutStart);
                 fadeNode.gain.linearRampToValueAtTime(0, playTime + duration);
                 
-                // 실제 스케줄링
                 src.start(playTime, startTime, duration);
                 
-                // 재생 길이 + 약간의 인위적 정적(30ms)을 추가하여 다음 음절 타이밍 세팅
                 relativeTime += duration + (delayMs / 1000);
             } else {
                 relativeTime += spaceMs / 1000;
@@ -179,7 +164,6 @@ class VoiceEngine {
         return timings;
     }
 }
-
 const ttsEngine = new VoiceEngine();
 
 const ui = {
@@ -196,6 +180,9 @@ const ui = {
 
 let trialHistory = [];
 let judgeLines = {}; 
+
+let currentEmotions = { judge: "Idle", pros: "Idle", law: "Idle", wit: "Idle" };
+let currentActors = { judge: "", pros: "", law: "", wit: "" };
 
 const sfx = { gavel: new Audio('sfx/gavel.wav'), obj: new Audio('sfx/objection.wav'), thump: new Audio('sfx/thump.wav') };
 
@@ -218,7 +205,7 @@ function playBGM(trackName) {
         currentBgm = bgm[trackName];
         currentBgm.loop = true;
         currentBgm.volume = parseFloat(ui.sliders.bgm.value);
-        currentBgm.play().catch(e => console.warn(e));
+        currentBgm.play().catch(e => {});
     }
 }
 
@@ -302,7 +289,11 @@ async function callGemini(sys, usr) {
     }
 
     const customKey = ui.inputs.api.value.trim();
-    const emotionInstruction = "\n[중요] 생성하는 JSON의 emotion 필드 값은 반드시 다음 6가지 중 하나만 정확히 입력하세요: Idle, Dance, Panic, Sad, Angry, Happy";
+    const emotionInstruction = `
+\n[중요 표정 지시] JSON의 'emotions' 객체에는 현재 발언과 상황에 맞는 '모든 등장인물'의 표정/감정을 지정하세요.
+- 허용되는 값: Idle, Dance, Panic, Sad, Angry, Happy
+- 예시: 누군가 논파당해 당황(Panic)하거나 슬퍼하면(Sad), 반대편은 비웃거나 기뻐하는(Happy) 등 법정 전체의 상호작용이 실시간으로 맞물리게 연출하세요. 
+- 각 필드: judge(판사), pros(검사), law(변호사), wit(증인/피고인)`;
     const finalSys = sys + emotionInstruction;
     
     const requestBody = { 
@@ -314,7 +305,15 @@ async function callGemini(sys, usr) {
                 type: "OBJECT", 
                 properties: { 
                     text: { type: "STRING" }, 
-                    emotion: { type: "STRING", enum: ["Idle", "Dance", "Panic", "Sad", "Angry", "Happy"] }, 
+                    emotions: { 
+                        type: "OBJECT",
+                        properties: {
+                            judge: { type: "STRING", enum: ["Idle", "Dance", "Panic", "Sad", "Angry", "Happy"] },
+                            pros: { type: "STRING", enum: ["Idle", "Dance", "Panic", "Sad", "Angry", "Happy"] },
+                            law: { type: "STRING", enum: ["Idle", "Dance", "Panic", "Sad", "Angry", "Happy"] },
+                            wit: { type: "STRING", enum: ["Idle", "Dance", "Panic", "Sad", "Angry", "Happy"] }
+                        }
+                    }, 
                     summoned_character: { type: "STRING" },
                     bgm: { type: "STRING", enum: ["Moderato", "Comedy"] },
                     is_reversed: { type: "BOOLEAN" },
@@ -325,7 +324,7 @@ async function callGemini(sys, usr) {
                     reverse_success: { type: "STRING" },
                     reverse_fail: { type: "STRING" }
                 }, 
-                required: ["text", "emotion"] 
+                required: ["text", "emotions"] 
             } 
         } 
     };
@@ -341,7 +340,7 @@ async function callGemini(sys, usr) {
                 return JSON.parse(rawText);
             }
         } catch (e) {
-            return { text: "개인 API 키 호출에 실패했습니다!", emotion: "Panic", summoned_character: "없음", bgm: "Moderato" };
+            return { text: "개인 API 키 호출에 실패했습니다!", emotions: { judge: "Panic", pros: "Panic", law: "Panic", wit: "Panic" }, summoned_character: "없음", bgm: "Moderato" };
         }
     }
 
@@ -370,21 +369,51 @@ async function callGemini(sys, usr) {
         await new Promise(resolve => setTimeout(resolve, 1500));
     }
     
-    return { text: "연결이 끊어졌습니다 교주님. 내일 오후 5시 이후에 다시 시도해주세요", emotion: "Panic", summoned_character: "영춘", bgm: "Moderato" };
+    return { text: "연결이 끊어졌습니다 교주님. 내일 오후 5시 이후에 다시 시도해주세요", emotions: { judge: "Panic", pros: "Panic", law: "Panic", wit: "Panic" }, summoned_character: "영춘", bgm: "Moderato" };
 }
 
-async function playSpeech(role, charName, text, emotion) {
+async function playSpeech(role, charName, text, emotionsObj) {
+    if (emotionsObj) {
+        if (emotionsObj.judge) currentEmotions.judge = emotionsObj.judge;
+        if (emotionsObj.pros) currentEmotions.pros = emotionsObj.pros;
+        if (emotionsObj.law) currentEmotions.law = emotionsObj.law;
+        if (emotionsObj.wit) currentEmotions.wit = emotionsObj.wit;
+    }
+
+    let target = "wit";
+    if (role === "판사") target = "judge";
+    else if (role === "검사") target = "pros";
+    else if (role === "변호사") target = "law";
+    else {
+        target = "wit";
+        currentActors.wit = charName; 
+        ui.wrap.wit.style.display = "block";
+    }
+
+    function updateImg(imgElem, cName, emo) {
+        if (!cName) return;
+        const nSrc = `images/${cName}_${emo}.gif`;
+        if (imgElem.getAttribute("src") !== nSrc) {
+            imgElem.setAttribute("src", nSrc);
+            imgElem.onerror = function() { 
+                if (this.getAttribute("src") !== `images/${cName}_Idle.gif`) {
+                    this.setAttribute("src", `images/${cName}_Idle.gif`); 
+                }
+            };
+        }
+    }
+
+    updateImg(ui.img.judge, currentActors.judge, currentEmotions.judge);
+    updateImg(ui.img.pros, currentActors.pros, currentEmotions.pros);
+    updateImg(ui.img.law, currentActors.law, currentEmotions.law);
+    updateImg(ui.img.wit, currentActors.wit, currentEmotions.wit);
+
     ui.sub.name.innerText = `${role} (${charName})`;
     ui.sub.text.textContent = ""; 
-    let target = (role === "판사" ? "judge" : (role === "검사" ? "pros" : (role === "변호사" ? "law" : "wit")));
     const img = ui.img[target];
     
-    if (target === "wit") ui.wrap.wit.style.display = "block";
-    
-    img.onerror = () => { img.src = `images/${charName}_Idle.gif`; };
-    img.src = `images/${charName}_${emotion}.gif`;
     img.classList.add("talking");
-    
+
     const timings = await ttsEngine.playSpeech(charName, text, "매우 빠름");
     const startTime = performance.now(); 
     
@@ -402,14 +431,16 @@ async function playSpeech(role, charName, text, emotion) {
             if (i < text.length) requestAnimationFrame(typeCheck);
             else {
                 img.classList.remove("talking");
-                setTimeout(() => { img.src = `images/${charName}_Idle.gif`; res(); }, 800);
+                setTimeout(() => { res(); }, 500); 
             }
         }
         requestAnimationFrame(typeCheck);
     });
 }
 
-function hideWitness() { ui.wrap.wit.style.display = "none"; ui.img.wit.src = ""; }
+function hideWitness() { 
+    ui.wrap.wit.style.display = "none"; 
+}
 
 function playObj(role, txt = "이의 있음!") {
     return new Promise(res => {
@@ -434,6 +465,18 @@ function playGavel(times = 1) {
     });
 }
 
+function playVerdictText(txt) {
+    return new Promise(res => {
+        ui.obj.text.innerText = txt;
+        ui.obj.text.style.color = "#FFFFFF"; 
+        ui.obj.popup.style.display = "block"; 
+        ui.obj.flash.style.opacity = 1;
+        if (sfx.thump) { sfx.thump.currentTime = 0; sfx.thump.play().catch(()=>{}); }
+        setTimeout(() => ui.obj.flash.style.opacity = 0, 100);
+        setTimeout(() => { ui.obj.popup.style.display = "none"; res(); }, 1500); 
+    });
+}
+
 async function startCourt() {
     const topic = ui.inputs.topic.value.trim();
     if (!topic) return alert("쟁점을 입력하세요!");
@@ -451,27 +494,29 @@ async function startCourt() {
         r: { judge: ui.selects.judge.value, pros: ui.selects.pros.value, law: ui.selects.law.value, det: ui.selects.det.value }
     };
 
-    ui.panel.config.style.display = "none"; ui.panel.court.style.display = "block";
+    currentEmotions = { judge: "Idle", pros: "Idle", law: "Idle", wit: "Idle" };
+    currentActors = { judge: appSettings.r.judge, pros: appSettings.r.pros, law: appSettings.r.law, wit: "" };
 
-    ui.img.judge.src = `images/${appSettings.r.judge}_Idle.gif`;
-    ui.img.pros.src = `images/${appSettings.r.pros}_Idle.gif`;
-    ui.img.law.src = `images/${appSettings.r.law}_Idle.gif`;
+    ui.img.judge.src = `images/${currentActors.judge}_Idle.gif`;
+    ui.img.pros.src = `images/${currentActors.pros}_Idle.gif`;
+    ui.img.law.src = `images/${currentActors.law}_Idle.gif`;
+    ui.img.wit.src = "";
+
+    ui.panel.config.style.display = "none"; ui.panel.court.style.display = "block";
 
     ui.sub.name.innerText = "시스템";
     ui.sub.text.textContent = "음성 데이터 로딩 중...";
-    ui.panel.config.style.display = "none"; 
-    ui.panel.court.style.display = "block";
 
     await ttsEngine.init();
     const charactersToLoad = [appSettings.r.judge, appSettings.r.pros, appSettings.r.law, appSettings.r.det];
-    const uniqueChars = [...new Set(charactersToLoad)]; // 중복 제거
+    const uniqueChars = [...new Set(charactersToLoad)]; 
 
     for (const char of uniqueChars) {
         await ttsEngine.preloadVoices(char);
     }
 
     try { await runTrial(); } 
-    catch (e) { ui.sub.text.textContent = "치명적 오류 발생!"; }
+    catch (e) {}
     finally { ui.btn.end.style.display = "block"; }
 }
 
@@ -480,7 +525,6 @@ async function runTrial() {
     const allChars = typeof AVAILABLE_CHARACTERS !== 'undefined' ? AVAILABLE_CHARACTERS.join(", ") : "없음";
     const getP = (name) => (typeof PERSONAS !== 'undefined' && PERSONAS[name]) ? PERSONAS[name] : `당신은 ${name}입니다.`;
     
-    // 🔥 헬퍼 함수: 당사자가 검사나 변호사 본인이면 해당 역할을 반환해 분신술 버그 방지
     const getRole = (name, fallbackRole) => {
         if (name === r.pros) return "검사";
         if (name === r.law) return "변호사";
@@ -506,7 +550,7 @@ async function runTrial() {
     playBGM(jRes.bgm === "Comedy" ? "Comedy" : "Moderato");
     
     await playGavel(3);
-    await playSpeech("판사", r.judge, jRes.text, jRes.emotion);
+    await playSpeech("판사", r.judge, jRes.text, jRes.emotions);
     trialHistory.push(`판사(${r.judge}): ${jRes.text}`);
 
     for (let i = 0; i < turns; i++) {
@@ -516,33 +560,30 @@ async function runTrial() {
         ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "검사 변론 중...";
         const prosRole = caseType === "유무죄" ? "피고의 유죄를 강력히 주장하세요." : `상대방을 논파하고 '${prosPos}'의 입장을 강력히 대변하세요.`;
         
-        // 🔥 수정 1: 증인은 정말 필요할 때만 부르도록 프롬프트 변경
         const pReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: ${prosRole} 길이: ${length}.\n[지시] 주장을 뒷받침할 제3자의 증언이나 목격자가 꼭 필요한 상황에만 목록에서 1명을 선택해 'summoned_character'에 적고, 필요 없다면 반드시 "없음"이라고 적으세요. (검사나 변호사 본인 제외) 목록: [${allChars}]`;
         const pRes = await callGemini(getP(r.pros), pReq);
         await playObj("검사", "변론 개시!");
-        await playSpeech("검사", r.pros, pRes.text, pRes.emotion);
+        await playSpeech("검사", r.pros, pRes.text, pRes.emotions);
         trialHistory.push(`검사(${r.pros}): ${pRes.text}`);
 
-        // 🔥 수정 2: AI가 '없음'을 뱉으면 증인 출석 자체를 스킵
         let activeWitness = (pRes.summoned_character && pRes.summoned_character !== "없음" && pRes.summoned_character !== r.pros && pRes.summoned_character !== r.law) ? pRes.summoned_character : null; 
         
         if (activeWitness) {
             ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `증인 (${activeWitness}) 증언 중...`;
             const wPrompt1 = `쟁점: "${topic}"\n상황: 검사(${r.pros})의 요청으로 증인석에 섰습니다. 검사의 의견에 동조하며 변호사 측이 불리하도록 자신 있게 증언하세요. 길이: ${length}`;
             const wRes1 = await callGemini(getP(activeWitness), wPrompt1);
-            await playSpeech("증인", activeWitness, wRes1.text, wRes1.emotion);
+            await playSpeech("증인", activeWitness, wRes1.text, wRes1.emotions);
             trialHistory.push(`증인(${activeWitness}): ${wRes1.text}`); 
             hideWitness();
         }
 
         ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "변호사 반론 중...";
         const lawRole = caseType === "유무죄" ? "피고의 무죄를 강력히 방어하세요." : `검사를 반박하고 '${lawPos}'의 입장을 강력히 대변하세요.`;
-        // 증인이 있으면 증인의 모순을, 없으면 검사의 모순을 지적하도록 분기
         const attackTarget = activeWitness ? `검사 측과 방금 전 증인(${activeWitness})이 펼친 주장의 모순` : `검사 측이 펼친 논리의 모순`;
         const lReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: ${attackTarget}을 찾아내 박살내고 ${lawRole} 길이: ${length}.`;
         const lRes = await callGemini(getP(r.law), lReq);
         await playObj("변호사", "이의 있음!");
-        await playSpeech("변호사", r.law, lRes.text, lRes.emotion);
+        await playSpeech("변호사", r.law, lRes.text, lRes.emotions);
         trialHistory.push(`변호사(${r.law}): ${lRes.text}`);
     }
 
@@ -553,13 +594,13 @@ async function runTrial() {
     const vReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: 양측의 주장이 끝났습니다. ${verdictTask} 길이: ${length}.\n[특수 지시] 재판 결과에 직접 영향을 받는 당사자(피고인, 패소자)가 있다면 목록 중 1명을 'summoned_character'에 적어 판결 후 반응을 확인하세요. 딱히 없으면 '없음'이라고 적으세요. 목록: [${allChars}]`;
     const vRes = await callGemini(getP(r.judge), vReq);
     
-    await playSpeech("판사", r.judge, judgeLines.intro, "Idle");
-    await playGavel(3); if (sfx.thump) sfx.thump.play().catch(()=>{});
+    await playSpeech("판사", r.judge, judgeLines.intro, { judge: "Idle" });
+    await playGavel(3); 
+    await playVerdictText("판결");
     
     playBGM('Verdict'); 
-    await playSpeech("판사", r.judge, vRes.text, vRes.emotion);
+    await playSpeech("판사", r.judge, vRes.text, vRes.emotions);
 
-    // 🔥 수정 3: 판결 반응 시 당사자가 검사나 변호사면 그 자리에서 발언 (분신술 해결)
     if (vRes.summoned_character && vRes.summoned_character !== "없음" && PERSONAS[vRes.summoned_character]) {
         const defName = vRes.summoned_character;
         ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `당사자 (${defName}) 반응 중...`;
@@ -567,7 +608,7 @@ async function runTrial() {
         const defRes = await callGemini(getP(defName), defPrompt);
         
         const role = getRole(defName, caseType === "유무죄" ? "피고인" : "당사자");
-        await playSpeech(role, defName, defRes.text, defRes.emotion);
+        await playSpeech(role, defName, defRes.text, defRes.emotions);
         trialHistory.push(`${role}(${defName}): ${defRes.text}`);
         if (role !== "검사" && role !== "변호사") hideWitness();
     }
@@ -580,7 +621,6 @@ async function runTrial() {
         
         playBGM('Pursuit'); 
 
-        // 증인이 없었다면 검사를 직접 공격
         let lastWitness = trialHistory.find(h => h.startsWith("증인("))?.match(/\((.*?)\)/)?.[1];
         
         const revLawPrompt = lastWitness ? 
@@ -588,12 +628,12 @@ async function runTrial() {
             `상황: 선고가 났지만 당신은 검사(${r.pros})의 논리에서 치명적인 조작과 모순을 발견했습니다! 결정적 증거를 들이밀며 검사를 사정없이 몰아붙이세요! 길이: ${length}`;
             
         const revLaw = await callGemini(getP(r.law), revLawPrompt);
-        await playSpeech("변호사", r.law, revLaw.text, revLaw.emotion);
+        await playSpeech("변호사", r.law, revLaw.text, revLaw.emotions);
         
         if (lastWitness) {
             ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "증인 정체 탄로 중...";
-            const revWit = await callGemini(getP(lastWitness), `상황: 변호사(${r.law})가 당신의 완벽한 거짓말의 모순을 증거와 함께 폭로했습니다! 완전히 변명의 여지가 없습니다. 크게 당황하고 발악하며 자신의 죄를 자백하거나 무너지세요. 길이: ${length}`);
-            await playSpeech("증인", lastWitness, revWit.text, revWit.emotion); 
+            const revWit = await callGemini(getP(lastWitness), `상황: 변호사(${r.law})가 당신의 완벽한 거짓말의 모순을 증거와 폭로했습니다! 완전히 변명의 여지가 없습니다. 크게 당황하고 발악하며 자신의 죄를 자백하거나 무너지세요. 길이: ${length}`);
+            await playSpeech("증인", lastWitness, revWit.text, revWit.emotions); 
             hideWitness();
         }
         
@@ -602,7 +642,7 @@ async function runTrial() {
             `상황: 변호사(${r.law})가 당신의 논리적 모순과 조작을 완벽하게 폭로했습니다! 변명의 여지 없이 완전히 무너져 내리며 당황하세요.`;
             
         const revPros = await callGemini(getP(r.pros), revProsPrompt);
-        await playSpeech("검사", r.pros, revPros.text, revPros.emotion);
+        await playSpeech("검사", r.pros, revPros.text, revPros.emotions);
         
         const revTarget = caseType === "유무죄" ? "무죄" : lawPos;
         const revJudgeReq = `상황: 반전의 증거로 법정이 술렁이고 있습니다! 이전에 내린 판결을 번복할지 결정해야 합니다.\n[판결 지시] 변호사의 역전 주장이 타당하다면 'is_reversed'를 true로 하고 대역전('${revTarget}' 승리) 선고를 내리세요. 만약 변호사의 주장이 억지라고 판단되면 'is_reversed'를 false로 하고 이의를 기각하여 기존 선고를 유지하세요. 길이는 ${length}.\n[특수 지시] 판결을 받고 반응할 당사자를 'summoned_character'에 적으세요. 없으면 '없음'. 목록: [${allChars}]`;
@@ -613,9 +653,10 @@ async function runTrial() {
         await playGavel(3);
 
         if (revJudge.is_reversed !== false) {
-            await playSpeech("판사", r.judge, judgeLines.success, "Panic");
+            await playSpeech("판사", r.judge, judgeLines.success, { judge: "Panic" });
+            await playVerdictText("판결"); 
             playBGM('Verdict'); 
-            await playSpeech("판사", r.judge, revJudge.text, revJudge.emotion);
+            await playSpeech("판사", r.judge, revJudge.text, revJudge.emotions);
 
             if (revJudge.summoned_character && revJudge.summoned_character !== "없음" && PERSONAS[revJudge.summoned_character]) {
                 const defName = revJudge.summoned_character;
@@ -624,14 +665,15 @@ async function runTrial() {
                 const defRes = await callGemini(getP(defName), defPrompt);
                 
                 const role = getRole(defName, "당사자");
-                await playSpeech(role, defName, defRes.text, defRes.emotion);
+                await playSpeech(role, defName, defRes.text, defRes.emotions);
                 trialHistory.push(`${role}(${defName}): ${defRes.text}`);
                 if (role !== "검사" && role !== "변호사") hideWitness();
             }
         } else {
-            await playSpeech("판사", r.judge, judgeLines.fail, "Angry");
+            await playSpeech("판사", r.judge, judgeLines.fail, { judge: "Angry" });
+            await playVerdictText("판결"); 
             playBGM('Verdict'); 
-            await playSpeech("판사", r.judge, revJudge.text, revJudge.emotion);
+            await playSpeech("판사", r.judge, revJudge.text, revJudge.emotions);
 
             if (revJudge.summoned_character && revJudge.summoned_character !== "없음" && PERSONAS[revJudge.summoned_character]) {
                 const defName = revJudge.summoned_character;
@@ -640,7 +682,7 @@ async function runTrial() {
                 const defRes = await callGemini(getP(defName), defPrompt);
                 
                 const role = getRole(defName, "당사자");
-                await playSpeech(role, defName, defRes.text, defRes.emotion);
+                await playSpeech(role, defName, defRes.text, defRes.emotions);
                 trialHistory.push(`${role}(${defName}): ${defRes.text}`);
                 if (role !== "검사" && role !== "변호사") hideWitness();
             }
