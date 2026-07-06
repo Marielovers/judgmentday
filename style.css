@@ -129,7 +129,7 @@ button:disabled { background-color: #7f8c8d; cursor: not-allowed; }
 
 #subtitle-box { 
     position: absolute; bottom: 30px; left: 5%; width: 90%; 
-    height: 175px; 
+    height: 240px; 
     background-color: rgba(25, 25, 35, 0.9); border: 3px solid #d2d2e6; border-radius: 15px; 
     padding: 15px 20px; 
     box-shadow: 0 5px 15px rgba(0,0,0,0.5); z-index: 20; 
@@ -139,7 +139,7 @@ button:disabled { background-color: #7f8c8d; cursor: not-allowed; }
 #speaker-name { font-size: 24px; color: #ffd250; font-weight: bold; margin-bottom: 8px; flex-shrink: 0; line-height: 1.2; }
 
 #speech-text { 
-    font-size: 22px; line-height: 1.5; 
+    font-size: 28px; line-height: 1.5; 
     word-break: keep-all; white-space: pre-wrap; 
     flex: 1; 
     overflow-y: auto;
