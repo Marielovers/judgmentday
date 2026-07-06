@@ -1,44 +1,4 @@
-const ENCODED_KEYS = [
-    "QVEuQWI4Uk42SjFYVWNwdUlUdk9SYUpfSTJVT29Oa0hwWGdqWVJzUDRPbXFqRDV1UDB3TEE=",
-    "QVEuQWI4Uk42SkxTNXlpZXAxYW1NYkVyWVIzekctYXNXLTFwNFJKRk1IN09NYWhxZ0FJbVE=",
-    "QVEuQWI4Uk42SjlpZDhIT0JfZGZLZXJtS1BjWEtsRFN2djl3dW9ERlZtaTFNX0VWd2J2bGc=",
-    "QVEuQWI4Uk42SVZsMzJTak54YXp6ZDVabl8yNEI0MHVvMzJXd3ZkemNvTkN4clBnNUxuOWc=",
-    "QVEuQWI4Uk42SVRqS2lXMm8tYXlPcmIyUFREdlpyYlRjcGNqX2JrT0VTelNaOUFTaXZsUlE=",
-    "QVEuQWI4Uk42SVB6RUdmZ0xIc0Jub3IxS0FicnU2NWNiSkVuMzEzQmVFTGxfdDNZTjI4blE=",
-    "QVEuQWI4Uk42SXNoS1dEUzVTT2FfUW9aX0xpTllZVzl4VU5LYzhya0NBOE8zOXNFSFlwb1E=",
-    "QVEuQWI4Uk42SWdveURKTF95bGdqclhtV3lSckVDSGRnZ1NVRC1LNXNaOVF0anhzdkdHMnc=",
-    "QVEuQWI4Uk42SVgzQXNfOGNyb2FuaGVzMjZXMDRyWjQ4dnFfWU1VNk0wQktSWFVFQVlfbmc=",
-    "QVEuQWI4Uk42SThJai1LRjJFY3J5cjRScFNsU3k4SEoxUUMtaEpIcFIwbmRQRjVUWmdIZFE=",
-    "QVEuQWI4Uk42S1Uxd2dUNHROMFFiZHVFS3NqZW5rR3FmV2lmOHc1eTVFa3RzcVExaVh0c2c=",
-    "QVEuQWI4Uk42SlhsVnpuZkhyQ0NPTU5RZGFMWkpwZVM4NVp6S21mLW1sR2JVR3F0aWlIRlE=",
-    "QVEuQWI4Uk42Smx4TEV6S2pibUhJNzBxTXl2R1dvb0I5VmliZHo0aVpfaFlRUElIUzJGbXc=",
-    "QVEuQWI4Uk42S2hpTkxaR1VyUHlaMlBBYTFuZ3B3NHYtcEZwenktUXp4WUM0R1p6RFhwSlE=",
-    "QVEuQWI4Uk42SThMdmJGMGlwQUVuOFBqc2pwb3RhS19tanJ3aHM0TjZuVTluVkVYenl2TFE=",
-    "QVEuQWI4Uk42TGNObkx6cWdrMnNFdXBhSEJLd0drSEtjaTB0Q1ZxV2M3cHo5UlZ1Q3E3QVE=",
-    "QVEuQWI4Uk42SnZ1bmVFSm9Ma092SjlhZ3ZMdTBqV0M3RlNJWFVNTGZURjRxNzhOODNmbnc=",
-    "QVEuQWI4Uk42TFhaS2h1SG1sMWNOZWduM1IwNlBEYzhlUUJ0WXJYYnRyZm1xMVhiMVJsRHc=",
-    "QVEuQWI4Uk42S2RnU2hqZGo2RUEyS0txbmxBaTRLbVQzUG9XRzlYMk5xcHJQazU3N2JnUkE=",
-    "QVEuQWI4Uk42S0pYNTdqZlFobjBYLW1iVmZaR3JRSmQ3MGZxZVBKOUJHZWhmbkIxaF9sZHc=",
-    "QVEuQWI4Uk42SUo3Q00zMkI4c240T192elBHX3MzVlJpU185QlcxZU1FdHNPX0Z1cERDelE=",
-    "QVEuQWI4Uk42S2hmdUpFOU9HeGp3cWZHTVlrckVQYnE0dDJ6enJmTkRvYUczU3dGYWF2aEE=",
-    "QVEuQWI4Uk42SVI5eVpVcFZtWmdnVGRzU1ZsR19WRVFnZmhBbmhaYUx4WnM1dmxra2RiTXc=",
-    "QVEuQWI4Uk42SWxhX1A3QjU3MnVUUVFWdVROYVRVdGh0VTlXcFJURTdsZjctWW1Yck54TlE=",
-    "QVEuQWI4Uk42TGtwS3JVVVV5bWc5U2R5Z0Y4Z3pFakJwcEx3VE9ac2RRZ2gzakZkT2tuOUE=",
-    "QVEuQWI4Uk42SXQyZjlxMGs0ZS1LSnM0VU42bUFjQk9vVXlWRzIxYlR0UmYyY0Z6c2xBSlE=",
-    "QVEuQWI4Uk42TGZpWmhyTk5OZG05U1BiTEhneEpYOXdONnFuTndzbmp4ZTdPZ1pYVEtLb1E=",
-    "QVEuQWI4Uk42Sm5JZE1rQUwyOW11eE5OeU93WGFSMjdJZnBHUTJWSVBDMy1WX25TUldlSFE=",
-    "QVEuQWI4Uk42SWJJQlAzT0M1M0JrX2x4N0Fjb2U2dkZkZGwxRXZGT2YwZnRCcnZWbFdzRkE=",
-    "QVEuQWI4Uk42SVpRdWk0UXZMQ1NpNDRZQ0NVQ29BNDNhUFBfRS1kcnZQUG96eUJRb1JDNFE=",
-    "QVEuQWI4Uk42SkhtQnRTbm5yamRudS1TOV9XczNINmYyZFJCemNfVlFWNGozRW15U2RaT1E=",
-    "QVEuQWI4Uk42TG1maVZpS3h1UkJ3Z3R0dldYNFNQMkF1N29qUnFsUEs1ZVpDYXQ0VHkyV1E=",
-    "QVEuQWI4Uk42SzQ0dzVveDVJU3MtVFNfSUFyRmNGLTlGWUV4QnJ5d29lVmNyV1QtUGFEaUE=",
-    "QVEuQWI4Uk42TFFFV25PbW1YclAyRjVxanlaV3BLTDhPU19Wb3FBcFZxSEVzSnBaalV2SEE=",
-    "QVEuQWI4Uk42TFRYVFE3dmUtYV83cTJRaGt3VTh1cWdHT0trS3Ewdnh6eDNRRmlEbHhEN3c=",
-    "QVEuQWI4Uk42TDdNU0gtbFpCWmJ2dVBqcnZpUGhnQ0J5enM0UXBVLUhrd3VnZkRoajRZZGc=",
-    "QVEuQWI4Uk42TC1LR0o3NVNWbkJlY1VjWjJBN0N2cDFzelFmMTByNTRHbzVoRm90VloyUnc=",
-    "QVEuQWI4Uk42THkzSXJfeTh4NEJ1Nkdvd0U5WWVPZXhXYktNYnN4a3hyRE5ia0wzYnZudGc=",
-];
-let currentKeyIndex = 0;
+let API_KEYS_LIST = [];
 
 const CHOSEONG_LIST = ['ㄱ', 'ㄲ', 'ㄴ', 'ㄷ', 'ㄸ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅃ', 'ㅅ', 'ㅆ', 'ㅇ', 'ㅈ', 'ㅉ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ'];
 const CHO_SIMILARITY = {
@@ -50,7 +10,6 @@ const JUNG_SIMILARITY = {
     'ㅏ': ['ㅏ', 'ㅑ'], 'ㅓ': ['ㅓ', 'ㅕ'], 'ㅗ': ['ㅗ', 'ㅛ'],
     'ㅜ': ['ㅜ', 'ㅠ'], 'ㅣ': ['ㅣ', 'ㅐ', 'ㅔ', 'ㅒ', 'ㅖ'], 'ㅡ': ['ㅡ']
 };
-
 const CHO_LIST = ['ㄱ','ㄲ','ㄴ','ㄷ','ㄸ','ㄹ','ㅁ','ㅂ','ㅃ','ㅅ','ㅆ','ㅇ','ㅈ','ㅉ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ'];
 const JUNG_LIST = ['ㅏ','ㅐ','ㅑ','ㅒ','ㅓ','ㅔ','ㅕ','ㅖ','ㅗ','ㅘ','ㅙ','ㅚ','ㅛ','ㅜ','ㅝ','ㅞ','ㅟ','ㅠ','ㅡ','ㅢ','ㅣ'];
 const JONG_LIST = ['','ㄱ','ㄲ','ㄳ','ㄴ','ㄵ','ㄶ','ㄷ','ㄹ','ㄺ','ㄻ','ㄼ','ㄽ','ㄾ','ㄿ','ㅀ','ㅁ','ㅂ','ㅄ','ㅅ','ㅆ','ㅇ','ㅈ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ'];
@@ -64,28 +23,19 @@ function getChoseong(char) {
 function decompose(char) {
     const code = char.charCodeAt(0) - 0xAC00;
     if (code < 0 || code > 11171) return null;
-    return {
-        cho: Math.floor(code / 588),
-        jung: Math.floor((code % 588) / 28),
-        jong: code % 28
-    };
+    return { cho: Math.floor(code / 588), jung: Math.floor((code % 588) / 28), jong: code % 28 };
 }
 
 function getSimilarityScore(target, candidate) {
     const t = decompose(target);
     const c = decompose(candidate);
     if (!t || !c) return -1;
-
     let score = 0;
-    
     if (t.cho === c.cho) score += 100;
-    else if (CHO_SIMILARITY[CHO_LIST[t.cho]]?.includes(CHO_LIST[c.cho])) score += 50; // 초성 유사그룹
-
+    else if (CHO_SIMILARITY[CHO_LIST[t.cho]]?.includes(CHO_LIST[c.cho])) score += 50;
     if (t.jung === c.jung) score += 30;
-    else if (JUNG_SIMILARITY[JUNG_LIST[t.jung]]?.includes(JUNG_LIST[c.jung])) score += 15; // 중성 유사그룹
-
+    else if (JUNG_SIMILARITY[JUNG_LIST[t.jung]]?.includes(JUNG_LIST[c.jung])) score += 15;
     if (t.jong === c.jong) score += 5;
-
     return score;
 }
 
@@ -127,13 +77,10 @@ class VoiceEngine {
     findBestMatch(targetChar, availableSyllables) {
         const candidates = Object.keys(availableSyllables);
         if (candidates.length === 0) return null;
-
         let bestScore = -1;
         let bestMatch = null;
-
         for (const char of candidates) {
             const score = getSimilarityScore(targetChar, char);
-
             if (score > bestScore) {
                 bestScore = score;
                 bestMatch = char;
@@ -141,27 +88,20 @@ class VoiceEngine {
                 if (Math.random() > 0.5) bestMatch = char;
             }
         }
-
         return bestScore >= 50 ? bestMatch : null;
     }
 
     findSimilarSyllable(targetChar, availableSyllables) {
         const targetCho = getChoseong(targetChar);
         if (!targetCho) return null;
-
         const similarChos = CHO_SIMILARITY[targetCho] || [targetCho];
         const availableKeys = Object.keys(availableSyllables);
-    
-        const candidates = availableKeys.filter(key => 
-            similarChos.includes(getChoseong(key))
-        );
-
+        const candidates = availableKeys.filter(key => similarChos.includes(getChoseong(key)));
         if (candidates.length > 0) {
             return candidates[Math.floor(Math.random() * candidates.length)];
         }
         return null;
     }
-
 
     async playSpeech(charName, text, speedOption) {
         await this.init(); 
@@ -201,15 +141,16 @@ const ttsEngine = new VoiceEngine();
 
 const ui = {
     panel: { config: document.getElementById("config-panel"), court: document.getElementById("court-panel") },
-    btn: { start: document.getElementById("start-btn"), end: document.getElementById("end-btn") },
-    inputs: { topic: document.getElementById("trial-topic"), api: document.getElementById("custom-api-key") },
+    btn: { start: document.getElementById("start-btn"), end: document.getElementById("end-btn"), live: document.getElementById("live-evidence-btn") },
+    inputs: { topic: document.getElementById("trial-topic"), api: document.getElementById("custom-api-key"), live: document.getElementById("live-evidence-input") },
     selects: { judge: document.getElementById("select-judge"), pros: document.getElementById("select-prosecutor"), law: document.getElementById("select-lawyer"), det: document.getElementById("select-detective") },
     sub: { name: document.getElementById("speaker-name"), text: document.getElementById("speech-text") },
     obj: { popup: document.getElementById("objection-popup"), text: document.getElementById("objection-text"), flash: document.getElementById("flash-overlay") },
     img: { judge: document.getElementById("judge-img"), pros: document.getElementById("prosecutor-img"), law: document.getElementById("lawyer-img"), wit: document.getElementById("witness-img") },
-    wrap: { wit: document.getElementById("witness-wrapper") },
+    wrap: { wit: document.getElementById("witness-wrapper"), liveGroup: document.getElementById("live-intervention-group") },
     sliders: { bgm: document.getElementById("vol-bgm"), sfx: document.getElementById("vol-sfx"), tts: document.getElementById("vol-tts") }
 };
+
 let trialHistory = [];
 let judgeLines = {}; 
 
@@ -249,6 +190,31 @@ function stopBGM() {
 let appSettings = {}; 
 
 document.addEventListener("DOMContentLoaded", () => {
+    setTimeout(() => {
+        const loadingScreen = document.getElementById('loading-screen');
+        if (loadingScreen) {
+            loadingScreen.style.opacity = '0';
+            setTimeout(() => { 
+                loadingScreen.style.display = 'none'; 
+            }, 500);
+        }
+    }, 100);
+
+    if (ui.btn.live) {
+        ui.btn.live.addEventListener("click", () => {
+            const text = ui.inputs.live.value.trim();
+            if (text) {
+                trialHistory.push(`[돌발 상황/실시간 증거 및 반응]: ${text} (이 내용을 즉각적으로 인지하고 발언에 반드시 엮어서 반응할 것)`);
+                ui.inputs.live.value = "";
+                ui.inputs.live.placeholder = "반영 성공! 추가 개입 대기 중...";
+                setTimeout(() => ui.inputs.live.placeholder = "증언, 증거, 방청객 반응 추가...", 2000);
+            }
+        });
+        ui.inputs.live.addEventListener("keypress", (e) => {
+            if (e.key === "Enter") ui.btn.live.click();
+        });
+    }
+
     if (typeof AVAILABLE_CHARACTERS !== 'undefined') {
         AVAILABLE_CHARACTERS.forEach(c => {
             ui.selects.judge.add(new Option(c, c)); ui.selects.pros.add(new Option(c, c));
@@ -282,9 +248,20 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 async function callGemini(sys, usr) {
+    if (API_KEYS_LIST.length === 0) {
+        try {
+            const res = await fetch('api.txt');
+            if (res.ok) {
+                const text = await res.text();
+                API_KEYS_LIST = text.split(/\r?\n/).map(k => k.trim()).filter(k => k.length > 0);
+            }
+        } catch (e) {}
+    }
+
     const customKey = ui.inputs.api.value.trim();
     const emotionInstruction = "\n[중요] 생성하는 JSON의 emotion 필드 값은 반드시 다음 6가지 중 하나만 정확히 입력하세요: Idle, Dance, Panic, Sad, Angry, Happy";
     const finalSys = sys + emotionInstruction;
+    
     const requestBody = { 
         contents: [{ parts: [{ text: usr }] }], 
         systemInstruction: { parts: [{ text: finalSys }] }, 
@@ -297,13 +274,13 @@ async function callGemini(sys, usr) {
                     emotion: { type: "STRING", enum: ["Idle", "Dance", "Panic", "Sad", "Angry", "Happy"] }, 
                     summoned_character: { type: "STRING" },
                     bgm: { type: "STRING", enum: ["Moderato", "Comedy"] },
-                    is_reversed: { type: "BOOLEAN", description: "대역전 판결 시 번복하면 true, 원심을 유지(기각)하면 false." },
+                    is_reversed: { type: "BOOLEAN" },
                     case_type: { type: "STRING", enum: ["유무죄", "논쟁"] },
-                    pros_pos: { type: "STRING", description: "논쟁일 경우 검사 측이 옹호할 입장 (예: 부먹)" },
-                    law_pos: { type: "STRING", description: "논쟁일 경우 변호사 측이 옹호할 입장 (예: 찍먹)" },
-                    verdict_intro: { type: "STRING", description: "최종 선고 전 상황 환기 멘트" },
-                    reverse_success: { type: "STRING", description: "대역전 성공 시 재검토 선언 멘트" },
-                    reverse_fail: { type: "STRING", description: "대역전 기각 시 분노 멘트" }
+                    pros_pos: { type: "STRING" },
+                    law_pos: { type: "STRING" },
+                    verdict_intro: { type: "STRING" },
+                    reverse_success: { type: "STRING" },
+                    reverse_fail: { type: "STRING" }
                 }, 
                 required: ["text", "emotion"] 
             } 
@@ -315,23 +292,42 @@ async function callGemini(sys, usr) {
             const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${customKey}`, { 
                 method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(requestBody) 
             });
-            if (res.ok) return JSON.parse((await res.json()).candidates[0].content.parts[0].text);
-            else throw new Error("Custom API Key Error");
+            if (res.ok) {
+                let rawText = (await res.json()).candidates[0].content.parts[0].text;
+                rawText = rawText.replace(/```json/gi, '').replace(/```/g, '').trim();
+                return JSON.parse(rawText);
+            }
         } catch (e) {
-            return { text: "개인 API 키 호출에 실패했습니다. 키가 유효한지 확인해주세요!", emotion: "Panic", summoned_character: "없음", bgm: "Moderato" };
+            return { text: "개인 API 키 호출에 실패했습니다!", emotion: "Panic", summoned_character: "없음", bgm: "Moderato" };
         }
     }
 
-    while (currentKeyIndex < ENCODED_KEYS.length) {
-        try {
-            const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${atob(ENCODED_KEYS[currentKeyIndex])}`, { 
-                method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(requestBody) 
-            });
-            if (res.ok) return JSON.parse((await res.json()).candidates[0].content.parts[0].text);
-            if (res.status === 429 || res.status === 403) currentKeyIndex++; else throw new Error();
-        } catch (e) { currentKeyIndex++; }
+    for (let attempt = 0; attempt < 3; attempt++) {
+        for (let i = 0; i < API_KEYS_LIST.length; i++) {
+            try {
+                let decodedKey = API_KEYS_LIST[i];
+                try { decodedKey = atob(decodedKey); } catch (e) {}
+
+                const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${decodedKey}`, { 
+                    method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(requestBody) 
+                });
+                
+                if (res.ok) {
+                    const data = await res.json();
+                    if (data.candidates && data.candidates[0].content) {
+                        let rawText = data.candidates[0].content.parts[0].text;
+                        rawText = rawText.replace(/```json/gi, '').replace(/```/g, '').trim();
+                        return JSON.parse(rawText); 
+                    }
+                }
+            } catch (e) {
+                continue; 
+            }
+        }
+        await new Promise(resolve => setTimeout(resolve, 1500));
     }
-    return { text: "두목님과의 연결이 끊어졌어 교주! 내일 5시 이후에 다시 시도해줘!!!", emotion: "Panic", summoned_character: "영춘", bgm: "Moderato" };
+    
+    return { text: "연결이 끊어졌습니다 교주님. 내일 오후 5시 이후에 다시 시도해주세요", emotion: "Panic", summoned_character: "영춘", bgm: "Moderato" };
 }
 
 async function playSpeech(role, charName, text, emotion) {
@@ -396,16 +392,15 @@ function playGavel(times = 1) {
 }
 
 async function startCourt() {
-    if (window.innerWidth <= 768) {
-        document.getElementById('top-bar').style.display = 'none';
-    }
     const topic = ui.inputs.topic.value.trim();
     if (!topic) return alert("쟁점을 입력하세요!");
 
+    ui.wrap.liveGroup.style.display = "flex";
+
     appSettings = {
         topic, 
-        turns: 1,               
-        length: "장문",         
+        turns: 2,               
+        length: "보통",         
         speed: "매우 빠름",     
         freq: "무조건",         
         revProb: 0.05,          
@@ -421,27 +416,19 @@ async function startCourt() {
 
     await ttsEngine.init();
     try { await runTrial(); } 
-    catch (e) { console.error(e); ui.sub.text.textContent = "치명적 오류 발생!"; }
+    catch (e) { ui.sub.text.textContent = "치명적 오류 발생!"; }
     finally { ui.btn.end.style.display = "block"; }
 }
 
 async function runTrial() {
-    const { topic, turns, length, freq, revProb, r } = appSettings;
+    const { topic, turns, length, revProb, r } = appSettings;
     const allChars = typeof AVAILABLE_CHARACTERS !== 'undefined' ? AVAILABLE_CHARACTERS.join(", ") : "없음";
     const getP = (name) => (typeof PERSONAS !== 'undefined' && PERSONAS[name]) ? PERSONAS[name] : `당신은 ${name}입니다.`;
     
     hideWitness(); trialHistory = [];
     ui.sub.name.innerText = `판사 (${r.judge})`; ui.sub.text.textContent = "재판 준비 중...";
 
-    const jReq = `상황: 새로운 재판이 열렸습니다. 방청객들에게 쟁점("${topic}")을 소개하고 브리핑하세요. 길이는 ${length}.
-[특수 지시]
-1. 쟁점("${topic}")이 장난스럽거나 어이없는 개그 주제라면 'bgm'에 "Comedy"를, 진지하면 "Moderato"를 입력하세요.
-2. 쟁점이 범죄를 다루는 것이면 'case_type'을 "유무죄"로, 단순 가치관 대립이나 일상적 쟁점이면 "논쟁"으로 분류하세요.
-3. "논쟁"일 경우 검사 측의 입장(pros_pos)과 변호사 측의 입장(law_pos)을 각각 단어로 요약해서 적어주세요.
-4. 판사의 성격에 맞춰 다음 3가지 상황의 대사를 작성하세요:
-   - verdict_intro: 최종 판결을 내리기 직전 선언하는 대사
-   - reverse_success: 대역전 성공 시 당황하며 판결을 전면 재검토하겠다고 선언하는 대사
-   - reverse_fail: 대역전 실패 시 화를 내며 이의를 기각하는 대사`;
+    const jReq = `상황: 새로운 재판이 열렸습니다. 방청객들에게 쟁점("${topic}")을 소개하고 브리핑하세요. 길이는 ${length}.\n[특수 지시]\n1. 쟁점("${topic}")이 장난스럽거나 어이없는 개그 주제라면 'bgm'에 "Comedy"를, 진지하면 "Moderato"를 입력하세요.\n2. 쟁점이 범죄를 다루는 것이면 'case_type'을 "유무죄"로, 단순 가치관 대립이나 일상적 쟁점이면 "논쟁"으로 분류하세요.\n3. "논쟁"일 경우 검사 측의 입장(pros_pos)과 변호사 측의 입장(law_pos)을 각각 단어로 요약해서 적어주세요.\n4. 판사의 성격에 맞춰 다음 3가지 상황의 대사를 작성하세요:\n   - verdict_intro: 최종 판결을 내리기 직전 선언하는 대사\n   - reverse_success: 대역전 성공 시 당황하며 판결을 전면 재검토하겠다고 선언하는 대사\n   - reverse_fail: 대역전 실패 시 화를 내며 이의를 기각하는 대사`;
     
     const jRes = await callGemini(getP(r.judge), jReq);
 
@@ -451,7 +438,7 @@ async function runTrial() {
     judgeLines = {
         intro: jRes.verdict_intro || "양측의 주장을 모두 검토한 결과, 다음과 같이 선고합니다!",
         success: jRes.reverse_success || "정숙! 상황이 완전히 뒤바뀌었으니 판결을 전면 재검토하겠노라!",
-        fail: jRes.reverse_fail || "정숙! 억지 주장에 흔들리지 않겠다! 이의를 기각한다!"
+        fail: jRes.reverse_fail || "정숙! 억지 주장에 흔들리지 않겠다! 이의를 기각하는 바이다!"
     };
 
     playBGM(jRes.bgm === "Comedy" ? "Comedy" : "Moderato");
@@ -534,9 +521,7 @@ async function runTrial() {
         hideWitness();
         
         const revTarget = caseType === "유무죄" ? "무죄" : lawPos;
-        const revJudgeReq = `상황: 증인의 자백으로 법정이 술렁이고 있습니다! 이전에 내린 판결을 번복할지 결정해야 합니다.
-[판결 지시] 변호사의 역전 주장이 타당하다면 'is_reversed'를 true로 하고 대역전('${revTarget}' 승리) 선고를 내리세요. 만약 변호사의 주장이 억지라고 판단되면 'is_reversed'를 false로 하고 이의를 기각하여 기존 선고를 유지하세요. 길이는 ${length}.
-[특수 지시] 판결을 받고 반응할 당사자를 'summoned_character'에 적으세요. 없으면 '없음'. 목록: [${allChars}]`;
+        const revJudgeReq = `상황: 증인의 자백으로 법정이 술렁이고 있습니다! 이전에 내린 판결을 번복할지 결정해야 합니다.\n[판결 지시] 변호사의 역전 주장이 타당하다면 'is_reversed'를 true로 하고 대역전('${revTarget}' 승리) 선고를 내리세요. 만약 변호사의 주장이 억지라고 판단되면 'is_reversed'를 false로 하고 이의를 기각하여 기존 선고를 유지하세요. 길이는 ${length}.\n[특수 지시] 판결을 받고 반응할 당사자를 'summoned_character'에 적으세요. 없으면 '없음'. 목록: [${allChars}]`;
         
         const revJudge = await callGemini(getP(r.judge), revJudgeReq);
         
