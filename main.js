@@ -48,14 +48,9 @@ class VoiceEngine {
     }
     async preloadVoices(charName) {
         const syllables = this.voiceDB[charName] || {};
-        const promises = [];
+        const urls = Object.values(syllables).flat();
+        await Promise.all(urls.map(url => this.getAudioBuffer(url)));
     
-        for (const char in syllables) {
-            syllables[char].forEach(url => {
-                promises.push(this.getAudioBuffer(url));
-            });
-        }
-        await Promise.all(promises);
         console.log(`${charName} 음성 로딩 완료`);
     }
     async init() {
@@ -425,7 +420,19 @@ async function startCourt() {
     ui.img.pros.src = `images/${appSettings.r.pros}_Idle.gif`;
     ui.img.law.src = `images/${appSettings.r.law}_Idle.gif`;
 
+    ui.sub.name.innerText = "시스템";
+    ui.sub.text.textContent = "음성 데이터 로딩 중...";
+    ui.panel.config.style.display = "none"; 
+    ui.panel.court.style.display = "block";
+
     await ttsEngine.init();
+    const charactersToLoad = [appSettings.r.judge, appSettings.r.pros, appSettings.r.law, appSettings.r.det];
+    const uniqueChars = [...new Set(charactersToLoad)]; // 중복 제거
+
+    for (const char of uniqueChars) {
+        await ttsEngine.preloadVoices(char);
+    }
+
     try { await runTrial(); } 
     catch (e) { ui.sub.text.textContent = "치명적 오류 발생!"; }
     finally { ui.btn.end.style.display = "block"; }
