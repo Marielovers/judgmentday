@@ -507,7 +507,6 @@ async function runTrial() {
         const defRes = await callGemini(getP(defName), defPrompt);
         await playSpeech("피고인", defName, defRes.text, defRes.emotion);
         trialHistory.push(`피고인(${defName}): ${defRes.text}`);
-        hideWitness();
     }
 
     if (Math.random() < revProb) {
