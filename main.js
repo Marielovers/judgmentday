@@ -111,39 +111,43 @@ class VoiceEngine {
 
     async playSpeech(charName, text, speedOption) {
     await this.init();
+    if (this.ctx.state === 'suspended') await this.ctx.resume();
+
     const syllables = this.voiceDB[charName] || {};
-    text = this.convertNumbersToHangul(text);
-    let delayMs = 0, spaceMs = 80;
-    const fetchPromises = text.split('').map(async (char) => {
-        if ([' ', '\n', '.', ',', '!', '?', '~'].includes(char)) return null;
-        let wavs = syllables[char];
-        if (!wavs || wavs.length === 0) {
-            const bestMatch = this.findBestMatch(char, syllables);
-            if (bestMatch) {
-                wavs = syllables[bestMatch];
+    const chars = text.split('');
+    let currentSource = null;
+
+    // 순차적으로 재생할 재귀 함수
+    const playNext = async (index) => {
+        if (index >= chars.length) return;
+
+        const char = chars[index];
+        const wavs = syllables[char] || syllables[this.findBestMatch(char, syllables)];
+
+        // 유효한 소리가 있는 경우
+        if (wavs && wavs.length > 0) {
+            const buf = await this.getAudioBuffer(wavs[Math.floor(Math.random() * wavs.length)].replace(/\\/g, '/'));
+            if (buf) {
+                const src = this.ctx.createBufferSource();
+                src.buffer = buf;
+                src.connect(this.masterGain);
+                
+                // UI 타이핑 효과 업데이트 (여기서 index로 텍스트를 뿌려주세요)
+                ui.sub.text.textContent += char;
+                
+                src.start(0); // 즉시 재생
+                
+                // 현재 소리가 끝나면 다음 소리 재생
+                src.onended = () => playNext(index + 1);
+                return;
             }
         }
-        if (wavs && wavs.length > 0) {
-            return await this.getAudioBuffer(wavs[Math.floor(Math.random() * wavs.length)].replace(/\\/g, '/'));
-        }
-        return null;
-    });
-    const buffers = await Promise.all(fetchPromises);
-    const startTime = this.ctx.currentTime + 0.1;
-    let relativeTime = 0, timings = [];
-    for (let buf of buffers) {
-        timings.push(relativeTime);
-        if (buf) {
-            const src = this.ctx.createBufferSource();
-            src.buffer = buf;
-            src.connect(this.masterGain);
-            src.start(startTime + relativeTime);
-            relativeTime += buf.duration + delayMs / 1000;
-        } else {
-            relativeTime += spaceMs / 1000;
-        }
-    }
-    return timings;
+        
+        // 소리가 없으면 약간의 딜레이 후 다음 글자 진행
+        setTimeout(() => playNext(index + 1), 80); 
+    };
+
+    playNext(0);
 }
 }
 const ttsEngine = new VoiceEngine();
