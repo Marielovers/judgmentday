@@ -46,7 +46,18 @@ class VoiceEngine {
         this.audioCache = {}; 
         this.masterGain = null;
     }
+    async preloadVoices(charName) {
+        const syllables = this.voiceDB[charName] || {};
+        const promises = [];
     
+        for (const char in syllables) {
+            syllables[char].forEach(url => {
+                promises.push(this.getAudioBuffer(url));
+            });
+        }
+        await Promise.all(promises);
+        console.log(`${charName} 음성 로딩 완료`);
+    }
     async init() {
         if (!this.ctx) {
             this.ctx = new (window.AudioContext || window.webkitAudioContext)();
