@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>리온과 시온의 역전재판</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="top-bar">
+        <div class="top-controls">
+            <div class="vol-group">
+                <label>BGM</label>
+                <input type="range" id="vol-bgm" min="0" max="0.5" step="0.01" value="0.2>
+            </div>
+            <div class="vol-group">
+                <label>효과음</label>
+                <input type="range" id="vol-sfx" min="0" max="1" step="0.01" value="0.5">
+            </div>
+            <div class="vol-group">
+                <label>목소리</label>
+                <input type="range" id="vol-tts" min="0" max="1" step="0.01" value="0.5">
+            </div>
+        </div>
+        <div class="top-controls">
+            <input type="password" id="custom-api-key" placeholder="개인 Gemini API 키 입력 (선택)">
+        </div>
+    </div>
+
+    <div id="config-panel">
+        <h1>법정 상세 설정</h1>
+        
+        <div class="settings-grid">
+            <div class="form-group"><label>판사 담당:</label><select id="select-judge"></select></div>
+            <div class="form-group"><label>검사 담당:</label><select id="select-prosecutor"></select></div>
+            <div class="form-group"><label>변호사 담당:</label><select id="select-lawyer"></select></div>
+            <div class="form-group"><label>형사 담당:</label><select id="select-detective"></select></div>
+        </div>
+
+        <div class="form-group">
+            <label>재판 쟁점 (주제):</label>
+            <input type="text" id="trial-topic" placeholder="예: 탕수육은 부먹인가 찍먹인가">
+        </div>
+        
+        <button id="start-btn" style="margin-top: 15px;">재판 개정 (시작)</button>
+    </div>
+
+    <div id="court-panel" style="display: none;">
+        <div id="bg1" class="bg-layer" style="z-index: 1; background-image: url('images/bg1.png');"></div>
+        
+        <div id="judge-wrapper" class="char-wrapper" style="z-index: 2; left: 50%; transform: translateX(-50%); bottom: 25%; width: 33%;">
+            <img id="judge-img" src="" class="char-img">
+        </div>
+
+        <div id="bg2" class="bg-layer" style="z-index: 3; background-image: url('images/bg2.png');"></div>
+        
+        <div id="prosecutor-wrapper" class="char-wrapper flip-h" style="z-index: 4; left: -2%; bottom: -10%; width: 40%;">
+            <img id="prosecutor-img" src="" class="char-img">
+        </div>
+        <div id="lawyer-wrapper" class="char-wrapper" style="z-index: 4; right: -2%; bottom: -10%; width: 40%;">
+            <img id="lawyer-img" src="" class="char-img">
+        </div>
+        
+        <div id="witness-wrapper" class="char-wrapper" style="z-index: 5; left: 50%; transform: translateX(-50%); bottom: -5%; width: 40%; display: none;">
+            <img id="witness-img" src="" class="char-img">
+        </div>
+
+        <div id="flash-overlay"></div>
+        <div id="objection-popup" style="display: none;"><h1 id="objection-text">이의 있음!</h1></div>
+
+        <div id="subtitle-box">
+            <div id="speaker-name">대기 중...</div>
+            <div id="speech-text"></div>
+        </div>
+
+        <button id="end-btn" style="display: none;">재판 종료</button>
+    </div>
+
+    <script src="assets.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
