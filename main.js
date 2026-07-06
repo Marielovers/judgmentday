@@ -447,7 +447,21 @@ function playObj(role, txt = "이의 있음!") {
     return new Promise(res => {
         ui.obj.text.innerText = txt;
         ui.obj.text.style.color = role === "검사" ? "#5064FF" : "#E74C3C";
-        ui.obj.popup.style.display = "block"; ui.obj.flash.style.opacity = 1;
+        ui.obj.text.style.fontSize = "min(15vw, 150px)";
+        ui.obj.text.style.fontWeight = "900";
+        ui.obj.text.style.whiteSpace = "nowrap";
+        ui.obj.text.style.textShadow = "4px 4px 10px rgba(0,0,0,0.7)";
+        
+        ui.obj.popup.style.display = "block"; 
+        ui.obj.flash.style.opacity = 1;
+        
+        ui.obj.text.animate([
+            { transform: 'scale(4) rotate(-10deg)', opacity: 0 },
+            { transform: 'scale(0.9) rotate(3deg)', opacity: 1, offset: 0.3 },
+            { transform: 'scale(1.1) rotate(-2deg)', offset: 0.5 },
+            { transform: 'scale(1) rotate(0deg)', offset: 0.7 }
+        ], { duration: 600, easing: 'ease-out' });
+
         if (sfx.obj) { sfx.obj.currentTime = 0; sfx.obj.play().catch(()=>{}); }
         setTimeout(() => ui.obj.flash.style.opacity = 0, 100);
         setTimeout(() => { ui.obj.popup.style.display = "none"; res(); }, 1200);
@@ -469,19 +483,52 @@ function playGavel(times = 1) {
 function playVerdictText(txt) {
     return new Promise(res => {
         ui.obj.text.innerText = txt;
+        ui.obj.text.style.fontSize = "min(20vw, 200px)";
+        ui.obj.text.style.fontWeight = "900";
+        ui.obj.text.style.whiteSpace = "nowrap";
+        
+        let keyframes = [];
+        let animDur = 250;
         
         if (txt === "유죄") {
             ui.obj.text.style.color = "#5064FF"; 
+            ui.obj.text.style.textShadow = "0 0 30px rgba(80,100,255,0.8), 5px 5px 15px rgba(0,0,0,0.8)";
+            keyframes = [
+                { transform: 'scale(5)', opacity: 0 },
+                { transform: 'scale(1)', opacity: 1 }
+            ];
         } else if (txt === "무죄") {
             ui.obj.text.style.color = "#E74C3C"; 
+            ui.obj.text.style.textShadow = "0 0 30px rgba(231,76,60,0.8), 5px 5px 15px rgba(0,0,0,0.8)";
+            keyframes = [
+                { transform: 'scale(5)', opacity: 0 },
+                { transform: 'scale(1)', opacity: 1 }
+            ];
         } else if (txt === "판결") {
             ui.obj.text.style.color = "#FFD700"; 
+            ui.obj.text.style.textShadow = "0 0 40px rgba(255,215,0,1), 5px 5px 15px rgba(0,0,0,0.8)";
+            keyframes = [
+                { transform: 'scale(3) translateY(-100px)', opacity: 0 },
+                { transform: 'scale(1) translateY(0)', opacity: 1 }
+            ];
+            animDur = 400;
         } else {
             ui.obj.text.style.color = "#FFFFFF"; 
+            ui.obj.text.style.textShadow = "5px 5px 15px rgba(0,0,0,0.8)";
+            keyframes = [
+                { transform: 'scale(2)', opacity: 0 },
+                { transform: 'scale(1)', opacity: 1 }
+            ];
         }
 
         ui.obj.popup.style.display = "block"; 
         ui.obj.flash.style.opacity = 1;
+        
+        ui.obj.text.animate(keyframes, { 
+            duration: animDur,
+            easing: 'cubic-bezier(0.25, 1, 0.5, 1)' 
+        });
+
         if (sfx.thump) { sfx.thump.currentTime = 0; sfx.thump.play().catch(()=>{}); }
         setTimeout(() => ui.obj.flash.style.opacity = 0, 100);
         setTimeout(() => { ui.obj.popup.style.display = "none"; res(); }, 1500); 
@@ -636,8 +683,6 @@ async function runTrial() {
     if (Math.random() < revProb) {
         stopBGM(); 
 
-        ui.sub.name.innerText = "시스템"; 
-        ui.sub.text.innerHTML = "<span style='color: #E74C3C; font-weight: bold;'>잠깐!</span>";
         await playObj("변호사", "잠깐!!");
         
         playBGM('Pursuit'); 
