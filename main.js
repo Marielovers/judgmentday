@@ -451,7 +451,7 @@ function playObj(role, txt = "이의 있음!") {
         ui.obj.text.style.fontWeight = "900";
         ui.obj.text.style.whiteSpace = "nowrap";
         ui.obj.text.style.textShadow = "none";
-        ui.obj.text.style.webkitTextStroke = "4px #FFFFFF";
+        ui.obj.text.style.webkitTextStroke = "2px #FFFFFF";
         
         ui.obj.popup.style.display = "block"; 
         ui.obj.flash.style.opacity = 1;
@@ -488,7 +488,7 @@ function playVerdictText(txt) {
         ui.obj.text.style.fontWeight = "900";
         ui.obj.text.style.whiteSpace = "nowrap";
         ui.obj.text.style.textShadow = "none";
-        ui.obj.text.style.webkitTextStroke = "6px #FFFFFF";
+        ui.obj.text.style.webkitTextStroke = "2px #FFFFFF";
         
         let keyframes = [];
         let animDur = 250;
