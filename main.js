@@ -656,7 +656,9 @@ async function runTrial() {
     stopBGM();
 
     ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "최종 판결 조율 중...";
-    const verdictTask = caseType === "유무죄" ? "검사 측의 승리(유죄)로 판결을 내리세요." : `재판 과정을 참고하여 '${prosPos}'의 손을 들어주는 판결을 내리세요.`;
+    const verdictTask = caseType === "유무죄" ? 
+    "지금까지의 재판 기록을 꼼꼼히 분석하여, 검사와 변호사 중 더 논리적이고 타당한 주장을 한 쪽의 손을 들어주세요. 판결은 반드시 '유죄' 또는 '무죄'로 명확히 결론 내리세요." : 
+    `지금까지의 재판 과정을 참고하여, '${prosPos}'(검사 측)와 '${lawPos}'(변호사 측) 중 논리전에서 승리한 쪽의 손을 들어주는 판결을 내리세요.`;
     const vReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: 양측의 주장이 끝났습니다. ${verdictTask} 길이: ${length}.\n[특수 지시] 재판 결과에 직접 영향을 받는 당사자(피고인, 패소자)가 있다면 목록 중 1명을 'summoned_character'에 적어 판결 후 반응을 확인하세요. 딱히 없으면 '없음'이라고 적으세요. 목록: [${allChars}]`;
     const vRes = await callGemini(getP(r.judge), vReq);
     
