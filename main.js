@@ -297,6 +297,7 @@ async function callGemini(sys, usr) {
     const emotionInstruction = `\n[중요 표정 지시] JSON의 'emotions' 객체에는 현재 발언과 상황에 맞는 '모든 등장인물'의 표정/감정을 지정하세요.\n- 허용되는 값: Idle, Dance, Panic, Sad, Angry, Happy\n- 예시: 누군가 논파당해 당황(Panic)하거나 슬퍼하면(Sad), 반대편은 비웃거나 기뻐하는(Happy) 등 법정 전체의 상호작용이 실시간으로 맞물리게 연출하세요. \n- 각 필드: judge(판사), pros(검사), law(변호사), wit(증인/피고인/형사)`;
     const finalSys = sys + emotionInstruction;
     
+    // JSON Schema 수정: winner 필드 추가 (승자를 AI가 스스로 기입하도록 유도)
     const requestBody = { 
         contents: [{ parts: [{ text: usr }] }], 
         systemInstruction: { parts: [{ text: finalSys }] }, 
@@ -323,7 +324,8 @@ async function callGemini(sys, usr) {
                     law_pos: { type: "STRING" },
                     verdict_intro: { type: "STRING" },
                     reverse_success: { type: "STRING" },
-                    reverse_fail: { type: "STRING" }
+                    reverse_fail: { type: "STRING" },
+                    winner: { type: "STRING", enum: ["검사", "변호사"] } // 추가됨
                 }, 
                 required: ["text", "emotions"] 
             } 
@@ -505,19 +507,13 @@ function playVerdictText(txt) {
                 { transform: 'scale(5)', opacity: 0 },
                 { transform: 'scale(1)', opacity: 1 }
             ];
-        } else if (txt === "판결") {
+        } else {
             ui.obj.text.style.color = "#FFD700"; 
             keyframes = [
                 { transform: 'scale(3) translateY(-100px)', opacity: 0 },
                 { transform: 'scale(1) translateY(0)', opacity: 1 }
             ];
             animDur = 400;
-        } else {
-            ui.obj.text.style.color = "#000000"; 
-            keyframes = [
-                { transform: 'scale(2)', opacity: 0 },
-                { transform: 'scale(1)', opacity: 1 }
-            ];
         }
 
         ui.obj.popup.style.display = "block"; 
@@ -546,7 +542,7 @@ async function startCourt() {
         length: "보통",         
         speed: "매우 빠름",     
         freq: "무조건",         
-        revProb: 0.05,          
+        revProb: 0.2, // 역전 확률 20%로 증가
         revTurns: 1,            
         r: { judge: ui.selects.judge.value, pros: ui.selects.pros.value, law: ui.selects.law.value, det: ui.selects.det.value }
     };
@@ -636,7 +632,8 @@ async function runTrial() {
         
         if (activeWitness) {
             ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = `증인 (${activeWitness}) 증언 중...`;
-            const wPrompt1 = `쟁점: "${topic}"\n상황: 검사(${r.pros})의 요청으로 증인석에 섰습니다. 검사의 의견에 동조하며 변호사 측이 불리하도록 자신 있게 증언하세요. 길이: ${length}`;
+            // 수정점: 증인이 중립적이거나 자신의 성격에 맞춰 발언하도록 수정
+            const wPrompt1 = `쟁점: "${topic}"\n상황: 검사(${r.pros})의 소환으로 증인석에 섰습니다. 당신의 성격과 가치관에 따라 쟁점에 대한 솔직한 증언을 하세요. 검사 편을 들어도 좋고, 뜻밖에 변호사에게 유리한 발언을 해도 좋습니다. 길이: ${length}`;
             const wRes1 = await callGemini(getP(activeWitness), wPrompt1);
             await playSpeech("증인", activeWitness, wRes1.text, wRes1.emotions);
             trialHistory.push(`증인(${activeWitness}): ${wRes1.text}`); 
@@ -655,16 +652,29 @@ async function runTrial() {
 
     stopBGM();
 
+    // 수정점: 승자를 공정하게 고르도록 유도
     ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "최종 판결 조율 중...";
     const verdictTask = caseType === "유무죄" ? 
-    "지금까지의 재판 기록을 꼼꼼히 분석하여, 검사와 변호사 중 더 논리적이고 타당한 주장을 한 쪽의 손을 들어주세요. 판결은 반드시 '유죄' 또는 '무죄'로 명확히 결론 내리세요." : 
-    `지금까지의 재판 과정을 참고하여, '${prosPos}'(검사 측)와 '${lawPos}'(변호사 측) 중 논리전에서 승리한 쪽의 손을 들어주는 판결을 내리세요.`;
-    const vReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: 양측의 주장이 끝났습니다. ${verdictTask} 길이: ${length}.\n[특수 지시] 재판 결과에 직접 영향을 받는 당사자(피고인, 패소자)가 있다면 목록 중 1명을 'summoned_character'에 적어 판결 후 반응을 확인하세요. 딱히 없으면 '없음'이라고 적으세요. 목록: [${allChars}]`;
+        "지금까지의 재판 기록을 꼼꼼히 분석하여, 검사와 변호사 중 더 논리적이고 타당한 주장을 한 쪽의 손을 들어주세요. 판결은 반드시 '유죄' 또는 '무죄'로 명확히 결론 내리세요." : 
+        `지금까지의 재판 과정을 꼼꼼히 평가하여, 검사 측 입장('${prosPos}')과 변호사 측 입장('${lawPos}') 중 논리적으로 더 타당하고 설득력 있었던 쪽의 손을 들어주는 판결을 내리세요.`;
+
+    const vReq = `쟁점: "${topic}"\n기록: ${JSON.stringify(trialHistory)}\n상황: 양측의 주장이 끝났습니다. ${verdictTask} 길이: ${length}.\n[특수 지시] 1. 재판 결과에 직접 영향을 받는 당사자(피고인, 패소자)가 있다면 목록 중 1명을 'summoned_character'에 적어 판결 후 반응을 확인하세요. 딱히 없으면 '없음'이라고 적으세요. 목록: [${allChars}]\n2. 판결 결과 논리로 승리한 쪽을 'winner' 필드에 반드시 "검사" 또는 "변호사"로 기입하세요.`;
+    
     const vRes = await callGemini(getP(r.judge), vReq);
     
+    // 승자와 패자 식별
+    const currentWinner = vRes.winner === "변호사" ? "변호사" : "검사";
+    const currentLoser = currentWinner === "검사" ? "변호사" : "검사";
+
     await playSpeech("판사", r.judge, judgeLines.intro, { judge: "Idle" });
     await playGavel(3); 
-    await playVerdictText(caseType === "유무죄" ? "유죄" : "판결");
+    
+    // 수정점: 화면 UI 텍스트에 실제 승리 결과를 반영
+    let finalVerdictUI = "판결";
+    if (caseType === "유무죄") {
+        finalVerdictUI = currentWinner === "검사" ? "유죄" : "무죄";
+    }
+    await playVerdictText(finalVerdictUI);
     
     playBGM('Verdict'); 
     await playSpeech("판사", r.judge, vRes.text, vRes.emotions);
@@ -680,40 +690,42 @@ async function runTrial() {
         trialHistory.push(`${role}(${defName}): ${defRes.text}`);
     }
 
+    // 수정점: 패배한 쪽이 이의를 제기하며 역전 시도
     if (Math.random() < revProb) {
         stopBGM(); 
 
+        const loserName = currentLoser === "검사" ? r.pros : r.law;
+        const winnerName = currentWinner === "검사" ? r.pros : r.law;
+
         ui.sub.name.innerText = "시스템"; 
         ui.sub.text.innerHTML = "<span style='color: #E74C3C; font-weight: bold;'>잠깐!</span>";
-        await playObj("변호사", "잠깐!!");
+        await playObj(currentLoser, "잠깐!!");
         
         playBGM('Pursuit'); 
 
         let lastWitness = trialHistory.find(h => h.startsWith("증인("))?.match(/\((.*?)\)/)?.[1];
         
-        const revLawPrompt = lastWitness ? 
-            `상황: 선고가 났지만 당신은 방금 전 증인(${lastWitness})이 했던 증언에서 치명적인 거짓말과 모순을 발견했습니다! 결정적 증거를 들이밀며 증인을 사정없이 몰아붙이세요! 길이: ${length}` :
-            `상황: 선고가 났지만 당신은 검사(${r.pros})의 논리에서 치명적인 조작과 모순을 발견했습니다! 결정적 증거를 들이밀며 검사를 사정없이 몰아붙이세요! 길이: ${length}`;
+        const revLoserPrompt = `상황: 선고가 났지만 당신(${loserName}, ${currentLoser})은 패소했습니다. 하지만 방금 전 상대방(${winnerName})이나 증인의 논리에서 **치명적이고 타당한 논리적 오류와 모순**을 발견했습니다! 결정적이고 합리적인 증거를 들이밀며 판결에 불복하고 상대를 사정없이 몰아붙이세요! 길이: ${length}`;
             
-        const revLaw = await callGemini(getP(r.law), revLawPrompt);
-        await playSpeech("변호사", r.law, revLaw.text, revLaw.emotions);
+        const revLoser = await callGemini(getP(loserName), revLoserPrompt);
+        await playSpeech(currentLoser, loserName, revLoser.text, revLoser.emotions);
+        trialHistory.push(`${currentLoser}(${loserName}): ${revLoser.text}`);
         
         if (lastWitness) {
             ui.sub.name.innerText = "시스템"; ui.sub.text.textContent = "증인 정체 탄로 중...";
-            const revWit = await callGemini(getP(lastWitness), `상황: 변호사(${r.law})가 당신의 완벽한 거짓말의 모순을 증거와 폭로했습니다! 완전히 변명의 여지가 없습니다. 크게 당황하고 발악하며 자신의 죄를 자백하거나 무너지세요. 길이: ${length}`);
+            const revWit = await callGemini(getP(lastWitness), `상황: 패소했던 ${currentLoser}(${loserName})가 당신의 증언에서 완벽한 논리적 모순을 짚어냈습니다! 변명의 여지가 없습니다. 크게 당황하고 발악하며 자신의 거짓말이나 오류를 인정하며 무너지세요. 길이: ${length}`);
             await playSpeech("증인", lastWitness, revWit.text, revWit.emotions); 
+            trialHistory.push(`증인(${lastWitness}): ${revWit.text}`);
             hideWitness();
         }
         
-        const revProsPrompt = lastWitness ? 
-            `상황: 믿었던 증인이 거짓말을 자백하며 완벽하게 무너졌습니다. 재판이 뒤집힌 것에 절망하며 윽박지르거나 무너지세요.` :
-            `상황: 변호사(${r.law})가 당신의 논리적 모순과 조작을 완벽하게 폭로했습니다! 변명의 여지 없이 완전히 무너져 내리며 당황하세요.`;
+        const revWinnerPrompt = `상황: 당신(${winnerName}, ${currentWinner})이 승리한 줄 알았으나, 상대방(${loserName})이 완벽하고 타당한 논리적 모순을 지적하며 판결을 뒤집으려 합니다! 예상치 못한 팩트 폭력에 정곡을 찔려 변명의 여지 없이 완전히 무너져 내리며 당황하세요.`;
             
-        const revPros = await callGemini(getP(r.pros), revProsPrompt);
-        await playSpeech("검사", r.pros, revPros.text, revPros.emotions);
+        const revWinner = await callGemini(getP(winnerName), revWinnerPrompt);
+        await playSpeech(currentWinner, winnerName, revWinner.text, revWinner.emotions);
+        trialHistory.push(`${currentWinner}(${winnerName}): ${revWinner.text}`);
         
-        const revTarget = caseType === "유무죄" ? "무죄" : lawPos;
-        const revJudgeReq = `상황: 반전의 증거로 법정이 술렁이고 있습니다! 이전에 내린 판결을 번복할지 결정해야 합니다.\n[판결 지시] 변호사의 역전 주장이 타당하다면 'is_reversed'를 true로 하고 대역전('${revTarget}' 승리) 선고를 내리세요. 만약 변호사의 주장이 억지라고 판단되면 'is_reversed'를 false로 하고 이의를 기각하여 기존 선고를 유지하세요. 길이는 ${length}.\n[특수 지시] 판결을 받고 반응할 당사자를 'summoned_character'에 적으세요. 없으면 '없음'. 목록: [${allChars}]`;
+        const revJudgeReq = `상황: 패소했던 ${currentLoser} 측의 타당한 반박 증거로 법정이 술렁이고 있습니다! 이전에 내린 판결을 번복할지 결정해야 합니다.\n[판결 지시] ${currentLoser}의 역전 주장이 타당하다면 'is_reversed'를 true로 하고 대역전(${currentLoser} 승리) 선고를 내리세요. 만약 억지라고 판단되면 'is_reversed'를 false로 하고 이의를 기각하여 기존 선고를 유지하세요. 길이는 ${length}.\n[특수 지시] 판결을 받고 반응할 당사자를 'summoned_character'에 적으세요. 없으면 '없음'. 목록: [${allChars}]`;
         
         const revJudge = await callGemini(getP(r.judge), revJudgeReq);
         
@@ -722,7 +734,12 @@ async function runTrial() {
 
         if (revJudge.is_reversed !== false) {
             await playSpeech("판사", r.judge, judgeLines.success, { judge: "Panic" });
-            await playVerdictText(caseType === "유무죄" ? "무죄" : "판결"); 
+            
+            // 역전 성공 시 UI 업데이트
+            let reverseVerdictUI = "판결";
+            if (caseType === "유무죄") reverseVerdictUI = currentLoser === "검사" ? "유죄" : "무죄";
+            
+            await playVerdictText(reverseVerdictUI); 
             playBGM('Verdict'); 
             await playSpeech("판사", r.judge, revJudge.text, revJudge.emotions);
 
@@ -738,7 +755,12 @@ async function runTrial() {
             }
         } else {
             await playSpeech("판사", r.judge, judgeLines.fail, { judge: "Angry" });
-            await playVerdictText(caseType === "유무죄" ? "유죄" : "판결"); 
+            
+            // 역전 실패 시 기존 판결 다시 표시
+            let originalVerdictUI = "판결";
+            if (caseType === "유무죄") originalVerdictUI = currentWinner === "검사" ? "유죄" : "무죄";
+
+            await playVerdictText(originalVerdictUI); 
             playBGM('Verdict'); 
             await playSpeech("판사", r.judge, revJudge.text, revJudge.emotions);
 
